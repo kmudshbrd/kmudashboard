@@ -34,19 +34,22 @@ function loginPage(wrong = false) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Meridian</title>
 <style>
-  body{margin:0;background:#FDFDFB;color:#161310;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  :root{--paper:#F7F5EE;--ink:#1E3A2C;--accent:#9C7A3C;--err:#8E3B2C}
+  @media (prefers-color-scheme: dark){:root{--paper:#111113;--ink:#EDE8DD;--accent:#C6A15B;--err:#C97B6D}}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
        display:flex;align-items:center;justify-content:center;min-height:100vh}
   .card{text-align:center;padding:40px}
-  .monogram{width:44px;height:44px;margin:0 auto 16px;border:1px solid #161310;border-radius:50%;
-       display:flex;align-items:center;justify-content:center;font-family:Didot,"Bodoni 72",Georgia,serif;font-size:20px}
+  .monogram{width:44px;height:44px;margin:0 auto 16px;border:1px solid var(--ink);border-radius:50%;
+       display:flex;align-items:center;justify-content:center;font-size:17px;font-weight:300}
   .wordmark{font-size:13px;letter-spacing:.42em;text-transform:uppercase;font-weight:500;margin-left:.42em}
   form{margin-top:30px}
-  input{font-family:Didot,"Bodoni 72",Georgia,serif;font-size:22px;text-align:center;letter-spacing:.2em;
-       border:none;border-bottom:1px solid #161310;background:transparent;padding:8px 4px;width:200px;outline:none}
+  input{font-size:20px;font-weight:200;text-align:center;letter-spacing:.2em;color:var(--ink);
+       border:none;border-bottom:1px solid var(--ink);background:transparent;padding:8px 4px;width:200px;outline:none;
+       font-family:inherit}
   button{display:block;margin:26px auto 0;font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;
-       background:none;border:1px solid #161310;padding:10px 26px;cursor:pointer;color:#161310}
-  button:hover{background:#161310;color:#FDFDFB}
-  .err{margin-top:18px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#93392F}
+       background:none;border:1px solid var(--ink);padding:10px 26px;cursor:pointer;color:var(--ink);font-family:inherit}
+  button:hover{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+  .err{margin-top:18px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--err)}
 </style></head><body>
 <div class="card">
   <div class="monogram">M</div>

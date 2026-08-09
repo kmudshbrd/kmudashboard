@@ -4,9 +4,9 @@
 Fetches live weather, markets (2-year performance), news (4 deduplicated
 sections), and Triangle events; writes JSON into site/data/.
 
-Free/keyless sources throughout, except events: set TICKETMASTER_KEY in the
-environment (free key from developer.ticketmaster.com) for real Triangle
-events; without it, tagged sample data is kept.
+Free/keyless sources throughout. Events come from the official Visit Raleigh
+and Visit Chapel Hill calendars (near-term coverage); set TICKETMASTER_KEY
+(free, developer.ticketmaster.com) to additionally fill the far-future buckets.
 """
 import datetime as dt
 import html
@@ -292,84 +292,102 @@ def bucket_for(days_out):
     return "This Year"
 
 
-def pull_events():
-    key = os.environ.get("TICKETMASTER_KEY")
-    if not key:
-        print("  events: TICKETMASTER_KEY not set — keeping sample events")
-        return
+def parse_sv_dates(desc):
+    """Extract (start, end) from a Simpleview RSS description blob."""
+    found = re.findall(r"(\d{2}/\d{2}/\d{4})", desc)
+    if not found:
+        return None, None
+    dates = []
+    for f in found[:2]:
+        m, d, y = f.split("/")
+        dates.append(dt.date(int(y), int(m), int(d)))
+    return dates[0], (dates[1] if len(dates) > 1 else dates[0])
 
-    lat, lon = RALEIGH
-    d = jget(
-        "https://app.ticketmaster.com/discovery/v2/events.json"
-        f"?apikey={key}&latlong={lat},{lon}&radius=40&unit=miles"
-        "&sort=date,asc&size=200"
-    )
+
+def sv_events(url, city):
+    """Events from a Simpleview tourism-site RSS feed (Visit Raleigh etc.)."""
+    xml = get(url)
+    out = []
+    for it in re.findall(r"<item>(.*?)</item>", xml, re.S):
+        m_t = re.search(r"<title>(.*?)</title>", it, re.S)
+        if not m_t:
+            continue
+        title = html.unescape(html.unescape(m_t.group(1))).strip()
+        cats = [html.unescape(c).strip() for c in re.findall(r"<category><!\[CDATA\[(.*?)\]\]></category>", it)]
+        s, e = parse_sv_dates(it)
+        if not s:
+            continue
+        out.append({"title": title, "city": city, "cat": cats[0] if cats else "", "start": s, "end": e})
+    return out
+
+
+def fmt_line(s, e, today):
+    if s <= today < e:
+        return f"Through {e.strftime('%b %-d')}"
+    if s == e:
+        return s.strftime("%a · %b %-d")
+    return f"{s.strftime('%b %-d')} – {e.strftime('%b %-d')}"
+
+
+def bucket_events(raw):
     today = now_et().date()
     groups = {b: [] for b in EVENT_BUCKETS}
     seen = set()
-    for ev in d.get("_embedded", {}).get("events", []):
-        name = ev.get("name", "").strip()
-        norm = re.sub(r"[^a-z0-9]", "", name.lower())[:48]
-        if not name or norm in seen:
+    for ev in sorted(raw, key=lambda x: (max(x["start"], today), x["end"])):
+        norm = re.sub(r"[^a-z0-9]", "", ev["title"].lower())[:48]
+        if norm in seen or ev["end"] < today or ev["start"] > today + dt.timedelta(days=365):
             continue
-        try:
-            date = dt.date.fromisoformat(ev["dates"]["start"]["localDate"])
-        except Exception:
-            continue
-        days_out = (date - today).days
-        if days_out < 0 or date.year > today.year:
-            continue
+        days_out = (max(ev["start"], today) - today).days
         b = bucket_for(days_out)
         if len(groups[b]) >= 8:
             continue
         seen.add(norm)
-        venues = ev.get("_embedded", {}).get("venues", [{}])
-        venue = venues[0].get("name", "")
-        city = venues[0].get("city", {}).get("name", "")
-        groups[b].append({
-            "title": name,
-            "where": " · ".join(x for x in [venue, city] if x),
-            "line": date.strftime("%a · %b %-d"),
-        })
+        where = " · ".join(x for x in [ev.get("cat", ""), ev["city"]] if x)
+        groups[b].append({"title": ev["title"], "where": where,
+                          "line": fmt_line(ev["start"], ev["end"], today)})
+    return groups
+
+
+def pull_events():
+    raw = []
+    key = os.environ.get("TICKETMASTER_KEY")
+    if key:
+        lat, lon = RALEIGH
+        d = jget(
+            "https://app.ticketmaster.com/discovery/v2/events.json"
+            f"?apikey={key}&latlong={lat},{lon}&radius=40&unit=miles"
+            "&sort=date,asc&size=200"
+        )
+        for ev in d.get("_embedded", {}).get("events", []):
+            name = ev.get("name", "").strip()
+            try:
+                date = dt.date.fromisoformat(ev["dates"]["start"]["localDate"])
+            except Exception:
+                continue
+            venues = ev.get("_embedded", {}).get("venues", [{}])
+            venue = venues[0].get("name", "")
+            city = venues[0].get("city", {}).get("name", "")
+            raw.append({"title": name, "city": " · ".join(x for x in [venue, city] if x),
+                        "cat": "", "start": date, "end": date})
+        # sv_events uses city as the trailing where-part; TM entries carry venue in "city"
+
+    for url, city in [
+        ("https://www.visitraleigh.com/event/rss/", "Raleigh"),
+        ("https://www.visitchapelhill.org/event/rss/", "Chapel Hill"),
+    ]:
+        try:
+            raw += sv_events(url, city)
+        except Exception as e:
+            print(f"  ! events {city}: {e}")
+
+    groups = bucket_events(raw)
+    if not any(groups.values()):
+        print("  events: nothing fetched — keeping existing events.json")
+        return
     write("events", {
         "sample": False,
         "groups": [{"label": b, "items": groups[b]} for b in EVENT_BUCKETS],
     })
-
-
-def write_sample_events():
-    if (DATA / "events.json").exists():
-        return
-    write("events", {"sample": True, "groups": [
-        {"label": "This Week", "items": [
-            {"title": "Jazz at Sharp 9 Gallery", "where": "Sharp 9 Gallery · Durham", "line": "Fri · 8:00 PM"},
-            {"title": "Durham Bulls vs. Norfolk Tides", "where": "Durham Bulls Athletic Park", "line": "Sat · 6:35 PM"},
-            {"title": "Midtown Farmers Market", "where": "North Hills · Raleigh", "line": "Sat · 8:00 AM"},
-            {"title": "Carolina Theatre classic film series", "where": "Carolina Theatre · Durham", "line": "Sun · 2:00 PM"},
-            {"title": "Live bluegrass on the lawn", "where": "Weaver Street Market · Carrboro", "line": "Sun · 11:00 AM"},
-        ]},
-        {"label": "Next Week", "items": [
-            {"title": "NC Symphony: Beethoven's Seventh", "where": "Meymandi Concert Hall · Raleigh", "line": "Fri · 7:30 PM"},
-            {"title": "Touring Broadway series opens", "where": "DPAC · Durham", "line": "Tue – Sun"},
-            {"title": "Third Friday Gallery Walk", "where": "Downtown Durham", "line": "Fri · 6:00 PM"},
-            {"title": "Museum after-hours: night at the NCMA", "where": "NC Museum of Art · Raleigh", "line": "Sat · 7:00 PM"},
-            {"title": "Indie rock at Cat's Cradle", "where": "Cat's Cradle · Carrboro", "line": "Thu · 8:00 PM"},
-        ]},
-        {"label": "This Month", "items": [
-            {"title": "Hopscotch Music Festival", "where": "City Plaza · Raleigh", "line": "Sep 10 – 12"},
-            {"title": "Bull City Food & Beer Experience", "where": "DPAC · Durham", "line": "Sep 20"},
-            {"title": "SparkCON creativity festival", "where": "Fayetteville St · Raleigh", "line": "Sep 26 – 27"},
-            {"title": "Carolina Hurricanes preseason opener", "where": "Lenovo Center · Raleigh", "line": "Sep 29"},
-            {"title": "American Dance Festival gala", "where": "Page Auditorium · Durham", "line": "Sep 24"},
-        ]},
-        {"label": "This Year", "items": [
-            {"title": "NC State Fair", "where": "State Fairgrounds · Raleigh", "line": "Oct 15 – 25"},
-            {"title": "Art of Cool jazz festival", "where": "Downtown Durham", "line": "Oct 24 – 26"},
-            {"title": "World of Bluegrass week", "where": "Downtown Raleigh", "line": "Nov 4 – 8"},
-            {"title": "Chinese Lantern Festival", "where": "Koka Booth Amphitheatre · Cary", "line": "Nov 20 – Jan 11"},
-            {"title": "First Night Raleigh", "where": "Fayetteville St · Raleigh", "line": "Dec 31"},
-        ]},
-    ]})
 
 
 if __name__ == "__main__":
@@ -379,6 +397,5 @@ if __name__ == "__main__":
             fn()
         except Exception as e:
             print(f"  !! {fn.__name__} failed: {e}")
-    write_sample_events()
     write("meta", {"generated": dt.datetime.now(TZ).isoformat()})
     print("Done.")

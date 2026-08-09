@@ -1,125 +1,62 @@
 {
-  "sample": true,
+  "sample": false,
   "groups": [
     {
       "label": "This Week",
       "items": [
         {
-          "title": "Jazz at Sharp 9 Gallery",
-          "where": "Sharp 9 Gallery · Durham",
-          "line": "Fri · 8:00 PM"
+          "title": "76th Street w/ Tornsey",
+          "where": "Concerts · Raleigh",
+          "line": "Sun · Aug 9"
         },
         {
-          "title": "Durham Bulls vs. Norfolk Tides",
-          "where": "Durham Bulls Athletic Park",
-          "line": "Sat · 6:35 PM"
+          "title": "BoutiqueBASH high-end consignment sale August 7-9!",
+          "where": "Family · Raleigh",
+          "line": "Aug 7 – Aug 9"
         },
         {
-          "title": "Midtown Farmers Market",
-          "where": "North Hills · Raleigh",
-          "line": "Sat · 8:00 AM"
+          "title": "Clue (High School Edition)",
+          "where": "Theatre · Raleigh",
+          "line": "Jul 24 – Aug 9"
         },
         {
-          "title": "Carolina Theatre classic film series",
-          "where": "Carolina Theatre · Durham",
-          "line": "Sun · 2:00 PM"
+          "title": "Garden Story Walk",
+          "where": "Free · Raleigh",
+          "line": "Aug 1 – Aug 9"
         },
         {
-          "title": "Live bluegrass on the lawn",
-          "where": "Weaver Street Market · Carrboro",
-          "line": "Sun · 11:00 AM"
+          "title": "Glitter Hour - Amateur Drag Competition",
+          "where": "Theatre · Raleigh",
+          "line": "Sun · Aug 9"
+        },
+        {
+          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
+          "where": "Concerts · Raleigh",
+          "line": "Sun · Aug 9"
+        },
+        {
+          "title": "\"Uranus 2324\" (2024) | Sapphlix Queer Movie Night",
+          "where": "LGBTQ+ · Chapel Hill",
+          "line": "Sun · Aug 9"
+        },
+        {
+          "title": "2nd Annual Scapes Exhibit",
+          "where": "Performing & Visual Arts · Chapel Hill",
+          "line": "Jul 5 – Aug 9"
         }
       ]
     },
     {
       "label": "Next Week",
-      "items": [
-        {
-          "title": "NC Symphony: Beethoven's Seventh",
-          "where": "Meymandi Concert Hall · Raleigh",
-          "line": "Fri · 7:30 PM"
-        },
-        {
-          "title": "Touring Broadway series opens",
-          "where": "DPAC · Durham",
-          "line": "Tue – Sun"
-        },
-        {
-          "title": "Third Friday Gallery Walk",
-          "where": "Downtown Durham",
-          "line": "Fri · 6:00 PM"
-        },
-        {
-          "title": "Museum after-hours: night at the NCMA",
-          "where": "NC Museum of Art · Raleigh",
-          "line": "Sat · 7:00 PM"
-        },
-        {
-          "title": "Indie rock at Cat's Cradle",
-          "where": "Cat's Cradle · Carrboro",
-          "line": "Thu · 8:00 PM"
-        }
-      ]
+      "items": []
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "Hopscotch Music Festival",
-          "where": "City Plaza · Raleigh",
-          "line": "Sep 10 – 12"
-        },
-        {
-          "title": "Bull City Food & Beer Experience",
-          "where": "DPAC · Durham",
-          "line": "Sep 20"
-        },
-        {
-          "title": "SparkCON creativity festival",
-          "where": "Fayetteville St · Raleigh",
-          "line": "Sep 26 – 27"
-        },
-        {
-          "title": "Carolina Hurricanes preseason opener",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Sep 29"
-        },
-        {
-          "title": "American Dance Festival gala",
-          "where": "Page Auditorium · Durham",
-          "line": "Sep 24"
-        }
-      ]
+      "items": []
     },
     {
       "label": "This Year",
-      "items": [
-        {
-          "title": "NC State Fair",
-          "where": "State Fairgrounds · Raleigh",
-          "line": "Oct 15 – 25"
-        },
-        {
-          "title": "Art of Cool jazz festival",
-          "where": "Downtown Durham",
-          "line": "Oct 24 – 26"
-        },
-        {
-          "title": "World of Bluegrass week",
-          "where": "Downtown Raleigh",
-          "line": "Nov 4 – 8"
-        },
-        {
-          "title": "Chinese Lantern Festival",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Nov 20 – Jan 11"
-        },
-        {
-          "title": "First Night Raleigh",
-          "where": "Fayetteville St · Raleigh",
-          "line": "Dec 31"
-        }
-      ]
+      "items": []
     }
   ]
 }

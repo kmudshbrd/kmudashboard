@@ -130,7 +130,7 @@ function renderNews(nw) {
 function renderEvents(ev) {
   if (!ev || !ev.groups) { $("#events-grid").innerHTML = `<div class="col-12 empty">Events unavailable</div>`; return; }
   $("#events-tag").hidden = !ev.sample;
-  $("#events-grid").innerHTML = ev.groups.map((g) => `
+  $("#events-grid").innerHTML = ev.groups.filter((g) => g.items.length).map((g) => `
     <div class="col-6">
       <div class="panel panel--events" style="--wash:var(--wash-blush);--dial:var(--dial-blush)">
         <div class="label">${esc(g.label)}</div>
@@ -146,8 +146,21 @@ function renderEvents(ev) {
     </div>`).join("");
 }
 
+/* ---------- theme toggle ---------- */
+function initTheme() {
+  const root = document.documentElement;
+  document.getElementById("theme-toggle").addEventListener("click", () => {
+    const current = root.dataset.theme ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    const next = current === "dark" ? "light" : "dark";
+    root.dataset.theme = next;
+    try { localStorage.setItem("meridian-theme", next); } catch {}
+  });
+}
+
 /* ---------- boot ---------- */
 (async function main() {
+  initTheme();
   tick();
   const [meta, weather, markets, news, events] = await Promise.all([
     load("meta"), load("weather"), load("markets"), load("news"), load("events"),
