@@ -1,9 +1,9 @@
 {
-  "sample": true,
-  "headline": "Your dashboard is alive — markets, weather, and news are real.",
+  "headline": "A hundred degrees at the door, and gold minding no one's ceiling",
   "paras": [
-    "This brief is a preview: from Phase 2, Claude will write it twice a day from everything above and below — your sleep, your calendar, the metals board, and the morning's headlines.",
-    "Weather, markets, and the news feed on this page are already live data, pulled by the agent script moments ago."
+    "Ninety-five on the dial and feeling like a hundred — the sort of Sunday best surrendered to shade and a cold glass. Mostly clear straight through the evening, easing to 86° by six and a pleasant 82° by nine, with rain never a serious proposition; air quality sits moderate at 54, so a stroll after sunset at 8:11 is the wiser reward. Overnight settles near the mid-seventies, gentle enough to leave a window open.",
+    "Metals ran hot alongside the weather: gold up 3.7% to $4,399.70 and silver 3.4% higher at $63.50, with copper the lone dissenter. US indices closed the week firmly ahead — the Nasdaq up 1.3%, the S&P 500 at 7,757 — even as Wall Street called July's surprise jobs report a thing with 'very little to like.' India drifted softly lower, the Sensex off 0.58%, while Tehran calls an Oman deal 'in final stages' pending action on Hormuz and Israel rebuffs the Gaza plan; closer to home, Indigenous storytelling takes the screen at the Triangle Native American Film Festival."
   ],
-  "signoff": "— composed by the build process, awaiting its API key"
+  "signoff": "— composed at dusk, from twelve dispatches and the day's tape",
+  "sample": false
 }
