@@ -1,0 +1,20 @@
+{
+  "sample": true,
+  "items": [
+    {
+      "title": "Sylvan Esso — homecoming show",
+      "where": "DPAC, Durham · Nov 14",
+      "line": "Announced yesterday · On sale Fri 10:00"
+    },
+    {
+      "title": "Hopscotch Music Festival — late-night sets added",
+      "where": "City Plaza, Raleigh · Sep 10–12",
+      "line": "Lineup expanded Wed · Day passes available"
+    },
+    {
+      "title": "Triangle Data Engineering meetup — Iceberg in production",
+      "where": "Frontier RTP, Durham · Thu 18:30",
+      "line": "Posted 2 days ago · RSVP open"
+    }
+  ]
+}

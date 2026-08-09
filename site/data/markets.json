@@ -1,0 +1,101 @@
+{
+  "meta": "Quotes as of 15:42 ET",
+  "groups": [
+    {
+      "label": "Metals",
+      "color": "var(--gold)",
+      "rows": [
+        {
+          "name": "Gold",
+          "sub": "COMEX · oz",
+          "price": 4399.7,
+          "changePct": 3.7175860443187103
+        },
+        {
+          "name": "Silver",
+          "sub": "COMEX · oz",
+          "price": 63.499,
+          "changePct": 3.3529205416784613
+        },
+        {
+          "name": "Copper",
+          "sub": "COMEX · lb",
+          "price": 6.591,
+          "changePct": -1.4356183748102769
+        },
+        {
+          "name": "Platinum",
+          "sub": "NYMEX · oz",
+          "price": 1759.6,
+          "changePct": 1.769809138230194
+        }
+      ]
+    },
+    {
+      "label": "Watchlist",
+      "color": "var(--dial-sky)",
+      "rows": [
+        {
+          "name": "S&P 500",
+          "sub": "Index",
+          "price": 7757.64,
+          "changePct": 0.6184213576214459
+        },
+        {
+          "name": "Russell 2000",
+          "sub": "Index",
+          "price": 3034.494,
+          "changePct": 1.097564612815205
+        },
+        {
+          "name": "Nasdaq",
+          "sub": "Composite",
+          "price": 26690.615,
+          "changePct": 1.299001249411158
+        },
+        {
+          "name": "Total US Market",
+          "sub": "VTI · Vanguard",
+          "price": 381.78,
+          "changePct": 0.7149055908987734
+        },
+        {
+          "name": "Total World",
+          "sub": "VT · Vanguard",
+          "price": 161.3,
+          "changePct": 0.8629326205949583
+        },
+        {
+          "name": "India Top 50",
+          "sub": "INDY · iShares",
+          "price": 44.28,
+          "changePct": 0.43093637277058505
+        }
+      ]
+    },
+    {
+      "label": "India",
+      "color": "var(--dial-blush)",
+      "rows": [
+        {
+          "name": "NIFTY 50",
+          "sub": "NSE",
+          "price": 24570.65,
+          "changePct": -0.2652622178925146
+        },
+        {
+          "name": "SENSEX",
+          "sub": "BSE",
+          "price": 78499.17,
+          "changePct": -0.5770238869985844
+        },
+        {
+          "name": "USD / INR",
+          "sub": "Spot",
+          "price": 95.198,
+          "changePct": -0.11949953897154586
+        }
+      ]
+    }
+  ]
+}

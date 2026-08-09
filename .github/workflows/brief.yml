@@ -1,0 +1,34 @@
+name: Write the daily brief
+
+on:
+  schedule:
+    - cron: "7 10 * * *"    # 06:07 US Eastern (EDT) — morning edition
+    - cron: "7 22 * * *"    # 18:07 US Eastern (EDT) — evening edition
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Anthropic SDK
+        run: pip install anthropic
+      - name: Pull fresh data
+        run: python3 scripts/pull.py
+      - name: Write the brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/brief.py
+      - name: Commit
+        run: |
+          git config user.name "dashboard-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || git commit -m "data: ${{ github.event.schedule == '7 10 * * *' && 'morning' || 'evening' }} brief"
+          git push

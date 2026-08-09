@@ -1,0 +1,101 @@
+{
+  "meta": "General briefing · headlines only",
+  "columns": [
+    {
+      "label": "World & Business",
+      "color": "var(--dial-slate)",
+      "stories": [
+        {
+          "kicker": "World",
+          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz",
+          "source": "Reuters",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5"
+        },
+        {
+          "kicker": "World",
+          "title": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
+          "source": "The Washington Post",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHJIQ1JLMkZjdHl3bWRsWlFvV0JHdWt2S2xvYU40dV90MDNpRHBqUWY1LS1uVGRKRnJsTko4TFhZOEJ3NHNlTzljSzQ4Mm9YN2JaQnA5R2dSak1sUDctRDd4T1dlUjZFMF9UelkyOFh1RllaMENfM2ZOcTg2bnlRZWszZ2JzeVRXLXYxVkxucHBFODlFU3BuSUFZei1LQndaY2RMZGl3ZFc5ZThCQVpvRUlVUk9idw?oc=5"
+        },
+        {
+          "kicker": "World",
+          "title": "Trump to Axios: \"We are low keying it\" with Iran",
+          "source": "axios.com",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VRTFsbVotRUtYVFc1M0hWQktsNFVfODhxNGhIaGFPV3BDNHhRTk1fYXFYUHpHLWJQQmxJdGJxbllQc3ZLSkRjSkxfYWdadzNnX1FfSmxnQUZBUjJFR013MnE1dw?oc=5"
+        },
+        {
+          "kicker": "Business",
+          "title": "Powerball results for 08/08/26: $1 million winners sold in $5 states",
+          "source": "MLive.com",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTm0yS3JMVk53VXBQVWdFbzBQVWdlMDhzcnpxeE9rOHJXYmtzY2RZS0NTa1FsNW03d1JlRThkV3dCWWtQYU8wZkQzeWVaNzVPOUktSG50cmRMMktaVk9FUGpJRDZ2TkN2QjRLUVc5aXU3ZkhkS193QzAyVF8xeFRvRm53cU9qaWZuS2s0MGZhajFSWjJyNkhUdDJNcGw5cWRBbXdCUjZlMWFQUQ?oc=5"
+        },
+        {
+          "kicker": "Business",
+          "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "source": "Yahoo Finance",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5"
+        },
+        {
+          "kicker": "Business",
+          "title": "India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031",
+          "source": "Reuters",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREphQTBJeXdwRjA4YWVVSDJMc24xa1JfT2NzcVZWQlUwYi1JbWZDWFVCbHhXMVJtNnNCYUVkLWdsaWY5VGdzQk1SWk1qNEIwdllNNmRHdHd6NnZPNWJJTGVtekdBRzZtVWNnbmY3QXdCMWlPaDdqX3d2aGZiYU55cHFCc1hvdFVybmlGVTJHVUJOb001aHBJdU1yQjZoSGhVQlQ3SDBXVmRiRlhLRjhiNEhkN2syU191QTI3NE1KYzY4MlRRMkk3bDNwaC1wMjVEMzlTQmxZdw?oc=5"
+        }
+      ]
+    },
+    {
+      "label": "India & The Triangle",
+      "color": "var(--dial-blush)",
+      "stories": [
+        {
+          "kicker": "India",
+          "title": "Jharkhand student protest: Round 2 of talks with government fails to end deadlock",
+          "source": "The Indian Express",
+          "time": "14h ago",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEg0QS1RZll6WmxXWTc3LWtKVVgxSklJX3dvOGlxdXhSc0k5YkpxVWlxSG1qa1J0QTJnYS1mOU9DNllrcFBPWmJneW9YYXlGQW9qd2kxRnh2VHVuR0FsWGNVdC1TVU9tRl9VdHAzeWE4RlVPM3Ffb2RpaWpMbGlPZTBHZVRlTXFPQy1MbDBIdTBHaXc1SThPRkpsTzItYkRRRFE?oc=5"
+        },
+        {
+          "kicker": "India",
+          "title": "Trump Started Iran War Over Nukes, He Will Give It Up For Hormuz: Report",
+          "source": "NDTV",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdndzSUlYR1dQcHEzUFFpYmVjZndlQkgyMFR0OWtXMk1nc3N0T19oSFFIeFVLeFZmUE5EN296ekpWNk1iZTlnUXJOVmNFcEZ0N2h0VXRnQm1HeDR6MVdaWmhnS2VfeTZtbmlFT0NCV2FTZVAtdk5tYXphYmI0TUFEUUVEd3FsUUZHVTQwLXlWTF96RXU3amRJQ254SzlfTEZMZjlwYXR0OENHZFRMUEVheWhZdFJLVzJ1MEhnMkdxVVk1a3NTVzVSdkswLUxSdk1lT1Y3RE51dw?oc=5"
+        },
+        {
+          "kicker": "India",
+          "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+          "source": "Al Jazeera",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaV80RUFOQ0t0NUJEYnlTTUxjdWNOSlZzWEFUWlFhVlNmaUhKMEZhOXo2dDdHNHFkNUdzTTdNVlRoZkpDZWJpNnRqaHpVYXk1emNtQWQycWswQ195YnJJM3pKZ1hTR2NkZ2R3SFlzdUVHUnowZnI4LUhWU3VZME9XUWVGUFowY0FZcFFuY2ZoYm9aY3plcnVDdTZmbVfSAaIBQVVfeXFMTjItNEtxMVc0R2hPbUJ1N1gtMDlZWThHNTRhMnhyd0ZFMTFhXzZKQnRnbkthU1JBV3d5aGpUTGpwWUxUMnFZWnl6RzdyQUVEa0FVWmQwLTJLOW51ZVdfOEFBTFh3UXBGa0hlcmYwbl9nZUhKTVY3U0xXY1h6cXctQUVveVNQRGZTeWI3LWlsU0dhbkROdUxBZFhqcFVKMV83T1R3?oc=5"
+        },
+        {
+          "kicker": "Triangle",
+          "title": "Triangle Native American Film Festival celebrates Indigenous storytelling in Raleigh NC",
+          "source": "ABC11 News",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFAya1dheW1zU1BzRVJ4dXpIcU9HNWxoWXZxXzBSUkZlRFl1ZjJ1dDY2X25FUXl3Q2Jqdklsb21JUUx6VGgwQ2NZd2pDVHRBM2xmLWxaT25UdFREbngyTTExZ2lXT0tIcGVFN2tTc1pReURYaUw4OXFHZkVybWk0WHcyR3RQcm1xRy1uWVpkUHh0MnFsbm50YXpiWVdSLTlyQWUweGZIWEZ5SXc0TWJ5OVFvcncxWTE50gG-AUFVX3lxTFBtdzJHTkVsUjdVWkJvTC1XTVlIZGhORUZhcFA1UnlGU0dodVgzdFYwNGxjVTc0eGxpdTFocm1qd0NEQnRfQllKOUVSYV90cW5GQkk4YkpLZEVTRThaTFYxVU54Z1ZEaDF1ZThDTUl2QTBQWjRrMnNRdGFCWkdfUHBzTll5eUFvZlA1b2NVWi1aTGlGa3NfcktjMDRWY0dGUWt2NTZpMWJmTVlfajN6UVdBeWxCaVZXaHNPWkZpalE?oc=5"
+        },
+        {
+          "kicker": "Triangle",
+          "title": "Stephen Wilson Jr. brings his raw country sound to Raleigh",
+          "source": "newsobserver.com",
+          "time": "17h ago",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EM0hicE16MEFmbWpqbklmRWxLakpjczRCRmVrNVUteTF3eUZ4aTBZeklFUDFERmVkRmJxeVk0VWFaVzMwME1wTFFNM2h0UWlPMVQ3NHhRN2xQVWhTTjg3cm53RXdBZjRnbl90U2NnYmw1d9IBckFVX3lxTE43cGpfa1pCamt6QURvTnFIWGNkUHd1X1k3Rl8xeUpURlZXUlM0MjJSOHNwZHRiZy1CbjA2VUdzeXFGSDg0S1RBV0s1NlFuRmpWYXBKbGlBSWZDNzl0T1pwR1ZYVHl4X3lHSlBxY1JRakdOZw?oc=5"
+        },
+        {
+          "kicker": "Triangle",
+          "title": "Driver charged with DWI after crash sends car into utility pole in Raleigh, police say",
+          "source": "CBS 17",
+          "time": "2d ago",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR0doZktQZ2RQamQ1Z3htRFpQOVBfYVJOY3JsMEhRVkx6akprandXeUotbWIzN1hRSnNiRDNZaWZwT2NTbWEzcDZmM3JFSXEtR0dHUWZJRm9DRG81UDA5VjM2WU5WYlN2VDNod3RfcFhabFFxNktxMHVTR2tHRWk5RnFiVldLelBaZVNYNURRT1FtU3dtTjZJVVNLd2lHOFl4MWZCNHp6bXd5bnZMajFSQ3hac2JxVHhSVnRwTWZtd1c1SFBrdUh3TTkyREcxWldGcnphYnQ4U2rSAd4BQVVfeXFMTXZETkJvSEVab3RPOGJ5V1RRdnZYZ01pNlRYT2Mwc1pQaUZMbmVELWVIalA4NXJnVTIyTDhROVlWTUl4dDhyYW9mMHpiOXktRFQxOUhqclJ4MUtRYmRuc05JYllTTmZiaUdVOWFWeURraU5DZ2tXNEkzWmZvY0VDQTh6c3ozLUg5SncteHZ4TDFEV3VneWctUjNRV2lULUFEMjFDcUpUR1pIWG5nM0U3Nm9FaXhSSllJSkR0ZTV4eTktVzRscUM0bUNHQS1YajhTWmV1dUI3cGFYczNXcWF3?oc=5"
+        }
+      ]
+    }
+  ]
+}

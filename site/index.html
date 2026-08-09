@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meridian</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="page">
+
+  <!-- 1 · TIME -->
+  <header>
+    <div class="monogram">M</div>
+    <div class="wordmark">Meridian</div>
+    <div class="masthead-sub label" id="dateline">—</div>
+    <div class="clockrow">
+      <svg class="watch" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="48.5" fill="#FFFFFF" stroke="#161310" stroke-width="1"/>
+        <circle cx="50" cy="50" r="44" fill="none" stroke="#E8E4DB" stroke-width="0.75"/>
+        <g stroke="#161310" stroke-width="1.4">
+          <line x1="50" y1="6" x2="50" y2="13"/><line x1="50" y1="87" x2="50" y2="94"/>
+          <line x1="6" y1="50" x2="13" y2="50"/><line x1="87" y1="50" x2="94" y2="50"/>
+        </g>
+        <g stroke="#A9A398" stroke-width="0.8">
+          <line x1="72" y1="11.9" x2="68.5" y2="18"/><line x1="88.1" y1="28" x2="82" y2="31.5"/>
+          <line x1="88.1" y1="72" x2="82" y2="68.5"/><line x1="72" y1="88.1" x2="68.5" y2="82"/>
+          <line x1="28" y1="88.1" x2="31.5" y2="82"/><line x1="11.9" y1="72" x2="18" y2="68.5"/>
+          <line x1="11.9" y1="28" x2="18" y2="31.5"/><line x1="28" y1="11.9" x2="31.5" y2="18"/>
+        </g>
+        <line id="hh" x1="50" y1="50" x2="50" y2="27" stroke="#161310" stroke-width="2.6" stroke-linecap="round"/>
+        <line id="mh" x1="50" y1="50" x2="50" y2="16" stroke="#161310" stroke-width="1.6" stroke-linecap="round"/>
+        <line id="sh" x1="50" y1="58" x2="50" y2="14" stroke="#A5804A" stroke-width="0.8" stroke-linecap="round"/>
+        <circle cx="50" cy="50" r="2.2" fill="#A5804A"/>
+      </svg>
+      <div>
+        <div class="bigtime" id="digital">–:––</div>
+        <div class="tz label">Raleigh · North Carolina</div>
+      </div>
+    </div>
+    <div class="masthead-rule"></div>
+  </header>
+
+  <!-- 2 · WEATHER -->
+  <section id="sec-weather">
+    <div class="section-head">
+      <div class="label label--ink">Weather</div>
+      <div class="meta" id="weather-meta">—</div>
+    </div>
+    <div class="panel" style="--wash:var(--wash-sky);--dial:var(--dial-sky)" id="weather-panel">
+      <div class="empty">Loading…</div>
+    </div>
+  </section>
+
+  <!-- 3 · THE DAY -->
+  <section id="sec-day">
+    <div class="section-head">
+      <div class="label label--ink">The Day</div>
+      <div class="meta" id="day-meta">—</div>
+    </div>
+    <div class="grid">
+      <div class="col-6">
+        <div class="panel" style="--wash:var(--wash-cream);--dial:var(--dial-cream)">
+          <div class="label" style="margin-bottom:8px">Calendar<span class="sampletag" id="cal-tag" hidden>sample</span></div>
+          <div id="calendar-list"><div class="empty">Loading…</div></div>
+        </div>
+      </div>
+      <div class="col-6">
+        <div class="panel" style="--wash:var(--wash-slate);--dial:var(--dial-slate)">
+          <div class="label" style="margin-bottom:8px" id="tasks-label">Tasks<span class="sampletag" id="task-tag" hidden>sample</span></div>
+          <div id="tasks-list"><div class="empty">Loading…</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 · HEALTH -->
+  <section id="sec-health">
+    <div class="section-head">
+      <div class="label label--ink">Health &amp; Habits</div>
+      <div class="meta" id="health-meta">—</div>
+    </div>
+    <div class="grid">
+      <div class="col-8">
+        <div class="panel" style="--wash:var(--wash-sage);--dial:var(--dial-sage)">
+          <div class="stats" id="health-stats"><div class="empty">Loading…</div></div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="panel" id="habits-list"><div class="empty">Loading…</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5 · BRIEFING -->
+  <section id="sec-brief">
+    <div class="panel" style="--wash:var(--wash-cream);--dial:var(--dial-cream);padding:36px 32px">
+      <div class="brief" id="brief">
+        <div class="label label--gold">The Morning Brief</div>
+        <div class="empty">Loading…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6 · MARKETS -->
+  <section id="sec-markets">
+    <div class="section-head">
+      <div class="label label--ink">Markets</div>
+      <div class="meta" id="markets-meta">—</div>
+    </div>
+    <div class="grid" id="markets-grid"><div class="col-12 empty">Loading…</div></div>
+  </section>
+
+  <!-- 7 · NEWS -->
+  <section id="sec-news">
+    <div class="section-head">
+      <div class="label label--ink">The Feed</div>
+      <div class="meta" id="news-meta">—</div>
+    </div>
+    <div class="grid" id="news-grid"><div class="col-12 empty">Loading…</div></div>
+  </section>
+
+  <!-- 8 · NEW IN THE TRIANGLE -->
+  <section id="sec-events">
+    <div class="section-head">
+      <div class="label label--ink">New in the Triangle</div>
+      <div class="meta">Newly announced · Raleigh · Durham · Chapel Hill<span class="sampletag" id="events-tag" hidden>sample</span></div>
+    </div>
+    <div class="panel" style="--wash:var(--wash-blush);--dial:var(--dial-blush)" id="events-list">
+      <div class="empty">Loading…</div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="label">Meridian · A private dashboard</div>
+    <div class="caliber">calibre no. 1 · assembled by hand, updated by agents</div>
+  </footer>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>

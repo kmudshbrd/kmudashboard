@@ -1,0 +1,26 @@
+{
+  "sample": true,
+  "items": [
+    {
+      "text": "Renew car insurance",
+      "done": true
+    },
+    {
+      "text": "Send migration doc for review",
+      "done": true
+    },
+    {
+      "text": "Book Diwali flights",
+      "done": false,
+      "due": "Due today"
+    },
+    {
+      "text": "Review Q3 pipeline costs",
+      "done": false
+    },
+    {
+      "text": "Call plumber re: kitchen",
+      "done": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "sample": true,
+  "headline": "Your dashboard is alive — markets, weather, and news are real.",
+  "paras": [
+    "This brief is a preview: from Phase 2, Claude will write it twice a day from everything above and below — your sleep, your calendar, the metals board, and the morning's headlines.",
+    "Weather, markets, and the news feed on this page are already live data, pulled by the agent script moments ago."
+  ],
+  "signoff": "— composed by the build process, awaiting its API key"
+}

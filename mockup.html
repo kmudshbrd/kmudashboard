@@ -1,0 +1,461 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meridian — Life Dashboard Mockup</title>
+<style>
+  :root{
+    --paper:#FDFDFB;
+    --ink:#161310;
+    --muted:#7A7468;
+    --faint:#A9A398;
+    --hairline:#E8E4DB;
+    --gold:#A5804A;
+    --up:#3E6B4F;
+    --down:#93392F;
+    /* enamel dial washes */
+    --wash-sky:#EDF3F7;    --dial-sky:#33586E;
+    --wash-sage:#EEF4EE;   --dial-sage:#3E6B4F;
+    --wash-cream:#F9F4EA;  --dial-cream:#A5804A;
+    --wash-slate:#F4F4F1;  --dial-slate:#4A4A45;
+    --wash-blush:#F9F1ED;  --dial-blush:#A65A47;
+    --serif:"Didot","Bodoni 72","Playfair Display",Georgia,"Times New Roman",serif;
+    --sans:"Helvetica Neue",Helvetica,"Neue Haas Grotesk",Arial,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:15px;line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{max-width:1180px;margin:0 auto;padding:0 40px 96px}
+  @media (max-width:640px){.page{padding:0 20px 64px}}
+
+  .label{
+    font-family:var(--sans);font-size:10.5px;letter-spacing:.22em;
+    text-transform:uppercase;color:var(--muted);font-weight:500;
+  }
+  .label--ink{color:var(--ink)}
+  .label--gold{color:var(--gold)}
+
+  /* ---------- masthead ---------- */
+  header{padding:52px 0 0;text-align:center}
+  .monogram{
+    width:44px;height:44px;margin:0 auto 16px;
+    border:1px solid var(--ink);border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-size:20px;
+  }
+  .wordmark{
+    font-family:var(--sans);font-size:14px;letter-spacing:.42em;text-transform:uppercase;
+    font-weight:500;margin-left:.42em;
+  }
+  .masthead-sub{margin-top:10px}
+  .clockrow{display:flex;align-items:center;justify-content:center;gap:34px;margin-top:30px}
+  .watch{width:112px;height:112px}
+  .bigtime{
+    font-family:var(--serif);font-size:64px;line-height:1;
+    font-variant-numeric:tabular-nums;letter-spacing:.02em;
+  }
+  .bigtime small{font-size:22px;color:var(--gold);letter-spacing:.06em;margin-left:6px}
+  .tz{margin-top:10px}
+  @media (max-width:640px){
+    .clockrow{gap:22px}
+    .watch{width:88px;height:88px}
+    .bigtime{font-size:44px}
+    .bigtime small{font-size:16px}
+  }
+  .masthead-rule{margin:34px auto 0;height:1px;background:var(--hairline);position:relative}
+  .masthead-rule::after{
+    content:"";position:absolute;left:50%;top:-2.5px;width:6px;height:6px;
+    transform:translateX(-50%) rotate(45deg);
+    background:var(--paper);border:1px solid var(--gold);
+  }
+
+  /* ---------- sections & panels ---------- */
+  section{margin-top:56px}
+  .section-head{
+    display:flex;align-items:baseline;justify-content:space-between;
+    padding-bottom:12px;margin-bottom:22px;border-bottom:1px solid var(--hairline);
+  }
+  .section-head .meta{font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--faint)}
+  .panel{
+    background:var(--wash,transparent);
+    border:1px solid var(--hairline);
+    border-top:2px solid var(--dial,var(--hairline));
+    border-radius:3px;padding:24px 28px;
+  }
+  @media (max-width:640px){.panel{padding:18px 20px}}
+  .panel .label{color:var(--dial,var(--muted))}
+
+  .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:28px 28px}
+  .col-4{grid-column:span 4}
+  .col-6{grid-column:span 6}
+  .col-8{grid-column:span 8}
+  .col-12{grid-column:span 12}
+  @media (max-width:900px){.col-4,.col-6,.col-8{grid-column:span 12}}
+
+  /* ---------- rows / numerals ---------- */
+  .row{display:flex;align-items:baseline;justify-content:space-between;
+    padding:12px 0;border-bottom:1px solid var(--hairline);gap:16px}
+  .row:last-child{border-bottom:none}
+  .row .name{font-size:14px}
+  .row .sub{font-size:11px;color:var(--faint);letter-spacing:.06em;margin-top:1px}
+  .num{font-family:var(--serif);font-size:17px;font-variant-numeric:tabular-nums lining-nums;
+    letter-spacing:.02em;white-space:nowrap}
+  .delta{font-size:11px;letter-spacing:.08em;white-space:nowrap;margin-left:12px}
+  .delta.up{color:var(--up)}
+  .delta.down{color:var(--down)}
+  .right{text-align:right}
+
+  /* ---------- weather ---------- */
+  .weather-wrap{display:flex;gap:40px;align-items:stretch;flex-wrap:wrap}
+  .weather-main{display:flex;gap:20px;align-items:baseline;min-width:250px}
+  .weather-temp{font-family:var(--serif);font-size:72px;line-height:1;color:var(--dial-sky)}
+  .weather-desc{font-size:13px;color:var(--muted);line-height:1.65;max-width:200px}
+  .weather-hours{display:flex;flex:1;min-width:280px;border-left:1px solid var(--hairline)}
+  @media (max-width:640px){.weather-hours{border-left:none;border-top:1px solid var(--hairline);padding-top:14px}}
+  .wh{flex:1;text-align:center}
+  .wh + .wh{border-left:1px solid var(--hairline)}
+  .wh .h{font-size:10px;letter-spacing:.14em;color:var(--faint);text-transform:uppercase}
+  .wh .g{font-size:17px;margin-top:6px}
+  .wh .t{font-family:var(--serif);font-size:16px;margin-top:4px}
+  .wh .p{font-size:10px;color:var(--dial-sky);margin-top:3px;letter-spacing:.06em}
+
+  /* ---------- calendar ---------- */
+  .event{display:flex;gap:22px;padding:13px 0;border-bottom:1px solid var(--hairline)}
+  .event:last-child{border-bottom:none}
+  .event .time{font-family:var(--serif);font-size:15px;min-width:60px;font-variant-numeric:tabular-nums}
+  .event .what{font-size:14px}
+  .event .where{font-size:11.5px;color:var(--faint);margin-top:2px;letter-spacing:.04em}
+  .event.now .time,.event.now .what{color:var(--gold)}
+
+  /* ---------- tasks & habits ---------- */
+  .habit{display:flex;align-items:center;justify-content:space-between;
+    padding:11px 0;border-bottom:1px solid var(--hairline)}
+  .habit:last-child{border-bottom:none}
+  .habit .mark{width:16px;height:16px;border:1px solid var(--ink);border-radius:50%;
+    display:inline-flex;align-items:center;justify-content:center;margin-right:14px;
+    font-size:10px;flex:none}
+  .habit.done .mark{background:var(--dial-sage);border-color:var(--dial-sage);color:#fff}
+  .habit .left{display:flex;align-items:center;font-size:14px}
+  .habit .streak{font-family:var(--serif);font-size:13px;color:var(--gold);font-style:italic}
+
+  /* ---------- health ---------- */
+  .stats{display:flex;text-align:center;padding:6px 0 2px;flex-wrap:wrap}
+  .stat{flex:1;min-width:120px;padding:8px 0}
+  .stat + .stat{border-left:1px solid var(--hairline)}
+  @media (max-width:640px){.stat + .stat{border-left:none}}
+  .stat .v{font-family:var(--serif);font-size:30px;font-variant-numeric:tabular-nums;color:var(--dial-sage)}
+  .stat .v small{font-size:14px;color:var(--muted);font-family:var(--sans)}
+  .stat .k{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--faint);margin-top:6px}
+  .stat .trend{font-size:10.5px;margin-top:4px;letter-spacing:.06em}
+  .ring{width:120px;height:120px;flex:none}
+
+  /* ---------- briefing ---------- */
+  .brief{max-width:700px;margin:0 auto;text-align:center}
+  .brief h1{font-family:var(--serif);font-weight:400;font-size:30px;line-height:1.3;
+    letter-spacing:.01em;margin:22px 0 16px}
+  @media (max-width:640px){.brief h1{font-size:24px}}
+  .brief p{font-size:15px;line-height:1.75;color:#3B3730;text-align:left}
+  .brief p + p{margin-top:13px}
+  .brief .signoff{margin-top:20px;font-family:var(--serif);font-style:italic;font-size:14px;color:var(--muted)}
+
+  /* ---------- news ---------- */
+  .story{padding:15px 0;border-bottom:1px solid var(--hairline)}
+  .story:last-child{border-bottom:none}
+  .story .kicker{font-size:9.5px;letter-spacing:.24em;text-transform:uppercase;margin-bottom:6px}
+  .story h3{font-family:var(--serif);font-weight:400;font-size:17.5px;line-height:1.4}
+  .story p{font-size:13px;color:var(--muted);margin-top:5px;line-height:1.6}
+  .story .src{font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-top:7px}
+
+  /* ---------- new events ---------- */
+  .outing{display:flex;gap:20px;padding:15px 0;border-bottom:1px solid var(--hairline)}
+  .outing:last-child{border-bottom:none}
+  .outing .badge{
+    flex:none;align-self:flex-start;margin-top:3px;
+    font-size:9px;letter-spacing:.2em;text-transform:uppercase;
+    color:#fff;background:var(--dial-blush);border-radius:2px;padding:3px 8px;
+  }
+  .outing h4{font-family:var(--serif);font-weight:400;font-size:16.5px}
+  .outing .where{font-size:12px;color:var(--muted);margin-top:3px}
+  .outing .sale{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--dial-blush);margin-top:5px}
+
+  footer{margin-top:80px;text-align:center;border-top:1px solid var(--hairline);padding-top:26px}
+  footer .label{color:var(--faint)}
+  .caliber{font-family:var(--serif);font-style:italic;font-size:12px;color:var(--faint);margin-top:8px}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ===================== 1 · TIME ===================== -->
+  <header>
+    <div class="monogram">M</div>
+    <div class="wordmark">Meridian</div>
+    <div class="masthead-sub label">Saturday · 9 August 2026 · Updated 07:42</div>
+    <div class="clockrow">
+      <svg class="watch" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="48.5" fill="#FFFFFF" stroke="#161310" stroke-width="1"/>
+        <circle cx="50" cy="50" r="44" fill="none" stroke="#E8E4DB" stroke-width="0.75"/>
+        <g stroke="#161310" stroke-width="1.4">
+          <line x1="50" y1="6" x2="50" y2="13"/><line x1="50" y1="87" x2="50" y2="94"/>
+          <line x1="6" y1="50" x2="13" y2="50"/><line x1="87" y1="50" x2="94" y2="50"/>
+        </g>
+        <g stroke="#A9A398" stroke-width="0.8">
+          <line x1="72" y1="11.9" x2="68.5" y2="18"/><line x1="88.1" y1="28" x2="82" y2="31.5"/>
+          <line x1="88.1" y1="72" x2="82" y2="68.5"/><line x1="72" y1="88.1" x2="68.5" y2="82"/>
+          <line x1="28" y1="88.1" x2="31.5" y2="82"/><line x1="11.9" y1="72" x2="18" y2="68.5"/>
+          <line x1="11.9" y1="28" x2="18" y2="31.5"/><line x1="28" y1="11.9" x2="31.5" y2="18"/>
+        </g>
+        <line id="hh" x1="50" y1="50" x2="50" y2="27" stroke="#161310" stroke-width="2.6" stroke-linecap="round"/>
+        <line id="mh" x1="50" y1="50" x2="50" y2="16" stroke="#161310" stroke-width="1.6" stroke-linecap="round"/>
+        <line id="sh" x1="50" y1="58" x2="50" y2="14" stroke="#A5804A" stroke-width="0.8" stroke-linecap="round"/>
+        <circle cx="50" cy="50" r="2.2" fill="#A5804A"/>
+      </svg>
+      <div>
+        <div class="bigtime" id="digital">7:42<small>AM</small></div>
+        <div class="tz label">Raleigh · North Carolina · EDT</div>
+      </div>
+    </div>
+    <div class="masthead-rule"></div>
+  </header>
+
+  <!-- ===================== 2 · WEATHER ===================== -->
+  <section>
+    <div class="section-head">
+      <div class="label label--ink">Weather</div>
+      <div class="meta">Raleigh–Durham · AQI 46 Good · Sunrise 06:24 · Sunset 20:12</div>
+    </div>
+    <div class="panel" style="--wash:var(--wash-sky);--dial:var(--dial-sky)">
+      <div class="weather-wrap">
+        <div class="weather-main">
+          <div class="weather-temp">31°</div>
+          <div class="weather-desc">Hot and humid, feels like 36°.<br>Thunderstorms likely after 16:00 — finish outdoor plans by mid-afternoon.</div>
+        </div>
+        <div class="weather-hours">
+          <div class="wh"><div class="h">09h</div><div class="g">☀︎</div><div class="t">29°</div><div class="p">5%</div></div>
+          <div class="wh"><div class="h">12h</div><div class="g">☀︎</div><div class="t">33°</div><div class="p">10%</div></div>
+          <div class="wh"><div class="h">15h</div><div class="g">⛅︎</div><div class="t">34°</div><div class="p">35%</div></div>
+          <div class="wh"><div class="h">18h</div><div class="g">⛈</div><div class="t">30°</div><div class="p">70%</div></div>
+          <div class="wh"><div class="h">21h</div><div class="g">🌧</div><div class="t">26°</div><div class="p">55%</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 3 · THE DAY ===================== -->
+  <section>
+    <div class="section-head">
+      <div class="label label--ink">The Day</div>
+      <div class="meta">4 events · 6 tasks</div>
+    </div>
+    <div class="grid">
+      <div class="col-6">
+        <div class="panel" style="--wash:var(--wash-cream);--dial:var(--dial-cream)">
+          <div class="label" style="margin-bottom:8px">Calendar</div>
+          <div class="event now"><div class="time">11:00</div><div><div class="what">Architecture review — lakehouse migration</div><div class="where">Google Meet · 45 min</div></div></div>
+          <div class="event"><div class="time">13:30</div><div><div class="what">Lunch with Priya</div><div class="where">Amber India, Cary</div></div></div>
+          <div class="event"><div class="time">16:00</div><div><div class="what">1:1 with Daniel</div><div class="where">Office · Room 4B</div></div></div>
+          <div class="event"><div class="time">20:00</div><div><div class="what">Jazz at Sharp 9 Gallery ★</div><div class="where">Durham</div></div></div>
+        </div>
+      </div>
+      <div class="col-6">
+        <div class="panel" style="--wash:var(--wash-slate);--dial:var(--dial-slate)">
+          <div class="label" style="margin-bottom:8px">Tasks · 2 of 6 done</div>
+          <div class="habit done"><div class="left"><span class="mark">✓</span>Renew car insurance</div></div>
+          <div class="habit done"><div class="left"><span class="mark">✓</span>Send migration doc for review</div></div>
+          <div class="habit"><div class="left"><span class="mark"></span>Book Diwali flights</div><span class="label" style="color:var(--down)">Due today</span></div>
+          <div class="habit"><div class="left"><span class="mark"></span>Review Q3 pipeline costs</div></div>
+          <div class="habit"><div class="left"><span class="mark"></span>Call plumber re: kitchen</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 4 · HEALTH ===================== -->
+  <section>
+    <div class="section-head">
+      <div class="label label--ink">Health &amp; Habits</div>
+      <div class="meta">Synced from Apple Health · 06:58</div>
+    </div>
+    <div class="grid">
+      <div class="col-8">
+        <div class="panel" style="--wash:var(--wash-sage);--dial:var(--dial-sage)">
+          <div class="stats">
+            <div class="stat"><div class="v">7<small>h</small> 12<small>m</small></div><div class="k">Sleep</div><div class="trend delta up">▲ vs 7-day avg</div></div>
+            <div class="stat"><div class="v">9,847</div><div class="k">Steps yesterday</div><div class="trend delta up">▲ 12%</div></div>
+            <div class="stat"><div class="v">54</div><div class="k">Resting HR</div><div class="trend" style="color:var(--faint)">— steady</div></div>
+            <div class="stat"><div class="v">412</div><div class="k">Active kcal</div><div class="trend delta down">▼ 6%</div></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="panel">
+          <div class="habit done"><div class="left"><span class="mark">✓</span>Morning walk</div><span class="streak">21 days</span></div>
+          <div class="habit"><div class="left"><span class="mark"></span>Read 20 pages</div><span class="streak">8 days</span></div>
+          <div class="habit"><div class="left"><span class="mark"></span>No sugar</div><span class="streak">3 days</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 5 · BRIEFING ===================== -->
+  <section>
+    <div class="panel" style="--wash:var(--wash-cream);--dial:var(--dial-cream);padding:36px 32px">
+      <div class="brief">
+        <div class="label label--gold">The Morning Brief</div>
+        <h1>Storms by four, a clear morning for deep work, and gold keeps climbing.</h1>
+        <p>You slept 7h 12m — your best this week — and your calendar is open until the 11:00 architecture review. Gold is up 0.8% overnight to $3,412; copper eased after Thursday's rally, and NIFTY closed firm ahead of RBI commentary.</p>
+        <p>In your world: Snowflake's managed Iceberg catalog went GA, and Google Cloud published a notable piece on agentic data pipelines — both below. A Sylvan Esso homecoming show at DPAC was announced yesterday; tickets go on sale Friday at 10. Beat the storms: walk early.</p>
+        <div class="signoff">— composed at dawn, from 214 sources</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 6 · MARKETS ===================== -->
+  <section>
+    <div class="section-head">
+      <div class="label label--ink">Markets</div>
+      <div class="meta">NYSE pre-open · NSE closed</div>
+    </div>
+    <div class="grid">
+      <div class="col-4">
+        <div class="label" style="margin-bottom:6px;color:var(--gold)">Metals</div>
+        <div class="row"><div><div class="name">Gold</div><div class="sub">COMEX · oz</div></div><div class="right"><span class="num">3,412.60</span><span class="delta up">▲ 0.82%</span></div></div>
+        <div class="row"><div><div class="name">Silver</div><div class="sub">COMEX · oz</div></div><div class="right"><span class="num">41.18</span><span class="delta up">▲ 1.14%</span></div></div>
+        <div class="row"><div><div class="name">Copper</div><div class="sub">COMEX · lb</div></div><div class="right"><span class="num">4.612</span><span class="delta down">▼ 0.47%</span></div></div>
+        <div class="row"><div><div class="name">Platinum</div><div class="sub">NYMEX · oz</div></div><div class="right"><span class="num">1,286.40</span><span class="delta up">▲ 0.29%</span></div></div>
+      </div>
+      <div class="col-4">
+        <div class="label" style="margin-bottom:6px;color:var(--dial-sky)">Watchlist</div>
+        <div class="row"><div><div class="name">Snowflake</div><div class="sub">SNOW · NYSE</div></div><div class="right"><span class="num">214.85</span><span class="delta up">▲ 2.31%</span></div></div>
+        <div class="row"><div><div class="name">Alphabet</div><div class="sub">GOOGL · NASDAQ</div></div><div class="right"><span class="num">248.12</span><span class="delta up">▲ 0.64%</span></div></div>
+        <div class="row"><div><div class="name">Amazon</div><div class="sub">AMZN · NASDAQ</div></div><div class="right"><span class="num">231.79</span><span class="delta down">▼ 0.22%</span></div></div>
+        <div class="row"><div><div class="name">NVIDIA</div><div class="sub">NVDA · NASDAQ</div></div><div class="right"><span class="num">196.44</span><span class="delta up">▲ 1.08%</span></div></div>
+      </div>
+      <div class="col-4">
+        <div class="label" style="margin-bottom:6px;color:var(--dial-blush)">India</div>
+        <div class="row"><div><div class="name">NIFTY 50</div><div class="sub">NSE</div></div><div class="right"><span class="num">27,418.30</span><span class="delta up">▲ 0.51%</span></div></div>
+        <div class="row"><div><div class="name">SENSEX</div><div class="sub">BSE</div></div><div class="right"><span class="num">89,204.11</span><span class="delta up">▲ 0.46%</span></div></div>
+        <div class="row"><div><div class="name">USD / INR</div><div class="sub">Spot</div></div><div class="right"><span class="num">86.42</span><span class="delta down">▼ 0.08%</span></div></div>
+        <div class="row"><div><div class="name">Gold · MCX</div><div class="sub">₹ / 10g</div></div><div class="right"><span class="num">1,02,340</span><span class="delta up">▲ 0.71%</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 7 · NEWS ===================== -->
+  <section>
+    <div class="section-head">
+      <div class="label label--ink">The Feed</div>
+      <div class="meta">Curated from 214 sources · deduplicated</div>
+    </div>
+    <div class="grid">
+      <div class="col-6">
+        <div class="label" style="margin-bottom:4px;color:var(--dial-sky)">Data &amp; AI</div>
+        <div class="story">
+          <div class="kicker" style="color:var(--dial-sky)">Snowflake</div>
+          <h3>Managed Iceberg catalog reaches general availability</h3>
+          <p>Snowflake's Polaris-backed catalog is now GA across all clouds — a direct answer to Databricks' Unity Catalog, with cross-engine read/write.</p>
+          <div class="src">Snowflake Blog · 2h ago</div>
+        </div>
+        <div class="story">
+          <div class="kicker" style="color:var(--dial-sky)">Google Cloud</div>
+          <h3>BigQuery introduces agentic pipeline orchestration</h3>
+          <p>New preview lets LLM agents plan and repair data pipelines autonomously, with human approval gates.</p>
+          <div class="src">Google Cloud Blog · 5h ago</div>
+        </div>
+        <div class="story">
+          <div class="kicker" style="color:var(--dial-sky)">AWS</div>
+          <h3>S3 Tables adds automatic compaction for streaming writes</h3>
+          <p>Addresses the small-file problem for Iceberg workloads at no additional cost.</p>
+          <div class="src">AWS News · 9h ago</div>
+        </div>
+      </div>
+      <div class="col-6">
+        <div class="label" style="margin-bottom:4px;color:var(--dial-blush)">World · India · Local</div>
+        <div class="story">
+          <div class="kicker" style="color:var(--dial-slate)">World</div>
+          <h3>Markets steady as central banks signal patience on rates</h3>
+          <p>Fed and ECB officials struck a cautious tone; gold extended gains on the uncertainty.</p>
+          <div class="src">Reuters · 1h ago</div>
+        </div>
+        <div class="story">
+          <div class="kicker" style="color:var(--dial-blush)">India</div>
+          <h3>RBI expected to hold repo rate, commentary due midday</h3>
+          <p>Economists watch for guidance on liquidity ahead of the festival season.</p>
+          <div class="src">Mint · 3h ago</div>
+        </div>
+        <div class="story">
+          <div class="kicker" style="color:var(--dial-sage)">Triangle</div>
+          <h3>I-40 weekend lane closures near RTP for resurfacing</h3>
+          <p>Expect delays between Exit 279 and 283 through Monday 5am.</p>
+          <div class="src">WRAL · 4h ago</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 8 · NEW IN THE TRIANGLE ===================== -->
+  <section>
+    <div class="section-head">
+      <div class="label label--ink">New in the Triangle</div>
+      <div class="meta">Newly announced · Raleigh · Durham · Chapel Hill</div>
+    </div>
+    <div class="panel" style="--wash:var(--wash-blush);--dial:var(--dial-blush)">
+      <div class="outing">
+        <span class="badge">New</span>
+        <div>
+          <h4>Sylvan Esso — homecoming show</h4>
+          <div class="where">DPAC, Durham · Nov 14</div>
+          <div class="sale">Announced yesterday · On sale Fri 10:00</div>
+        </div>
+      </div>
+      <div class="outing">
+        <span class="badge">New</span>
+        <div>
+          <h4>Hopscotch Music Festival — late-night sets added</h4>
+          <div class="where">City Plaza, Raleigh · Sep 10–12</div>
+          <div class="sale">Lineup expanded Wed · Day passes available</div>
+        </div>
+      </div>
+      <div class="outing">
+        <span class="badge">New</span>
+        <div>
+          <h4>Triangle Data Engineering meetup — Iceberg in production</h4>
+          <div class="where">Frontier RTP, Durham · Thu 18:30</div>
+          <div class="sale">Posted 2 days ago · RSVP open, 41 spots left</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="label">Meridian · A private dashboard</div>
+    <div class="caliber">calibre no. 1 · assembled by hand, updated by agents</div>
+  </footer>
+
+</div>
+<script>
+  (function tick(){
+    var d = new Date();
+    var h = d.getHours(), m = d.getMinutes(), s = d.getSeconds();
+    var h12 = h % 12 || 12, am = h < 12 ? 'AM' : 'PM';
+    document.getElementById('digital').innerHTML =
+      h12 + ':' + String(m).padStart(2,'0') + '<small>' + am + '</small>';
+    function rot(id, deg){
+      var el = document.getElementById(id);
+      el.setAttribute('transform', 'rotate(' + deg + ' 50 50)');
+    }
+    rot('hh', (h % 12) * 30 + m * 0.5);
+    rot('mh', m * 6 + s * 0.1);
+    rot('sh', s * 6);
+    setTimeout(tick, 1000);
+  })();
+</script>
+</body>
+</html>

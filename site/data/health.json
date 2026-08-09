@@ -1,0 +1,29 @@
+{
+  "sample": true,
+  "synced": "",
+  "stats": [
+    {
+      "v": "7<small>h</small> 12<small>m</small>",
+      "k": "Sleep",
+      "trend": "▲ vs 7-day avg",
+      "dir": "up"
+    },
+    {
+      "v": "9,847",
+      "k": "Steps yesterday",
+      "trend": "▲ 12%",
+      "dir": "up"
+    },
+    {
+      "v": "54",
+      "k": "Resting HR",
+      "trend": "— steady"
+    },
+    {
+      "v": "412",
+      "k": "Active kcal",
+      "trend": "▼ 6%",
+      "dir": "down"
+    }
+  ]
+}

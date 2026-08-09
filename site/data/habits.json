@@ -1,0 +1,20 @@
+{
+  "sample": true,
+  "items": [
+    {
+      "text": "Morning walk",
+      "done": true,
+      "streak": 21
+    },
+    {
+      "text": "Read 20 pages",
+      "done": false,
+      "streak": 8
+    },
+    {
+      "text": "No sugar",
+      "done": false,
+      "streak": 3
+    }
+  ]
+}
