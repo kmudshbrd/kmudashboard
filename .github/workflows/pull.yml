@@ -17,6 +17,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Pull live data
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
         run: python3 scripts/pull.py
       - name: Commit refreshed data
         run: |

@@ -35,7 +35,7 @@ A personal, passcode-protected dashboard reachable from any device, refreshed au
 
 Codified from the approved direction (see `mockup.html` for the living reference). Masthead name: **MERIDIAN**.
 
-**Page order (fixed):** 1. Time (masthead with live analog watch face + serif digital time) → 2. Weather → 3. The Day (calendar + tasks) → 4. Health & habits → 5. Morning Brief → 6. Markets → 7. News feed → 8. New in the Triangle. No news above the fold.
+**Page order (v2, current):** I. Time (masthead with live analog watch face + serif digital time) → II. Weather → III. The Brief → IV. Markets (with 5-day sparklines) → V. News feed (featured lead stories) → VI. New in the Triangle. Health, calendar, tasks, and habits were removed 2026-08-09 (placeholder data only) — they return in Phase 3 with real integrations. Production fonts: Playfair Display + Inter via Google Fonts.
 
 - **Ground**: warm white paper (`#FDFDFB`), near-black ink (`#161310`), **1px hairline rules** (`#E8E4DB`) between sections.
 - **Enamel-dial color washes** (per user request for more color — soft, like enamel watch dials, never loud blocks): each module sits in a panel with a pale wash, a 2px colored top border, and matching colored numerals/labels. Sky `#EDF3F7`/`#33586E` for weather & Data-AI news; sage `#EEF4EE`/`#3E6B4F` for health; champagne `#F9F4EA`/gold for calendar & briefing; slate `#F4F4F1`/`#4A4A45` for tasks; blush `#F9F1ED`/terracotta `#A65A47` for Triangle events & India markets.

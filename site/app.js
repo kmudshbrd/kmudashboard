@@ -1,6 +1,6 @@
 /* Meridian — front-end renderer.
-   Reads static JSON from ./data (written by scripts/pull.py + scripts/brief.py,
-   committed by the scheduled GitHub workflows). */
+   Reads static JSON from ./data (written by scripts/pull.py, committed by the
+   scheduled GitHub workflow). */
 
 const $ = (s) => document.querySelector(s);
 const esc = (s) =>
@@ -63,17 +63,6 @@ function renderWeather(w) {
     </div>`;
 }
 
-/* ---------- briefing ---------- */
-function renderBrief(b) {
-  if (!b) return;
-  $("#brief").innerHTML = `
-    <div class="label label--gold">The Brief${b.sample ? '<span class="sampletag">preview</span>' : ""}</div>
-    <h1>${esc(b.headline)}</h1>
-    <div class="rule"></div>
-    ${b.paras.map((p) => `<p>${esc(p)}</p>`).join("")}
-    <div class="signoff">${esc(b.signoff)}</div>`;
-}
-
 /* ---------- markets ---------- */
 function fmtPrice(p) {
   if (p == null) return "—";
@@ -127,11 +116,10 @@ function renderNews(nw) {
   if (!nw) { $("#news-grid").innerHTML = `<div class="col-12 empty">News unavailable</div>`; return; }
   $("#news-meta").textContent = nw.meta ?? "";
   $("#news-grid").innerHTML = nw.columns.map((c) => `
-    <div class="col-6 newscol">
+    <div class="col-3 newscol">
       <div class="label" style="color:${c.color}">${esc(c.label)}</div>
       ${c.stories.map((s, i) => `
         <a class="story${i === 0 ? " featured" : ""}" href="${esc(s.link)}" target="_blank" rel="noopener">
-          <div class="kicker" style="color:${c.color}">${esc(s.kicker)}</div>
           <h3>${esc(s.title)}</h3>
           <div class="src">${esc(s.source)}${s.time ? ` · ${esc(s.time)}` : ""}</div>
         </a>`).join("")}
@@ -140,31 +128,33 @@ function renderNews(nw) {
 
 /* ---------- events ---------- */
 function renderEvents(ev) {
-  if (!ev) return;
+  if (!ev || !ev.groups) { $("#events-grid").innerHTML = `<div class="col-12 empty">Events unavailable</div>`; return; }
   $("#events-tag").hidden = !ev.sample;
-  $("#events-list").innerHTML = ev.items.length
-    ? ev.items.map((e) => `
-        <div class="outing">
-          <span class="badge">New</span>
-          <div>
-            <h4>${esc(e.title)}</h4>
-            <div class="where">${esc(e.where)}</div>
-            <div class="sale">${esc(e.line)}</div>
-          </div>
-        </div>`).join("")
-    : `<div class="empty">Nothing newly announced — the agent checks daily.</div>`;
+  $("#events-grid").innerHTML = ev.groups.map((g) => `
+    <div class="col-6">
+      <div class="panel panel--events" style="--wash:var(--wash-blush);--dial:var(--dial-blush)">
+        <div class="label">${esc(g.label)}</div>
+        ${g.items.length ? g.items.map((e) => `
+          <div class="ev-item">
+            <div>
+              <div class="ev-title">${esc(e.title)}</div>
+              <div class="ev-where">${esc(e.where)}</div>
+            </div>
+            <div class="ev-when">${esc(e.line)}</div>
+          </div>`).join("") : `<div class="empty">Nothing on the calendar yet.</div>`}
+      </div>
+    </div>`).join("");
 }
 
 /* ---------- boot ---------- */
 (async function main() {
   tick();
-  const [meta, weather, brief, markets, news, events] = await Promise.all([
-    load("meta"), load("weather"), load("brief"), load("markets"), load("news"), load("events"),
+  const [meta, weather, markets, news, events] = await Promise.all([
+    load("meta"), load("weather"), load("markets"), load("news"), load("events"),
   ]);
   dateline(meta?.generated);
   renderWeather(weather);
-  renderBrief(brief);
-  renderMarkets(markets);
   renderNews(news);
   renderEvents(events);
+  renderMarkets(markets);
 })();

@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
-"""Meridian — data pull agent (Phase 1, local).
+"""Meridian — data pull agent.
 
-Fetches live weather, markets, and news; writes JSON into site/data/.
-Later this logic moves into a Cloudflare Worker on a cron trigger.
-All sources are free and keyless.
+Fetches live weather, markets (2-year performance), news (4 deduplicated
+sections), and Triangle events; writes JSON into site/data/.
+
+Free/keyless sources throughout, except events: set TICKETMASTER_KEY in the
+environment (free key from developer.ticketmaster.com) for real Triangle
+events; without it, tagged sample data is kept.
 """
 import datetime as dt
 import html
-import http.cookiejar
 import json
+import os
 import pathlib
 import re
 import subprocess
@@ -23,6 +26,7 @@ def now_et():
     """Naive Eastern-time now — data timestamps must not depend on runner TZ."""
     return dt.datetime.now(TZ).replace(tzinfo=None)
 
+
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "site" / "data"
 DATA.mkdir(parents=True, exist_ok=True)
@@ -30,10 +34,20 @@ DATA.mkdir(parents=True, exist_ok=True)
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 RALEIGH = (35.7796, -78.6382)
 
+
 def get(url, timeout=25, headers=None):
     req = urllib.request.Request(url, headers={**UA, **(headers or {})})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", "replace")
+
+
+def jget(url):
+    return json.loads(get(url))
+
+
+def write(name, obj):
+    (DATA / f"{name}.json").write_text(json.dumps(obj, indent=2, ensure_ascii=False))
+    print(f"  wrote {name}.json")
 
 
 # Yahoo Finance quirks, learned the hard way:
@@ -63,15 +77,6 @@ def yahoo_get(url):
     if code != "200":
         raise RuntimeError(f"HTTP {code or 'error'}")
     return body
-
-
-def jget(url):
-    return json.loads(get(url))
-
-
-def write(name, obj):
-    (DATA / f"{name}.json").write_text(json.dumps(obj, indent=2, ensure_ascii=False))
-    print(f"  wrote {name}.json")
 
 
 # ---------------------------------------------------------------- weather
@@ -169,9 +174,10 @@ INDIA = [
 
 
 def quote(symbol, attempt=0):
+    """Current price + 2-year performance (% change and weekly close series)."""
     try:
         d = json.loads(yahoo_get(
-            f"https://query2.finance.yahoo.com/v8/finance/chart/{urllib.request.quote(symbol)}?range=5d&interval=1d"
+            f"https://query2.finance.yahoo.com/v8/finance/chart/{urllib.request.quote(symbol)}?range=2y&interval=1wk"
         ))
     except Exception:
         if attempt < 1:
@@ -180,19 +186,16 @@ def quote(symbol, attempt=0):
         raise
     result = d["chart"]["result"][0]
     meta = result["meta"]
-    price = meta.get("regularMarketPrice")
-    # meta's previousClose fields reflect the start of the requested range, not
-    # the prior session — derive the true previous close from the daily series.
     closes = [c for c in result["indicators"]["quote"][0].get("close", []) if c is not None]
-    if price is None and closes:
-        price = closes[-1]
-    # With interval=1d the final bar is the latest session (live or closed),
-    # so the prior session's close is always the second-to-last bar.
-    prev = closes[-2] if len(closes) >= 2 else (
-        meta.get("regularMarketPreviousClose") or meta.get("previousClose"))
-    pct = (price / prev - 1) * 100 if price and prev else None
+    price = meta.get("regularMarketPrice") or (closes[-1] if closes else None)
+    pct = (price / closes[0] - 1) * 100 if price and closes else None
+    # thin the weekly series to ~36 points for the sparkline
+    step = max(1, len(closes) // 36)
+    series = closes[::step]
+    if price is not None:
+        series = series[:-1] + [price] if series else [price]
     time.sleep(2)  # be polite between symbols
-    return price, pct, closes[-6:]  # ≤5 sessions + today, for sparklines
+    return price, pct, series
 
 
 def pull_markets():
@@ -212,11 +215,11 @@ def pull_markets():
             out.append({"name": name, "sub": sub, "price": price, "changePct": pct, "series": series})
         groups.append({"label": label, "color": color, "rows": out})
     stamp = now_et().strftime("%H:%M")
-    write("markets", {"meta": f"Quotes as of {stamp} ET", "groups": groups})
+    write("markets", {"meta": f"2-year performance · quotes as of {stamp} ET", "groups": groups})
 
 
 # ---------------------------------------------------------------- news
-def rss(url, kicker, n=4):
+def rss(url, n=12):
     xml = get(url)
     stories = []
     for it in re.findall(r"<item>(.*?)</item>", xml, re.S):
@@ -238,8 +241,7 @@ def rss(url, kicker, n=4):
                 ago = f"{hours}h ago" if hours < 24 else f"{hours // 24}d ago"
             except Exception:
                 pass
-        stories.append({"kicker": kicker, "title": title,
-                        "source": source, "time": ago,
+        stories.append({"title": title, "source": source, "time": ago,
                         "link": html.unescape(m_l.group(1)) if m_l else "#"})
         if len(stories) == n:
             break
@@ -248,59 +250,135 @@ def rss(url, kicker, n=4):
 
 def pull_news():
     gn = "https://news.google.com/rss"
-    feeds_left = [
-        (f"{gn}/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en", "World", 3),
-        (f"{gn}/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en", "Business", 3),
-    ]
-    feeds_right = [
-        (f"{gn}?hl=en-IN&gl=IN&ceid=IN:en", "India", 3),
-        (f"{gn}/search?q=%22Raleigh%22%20OR%20%22Durham%22%20OR%20%22Chapel%20Hill%22%20NC&hl=en-US&gl=US&ceid=US:en", "Triangle", 3),
+    sections = [
+        ("USA", "var(--dial-slate)",
+         f"{gn}/headlines/section/topic/NATION?hl=en-US&gl=US&ceid=US:en"),
+        ("India", "var(--dial-blush)",
+         f"{gn}/headlines/section/topic/NATION?hl=en-IN&gl=IN&ceid=IN:en"),
+        ("World", "var(--dial-sky)",
+         f"{gn}/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en"),
+        ("The Triangle", "var(--dial-sage)",
+         f"{gn}/search?q=%22Raleigh%22%20OR%20%22Durham%22%20OR%20%22Chapel%20Hill%22%20NC&hl=en-US&gl=US&ceid=US:en"),
     ]
 
-    def col(feeds):
-        out = []
-        for url, kicker, n in feeds:
-            try:
-                out += rss(url, kicker, n)
-            except Exception as e:
-                print(f"  ! rss {kicker}: {e}")
-        return out
+    seen = set()  # dedup across all four sections
+    columns = []
+    for label, color, url in sections:
+        picked = []
+        try:
+            for s in rss(url, n=15):
+                key = re.sub(r"[^a-z0-9]", "", s["title"].lower())[:64]
+                if key in seen:
+                    continue
+                seen.add(key)
+                picked.append(s)
+                if len(picked) == 6:
+                    break
+        except Exception as e:
+            print(f"  ! rss {label}: {e}")
+        columns.append({"label": label, "color": color, "stories": picked})
 
-    write("news", {
-        "meta": "General briefing · headlines only",
-        "columns": [
-            {"label": "World & Business", "color": "var(--dial-slate)", "stories": col(feeds_left)},
-            {"label": "India & The Triangle", "color": "var(--dial-blush)", "stories": col(feeds_right)},
-        ],
+    write("news", {"meta": "Four desks · deduplicated", "columns": columns})
+
+
+# ---------------------------------------------------------------- events
+EVENT_BUCKETS = ["This Week", "Next Week", "This Month", "This Year"]
+
+
+def bucket_for(days_out):
+    if days_out <= 7: return "This Week"
+    if days_out <= 14: return "Next Week"
+    if days_out <= 31: return "This Month"
+    return "This Year"
+
+
+def pull_events():
+    key = os.environ.get("TICKETMASTER_KEY")
+    if not key:
+        print("  events: TICKETMASTER_KEY not set — keeping sample events")
+        return
+
+    lat, lon = RALEIGH
+    d = jget(
+        "https://app.ticketmaster.com/discovery/v2/events.json"
+        f"?apikey={key}&latlong={lat},{lon}&radius=40&unit=miles"
+        "&sort=date,asc&size=200"
+    )
+    today = now_et().date()
+    groups = {b: [] for b in EVENT_BUCKETS}
+    seen = set()
+    for ev in d.get("_embedded", {}).get("events", []):
+        name = ev.get("name", "").strip()
+        norm = re.sub(r"[^a-z0-9]", "", name.lower())[:48]
+        if not name or norm in seen:
+            continue
+        try:
+            date = dt.date.fromisoformat(ev["dates"]["start"]["localDate"])
+        except Exception:
+            continue
+        days_out = (date - today).days
+        if days_out < 0 or date.year > today.year:
+            continue
+        b = bucket_for(days_out)
+        if len(groups[b]) >= 8:
+            continue
+        seen.add(norm)
+        venues = ev.get("_embedded", {}).get("venues", [{}])
+        venue = venues[0].get("name", "")
+        city = venues[0].get("city", {}).get("name", "")
+        groups[b].append({
+            "title": name,
+            "where": " · ".join(x for x in [venue, city] if x),
+            "line": date.strftime("%a · %b %-d"),
+        })
+    write("events", {
+        "sample": False,
+        "groups": [{"label": b, "items": groups[b]} for b in EVENT_BUCKETS],
     })
 
 
-# ---------------------------------------------------------------- samples
-# Stand-ins until Phase 2 (calendar/tasks/brief) and Phase 3 (health/events).
-def write_samples():
-    if not (DATA / "events.json").exists():
-        write("events", {"sample": True, "items": [
-            {"title": "Sylvan Esso — homecoming show", "where": "DPAC, Durham · Nov 14", "line": "Announced yesterday · On sale Fri 10:00"},
-            {"title": "Hopscotch Music Festival — late-night sets added", "where": "City Plaza, Raleigh · Sep 10–12", "line": "Lineup expanded Wed · Day passes available"},
-            {"title": "Triangle Data Engineering meetup — Iceberg in production", "where": "Frontier RTP, Durham · Thu 18:30", "line": "Posted 2 days ago · RSVP open"},
-        ]})
-    if not (DATA / "brief.json").exists():
-        write("brief", {"sample": True,
-            "headline": "Your dashboard is alive — markets, weather, and news are real.",
-            "paras": [
-                "This brief is a preview: from Phase 2, Claude will write it twice a day from everything above and below — your sleep, your calendar, the metals board, and the morning's headlines.",
-                "Weather, markets, and the news feed on this page are already live data, pulled by the agent script moments ago.",
-            ],
-            "signoff": "— composed by the build process, awaiting its API key"})
+def write_sample_events():
+    if (DATA / "events.json").exists():
+        return
+    write("events", {"sample": True, "groups": [
+        {"label": "This Week", "items": [
+            {"title": "Jazz at Sharp 9 Gallery", "where": "Sharp 9 Gallery · Durham", "line": "Fri · 8:00 PM"},
+            {"title": "Durham Bulls vs. Norfolk Tides", "where": "Durham Bulls Athletic Park", "line": "Sat · 6:35 PM"},
+            {"title": "Midtown Farmers Market", "where": "North Hills · Raleigh", "line": "Sat · 8:00 AM"},
+            {"title": "Carolina Theatre classic film series", "where": "Carolina Theatre · Durham", "line": "Sun · 2:00 PM"},
+            {"title": "Live bluegrass on the lawn", "where": "Weaver Street Market · Carrboro", "line": "Sun · 11:00 AM"},
+        ]},
+        {"label": "Next Week", "items": [
+            {"title": "NC Symphony: Beethoven's Seventh", "where": "Meymandi Concert Hall · Raleigh", "line": "Fri · 7:30 PM"},
+            {"title": "Touring Broadway series opens", "where": "DPAC · Durham", "line": "Tue – Sun"},
+            {"title": "Third Friday Gallery Walk", "where": "Downtown Durham", "line": "Fri · 6:00 PM"},
+            {"title": "Museum after-hours: night at the NCMA", "where": "NC Museum of Art · Raleigh", "line": "Sat · 7:00 PM"},
+            {"title": "Indie rock at Cat's Cradle", "where": "Cat's Cradle · Carrboro", "line": "Thu · 8:00 PM"},
+        ]},
+        {"label": "This Month", "items": [
+            {"title": "Hopscotch Music Festival", "where": "City Plaza · Raleigh", "line": "Sep 10 – 12"},
+            {"title": "Bull City Food & Beer Experience", "where": "DPAC · Durham", "line": "Sep 20"},
+            {"title": "SparkCON creativity festival", "where": "Fayetteville St · Raleigh", "line": "Sep 26 – 27"},
+            {"title": "Carolina Hurricanes preseason opener", "where": "Lenovo Center · Raleigh", "line": "Sep 29"},
+            {"title": "American Dance Festival gala", "where": "Page Auditorium · Durham", "line": "Sep 24"},
+        ]},
+        {"label": "This Year", "items": [
+            {"title": "NC State Fair", "where": "State Fairgrounds · Raleigh", "line": "Oct 15 – 25"},
+            {"title": "Art of Cool jazz festival", "where": "Downtown Durham", "line": "Oct 24 – 26"},
+            {"title": "World of Bluegrass week", "where": "Downtown Raleigh", "line": "Nov 4 – 8"},
+            {"title": "Chinese Lantern Festival", "where": "Koka Booth Amphitheatre · Cary", "line": "Nov 20 – Jan 11"},
+            {"title": "First Night Raleigh", "where": "Fayetteville St · Raleigh", "line": "Dec 31"},
+        ]},
+    ]})
 
 
 if __name__ == "__main__":
     print("Pulling live data…")
-    for fn in (pull_weather, pull_markets, pull_news):
+    for fn in (pull_weather, pull_markets, pull_news, pull_events):
         try:
             fn()
         except Exception as e:
             print(f"  !! {fn.__name__} failed: {e}")
-    write_samples()
+    write_sample_events()
     write("meta", {"generated": dt.datetime.now(TZ).isoformat()})
     print("Done.")
