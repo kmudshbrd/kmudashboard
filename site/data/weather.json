@@ -1,6 +1,6 @@
 {
   "temp": 94.6,
-  "desc": "Mostly clear, feels like 100°.",
+  "desc": "Clear sky, feels like 100°.",
   "aqi": 54,
   "aqiLabel": "Moderate",
   "sunrise": "06:28",
@@ -20,7 +20,7 @@
     },
     {
       "h": "00h",
-      "icon": "☀︎",
+      "icon": "☁︎",
       "t": 77.6,
       "p": 4
     },

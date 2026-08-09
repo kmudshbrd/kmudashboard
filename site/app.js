@@ -1,6 +1,6 @@
 /* Meridian — front-end renderer.
-   Reads static JSON from ./data (written by scripts/pull.py locally,
-   later by the Cloudflare Worker cron). */
+   Reads static JSON from ./data (written by scripts/pull.py + scripts/brief.py,
+   committed by the scheduled GitHub workflows). */
 
 const $ = (s) => document.querySelector(s);
 const esc = (s) =>
@@ -42,7 +42,7 @@ function dateline(updatedISO) {
 
 /* ---------- weather ---------- */
 function renderWeather(w) {
-  if (!w) { $("#weather-panel").innerHTML = `<div class="empty">Weather unavailable — run scripts/pull.py</div>`; return; }
+  if (!w) { $("#weather-panel").innerHTML = `<div class="empty">Weather unavailable</div>`; return; }
   $("#weather-meta").textContent =
     `Raleigh–Durham · AQI ${w.aqi ?? "—"} ${w.aqiLabel ?? ""} · Sunrise ${w.sunrise} · Sunset ${w.sunset}`;
   $("#weather-panel").innerHTML = `
@@ -63,62 +63,13 @@ function renderWeather(w) {
     </div>`;
 }
 
-/* ---------- calendar & tasks ---------- */
-function renderDay(cal, tasks) {
-  if (cal) {
-    $("#cal-tag").hidden = !cal.sample;
-    $("#calendar-list").innerHTML = cal.events.length
-      ? cal.events.map((e) => `
-          <div class="event${e.now ? " now" : ""}">
-            <div class="time">${esc(e.time)}</div>
-            <div><div class="what">${esc(e.what)}${e.star ? " ★" : ""}</div>
-            <div class="where">${esc(e.where ?? "")}</div></div>
-          </div>`).join("")
-      : `<div class="empty">Nothing scheduled — a clear day.</div>`;
-  }
-  if (tasks) {
-    $("#task-tag").hidden = !tasks.sample;
-    const done = tasks.items.filter((t) => t.done).length;
-    $("#tasks-label").firstChild.textContent = `Tasks · ${done} of ${tasks.items.length} done`;
-    $("#tasks-list").innerHTML = tasks.items.map((t) => `
-      <div class="habit${t.done ? " done" : ""}">
-        <div class="left"><span class="mark">${t.done ? "✓" : ""}</span>${esc(t.text)}</div>
-        ${t.due ? `<span class="label" style="color:var(--down)">${esc(t.due)}</span>` : ""}
-      </div>`).join("");
-  }
-  const n = cal ? cal.events.length : 0, m = tasks ? tasks.items.length : 0;
-  $("#day-meta").textContent = `${n} event${n === 1 ? "" : "s"} · ${m} task${m === 1 ? "" : "s"}`;
-}
-
-/* ---------- health & habits ---------- */
-function renderHealth(h, habits) {
-  if (h) {
-    $("#health-meta").innerHTML = h.sample
-      ? `Awaiting Apple Health bridge<span class="sampletag">sample</span>`
-      : `Synced from Apple Health · ${esc(h.synced)}`;
-    $("#health-stats").innerHTML = h.stats.map((s) => `
-      <div class="stat">
-        <div class="v">${s.v}</div>
-        <div class="k">${esc(s.k)}</div>
-        <div class="trend ${s.dir === "up" ? "delta up" : s.dir === "down" ? "delta down" : ""}"
-             ${!s.dir ? 'style="color:var(--faint)"' : ""}>${esc(s.trend)}</div>
-      </div>`).join("");
-  }
-  if (habits) {
-    $("#habits-list").innerHTML = habits.items.map((x) => `
-      <div class="habit${x.done ? " done" : ""}">
-        <div class="left"><span class="mark">${x.done ? "✓" : ""}</span>${esc(x.text)}</div>
-        <span class="streak">${x.streak} days</span>
-      </div>`).join("");
-  }
-}
-
 /* ---------- briefing ---------- */
 function renderBrief(b) {
   if (!b) return;
   $("#brief").innerHTML = `
-    <div class="label label--gold">The Morning Brief${b.sample ? '<span class="sampletag">preview</span>' : ""}</div>
+    <div class="label label--gold">The Brief${b.sample ? '<span class="sampletag">preview</span>' : ""}</div>
     <h1>${esc(b.headline)}</h1>
+    <div class="rule"></div>
     ${b.paras.map((p) => `<p>${esc(p)}</p>`).join("")}
     <div class="signoff">${esc(b.signoff)}</div>`;
 }
@@ -126,38 +77,60 @@ function renderBrief(b) {
 /* ---------- markets ---------- */
 function fmtPrice(p) {
   if (p == null) return "—";
-  const digits = p >= 1000 ? 2 : p >= 100 ? 2 : 3;
+  const digits = p >= 100 ? 2 : 3;
   return p.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: digits });
 }
+
+function sparkline(series, pct) {
+  if (!Array.isArray(series) || series.length < 3) return "";
+  const w = 64, h = 20, pad = 2;
+  const min = Math.min(...series), max = Math.max(...series);
+  const span = max - min || 1;
+  const pts = series.map((v, i) => {
+    const x = pad + (i * (w - 2 * pad)) / (series.length - 1);
+    const y = h - pad - ((v - min) * (h - 2 * pad)) / span;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+  const color = pct == null || Math.abs(pct) < 0.005 ? "var(--faint)" : pct > 0 ? "var(--up)" : "var(--down)";
+  const [lastX, lastY] = pts.split(" ").at(-1).split(",");
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true">
+    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="${lastX}" cy="${lastY}" r="1.8" fill="${color}"/>
+  </svg>`;
+}
+
 function renderMarkets(mk) {
-  if (!mk) { $("#markets-grid").innerHTML = `<div class="col-12 empty">Markets unavailable — run scripts/pull.py</div>`; return; }
+  if (!mk) { $("#markets-grid").innerHTML = `<div class="col-12 empty">Markets unavailable</div>`; return; }
   $("#markets-meta").textContent = mk.meta ?? "";
   $("#markets-grid").innerHTML = mk.groups.map((g) => `
     <div class="col-4">
-      <div class="label" style="margin-bottom:6px;color:${g.color}">${esc(g.label)}</div>
-      ${g.rows.map((r) => {
-        const pct = r.changePct;
-        const cls = pct == null ? "flat" : pct >= 0.005 ? "up" : pct <= -0.005 ? "down" : "flat";
-        const arrow = cls === "up" ? "▲" : cls === "down" ? "▼" : "–";
-        const pctTxt = pct == null ? "" : `${arrow} ${Math.abs(pct).toFixed(2)}%`;
-        return `
-          <div class="row">
-            <div><div class="name">${esc(r.name)}</div><div class="sub">${esc(r.sub)}</div></div>
-            <div class="right"><span class="num">${fmtPrice(r.price)}</span><span class="delta ${cls}">${pctTxt}</span></div>
-          </div>`;
-      }).join("")}
+      <div class="mgroup" style="--gcolor:${g.color}">
+        <div class="label">${esc(g.label)}</div>
+        ${g.rows.map((r) => {
+          const pct = r.changePct;
+          const cls = pct == null ? "flat" : pct >= 0.005 ? "up" : pct <= -0.005 ? "down" : "flat";
+          const arrow = cls === "up" ? "▲" : cls === "down" ? "▼" : "–";
+          const pctTxt = pct == null ? "" : `${arrow} ${Math.abs(pct).toFixed(2)}%`;
+          return `
+            <div class="row">
+              <div><div class="name">${esc(r.name)}</div><div class="sub">${esc(r.sub)}</div></div>
+              <div class="spark">${sparkline(r.series, pct)}</div>
+              <div class="right"><span class="num">${fmtPrice(r.price)}</span><span class="delta ${cls}">${pctTxt}</span></div>
+            </div>`;
+        }).join("")}
+      </div>
     </div>`).join("");
 }
 
 /* ---------- news ---------- */
 function renderNews(nw) {
-  if (!nw) { $("#news-grid").innerHTML = `<div class="col-12 empty">News unavailable — run scripts/pull.py</div>`; return; }
+  if (!nw) { $("#news-grid").innerHTML = `<div class="col-12 empty">News unavailable</div>`; return; }
   $("#news-meta").textContent = nw.meta ?? "";
   $("#news-grid").innerHTML = nw.columns.map((c) => `
-    <div class="col-6">
-      <div class="label" style="margin-bottom:4px;color:${c.color}">${esc(c.label)}</div>
-      ${c.stories.map((s) => `
-        <a class="story" href="${esc(s.link)}" target="_blank" rel="noopener">
+    <div class="col-6 newscol">
+      <div class="label" style="color:${c.color}">${esc(c.label)}</div>
+      ${c.stories.map((s, i) => `
+        <a class="story${i === 0 ? " featured" : ""}" href="${esc(s.link)}" target="_blank" rel="noopener">
           <div class="kicker" style="color:${c.color}">${esc(s.kicker)}</div>
           <h3>${esc(s.title)}</h3>
           <div class="src">${esc(s.source)}${s.time ? ` · ${esc(s.time)}` : ""}</div>
@@ -185,15 +158,11 @@ function renderEvents(ev) {
 /* ---------- boot ---------- */
 (async function main() {
   tick();
-  const [meta, weather, cal, tasks, health, habits, brief, markets, news, events] =
-    await Promise.all([
-      load("meta"), load("weather"), load("calendar"), load("tasks"), load("health"),
-      load("habits"), load("brief"), load("markets"), load("news"), load("events"),
-    ]);
+  const [meta, weather, brief, markets, news, events] = await Promise.all([
+    load("meta"), load("weather"), load("brief"), load("markets"), load("news"), load("events"),
+  ]);
   dateline(meta?.generated);
   renderWeather(weather);
-  renderDay(cal, tasks);
-  renderHealth(health, habits);
   renderBrief(brief);
   renderMarkets(markets);
   renderNews(news);

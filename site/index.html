@@ -4,12 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Meridian</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <div class="page">
 
-  <!-- 1 · TIME -->
+  <!-- I · TIME -->
   <header>
     <div class="monogram">M</div>
     <div class="wordmark">Meridian</div>
@@ -41,10 +44,10 @@
     <div class="masthead-rule"></div>
   </header>
 
-  <!-- 2 · WEATHER -->
+  <!-- II · WEATHER -->
   <section id="sec-weather">
     <div class="section-head">
-      <div class="label label--ink">Weather</div>
+      <div class="label label--ink"><span class="secnum">II</span>Weather</div>
       <div class="meta" id="weather-meta">—</div>
     </div>
     <div class="panel" style="--wash:var(--wash-sky);--dial:var(--dial-sky)" id="weather-panel">
@@ -52,78 +55,38 @@
     </div>
   </section>
 
-  <!-- 3 · THE DAY -->
-  <section id="sec-day">
-    <div class="section-head">
-      <div class="label label--ink">The Day</div>
-      <div class="meta" id="day-meta">—</div>
-    </div>
-    <div class="grid">
-      <div class="col-6">
-        <div class="panel" style="--wash:var(--wash-cream);--dial:var(--dial-cream)">
-          <div class="label" style="margin-bottom:8px">Calendar<span class="sampletag" id="cal-tag" hidden>sample</span></div>
-          <div id="calendar-list"><div class="empty">Loading…</div></div>
-        </div>
-      </div>
-      <div class="col-6">
-        <div class="panel" style="--wash:var(--wash-slate);--dial:var(--dial-slate)">
-          <div class="label" style="margin-bottom:8px" id="tasks-label">Tasks<span class="sampletag" id="task-tag" hidden>sample</span></div>
-          <div id="tasks-list"><div class="empty">Loading…</div></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 4 · HEALTH -->
-  <section id="sec-health">
-    <div class="section-head">
-      <div class="label label--ink">Health &amp; Habits</div>
-      <div class="meta" id="health-meta">—</div>
-    </div>
-    <div class="grid">
-      <div class="col-8">
-        <div class="panel" style="--wash:var(--wash-sage);--dial:var(--dial-sage)">
-          <div class="stats" id="health-stats"><div class="empty">Loading…</div></div>
-        </div>
-      </div>
-      <div class="col-4">
-        <div class="panel" id="habits-list"><div class="empty">Loading…</div></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 5 · BRIEFING -->
+  <!-- III · THE BRIEF -->
   <section id="sec-brief">
-    <div class="panel" style="--wash:var(--wash-cream);--dial:var(--dial-cream);padding:36px 32px">
+    <div class="panel panel--brief" style="--wash:var(--wash-cream);--dial:var(--dial-cream)">
       <div class="brief" id="brief">
-        <div class="label label--gold">The Morning Brief</div>
+        <div class="label label--gold">The Brief</div>
         <div class="empty">Loading…</div>
       </div>
     </div>
   </section>
 
-  <!-- 6 · MARKETS -->
+  <!-- IV · MARKETS -->
   <section id="sec-markets">
     <div class="section-head">
-      <div class="label label--ink">Markets</div>
+      <div class="label label--ink"><span class="secnum">IV</span>Markets</div>
       <div class="meta" id="markets-meta">—</div>
     </div>
     <div class="grid" id="markets-grid"><div class="col-12 empty">Loading…</div></div>
   </section>
 
-  <!-- 7 · NEWS -->
+  <!-- V · NEWS -->
   <section id="sec-news">
     <div class="section-head">
-      <div class="label label--ink">The Feed</div>
+      <div class="label label--ink"><span class="secnum">V</span>The Feed</div>
       <div class="meta" id="news-meta">—</div>
     </div>
     <div class="grid" id="news-grid"><div class="col-12 empty">Loading…</div></div>
   </section>
 
-  <!-- 8 · NEW IN THE TRIANGLE -->
+  <!-- VI · NEW IN THE TRIANGLE -->
   <section id="sec-events">
     <div class="section-head">
-      <div class="label label--ink">New in the Triangle</div>
+      <div class="label label--ink"><span class="secnum">VI</span>New in the Triangle</div>
       <div class="meta">Newly announced · Raleigh · Durham · Chapel Hill<span class="sampletag" id="events-tag" hidden>sample</span></div>
     </div>
     <div class="panel" style="--wash:var(--wash-blush);--dial:var(--dial-blush)" id="events-list">
@@ -132,6 +95,7 @@
   </section>
 
   <footer>
+    <div class="footer-diamond"></div>
     <div class="label">Meridian · A private dashboard</div>
     <div class="caliber">calibre no. 1 · assembled by hand, updated by agents</div>
   </footer>

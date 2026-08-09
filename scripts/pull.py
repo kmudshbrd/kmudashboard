@@ -192,7 +192,7 @@ def quote(symbol, attempt=0):
         meta.get("regularMarketPreviousClose") or meta.get("previousClose"))
     pct = (price / prev - 1) * 100 if price and prev else None
     time.sleep(2)  # be polite between symbols
-    return price, pct
+    return price, pct, closes[-6:]  # ≤5 sessions + today, for sparklines
 
 
 def pull_markets():
@@ -205,11 +205,11 @@ def pull_markets():
         out = []
         for name, sub, sym in rows:
             try:
-                price, pct = quote(sym)
+                price, pct, series = quote(sym)
             except Exception as e:
                 print(f"  ! {sym}: {e}")
-                price, pct = None, None
-            out.append({"name": name, "sub": sub, "price": price, "changePct": pct})
+                price, pct, series = None, None, []
+            out.append({"name": name, "sub": sub, "price": price, "changePct": pct, "series": series})
         groups.append({"label": label, "color": color, "rows": out})
     stamp = now_et().strftime("%H:%M")
     write("markets", {"meta": f"Quotes as of {stamp} ET", "groups": groups})
@@ -278,34 +278,6 @@ def pull_news():
 # ---------------------------------------------------------------- samples
 # Stand-ins until Phase 2 (calendar/tasks/brief) and Phase 3 (health/events).
 def write_samples():
-    if not (DATA / "calendar.json").exists():
-        write("calendar", {"sample": True, "events": [
-            {"time": "11:00", "what": "Architecture review — lakehouse migration", "where": "Google Meet · 45 min", "now": True},
-            {"time": "13:30", "what": "Lunch with Priya", "where": "Amber India, Cary"},
-            {"time": "16:00", "what": "1:1 with Daniel", "where": "Office · Room 4B"},
-            {"time": "20:00", "what": "Jazz at Sharp 9 Gallery", "where": "Durham", "star": True},
-        ]})
-    if not (DATA / "tasks.json").exists():
-        write("tasks", {"sample": True, "items": [
-            {"text": "Renew car insurance", "done": True},
-            {"text": "Send migration doc for review", "done": True},
-            {"text": "Book Diwali flights", "done": False, "due": "Due today"},
-            {"text": "Review Q3 pipeline costs", "done": False},
-            {"text": "Call plumber re: kitchen", "done": False},
-        ]})
-    if not (DATA / "health.json").exists():
-        write("health", {"sample": True, "synced": "", "stats": [
-            {"v": "7<small>h</small> 12<small>m</small>", "k": "Sleep", "trend": "▲ vs 7-day avg", "dir": "up"},
-            {"v": "9,847", "k": "Steps yesterday", "trend": "▲ 12%", "dir": "up"},
-            {"v": "54", "k": "Resting HR", "trend": "— steady"},
-            {"v": "412", "k": "Active kcal", "trend": "▼ 6%", "dir": "down"},
-        ]})
-    if not (DATA / "habits.json").exists():
-        write("habits", {"sample": True, "items": [
-            {"text": "Morning walk", "done": True, "streak": 21},
-            {"text": "Read 20 pages", "done": False, "streak": 8},
-            {"text": "No sugar", "done": False, "streak": 3},
-        ]})
     if not (DATA / "events.json").exists():
         write("events", {"sample": True, "items": [
             {"title": "Sylvan Esso — homecoming show", "where": "DPAC, Durham · Nov 14", "line": "Announced yesterday · On sale Fri 10:00"},
