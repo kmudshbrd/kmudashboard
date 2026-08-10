@@ -50,11 +50,6 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Evening Garden Stroll",
-          "where": "Bobby G. Wilder Visitor Center · Raleigh",
-          "line": "Tue · Aug 11"
-        },
-        {
           "title": "Grandma & Me",
           "where": "Waverly Place · Cary",
           "line": "Tue · Aug 11"
@@ -67,6 +62,11 @@
         {
           "title": "Jacques ze Whipper",
           "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Jazz Night-Aloft",
+          "where": "WXYZ Lounge · Raleigh",
           "line": "Tue · Aug 11"
         },
         {
@@ -145,6 +145,11 @@
           "line": "Fri · Sep 11"
         },
         {
+          "title": "9/11 Remembrance Ceremony",
+          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
+          "line": "Fri · Sep 11"
+        },
+        {
           "title": "College Football: N.C. State Wolfpack vs. Richmond Spiders",
           "where": "Carter-Finley Stadium · Raleigh",
           "line": "Fri · Sep 11"
@@ -172,11 +177,6 @@
         {
           "title": "Teen Art Cart",
           "where": "DCP Gathering House · Cary",
-          "line": "Fri · Sep 11"
-        },
-        {
-          "title": "Watercolor Society of North Carolina Gallery Reception",
-          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Fri · Sep 11"
         }
       ]
