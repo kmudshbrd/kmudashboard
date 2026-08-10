@@ -380,6 +380,38 @@ def sv_rss_events(url, city):
     return out
 
 
+MONTHS = {m: i + 1 for i, m in enumerate(
+    ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
+
+
+def durham_events():
+    """Featured Durham events scraped from Discover Durham's server-rendered
+    cards (no feed or API exists on that site). Dates look like "Aug 21" or
+    "Aug 13 to Aug 16"; year is inferred as the nearest future occurrence."""
+    today = now_et().date()
+
+    def parse_md(s):
+        mon, day = s.strip().split()
+        d = dt.date(today.year, MONTHS[mon[:3]], int(day))
+        return dt.date(today.year + 1, d.month, d.day) if d < today - dt.timedelta(days=30) else d
+
+    h = get("https://www.discoverdurham.com/events/")
+    out = []
+    for pre, heading in re.findall(
+        r'__preheading"[^>]*>([^<]+)</div>'
+        r'<div class="slider-card-short-item__heading"[^>]*>([^<]+)</div>', h,
+    ):
+        title = html.unescape(heading).strip()
+        try:
+            parts = [x.strip() for x in pre.split(" to ")]
+            s = parse_md(parts[0])
+            e = parse_md(parts[-1])
+        except Exception:
+            continue
+        out.append({"title": title, "city": "Durham", "cat": "", "start": s, "end": max(s, e)})
+    return out
+
+
 def fmt_line(s, e, today):
     if s == e == today:
         return "Today"
@@ -402,6 +434,9 @@ def bucket_events(raw):
         b = bucket_for(days_out)
         if len(groups[b]) >= 8:
             continue
+        city = ev["city"]
+        if sum(1 for it in groups[b] if it["where"].endswith(city)) >= 2:
+            continue  # keep each bucket town-diverse
         seen.add(norm)
         where = " · ".join(x for x in [ev.get("cat", ""), ev["city"]] if x)
         groups[b].append({"title": ev["title"], "where": where,
@@ -431,6 +466,11 @@ def pull_events():
             raw.append({"title": name, "city": " · ".join(x for x in [venue, city] if x),
                         "cat": "", "start": date, "end": date})
         # sv_events uses city as the trailing where-part; TM entries carry venue in "city"
+
+    try:
+        raw += durham_events()
+    except Exception as e:
+        print(f"  ! events Durham: {e}")
 
     for base, city in [
         ("https://www.visitraleigh.com", "Raleigh"),

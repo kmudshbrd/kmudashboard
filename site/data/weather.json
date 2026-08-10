@@ -1,6 +1,6 @@
 {
-  "temp": 81.7,
-  "desc": "Partly cloudy, feels like 88°.",
+  "temp": 83.0,
+  "desc": "Mostly clear, feels like 90°.",
   "aqi": 56,
   "aqiLabel": "Moderate",
   "sunrise": "06:29",
@@ -16,13 +16,13 @@
       "h": "15h",
       "icon": "☁︎",
       "t": 94.6,
-      "p": 8
+      "p": 7
     },
     {
       "h": "18h",
       "icon": "☁︎",
       "t": 94.4,
-      "p": 4
+      "p": 3
     },
     {
       "h": "21h",
