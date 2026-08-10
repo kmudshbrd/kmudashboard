@@ -4,9 +4,10 @@
 Fetches live weather, markets (2-year performance), news (4 deduplicated
 sections), and Triangle events; writes JSON into site/data/.
 
-Free/keyless sources throughout. Events come from the official Visit Raleigh
-and Visit Chapel Hill calendars (near-term coverage); set TICKETMASTER_KEY
-(free, developer.ticketmaster.com) to additionally fill the far-future buckets.
+Free/keyless sources throughout. Events cover the Triangle (Wake + Orange
+county towns) via the Visit Raleigh and Visit Chapel Hill calendar APIs;
+set TICKETMASTER_KEY (free, developer.ticketmaster.com) to add Durham venues
+and big ticketed shows (DPAC, arenas).
 """
 import datetime as dt
 import html
@@ -282,12 +283,12 @@ def pull_news():
 
 
 # ---------------------------------------------------------------- events
-EVENT_BUCKETS = ["This Week", "Next Week", "This Month", "This Year"]
+EVENT_BUCKETS = ["Today", "This Week", "This Month", "This Year"]
 
 
 def bucket_for(days_out):
+    if days_out == 0: return "Today"
     if days_out <= 7: return "This Week"
-    if days_out <= 14: return "Next Week"
     if days_out <= 31: return "This Month"
     return "This Year"
 
@@ -304,8 +305,66 @@ def parse_sv_dates(desc):
     return dates[0], (dates[1] if len(dates) > 1 else dates[0])
 
 
-def sv_events(url, city):
-    """Events from a Simpleview tourism-site RSS feed (Visit Raleigh etc.)."""
+def sv_api_events(base, fallback_city):
+    """Events from a Simpleview tourism site's REST API (public token).
+
+    Queries by nextDate (the next occurrence), which handles recurring series
+    cleanly and lets date windows reach the rest of the year. Each doc carries
+    its real city (Cary, Morrisville, ...) and venue in `location`.
+    """
+    token = get(f"{base}/plugins/core/get_simple_token/").strip()
+    today = now_et().date()
+    year_end = dt.date(today.year, 12, 31)
+
+    def window(lo, hi, limit):
+        query = json.dumps({
+            "filter": {
+                "active": True,
+                "nextDate": {"$gte": {"$date": f"{lo.isoformat()}T00:00:00.000Z"},
+                             "$lte": {"$date": f"{hi.isoformat()}T23:59:59.000Z"}},
+            },
+            "options": {
+                "limit": limit,
+                "fields": {"title": 1, "nextDate": 1, "endDate": 1,
+                           "location": 1, "city": 1},
+                "sort": {"nextDate": 1},
+            },
+        })
+        d = json.loads(get(
+            f"{base}/includes/rest_v2/plugins_events_events/find/"
+            f"?json={urllib.request.quote(query)}&token={token}"
+        ))
+        docs = d.get("docs") or []
+        return docs.get("docs", []) if isinstance(docs, dict) else docs
+
+    def et_date(s):
+        return dt.datetime.fromisoformat(s.replace("Z", "+00:00")).astimezone(TZ).date()
+
+    out = []
+    near = window(today, min(today + dt.timedelta(days=31), year_end), 300)
+    far = window(today + dt.timedelta(days=32), year_end, 80) if today + dt.timedelta(days=32) <= year_end else []
+    for doc in near + far:
+        title = html.unescape(doc.get("title", "")).strip()
+        if not title:
+            continue
+        try:
+            s = et_date(doc["nextDate"])
+            e = et_date(doc["endDate"])
+        except Exception:
+            continue
+        if e < s:
+            e = s
+        if (e - s).days > 90:
+            e = s  # long-running recurring series -> show as its next occurrence
+        out.append({"title": title,
+                    "city": (doc.get("city") or fallback_city).strip(),
+                    "cat": (doc.get("location") or "").strip(),
+                    "start": s, "end": e})
+    return out
+
+
+def sv_rss_events(url, city):
+    """Fallback: near-term events from the Simpleview RSS feed."""
     xml = get(url)
     out = []
     for it in re.findall(r"<item>(.*?)</item>", xml, re.S):
@@ -322,6 +381,8 @@ def sv_events(url, city):
 
 
 def fmt_line(s, e, today):
+    if s == e == today:
+        return "Today"
     if s <= today < e:
         return f"Through {e.strftime('%b %-d')}"
     if s == e:
@@ -333,7 +394,7 @@ def bucket_events(raw):
     today = now_et().date()
     groups = {b: [] for b in EVENT_BUCKETS}
     seen = set()
-    for ev in sorted(raw, key=lambda x: (max(x["start"], today), x["end"])):
+    for ev in sorted(raw, key=lambda x: (max(x["start"], today), (x["end"] - x["start"]).days)):
         norm = re.sub(r"[^a-z0-9]", "", ev["title"].lower())[:48]
         if norm in seen or ev["end"] < today or ev["start"] > today + dt.timedelta(days=365):
             continue
@@ -371,14 +432,18 @@ def pull_events():
                         "cat": "", "start": date, "end": date})
         # sv_events uses city as the trailing where-part; TM entries carry venue in "city"
 
-    for url, city in [
-        ("https://www.visitraleigh.com/event/rss/", "Raleigh"),
-        ("https://www.visitchapelhill.org/event/rss/", "Chapel Hill"),
+    for base, city in [
+        ("https://www.visitraleigh.com", "Raleigh"),
+        ("https://www.visitchapelhill.org", "Chapel Hill"),
     ]:
         try:
-            raw += sv_events(url, city)
+            raw += sv_api_events(base, city)
         except Exception as e:
-            print(f"  ! events {city}: {e}")
+            print(f"  ! events API {city}: {e} — trying RSS")
+            try:
+                raw += sv_rss_events(f"{base}/event/rss/", city)
+            except Exception as e2:
+                print(f"  ! events RSS {city}: {e2}")
 
     groups = bucket_events(raw)
     if not any(groups.values()):

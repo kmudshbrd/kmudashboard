@@ -2,61 +2,184 @@
   "sample": false,
   "groups": [
     {
-      "label": "This Week",
+      "label": "Today",
       "items": [
         {
-          "title": "76th Street w/ Tornsey",
-          "where": "Concerts · Raleigh",
-          "line": "Sun · Aug 9"
+          "title": "Adult Beginner Bobbin Lace Class",
+          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
+          "line": "Today"
         },
         {
-          "title": "BoutiqueBASH high-end consignment sale August 7-9!",
-          "where": "Family · Raleigh",
-          "line": "Aug 7 – Aug 9"
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Today"
         },
         {
-          "title": "Clue (High School Edition)",
-          "where": "Theatre · Raleigh",
-          "line": "Jul 24 – Aug 9"
+          "title": "Hospitality AI Summit",
+          "where": "McKimmon Center · Raleigh",
+          "line": "Today"
         },
         {
-          "title": "Garden Story Walk",
-          "where": "Free · Raleigh",
-          "line": "Aug 1 – Aug 9"
+          "title": "Nature Stories at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "line": "Today"
         },
         {
-          "title": "Glitter Hour - Amateur Drag Competition",
-          "where": "Theatre · Raleigh",
-          "line": "Sun · Aug 9"
+          "title": "S'Morrisville 2026",
+          "where": "Morrisville Community Park · Morrisville",
+          "line": "Today"
         },
         {
-          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
-          "where": "Concerts · Raleigh",
-          "line": "Sun · Aug 9"
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Today"
         },
         {
-          "title": "\"Uranus 2324\" (2024) | Sapphlix Queer Movie Night",
-          "where": "LGBTQ+ · Chapel Hill",
-          "line": "Sun · Aug 9"
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
+          "line": "Today"
         },
         {
-          "title": "2nd Annual Scapes Exhibit",
-          "where": "Performing & Visual Arts · Chapel Hill",
-          "line": "Jul 5 – Aug 9"
+          "title": "AudaTours Raleigh Audio Tour: Power & Pioneers",
+          "where": "Sacred Heart Church · Raleigh",
+          "line": "Today"
         }
       ]
     },
     {
-      "label": "Next Week",
-      "items": []
+      "label": "This Week",
+      "items": [
+        {
+          "title": "Evening Garden Stroll",
+          "where": "Bobby G. Wilder Visitor Center · Raleigh",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Grandma & Me",
+          "where": "Waverly Place · Cary",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Grumpy Old Men",
+          "where": "The Cary Theater · Cary",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Jacques ze Whipper",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Jazz Night-Aloft",
+          "where": "WXYZ Lounge · Raleigh",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "MATISYAHU: Summer Tour 2026",
+          "where": "Bowstring Pizza and Brewyard · Raleigh",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Tue · Aug 11"
+        },
+        {
+          "title": "Tacos, Tequila, & Tunes - Raleigh's Music Bingo",
+          "where": "Tin Roof Raleigh · Raleigh",
+          "line": "Tue · Aug 11"
+        }
+      ]
     },
     {
       "label": "This Month",
-      "items": []
+      "items": [
+        {
+          "title": "Tiki Tiki - Rum/Rhum/Run | Mixology Class",
+          "where": "Little Gem Cocktail Bar & Event Space · Chapel Hill",
+          "line": "Aug 18 – Aug 25"
+        },
+        {
+          "title": "FRANK Featured Artists Exhibit | August-September 2026",
+          "where": "FRANK Gallery · Carrboro",
+          "line": "Aug 18 – Sep 24"
+        },
+        {
+          "title": "Mini Acrylic Signs | Rising 7th-12th",
+          "where": "Orange County Public Library · Hillsborough",
+          "line": "Wed · Aug 19"
+        },
+        {
+          "title": "Weave & Spin | Poetry, Music, & Spoken Word Open Mic (18+) | LAST PERFORMANCE",
+          "where": "Eno House Artist's Den · Hillsborough",
+          "line": "Wed · Aug 19"
+        },
+        {
+          "title": "Crush of the Month | Wine Tasting Series",
+          "where": "Rocks & Acid Wine Shop · Chapel Hill",
+          "line": "Thu · Aug 20"
+        },
+        {
+          "title": "Risograph Poster | Workshop",
+          "where": "peel · Carrboro",
+          "line": "Thu · Aug 20"
+        },
+        {
+          "title": "Third Thursday Songwriters Showcase",
+          "where": "Lapin Bleu · Chapel Hill",
+          "line": "Thu · Aug 20"
+        },
+        {
+          "title": "Karaoke with Goats | 21+",
+          "where": "Spring Haven Farm · Chapel Hill",
+          "line": "Aug 20 – Sep 17"
+        }
+      ]
     },
     {
       "label": "This Year",
-      "items": []
+      "items": [
+        {
+          "title": "9/11 Honor & Remembrance",
+          "where": "Rolesville Middle School · Rolesville",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "College Football: N.C. State Wolfpack vs. Richmond Spiders",
+          "where": "Carter-Finley Stadium · Raleigh",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "Creative Aging Mini-Retreat for Active Adults 55+",
+          "where": "Mini Acres Farm · Raleigh",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "Indie Rock + Electronic Dance Party",
+          "where": "The Ritz · Raleigh",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "Marcus King",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "Patriot Day Ceremony",
+          "where": "Apex Service Memorial, corner of Saunders St. and N Salem St. · Apex",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "Rock the Block Concert Series 2026 with Conjunto Caribe",
+          "where": "Town of Zebulon · Zebulon",
+          "line": "Fri · Sep 11"
+        },
+        {
+          "title": "Sleepy Cat Hopscotch Day Party",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Fri · Sep 11"
+        }
+      ]
     }
   ]
 }

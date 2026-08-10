@@ -19,7 +19,7 @@ scripts/
   pull.py        the data-pull agent: weather (Open-Meteo), markets (Yahoo),
                  news (Google News RSS) → site/data/. Free, keyless sources.
 .github/workflows/
-  pull.yml       scheduled pulls every 2h once this repo is pushed to GitHub
+  pull.yml       scheduled pulls every 4h once this repo is pushed to GitHub
 ```
 
 ## Run locally
@@ -44,7 +44,7 @@ Markets watchlist symbols are placeholders — edit `WATCHLIST` in `scripts/pull
 ## Deploying (Phase 2)
 
 1. **GitHub**: push this repo (`kmudshbrd/kmudashboard`). Two workflows run on
-   cron: `pull.yml` (data refresh every 2h) and `brief.yml` (Claude-written
+   cron: `pull.yml` (data refresh every 4h) and `brief.yml` (Claude-written
    brief at 6:07am/6:07pm ET). Add the `ANTHROPIC_API_KEY` repository secret
    (repo → Settings → Secrets and variables → Actions) to enable the brief.
 2. **Cloudflare Worker**: create a Worker from this Git repo (Workers & Pages →
