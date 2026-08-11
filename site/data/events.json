@@ -5,23 +5,28 @@
       "label": "Today",
       "items": [
         {
-          "title": "Adult Beginner Bobbin Lace Class",
-          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
+          "title": "Grandma & Me",
+          "where": "Waverly Place · Cary",
           "line": "Today"
         },
         {
-          "title": "Fortnight Run Club",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "Grumpy Old Men",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Hospitality AI Summit",
-          "where": "McKimmon Center · Raleigh",
+          "title": "Jacques ze Whipper",
+          "where": "Goodnights Comedy Club · Raleigh",
           "line": "Today"
         },
         {
-          "title": "S'Morrisville 2026",
-          "where": "Morrisville Community Park · Morrisville",
+          "title": "Jazz Night-Aloft",
+          "where": "WXYZ Lounge · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Apex Mahjong Club",
+          "where": "Southern Peak Brewery · Apex",
           "line": "Today"
         },
         {
@@ -30,19 +35,14 @@
           "line": "Today"
         },
         {
-          "title": "Mah Jongg Mondays at Cary Regional Library",
-          "where": "Cary Regional Library · Cary",
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Today"
         },
         {
-          "title": "Puzzlepalooza",
-          "where": "Drakeford Library Complex · Carrboro",
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
           "line": "Today"
-        },
-        {
-          "title": "Summer Camp 2026",
-          "where": "The Makery · Wake Forest",
-          "line": "Through Aug 17"
         }
       ]
     },
@@ -50,60 +50,50 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Grandma & Me",
-          "where": "Waverly Place · Cary",
-          "line": "Tue · Aug 11"
+          "title": "Adult Beginner Bobbin Lace Class",
+          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Grumpy Old Men",
-          "where": "The Cary Theater · Cary",
-          "line": "Tue · Aug 11"
+          "title": "Beer Pong Tournament at The Davie",
+          "where": "The Davie · Raleigh",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Jacques ze Whipper",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Tue · Aug 11"
+          "title": "Big Summer GlowOut",
+          "where": "Harold D. Ritter Park · Cary",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Jazz Night-Aloft",
-          "where": "WXYZ Lounge · Raleigh",
-          "line": "Tue · Aug 11"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Apex Mahjong Club",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Tue · Aug 11"
+          "title": "Salsa Wednesdays - Komana Brewery with Salsa4Life.com",
+          "where": "KōMANA Brewing Company · Cary",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
-          "line": "Tue · Aug 11"
+          "title": "Senior Center - Stroke Awareness",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Aug 11"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Wed · Aug 12"
         },
         {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
-          "line": "Tue · Aug 11"
+          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
+          "where": "Abbey Road Tavern & Grill - Apex · Apex",
+          "line": "Wed · Aug 12"
         }
       ]
     },
     {
       "label": "This Month",
       "items": [
-        {
-          "title": "Tiki Tiki - Rum/Rhum/Run | Mixology Class",
-          "where": "Little Gem Cocktail Bar & Event Space · Chapel Hill",
-          "line": "Aug 18 – Aug 25"
-        },
-        {
-          "title": "FRANK Featured Artists Exhibit | August-September 2026",
-          "where": "FRANK Gallery · Carrboro",
-          "line": "Aug 18 – Sep 24"
-        },
         {
           "title": "Mini Acrylic Signs | Rising 7th-12th",
           "where": "Orange County Public Library · Hillsborough",
@@ -125,8 +115,18 @@
           "line": "Thu · Aug 20"
         },
         {
+          "title": "Third Thursday Songwriters Showcase",
+          "where": "Lapin Bleu · Chapel Hill",
+          "line": "Thu · Aug 20"
+        },
+        {
           "title": "Three Dog Night",
           "where": "Durham",
+          "line": "Fri · Aug 21"
+        },
+        {
+          "title": "Live Stand-Up Comedy featuring And Now This! & Hot Sketch Summer",
+          "where": "My Muses Card Shop & Muse Gallery · Carrboro",
           "line": "Fri · Aug 21"
         },
         {
@@ -140,44 +140,44 @@
       "label": "This Year",
       "items": [
         {
-          "title": "9/11 Honor & Remembrance",
-          "where": "Rolesville Middle School · Rolesville",
-          "line": "Fri · Sep 11"
+          "title": "2026 Ladies Self-Love Social",
+          "where": "Hilton Garden Inn Raleigh/Crabtree Valley · Raleigh",
+          "line": "Sat · Sep 12"
         },
         {
-          "title": "9/11 Remembrance Ceremony",
-          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
-          "line": "Fri · Sep 11"
+          "title": "Air Supply – A Matter of Time Tour",
+          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sat · Sep 12"
         },
         {
-          "title": "College Football: N.C. State Wolfpack vs. Richmond Spiders",
-          "where": "Carter-Finley Stadium · Raleigh",
-          "line": "Fri · Sep 11"
+          "title": "Altis at Serenity Lifestyle Showcase",
+          "where": "Altis at Serenity · Fuquay Varina",
+          "line": "Sat · Sep 12"
         },
         {
-          "title": "Creative Aging Mini-Retreat for Active Adults 55+",
-          "where": "Mini Acres Farm · Raleigh",
-          "line": "Fri · Sep 11"
-        },
-        {
-          "title": "Patriot Day Ceremony",
-          "where": "Apex Service Memorial, corner of Saunders St. and N Salem St. · Apex",
-          "line": "Fri · Sep 11"
-        },
-        {
-          "title": "Rock the Block Concert Series 2026 with Conjunto Caribe",
-          "where": "Town of Zebulon · Zebulon",
-          "line": "Fri · Sep 11"
-        },
-        {
-          "title": "Still Mountain Railroad",
+          "title": "Ariella & Nicolaas",
           "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Sep 11"
+          "line": "Sat · Sep 12"
         },
         {
-          "title": "Teen Art Cart",
-          "where": "DCP Gathering House · Cary",
-          "line": "Fri · Sep 11"
+          "title": "Carolina Circus Festival: The Greatest Show",
+          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
+          "line": "Sat · Sep 12"
+        },
+        {
+          "title": "Community Celebration of the Arts",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sat · Sep 12"
+        },
+        {
+          "title": "Fall Market with The Backyard Bar",
+          "where": "The Backyard Bar · Apex",
+          "line": "Sat · Sep 12"
+        },
+        {
+          "title": "Festival Latino",
+          "where": "Garner Recreation Center · Garner",
+          "line": "Sat · Sep 12"
         }
       ]
     }
