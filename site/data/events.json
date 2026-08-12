@@ -5,28 +5,33 @@
       "label": "Today",
       "items": [
         {
-          "title": "Grandma & Me",
-          "where": "Waverly Place · Cary",
+          "title": "Adult Beginner Bobbin Lace Class",
+          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Grumpy Old Men",
-          "where": "The Cary Theater · Cary",
+          "title": "Beer Pong Tournament at The Davie",
+          "where": "The Davie · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Jacques ze Whipper",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Big Summer GlowOut",
+          "where": "Harold D. Ritter Park · Cary",
           "line": "Today"
         },
         {
-          "title": "Jazz Night-Aloft",
-          "where": "WXYZ Lounge · Raleigh",
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Apex Mahjong Club",
-          "where": "Southern Peak Brewery · Apex",
+          "title": "Salsa Wednesdays - Komana Brewery with Salsa4Life.com",
+          "where": "KōMANA Brewing Company · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Senior Center - Stroke Awareness",
+          "where": "Morrisville Senior Center · Morrisville",
           "line": "Today"
         },
         {
@@ -35,13 +40,8 @@
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Today"
-        },
-        {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         }
       ]
@@ -50,65 +50,50 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Adult Beginner Bobbin Lace Class",
-          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
-          "line": "Wed · Aug 12"
+          "title": "Brian McGuinness Comedy Special Taping",
+          "where": "Neptunes Parlour · Raleigh",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Beer Pong Tournament at The Davie",
-          "where": "The Davie · Raleigh",
-          "line": "Wed · Aug 12"
+          "title": "Chris Monds",
+          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Big Summer GlowOut",
-          "where": "Harold D. Ritter Park · Cary",
-          "line": "Wed · Aug 12"
+          "title": "Florence Dore (band) w/The Carolina Junebugs",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Wed · Aug 12"
+          "title": "Happy Birthday #308! at New Hope Valley Railway",
+          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Salsa Wednesdays - Komana Brewery with Salsa4Life.com",
-          "where": "KōMANA Brewing Company · Cary",
-          "line": "Wed · Aug 12"
+          "title": "Little Fentonians – Dino Day",
+          "where": "Fenton Square · Cary",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Senior Center - Stroke Awareness",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Aug 12"
+          "title": "Midsummer Flower Crowns",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Wed · Aug 12"
+          "title": "Race NASCAR Driver Ross Chastain at RushHour Karting",
+          "where": "RushHour Karting · Garner",
+          "line": "Thu · Aug 13"
         },
         {
-          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
-          "where": "Abbey Road Tavern & Grill - Apex · Apex",
-          "line": "Wed · Aug 12"
+          "title": "Music Bingo at The Backyard",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Aug 13"
         }
       ]
     },
     {
       "label": "This Month",
       "items": [
-        {
-          "title": "2nd Annual Rosé Soirée | Beautiful Together Animal Sanctuary Benefit",
-          "where": "Coco Bistro & Bar · Chapel Hill",
-          "line": "Wed · Aug 19"
-        },
-        {
-          "title": "Mini Acrylic Signs | Rising 7th-12th",
-          "where": "Orange County Public Library · Hillsborough",
-          "line": "Wed · Aug 19"
-        },
-        {
-          "title": "Weave & Spin | Poetry, Music, & Spoken Word Open Mic (18+) | LAST PERFORMANCE",
-          "where": "Eno House Artist's Den · Hillsborough",
-          "line": "Wed · Aug 19"
-        },
         {
           "title": "Wine Tasting with Haw River Wineman",
           "where": "Beer Study · Carrboro",
@@ -125,13 +110,28 @@
           "line": "Thu · Aug 20"
         },
         {
+          "title": "Third Thursday Songwriters Showcase",
+          "where": "Lapin Bleu · Chapel Hill",
+          "line": "Thu · Aug 20"
+        },
+        {
           "title": "Three Dog Night",
           "where": "Durham",
           "line": "Fri · Aug 21"
         },
         {
+          "title": "Intro to Linoprinting on Fabric | Ages 11+ Workshop",
+          "where": "Anne and Arthur Fine Arts Supply · Hillsborough",
+          "line": "Fri · Aug 21"
+        },
+        {
           "title": "Tour of Murray-Massenburg School",
           "where": "Durham",
+          "line": "Sat · Aug 22"
+        },
+        {
+          "title": "Planting Cool Flowers | Workshop",
+          "where": "Firefly Farm · Hillsborough",
           "line": "Sat · Aug 22"
         }
       ]
@@ -140,44 +140,44 @@
       "label": "This Year",
       "items": [
         {
-          "title": "2026 Ladies Self-Love Social",
-          "where": "Hilton Garden Inn Raleigh/Crabtree Valley · Raleigh",
-          "line": "Sat · Sep 12"
+          "title": "Babymetal World Tour 2026",
+          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Air Supply – A Matter of Time Tour",
-          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Sat · Sep 12"
+          "title": "Classical Concert Series - Thron-Larkin Duo",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Altis at Serenity Lifestyle Showcase",
-          "where": "Altis at Serenity · Fuquay Varina",
-          "line": "Sat · Sep 12"
+          "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+          "where": "Daily Planet Cafe · Raleigh",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Ariella & Nicolaas",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Sat · Sep 12"
+          "title": "Fenton Art Festival 2026",
+          "where": "Fenton Square · Cary",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Carolina Circus Festival: The Greatest Show",
+          "title": "Food Truck Rodeo Fuquay Varina 2026",
+          "where": "Downtown Varina Parking Lot · Fuquay-Varina",
+          "line": "Sun · Sep 13"
+        },
+        {
+          "title": "Jazz’d Up Sundays: Niki Haris feat. the Christian Tamburr Band",
           "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
-          "line": "Sat · Sep 12"
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Community Celebration of the Arts",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sat · Sep 12"
+          "title": "2026 Dribble for Victory Over Cancer",
+          "where": "Carmichael Arena · Chapel Hill",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Fall Market with The Backyard Bar",
-          "where": "The Backyard Bar · Apex",
-          "line": "Sat · Sep 12"
-        },
-        {
-          "title": "Festival Latino",
-          "where": "Garner Recreation Center · Garner",
-          "line": "Sat · Sep 12"
+          "title": "Marvin's Trio | Local Live Music",
+          "where": "Lanza's Cafe · Carrboro",
+          "line": "Sun · Sep 13"
         }
       ]
     }
