@@ -4,170 +4,22 @@
     {
       "label": "USA",
       "color": "var(--dial-slate)",
-      "stories": [
-        {
-          "title": "Peggy Flanagan, a Progressive, Wins the Democratic Senate Primary in Minnesota",
-          "source": "The New York Times",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFNLSkNoR0dRSURBRU5oUVVwYjVsSHljV3lRTUFXSEtSU2RTQTR0SU5jZ0JyNjk4MlhTcXo5dDNWNnVDbWp5M2JuZEU5d3BwZjBidk9uendOc0w1T0JMVVd6a3NwQkF2MHY2V19EVXlCYXNJdEJvSUJXSjVQNHNTcnJNandkSUg4eTdvamtPalgycXdrWFRNX1RoaHdBekpfVjY5eQ?oc=5"
-        },
-        {
-          "title": "Rep. John Larson ouster makes 2026 a record year for Democratic primary losses",
-          "source": "Axios",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRU51ZUhXODd6VVJiOTctYlh5Vm1hRzRMb2h2Zm5kbXpSUV9JRVpXOVlrdTIxRVIzQmF0T2J5ZWdfVS1xREhxcmplWnJ5X3IwSFM3a0RjX3hYci05ZzJQUFBvZi02VnR5NTJNdjdFQlEwMS0zdkZhUlZuNG40c3pVT0N3?oc=5"
-        },
-        {
-          "title": "Mamdani's nemesis sued to block the city's pied-à-terre tax. The city froze the judge's pause",
-          "source": "Fortune",
-          "time": "10h ago",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkxEN2x4NDNVUDdDSlU3WDZJaG1PajlrbmNWUUp6RDNoTUw3dkJqdXdQc3NVeW1TVFUxUzBUZzk2OWRjNDVUbmpUZjBIeFpUYnJHRnJXbjRTektGbncyU2hVRm10TmlrZG5CWnkyUndRQk5WaHkzT05CX1llcy05aEM3eDU3b21weFBNQjB1eHhXSEx0Q3ZQQmxhLXpDVld1NnN1eA?oc=5"
-        },
-        {
-          "title": "Darline Graham and Ralph Norman advance to runoff in South Carolina GOP Senate primary, CBS News projects",
-          "source": "CBS News",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUpOdmJZZ0xCOUUwYlJOSXV1ZkxTdndpTTkxci1VZFdfOVh0X0F3YTNxa1RGeHJQU3l6Z3AtQlRPVVdRWVZiS3hWNEl0RkNoX0hQOUc1SFJtTmliRUpPWGdoeGQ3ZERNZGh0LXFMUVdfdFVfZzl0dm9Zd0RkWFl5a1daV2VUenRKSnk3Zmt0VWMzT0hjSjI1eFAtRmtHd01Y?oc=5"
-        },
-        {
-          "title": "Live updates: Democrats Francesca Hong and David Crowley locked in tight race for Wisconsin governor",
-          "source": "CNN",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakUyUnprRl9EZ254QmpoSVdSeldRdUJaUEN1T0hfMURRaE5sSjFnMlRBWC1vcXg5bXNsb2Q2LVBIel80SlNvUUplMGd2c2ZQQXg3NWM0bkFxeDZOeEhEUExhbnNWcVMzZzZGQURnblFkY1NidlNwOERDbUVVeXNKSC1sNUlCT0dScC1VWg?oc=5"
-        },
-        {
-          "title": "Jury in Luigi Mangione’s state trial will be anonymous, judge rules",
-          "source": "NBC News",
-          "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLURGSDRzMXJ1Z19aX0p3UnU2UzRqODhxcmk3TzJ3OHZqT2FrRE02VWdfZjgxeUFUUHRMazBWSkVlVkZ0QXIyQXFqalFCU2lRanVxbWJ1RmNyWmQ0OXRmT3NHUFhkamlxNnM2YnNSSmlQYmpwV2pkLWs4Z0lhZDNlb2pIYW53d1R6SlRnQ2pMOWx4M3hrUW5jV1l2Wk44Vjc1?oc=5"
-        }
-      ]
+      "stories": []
     },
     {
       "label": "India",
       "color": "var(--dial-blush)",
-      "stories": [
-        {
-          "title": "Jharkhand students' protests updates: Over 100 ABVP workers detained during march to Assembly over police action on students",
-          "source": "thehindu.com",
-          "time": "10h ago",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVJPTFQxTGhCLWhzTzhNWXdDY0Z4Q1RZaXB6VjR0R0J4VXVYYzJXWHNTYlFORjN5NGI2RS1IeHRSclQwNnM4ZHdpUmMtb0RvYzRGbFNnZGgxcjZ5YlpvTU5RZGowdVc5cWtMZlNsNlBCYVFJak91VU93bG9kaHlRX0JERk5PbGZIOHp1bHBUMHU2ejFCbVZ4RFRtN3lULTVkV2FpYmliaXhCVlVNMjdORXV0Y0I?oc=5"
-        },
-        {
-          "title": "Amid backlash, Centre set to refer FCRA Bill to JPC",
-          "source": "thehindu.com",
-          "time": "13h ago",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazdYOW50emF0X1F1ZGtWdHM0cTZYbTJseXR6eEtQX0VYRXR5bnJ1WTQxekcwVTBmYkFkVGV2RTJyRWpzcjVoa09TYi13cjdIMTNSOUszRG91bmJkaDdiZ002dnVjOWxaTHRVeUVHcjlDRnVTUmJvMzBrbzcwWlFJbU1hMHhvSHdJUHlQcTRCUlBrQm9qMnVIOWhrN0tmZUQ0Y3FzWHFlTXR5dVVyZERGWGhfLVNZQmprZTFrUVlWZS0wdWdIUXkzOXR2cTBfT2dRRFJqT0Q4N25JX2R1cGfSAeQBQVVfeXFMTjd1VkhFYWh6QTU2LW5sREh1TTVsckhqcUo2VHNMRVd1MzNJRGxmdkI0LWsxSWlCTElZa1ByNGw3bWJqdDZiZFRJVGFHMTQ0UjA1SURCTWgwNGRQTkxhSU1EUjQ3dFFyNExNc3hZMF9QTHNjemY5eWtNRUxPYWljbUs4MXBkeGFDdHJxY0JJVEdNZHJuaUZjNG02bnYydkgyanRnT1YyQlhwYmgxNkFYZjJOWk1HTUtzSGt5NTJzUi0xdUVzVG9fLURDNkFibVVLNDg0Xzk4VDQ5WnYwSThUN1N2aUVL?oc=5"
-        },
-        {
-          "title": "Mumbai Landslide Kills 3, Rescuers Use Victim Camera To Search For Survivors",
-          "source": "NDTV",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSk5iVlJkd0xjMnNFc2lhQXBkSmNrOHJQV2Z0VHFZSHhRX0JwNW5vMGJWUnlCbzJPd1FXOTVQN0tXd1VCWl9HZjIxNlFQTm80anFGWmhqLXlleDJ5TlctOXJLSWhOSGx3QUZhb1Atc2dZRWxfZGkxYUNfVG9BTmd1SmpaSlFHV1gwZEZzWlZYWkw4ZWpRZzZJMkUzT1NPMml3MC1pV3pGbnZ5LUl1YXc5LVNJdnVhVEVHcTJDR2Z4T1V0cGV2dHY2LTgtbw?oc=5"
-        },
-        {
-          "title": "Air India captain's confirmatory drug test positive for marijuana, source says",
-          "source": "Reuters",
-          "time": "14h ago",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT1JaUHl2aEZ6aXNfWnRHVE9VY2Iya21Fa0x2TFZRMzVWTENZRm5HNHRGRmcwbEVyUUxXTlRNa0hPM0dEYlNiR2QwR18xelBtdl93R3BfdFpNU0hfRGdaam83Y3ljdlAzQ1FFazRmbWg5S0RpMWpqaFA1T3BHUVVxT1V0aHljb0ZPV2l6em52X0g4aXFVWW51b2FpTmZsQ3BFS3I2SFdaMk8xTWo2My1RZzFhWm9EQzExcjBwV2kxWFNja0VnbGc?oc=5"
-        },
-        {
-          "title": "Zepto in Bengaluru, Blinkit in Mumbai: Quick-commerce sites in focus over food safety violations | India News",
-          "source": "Hindustan Times",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR0RPT0tDU3FTQmhHSkEyZFh4eExwZ1ItZ3VVTDh0S1NWNjVUREl0UE84RkpUcHV2SnV3OVhuR2QwUmZyajk4ZWZLTE1Gandld1ZSMENjU2VaUzF4aHdVdDBtZkh0UkNiRlljZjFKemZjb1Z6clNja25BWDNUQlJCTkhzS19sMFowVGxqWFhBNnBOVlJaU3o4VTE4QU0xelpTSzFNZWw1V1VDUk1aNjEtR0UtcW1fNlRNRWptYUphNEw4QnFsb0twSnRKbm9mQmRFeWl1aUNuODdoNF81WFVURThDYVd2dE0xRzl2aVVMdE1GbU5VMVRqN0dCZWp4NFJodGpqa2JxNUQ2WThP0gGSAkFVX3lxTE1RMThOMHJjUng4d2VPZk5VXzI2dEw0ZGxnZEFDczFnQ1lWQ25haHRXWVlwdk9oMWVQVXZfamlVZV9BRFVSd3RLS2pOdERzMzVpWTlHaVpRRjhjRmduelBjNU15QXg0TVRrU1l2alhvNE9IZHRqYndTTTB2bERFUmhHM0xzR1hoclNFbE9jQWM5eC00ZjBKVkw3VjJ0RWZzLXFPcFJDbklRM21abDV5SWRfd01zZGhUSDd2ZnlHcTc3WnhMRDlkdDNXbXd2WDItbTlSVTI4MUlybG1oUFZaOEg5Wm1qci1jY3A2WDFlSDF5ZWpNS19ORnRINHZEejk5VVlLZnc3bFVFRU82eXNiM0NQVXc?oc=5"
-        },
-        {
-          "title": "2.5-year-old among 2 dead in Mumbai’s Ville Parle building fire",
-          "source": "The Times of India",
-          "time": "4h ago",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXJYQi1IQ2RULU93cW5NY2diVzMxNGtKUkozR1FHZ3BiSTdRZXQ2S2hRVG9jUFA4ck9EbmN5SGU5aXM3eWFxM3RSV1B1V3UxUnhEZi1aZnA2NjhqMUdWbzJVMzlab3FpQ3dmT1pZT0c2V2dianBMLW9vT0xVeXdWUDh5U3BQaFFuRmFBc3NsdWY5VmFaRjBYUEFzZEF5NTFfXzF5alNwb3dOYl9kNVR5c05JU2t2akFHaWs5cHdNSWlSdlI3UzNrLVEwZjhmd0RBR2c?oc=5"
-        }
-      ]
+      "stories": []
     },
     {
       "label": "World",
       "color": "var(--dial-sky)",
-      "stories": [
-        {
-          "title": "Live updates: More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet",
-          "source": "CNN",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWFGOFhweUJhMFZ2UEZ1MktEQjZSQ09qMVp4T3FOeVhZbmF3aUlHel95Z0dwRVRRdVJfeHRLN2JQTUNtRE40Vy1QSEs0X1hzVzJzMHNoTUNPcHF4XzlPX0ducVp4RENzSmdZaUU5N0ZyajdMSlJKZk1iazJ1WEJ4eTZzdw?oc=5"
-        },
-        {
-          "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
-          "source": "The New York Times",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTBGNXM3enN6Z01BdUotNGtWRUdIcl9iU1BkZGlMazFvamQ0alBpZzN3U0JiM3JnTWJRSEJlMy1lX0tvaXJkWnMwcTFXTzNkS1R3bTE5b2gtNnJoVDRLZFVhb2RvSkpzQU1DWWx3U0JGVVU1RHo2VlAtcms0cFRzTnpibw?oc=5"
-        },
-        {
-          "title": "Syria sentences absent Bashar al-Assad to death over killings and torture",
-          "source": "Reuters",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5"
-        },
-        {
-          "title": "For Nigel Farage, success brings new pressures and a showdown with Count Binface",
-          "source": "AP News",
-          "time": "16h ago",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejIyNmZXVjdFV2pJRGItZnBhbmwySHM3WnBwRl90T1BraVNVQ3BqMHJHVk1lbVN1U3pFcUxUVkI0QXNzZjMwWlk4TkRpbGJCYkZnTVdvWGZmM0FkVFFERFZCcVpzX0JqYl9YSXM5R2FSV0gwcUdLMHk4MHJpQVBiTmx4dEhyQzBEMEVSbmdWakxNanZva0NmTU9KVjJGYjdTc3gzMEF4RXUxY1V1TGVaVHd3?oc=5"
-        },
-        {
-          "title": "Iran war live: US fires on ship for defying blockade as Tehran rejects Trump’s claim",
-          "source": "The Independent",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDBFdjV1S2xzeGdicXJ1T2Y3aFdUQjJPTzM0Y2Fxc2RoRkZTWkpUNmMxek4tMlJXbmdvakdEemFXRkRYWTlFVUtGQzVIR21MN19XVG13bmhhUm9odFlad1RNM1BGT1NPWHRPODJLSWI4ZEw0Y0lnVWVDdkVIZnA2U2NEV0Y3MHhLdU9TUTZJMldZSmZFWXpzYldwU29zUVQ4empKaXBWMzN4X01SRnVGT2FoSl94QTJCalE?oc=5"
-        },
-        {
-          "title": "‘We are still here’: a day in the life of 12 Afghan women",
-          "source": "The Guardian",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnJpQ21uX255RkltVDRyX1hrUEVEOXgxT3dYQ0ppMVlOYi1IMGJKWXN5MTI1bDNRVXJLMXhXX0VKSGg5TlhiQ0dCYU80QW1pMS03Mm51NmE0cFFCSmxBTGdDckZnLU5NM0M4LV9kaFhhVTQ2WG1wY3FYdjdVeWRWN1djcWo4M3JNV1dRRzh4eDNqSEc3SmlXckc5T1B4Q2V5UTNJY3pDWDlvNTkxN05yTjE1eG9mMlY2RHhUaTZR?oc=5"
-        }
-      ]
+      "stories": []
     },
     {
       "label": "The Triangle",
       "color": "var(--dial-sage)",
-      "stories": [
-        {
-          "title": "Durham assistant police chief placed on administrative leave after alleged hit and run crash",
-          "source": "ABC11 News",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalB2SzVHcU5EVHVjaEFOTzdRWjlzVzRrQ3BHTU8zRGVqSzRIS3JIZ1RLUklWeUo3RENOb0w0N25FVjU4eVYzY3lQUFlmT0FvYXA4QXB6UWpkd3lPa09KblRXR1VoZ0RsTHlOMllhcGxGRWVqNXBpaW54ZE5iNjNoOHZZQXVFcnBXWmd3ZWxxU21MRkg2VEc0MkdVVG5EWW50VnU4Q2ZtcXZTOFJVeE16dVV30gG3AUFVX3lxTE81TktLdmdNMjRjV0V3RzYzVDhSXzVxanZMVEMzTDdoaFpIcmVTd01BZkZYSWFWNjZTc1hLWVNWWTdEUWhuUE9tbGswVk9TbTh1U2p3Qzg0ekZ5cFpHTU1IQUwyYzBTSTBwS1ptVE1EUlQ3WmxfUFJMamFVVklJMG9LTXRrN3k5NHp0NDBnQ016UC16ck5DU0Z5ZmtLUXEtaEdpTi1YNlRKRkNERmd5MEJBY1p3ZFJSOA?oc=5"
-        },
-        {
-          "title": "Women’s Soccer Home Opener Moved To Thursday",
-          "source": "goheels.com",
-          "time": "13h ago",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWc5N3pxRzhWZ2swMjg5cXgyMlh1YTNwQVcxRzUxVWx0a0FwZ0UyazctczhMNGVqWFl3RDA0RWRRMWh0MW16ZXBnUmJVdDdMUVZ0V2ZWZXpOVVNQcndiUERYSnY3dTdIeEJ3V3lDOHh1LVdnZmlvOWF5Y3V0TVV5X2Q3MG9KeWdMY0YzLThYdE9fZ1VVQWZv?oc=5"
-        },
-        {
-          "title": "Durham assistant police chief cited for hit-and-run in Wake County",
-          "source": "WRAL",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWhoT0ZaQXlUeGJ0UEJwZUVpeHVRM1RYb1ZVVmphTzlrODhBTVdQdmI2VUE0LWdMT3BoMmhSUGVJeXZaNjZGanJSTnQwOHByaXpqY0M5TVNLbmd5MFI5OGhlX0hYLXBaRHNqbHVhVFg5c203UDFKbDI0ZEdWVGswZmJXZG9OeUNUZlJSUVdrRndPUQ?oc=5"
-        },
-        {
-          "title": "How to watch the very small, very short partial solar eclipse in North Carolina this Wednesday",
-          "source": "wunc.org",
-          "time": "16h ago",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUm01SHlFOXhYZjNwWVlpWEcydkU0Z3FjLTZEWnc0OHlRajhYQ2lxVGswWFltOTJxNzNGQjI5eGhmSmNCVFVXY0p6YnFnbVJVbTJIcnh4NTRDUGtObXRkZjVfZkFDRGZzajRDVlRGbl9BWk51d1lsZGpFVlNmdGpCQUl1OG5Qc3RfOWxuTE1LSTVreWFWczltY185TjFWVFNacXc?oc=5"
-        },
-        {
-          "title": "Autopsy reveals how Jack Roney, a former NC State swimmer and coach, died",
-          "source": "Raleigh News & Observer",
-          "time": "15h ago",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSG9GQkg1aURNSDQ3V0hiRUl1VkpqelI1UElXd0VPZVM2eFFFSTBTR25LeVZLcndFTjFYOGxKbWF6RnJfMGtvenJYZ0ROWktvcXdTNVRPOVJlam44cmlUUE81SkM2bm10ejRuNER1NG9VSmJYRjRfWnNaTS1UbTVPX0RxOEjSAYQBQVVfeXFMT0FHSzF0dlB1NVUtVGZRbWd6eVhYQ0t4aXpDMEMyNUZzbnJjQ1BkMU9uNFJvX2hrUjdxcGdDTTV0b0dGTmRBeVNiZ2Q2V0U1MTFZR2xMam9pX0c2S2FqUVVvSXp5NU5YcWFLLXdGRUY4eVcyZmZDS2tXRXp6cWloUTY0VFlk?oc=5"
-        },
-        {
-          "title": "Pack Place Two on The Athletic College Football Freaks List 2026",
-          "source": "NC State University Athletics",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3BxaEhtN2tYNnJFdUQxSjhpbmozTjBoWlFIY0FLb0JOWlV2dDB4ZGhMRmx0WnhlMEM1ZmhfdURUWFptU1RnSW1yTVpqOTRyMkhJaDdpNS0tUHdncFBFWVNCNXRNSW52WUxRQkNXV2t1ajBZTFdQbzNEWklxVzBMLV9XaDZyN19ZZXZlcGxsb09fSXVHV3Nabnp0WndaQms?oc=5"
-        }
-      ]
+      "stories": []
     }
   ]
 }
