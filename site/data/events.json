@@ -10,6 +10,11 @@
           "line": "Today"
         },
         {
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Arts & Education Festival",
           "where": "Knightdale Station Park · Knightdale",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Fight Night Live UFC 330: Makhachey vs. Machado Garry",
           "where": "Sports & Social · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Grant Paxton",
-          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         }
       ]
