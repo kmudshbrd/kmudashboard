@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
+          "title": "Art of Cool Presents The Frequency Series Featuring Jonathan Butler & Najee",
+          "where": "Koka Booth Amphitheatre · Cary",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "Body Mind Spirit Celebration",
+          "where": "Agri Supply Exposition Center at North Carolina State Fairgrounds · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Arts & Education Festival",
-          "where": "Knightdale Station Park · Knightdale",
+          "title": "Dog Days of Summer Brunch: Raleigh, NC",
+          "where": "Crooked Hammock Brewery · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Author Event: Vanessa Miller",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Harry and the Hendersons",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Blue Wave Block Party",
-          "where": "Rebus Works · Raleigh",
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Bop To The Top",
-          "where": "The Ritz · Raleigh",
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Corey Holcomb",
-          "where": "Raleigh Improv · Cary",
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Fight Night Live UFC 330: Makhachey vs. Machado Garry",
-          "where": "Sports & Social · Cary",
+          "title": "Towne Players Presents: Disney's Aladdin Jr.",
+          "where": "Garner Performing Arts Center · Garner",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Art of Cool Presents The Frequency Series Featuring Jonathan Butler & Najee",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Sun · Aug 16"
-        },
-        {
-          "title": "Dog Days of Summer Brunch: Raleigh, NC",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Sun · Aug 16"
-        },
-        {
-          "title": "EMM / Aphasia Chancellor / Koee of Kanekalon",
-          "where": "KINGS · Raleigh",
-          "line": "Sun · Aug 16"
-        },
-        {
-          "title": "Harry and the Hendersons",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Aug 16"
-        },
-        {
-          "title": "Trivia Night",
+          "title": "Bunco",
           "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sun · Aug 16"
+          "line": "Mon · Aug 17"
         },
         {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Sun · Aug 16"
+          "title": "Children's Bingo",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Aug 17"
         },
         {
-          "title": "Blueberry Brunch",
-          "where": "Honeysuckle Tea House · Chapel hill",
-          "line": "Sun · Aug 16"
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Mon · Aug 17"
         },
         {
-          "title": "Brandwein's 6th Birthday!",
-          "where": "Brandwein's Bagels · Chapel Hill",
-          "line": "Sun · Aug 16"
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Mon · Aug 17"
+        },
+        {
+          "title": "Pot-A-Plant at Dix Park",
+          "where": "Dix Park · Raleigh",
+          "line": "Mon · Aug 17"
+        },
+        {
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Mon · Aug 17"
+        },
+        {
+          "title": "Summer Camp 2026",
+          "where": "The Makery · Wake Forest",
+          "line": "Mon · Aug 17"
+        },
+        {
+          "title": "Hometown (Inherited) | Moriah Lefebvre Gallery Exhibit",
+          "where": "ArtsCenter | Theatre Gallery · Carrboro",
+          "line": "Aug 17 – Aug 31"
         }
       ]
     },
@@ -95,34 +95,9 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Adult Spelling Bee",
-          "where": "Dingo Dog Brewing Co. · Carrboro",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "Fiestas En La Calle 2026",
-          "where": "Weaver Street Market Carrboro · Carrboro",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "Honeysuckle Tea House Open House",
-          "where": "Honeysuckle Tea House · Chapel hill",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "The Sunday Show | Live Standup Comedy",
-          "where": "Yonder: Southern Cocktails & Brew · Hillsborough",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "UNC vs Michigan State | Women's Soccer",
-          "where": "Dorrance Field · Chapel Hill",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "UNC vs Wake Forest | Scrimmage | Field Hockey",
-          "where": "Karen Shelton Stadium · Chapel Hill",
-          "line": "Sun · Aug 23"
+          "title": "Paint Your Pet Day",
+          "where": "Beer Study · Carrboro",
+          "line": "Mon · Aug 24"
         },
         {
           "title": "Durham Bulls vs. Norfolk",
@@ -130,9 +105,34 @@
           "line": "Tue · Aug 25"
         },
         {
+          "title": "MeowJong FUNRaiser | Beautiful Together Animal Sanctuary Benefit",
+          "where": "Beautiful Together Animal Sanctuary's Cat Cafe · Chapel Hill",
+          "line": "Wed · Aug 26"
+        },
+        {
           "title": "Tan & Sober: Unplugged | Local Live Music",
           "where": "Yonder, Not Just a Bar · Hillsborough",
           "line": "Wed · Aug 26"
+        },
+        {
+          "title": "Open Mic at the End of The Universe",
+          "where": "The Cave · Chapel Hill",
+          "line": "Thu · Aug 27"
+        },
+        {
+          "title": "COLLAGE NIGHT",
+          "where": "peel · Carrboro",
+          "line": "Aug 27 – Sep 24"
+        },
+        {
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Aug 28"
+        },
+        {
+          "title": "Star Party!",
+          "where": "Burwell School Historic Site · Hillsborough",
+          "line": "Fri · Aug 28"
         }
       ]
     },
@@ -140,44 +140,44 @@
       "label": "This Year",
       "items": [
         {
-          "title": "Amber Wallin",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Wed · Sep 16"
-        },
-        {
-          "title": "Billie Lee & Amy Miller",
+          "title": "Alistair Ogden",
           "where": "Goodnights Comedy Club, Room 861 · Raleigh",
-          "line": "Wed · Sep 16"
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Caring for Your Skin as We Age",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Sep 16"
+          "title": "An Evening with Sam Robbins",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Hispanic Heritage Month: Spider Stories",
-          "where": "Hunter Street Park · Apex",
-          "line": "Wed · Sep 16"
+          "title": "Attracting Pollinators with Native Plants",
+          "where": "Good Hope Farm · Cary",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Live at The Bark Bar: Sam Trebing",
-          "where": "DCP Bark Bar · Cary",
-          "line": "Wed · Sep 16"
+          "title": "FM2FV Concert Series 2026: North Tower",
+          "where": "Centennial Square · Fuquay-Varina",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Sunflower Prints",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Sep 16"
+          "title": "Fabrication II",
+          "where": "ShopSpace · Raleigh",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "DSLR Intro + Photo-walk Workshop",
-          "where": "peel · Carrboro",
-          "line": "Wed · Sep 16"
+          "title": "Pollinators in Our Parks",
+          "where": "Carpenter Park · Cary",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "The Real Housewives of Hillsborough 1776 | The Ladies Tell-All Reunion & Cocktail Tasting",
-          "where": "Yonder, Not Just a Bar · Hillsborough",
-          "line": "Wed · Sep 16"
+          "title": "UNC vs Duke | Women's Soccer",
+          "where": "Dorrance Field · Chapel Hill",
+          "line": "Thu · Sep 17"
+        },
+        {
+          "title": "The Velocity of Autumn | A Redbird Theater Co. Production",
+          "where": "ArtsCenter · Carrboro",
+          "line": "Sep 17 – Sep 20"
         }
       ]
     }
