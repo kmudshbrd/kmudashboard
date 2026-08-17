@@ -1,17 +1,11 @@
 {
-  "temp": 80.9,
-  "desc": "Clear sky, feels like 88°.",
-  "aqi": 41,
+  "temp": 92.7,
+  "desc": "Clear sky, feels like 98°.",
+  "aqi": 45,
   "aqiLabel": "Good",
   "sunrise": "06:35",
   "sunset": "20:01",
   "hours": [
-    {
-      "h": "12h",
-      "icon": "☀︎",
-      "t": 89.5,
-      "p": 0
-    },
     {
       "h": "15h",
       "icon": "☀︎",
@@ -28,13 +22,19 @@
       "h": "21h",
       "icon": "☀︎",
       "t": 87.8,
-      "p": 5
+      "p": 4
     },
     {
       "h": "00h",
       "icon": "☁︎",
-      "t": 80.7,
+      "t": 80.8,
       "p": 11
+    },
+    {
+      "h": "03h",
+      "icon": "⛅︎",
+      "t": 79.4,
+      "p": 9
     }
   ]
 }
