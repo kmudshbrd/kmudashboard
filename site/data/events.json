@@ -5,28 +5,33 @@
       "label": "Today",
       "items": [
         {
-          "title": "Art of Cool Presents The Frequency Series Featuring Jonathan Butler & Najee",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Body Mind Spirit Celebration",
-          "where": "Agri Supply Exposition Center at North Carolina State Fairgrounds · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Dog Days of Summer Brunch: Raleigh, NC",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Harry and the Hendersons",
-          "where": "The Cary Theater · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Trivia Night",
+          "title": "Bunco",
           "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Children's Bingo",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Today"
+        },
+        {
+          "title": "Pot-A-Plant at Dix Park",
+          "where": "Dix Park · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
           "line": "Today"
         },
         {
@@ -35,13 +40,8 @@
           "line": "Today"
         },
         {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Today"
-        },
-        {
-          "title": "Towne Players Presents: Disney's Aladdin Jr.",
-          "where": "Garner Performing Arts Center · Garner",
+          "title": "Summer Camp 2026",
+          "where": "The Makery · Wake Forest",
           "line": "Today"
         }
       ]
@@ -50,55 +50,50 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Bunco",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Mon · Aug 17"
+          "title": "A Brush of History - Painting at the Pugh House",
+          "where": "Pugh House · Morrisville",
+          "line": "Tue · Aug 18"
         },
         {
-          "title": "Children's Bingo",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Aug 17"
+          "title": "Bearing Witness: Interfaith Service and Vigil",
+          "where": "Pullen Memorial Baptist Church · Raleigh",
+          "line": "Tue · Aug 18"
         },
         {
-          "title": "Fortnight Run Club",
+          "title": "Ella Mai",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Tue · Aug 18"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
-          "line": "Mon · Aug 17"
+          "line": "Tue · Aug 18"
         },
         {
-          "title": "Music Bingo Monday",
+          "title": "Trivia Night Fortnight Cary",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Tue · Aug 18"
+        },
+        {
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Tue · Aug 18"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
           "where": "Farmhouse Cafe · Wendell",
-          "line": "Mon · Aug 17"
+          "line": "Tue · Aug 18"
         },
         {
-          "title": "Pot-A-Plant at Dix Park",
-          "where": "Dix Park · Raleigh",
-          "line": "Mon · Aug 17"
-        },
-        {
-          "title": "Service Industry Night",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Mon · Aug 17"
-        },
-        {
-          "title": "Summer Camp 2026",
-          "where": "The Makery · Wake Forest",
-          "line": "Mon · Aug 17"
-        },
-        {
-          "title": "Hometown (Inherited) | Moriah Lefebvre Gallery Exhibit",
-          "where": "ArtsCenter | Theatre Gallery · Carrboro",
-          "line": "Aug 17 – Aug 31"
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
+          "line": "Tue · Aug 18"
         }
       ]
     },
     {
       "label": "This Month",
       "items": [
-        {
-          "title": "Paint Your Pet Day",
-          "where": "Beer Study · Carrboro",
-          "line": "Mon · Aug 24"
-        },
         {
           "title": "Durham Bulls vs. Norfolk",
           "where": "Durham",
@@ -130,6 +125,11 @@
           "line": "Fri · Aug 28"
         },
         {
+          "title": "Live Stand-Up Comedy featuring Plot Holes & LookOut",
+          "where": "My Muses Card Shop & Muse Gallery · Carrboro",
+          "line": "Fri · Aug 28"
+        },
+        {
           "title": "Star Party!",
           "where": "Burwell School Historic Site · Hillsborough",
           "line": "Fri · Aug 28"
@@ -140,44 +140,44 @@
       "label": "This Year",
       "items": [
         {
-          "title": "Alistair Ogden",
-          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
-          "line": "Thu · Sep 17"
+          "title": "10 Ways Estate Plans Can Fail",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Fri · Sep 18"
         },
         {
-          "title": "An Evening with Sam Robbins",
+          "title": "Bad Momz Are Back",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Fri · Sep 18"
+        },
+        {
+          "title": "Beach Music at The Ridge: Chairmen of the Board",
+          "where": "The Ridge · Raleigh",
+          "line": "Fri · Sep 18"
+        },
+        {
+          "title": "Boots & Beats Silent Disco",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Fri · Sep 18"
+        },
+        {
+          "title": "Brown Mountain Lightning Bugs w/Couldn’t Be Happiers",
           "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Thu · Sep 17"
+          "line": "Fri · Sep 18"
         },
         {
-          "title": "Attracting Pollinators with Native Plants",
-          "where": "Good Hope Farm · Cary",
-          "line": "Thu · Sep 17"
+          "title": "Champagne & Friends",
+          "where": "The Loading Dock · Raleigh",
+          "line": "Fri · Sep 18"
         },
         {
-          "title": "FM2FV Concert Series 2026: North Tower",
-          "where": "Centennial Square · Fuquay-Varina",
-          "line": "Thu · Sep 17"
+          "title": "Groovin' in Garner Outdoor Concert Series: Kyle Mullins Band and Robert Hunter & Real Rowdy",
+          "where": "Garner Recreation Center · Garner",
+          "line": "Fri · Sep 18"
         },
         {
-          "title": "Fabrication II",
-          "where": "ShopSpace · Raleigh",
-          "line": "Thu · Sep 17"
-        },
-        {
-          "title": "Pollinators in Our Parks",
-          "where": "Carpenter Park · Cary",
-          "line": "Thu · Sep 17"
-        },
-        {
-          "title": "UNC vs Duke | Women's Soccer",
-          "where": "Dorrance Field · Chapel Hill",
-          "line": "Thu · Sep 17"
-        },
-        {
-          "title": "The Velocity of Autumn | A Redbird Theater Co. Production",
-          "where": "ArtsCenter · Carrboro",
-          "line": "Sep 17 – Sep 20"
+          "title": "Live Like Ryan Golf Tournament",
+          "where": "Zebulon Country Club · Zebulon",
+          "line": "Fri · Sep 18"
         }
       ]
     }
