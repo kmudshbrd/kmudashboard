@@ -5,33 +5,28 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bunco",
-          "where": "Fortnight Brewing Company · Wake Forest",
+          "title": "A Brush of History - Painting at the Pugh House",
+          "where": "Pugh House · Morrisville",
           "line": "Today"
         },
         {
-          "title": "Children's Bingo",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Bearing Witness: Interfaith Service and Vigil",
+          "where": "Pullen Memorial Baptist Church · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Fortnight Run Club",
+          "title": "Ella Mai",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Music Bingo Monday",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Today"
-        },
-        {
-          "title": "Pot-A-Plant at Dix Park",
-          "where": "Dix Park · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Service Industry Night",
-          "where": "Slim's Dive Bar · Raleigh",
+          "title": "Trivia Night Fortnight Cary",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
@@ -40,8 +35,13 @@
           "line": "Today"
         },
         {
-          "title": "Summer Camp 2026",
-          "where": "The Makery · Wake Forest",
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Today"
         }
       ]
@@ -50,55 +50,50 @@
       "label": "This Week",
       "items": [
         {
-          "title": "A Brush of History - Painting at the Pugh House",
-          "where": "Pugh House · Morrisville",
-          "line": "Tue · Aug 18"
+          "title": "Art + Nature Story Time",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Bearing Witness: Interfaith Service and Vigil",
-          "where": "Pullen Memorial Baptist Church · Raleigh",
-          "line": "Tue · Aug 18"
+          "title": "Coffee & Crochet",
+          "where": "Raleigh",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Ella Mai",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Tue · Aug 18"
+          "title": "College Discount Night",
+          "where": "Waverly Place · Cary",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Aug 18"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Trivia Night Fortnight Cary",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Aug 18"
+          "title": "Papercraft Snake Plant",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
-          "line": "Tue · Aug 18"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Aug 18"
+          "title": "Free Wednesday Morning Movies",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Wed · Aug 19"
         },
         {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
-          "line": "Tue · Aug 18"
+          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
+          "where": "Abbey Road Tavern & Grill - Apex · Apex",
+          "line": "Wed · Aug 19"
         }
       ]
     },
     {
       "label": "This Month",
       "items": [
-        {
-          "title": "Durham Bulls vs. Norfolk",
-          "where": "Durham",
-          "line": "Tue · Aug 25"
-        },
         {
           "title": "MeowJong FUNRaiser | Beautiful Together Animal Sanctuary Benefit",
           "where": "Beautiful Together Animal Sanctuary's Cat Cafe · Chapel Hill",
@@ -133,6 +128,11 @@
           "title": "Star Party!",
           "where": "Burwell School Historic Site · Hillsborough",
           "line": "Fri · Aug 28"
+        },
+        {
+          "title": "Dog Daze of Summer | Paws4ever Fundraiser",
+          "where": "Steel String Brewery at Pluck Farm · Mebane",
+          "line": "Sat · Aug 29"
         }
       ]
     },
@@ -140,44 +140,44 @@
       "label": "This Year",
       "items": [
         {
-          "title": "10 Ways Estate Plans Can Fail",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Fri · Sep 18"
+          "title": "Asia Fest 2026",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Bad Momz Are Back",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Fri · Sep 18"
+          "title": "919 DAY 2026: Hardcore Showcase",
+          "where": "KINGS · Raleigh",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Beach Music at The Ridge: Chairmen of the Board",
-          "where": "The Ridge · Raleigh",
-          "line": "Fri · Sep 18"
+          "title": "Author Event: Rebecca Hodge",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Boots & Beats Silent Disco",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Fri · Sep 18"
+          "title": "Autumn Nights: An Evening of Soul and R&B",
+          "where": "Cary Arts Center · Cary",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Brown Mountain Lightning Bugs w/Couldn’t Be Happiers",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Sep 18"
+          "title": "Boom Ball Tour",
+          "where": "Nomaco Park · Zebulon",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Champagne & Friends",
-          "where": "The Loading Dock · Raleigh",
-          "line": "Fri · Sep 18"
+          "title": "BugFest 2026",
+          "where": "North Carolina Museum of Natural Sciences · Raleigh",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Groovin' in Garner Outdoor Concert Series: Kyle Mullins Band and Robert Hunter & Real Rowdy",
-          "where": "Garner Recreation Center · Garner",
-          "line": "Fri · Sep 18"
+          "title": "Canine-Con 2026",
+          "where": "Jefferson L. Sugg Farm Park at Bass Lake · Holly Springs",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Live Like Ryan Golf Tournament",
-          "where": "Zebulon Country Club · Zebulon",
-          "line": "Fri · Sep 18"
+          "title": "Festa Italiana 2026",
+          "where": "Town of Apex  - Town Hall · Apex",
+          "line": "Sat · Sep 19"
         }
       ]
     }
