@@ -85,9 +85,9 @@
           "line": "Thu · Aug 20"
         },
         {
-          "title": "Wine Tasting with Haw River Wineman",
-          "where": "Beer Study · Carrboro",
-          "line": "Thu · Aug 20"
+          "title": "Painting Studio with Clina Polloni",
+          "where": "The Makery · Wake Forest",
+          "line": "Aug 20 – Aug 27"
         }
       ]
     },
@@ -95,44 +95,44 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Open Mic at the End of The Universe",
-          "where": "The Cave · Chapel Hill",
-          "line": "Thu · Aug 27"
-        },
-        {
-          "title": "Skywatching & Show | Lunar Eclipse",
-          "where": "Morehead Planetarium & Science Center · Chapel Hill",
-          "line": "Thu · Aug 27"
-        },
-        {
-          "title": "COLLAGE NIGHT",
-          "where": "peel · Carrboro",
-          "line": "Aug 27 – Sep 24"
-        },
-        {
           "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
           "line": "Fri · Aug 28"
         },
         {
-          "title": "Live Stand-Up Comedy featuring Plot Holes & LookOut",
-          "where": "My Muses Card Shop & Muse Gallery · Carrboro",
-          "line": "Fri · Aug 28"
+          "title": "Durham Bulls vs. Norfolk",
+          "where": "Durham",
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Star Party!",
-          "where": "Burwell School Historic Site · Hillsborough",
-          "line": "Fri · Aug 28"
+          "title": "Asia Fest 2026",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Friendly Fiber Fridays Meet-Up",
-          "where": "Orange County Public Library | Main Meeting Room 116 · Hillsborough",
-          "line": "Fri · Aug 28"
+          "title": "919 DAY 2026: Hardcore Showcase",
+          "where": "KINGS · Raleigh",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Dog Daze of Summer | Paws4ever Fundraiser",
-          "where": "Steel String Brewery at Pluck Farm · Mebane",
-          "line": "Sat · Aug 29"
+          "title": "Author Event: Rebecca Hodge",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Sat · Sep 19"
+        },
+        {
+          "title": "Autumn Nights: An Evening of Soul and R&B",
+          "where": "Cary Arts Center · Cary",
+          "line": "Sat · Sep 19"
+        },
+        {
+          "title": "Boom Ball Tour",
+          "where": "Nomaco Park · Zebulon",
+          "line": "Sat · Sep 19"
+        },
+        {
+          "title": "BugFest 2026",
+          "where": "North Carolina Museum of Natural Sciences · Raleigh",
+          "line": "Sat · Sep 19"
         }
       ]
     },
@@ -170,14 +170,14 @@
           "line": "Sun · Sep 20"
         },
         {
-          "title": "Modern Calligraphy & Pumpkin Lettering for Beginners",
-          "where": "Steel String Brewery Taproom · Carrboro",
-          "line": "Sun · Sep 20"
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Mon · Sep 21"
         },
         {
-          "title": "Prepare to be Flor-ed: The Wines of Jerez & Beyond | Wine Class",
-          "where": "Rocks & Acid Wine Shop · Chapel Hill",
-          "line": "Sun · Sep 20"
+          "title": "No School Hangout-Morrisville 2026",
+          "where": "Cedar Fork Community Center · Morrisville",
+          "line": "Mon · Sep 21"
         }
       ]
     }
