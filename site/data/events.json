@@ -5,28 +5,28 @@
       "label": "Today",
       "items": [
         {
-          "title": "A Brush of History - Painting at the Pugh House",
-          "where": "Pugh House · Morrisville",
+          "title": "Art + Nature Story Time",
+          "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bearing Witness: Interfaith Service and Vigil",
-          "where": "Pullen Memorial Baptist Church · Raleigh",
+          "title": "Coffee & Crochet",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Ella Mai",
-          "where": "Red Hat Amphitheater · Raleigh",
+          "title": "College Discount Night",
+          "where": "Waverly Place · Cary",
           "line": "Today"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Trivia Night Fortnight Cary",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "Papercraft Snake Plant",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
@@ -35,13 +35,13 @@
           "line": "Today"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
+          "title": "Free Wednesday Morning Movies",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Art + Nature Story Time",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Wed · Aug 19"
+          "title": "Classic Cocktails and Classic Hip Hop",
+          "where": "Boatman Spirits Co. · Raleigh",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "Coffee & Crochet",
-          "where": "Raleigh",
-          "line": "Wed · Aug 19"
+          "title": "Comedy Night -Upstairs Stand Up",
+          "where": "The Davie · Raleigh",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "College Discount Night",
-          "where": "Waverly Place · Cary",
-          "line": "Wed · Aug 19"
+          "title": "Murder Mystery Dinner: Death by Disco",
+          "where": "Halle Cultural Arts Center · Apex",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Wed · Aug 19"
+          "title": "Murder Mystery Trivia",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "Papercraft Snake Plant",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Aug 19"
+          "title": "Line Dancing Boot Camp",
+          "where": "PBR Cowboy Bar Cary · Cary",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Wed · Aug 19"
+          "title": "Music Bingo at The Backyard",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "Free Wednesday Morning Movies",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Wed · Aug 19"
+          "title": "The Gnome knows Trivia at Norse Brewing Company",
+          "where": "Norse Brewing Company · Wake Forest",
+          "line": "Thu · Aug 20"
         },
         {
-          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
-          "where": "Abbey Road Tavern & Grill - Apex · Apex",
-          "line": "Wed · Aug 19"
+          "title": "Wine Tasting with Haw River Wineman",
+          "where": "Beer Study · Carrboro",
+          "line": "Thu · Aug 20"
         }
       ]
     },
@@ -95,18 +95,13 @@
       "label": "This Month",
       "items": [
         {
-          "title": "MeowJong FUNRaiser | Beautiful Together Animal Sanctuary Benefit",
-          "where": "Beautiful Together Animal Sanctuary's Cat Cafe · Chapel Hill",
-          "line": "Wed · Aug 26"
-        },
-        {
-          "title": "Tan & Sober: Unplugged | Local Live Music",
-          "where": "Yonder, Not Just a Bar · Hillsborough",
-          "line": "Wed · Aug 26"
-        },
-        {
           "title": "Open Mic at the End of The Universe",
           "where": "The Cave · Chapel Hill",
+          "line": "Thu · Aug 27"
+        },
+        {
+          "title": "Skywatching & Show | Lunar Eclipse",
+          "where": "Morehead Planetarium & Science Center · Chapel Hill",
           "line": "Thu · Aug 27"
         },
         {
@@ -130,6 +125,11 @@
           "line": "Fri · Aug 28"
         },
         {
+          "title": "Friendly Fiber Fridays Meet-Up",
+          "where": "Orange County Public Library | Main Meeting Room 116 · Hillsborough",
+          "line": "Fri · Aug 28"
+        },
+        {
           "title": "Dog Daze of Summer | Paws4ever Fundraiser",
           "where": "Steel String Brewery at Pluck Farm · Mebane",
           "line": "Sat · Aug 29"
@@ -140,44 +140,44 @@
       "label": "This Year",
       "items": [
         {
-          "title": "Asia Fest 2026",
+          "title": "La Fiesta del Pueblo 2026",
+          "where": "Raleigh",
+          "line": "Sun · Sep 20"
+        },
+        {
+          "title": "15th Annual Mama Afrika Festival",
+          "where": "Raleigh",
+          "line": "Sun · Sep 20"
+        },
+        {
+          "title": "Rainbow Kitten Surprise: Bones North American Tour",
           "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Sat · Sep 19"
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "919 DAY 2026: Hardcore Showcase",
-          "where": "KINGS · Raleigh",
-          "line": "Sat · Sep 19"
+          "title": "Summer Wine Dinner with Spread NC",
+          "where": "Zin Yoga and Wine Lounge · Garner",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Author Event: Rebecca Hodge",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Sat · Sep 19"
+          "title": "Wake Forest CROP Hunger Walk 2026",
+          "where": "Wake Forest Area Chamber of Commerce · Wake Forest",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Autumn Nights: An Evening of Soul and R&B",
-          "where": "Cary Arts Center · Cary",
-          "line": "Sat · Sep 19"
+          "title": "Sunday Sound Bath",
+          "where": "DCP Gathering House · Cary",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Boom Ball Tour",
-          "where": "Nomaco Park · Zebulon",
-          "line": "Sat · Sep 19"
+          "title": "Modern Calligraphy & Pumpkin Lettering for Beginners",
+          "where": "Steel String Brewery Taproom · Carrboro",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "BugFest 2026",
-          "where": "North Carolina Museum of Natural Sciences · Raleigh",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "Canine-Con 2026",
-          "where": "Jefferson L. Sugg Farm Park at Bass Lake · Holly Springs",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "Festa Italiana 2026",
-          "where": "Town of Apex  - Town Hall · Apex",
-          "line": "Sat · Sep 19"
+          "title": "Prepare to be Flor-ed: The Wines of Jerez & Beyond | Wine Class",
+          "where": "Rocks & Acid Wine Shop · Chapel Hill",
+          "line": "Sun · Sep 20"
         }
       ]
     }
