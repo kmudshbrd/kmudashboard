@@ -5,28 +5,23 @@
       "label": "Today",
       "items": [
         {
-          "title": "Art + Nature Story Time",
-          "where": "North Carolina Museum of Art · Raleigh",
+          "title": "Classic Cocktails and Classic Hip Hop",
+          "where": "Boatman Spirits Co. · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Coffee & Crochet",
-          "where": "Raleigh",
+          "title": "Comedy Night -Upstairs Stand Up",
+          "where": "The Davie · Raleigh",
           "line": "Today"
         },
         {
-          "title": "College Discount Night",
-          "where": "Waverly Place · Cary",
+          "title": "Murder Mystery Dinner: Death by Disco",
+          "where": "Halle Cultural Arts Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Papercraft Snake Plant",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Murder Mystery Trivia",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
@@ -35,14 +30,19 @@
           "line": "Today"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "title": "Line Dancing Boot Camp",
+          "where": "PBR Cowboy Bar Cary · Cary",
           "line": "Today"
         },
         {
-          "title": "Free Wednesday Morning Movies",
-          "where": "The Halle Cultural Arts Center · Apex",
+          "title": "The Gnome knows Trivia at Norse Brewing Company",
+          "where": "Norse Brewing Company · Wake Forest",
           "line": "Today"
+        },
+        {
+          "title": "Painting Studio with Clina Polloni",
+          "where": "The Makery · Wake Forest",
+          "line": "Through Aug 27"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Classic Cocktails and Classic Hip Hop",
-          "where": "Boatman Spirits Co. · Raleigh",
-          "line": "Thu · Aug 20"
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "Comedy Night -Upstairs Stand Up",
-          "where": "The Davie · Raleigh",
-          "line": "Thu · Aug 20"
+          "title": "Three Dog Night",
+          "where": "Durham",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "Murder Mystery Dinner: Death by Disco",
-          "where": "Halle Cultural Arts Center · Apex",
-          "line": "Thu · Aug 20"
+          "title": "The Rocky Horror Picture Show",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "Murder Mystery Trivia",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Aug 20"
+          "title": "2026 NASCAR Regional Season - The Bullring 165",
+          "where": "Wake County Speedway · Raleigh",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "Line Dancing Boot Camp",
-          "where": "PBR Cowboy Bar Cary · Cary",
-          "line": "Thu · Aug 20"
+          "title": "An Evening with Jaimee Harris & Wes Collins",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "Music Bingo at The Backyard",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Aug 20"
+          "title": "Groovin' in Garner Welcomes EnVision",
+          "where": "Garner Recreation Center · Garner",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "The Gnome knows Trivia at Norse Brewing Company",
-          "where": "Norse Brewing Company · Wake Forest",
-          "line": "Thu · Aug 20"
+          "title": "Horsegirls",
+          "where": "The Cary Theater · Cary",
+          "line": "Fri · Aug 21"
         },
         {
-          "title": "Painting Studio with Clina Polloni",
-          "where": "The Makery · Wake Forest",
-          "line": "Aug 20 – Aug 27"
+          "title": "Kids Night Out - \"Back to School\"",
+          "where": "Waverly Place · Cary",
+          "line": "Fri · Aug 21"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sun · Aug 30"
         },
-        {
-          "title": "Asia Fest 2026",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "919 DAY 2026: Hardcore Showcase",
-          "where": "KINGS · Raleigh",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "Author Event: Rebecca Hodge",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "Autumn Nights: An Evening of Soul and R&B",
-          "where": "Cary Arts Center · Cary",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "Boom Ball Tour",
-          "where": "Nomaco Park · Zebulon",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "BugFest 2026",
-          "where": "North Carolina Museum of Natural Sciences · Raleigh",
-          "line": "Sat · Sep 19"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "La Fiesta del Pueblo 2026",
           "where": "Raleigh",
@@ -168,6 +133,21 @@
           "title": "Sunday Sound Bath",
           "where": "DCP Gathering House · Cary",
           "line": "Sun · Sep 20"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Birds and Bloomers",
+          "where": "DCP Guest Services · Cary",
+          "line": "Mon · Sep 21"
+        },
+        {
+          "title": "Eyehategod / Whores / No/Mas",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Mon · Sep 21"
         },
         {
           "title": "Music Bingo Monday",
@@ -175,9 +155,29 @@
           "line": "Mon · Sep 21"
         },
         {
+          "title": "Swift Night Out",
+          "where": "The Willard Rooftop Lounge Horizon Ballroom - AC Hotel Raleigh Downtown Rooftop · Raleigh",
+          "line": "Mon · Sep 21"
+        },
+        {
           "title": "No School Hangout-Morrisville 2026",
           "where": "Cedar Fork Community Center · Morrisville",
           "line": "Mon · Sep 21"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Sep 21"
+        },
+        {
+          "title": "Senior Resources Fair 2026",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Tue · Sep 22"
+        },
+        {
+          "title": "Explore S'more",
+          "where": "Apex Nature Park · Apex",
+          "line": "Thu · Sep 24"
         }
       ]
     }
