@@ -1,40 +1,40 @@
 {
-  "temp": 78.3,
-  "desc": "Overcast, feels like 86°. Rain likely around 19:00.",
-  "aqi": 61,
+  "temp": 81.0,
+  "desc": "Overcast, feels like 89°. Rain likely around 22:00.",
+  "aqi": 62,
   "aqiLabel": "Moderate",
   "sunrise": "06:38",
   "sunset": "19:56",
   "hours": [
     {
-      "h": "15h",
-      "icon": "☀︎",
-      "t": 79.7,
-      "p": 10
-    },
-    {
       "h": "18h",
-      "icon": "🌦",
-      "t": 79.2,
-      "p": 39
+      "icon": "☁︎",
+      "t": 77.0,
+      "p": 31
     },
     {
       "h": "21h",
-      "icon": "🌧",
-      "t": 71.1,
-      "p": 51
+      "icon": "☁︎",
+      "t": 74.3,
+      "p": 32
     },
     {
       "h": "00h",
-      "icon": "🌧",
-      "t": 70.0,
+      "icon": "☁︎",
+      "t": 70.1,
       "p": 38
     },
     {
       "h": "03h",
       "icon": "☁︎",
-      "t": 69.7,
-      "p": 17
+      "t": 69.1,
+      "p": 16
+    },
+    {
+      "h": "06h",
+      "icon": "☁︎",
+      "t": 68.8,
+      "p": 8
     }
   ]
 }
