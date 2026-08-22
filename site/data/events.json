@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "Tour of Murray-Massenburg School",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Three Dog Night",
-          "where": "Durham",
+          "title": "Abysmal Lord / FIN / Lichen / Primeval Well",
+          "where": "Chapel of Bones · Raleigh",
           "line": "Today"
         },
         {
-          "title": "The Rocky Horror Picture Show",
-          "where": "The Rialto Theatre · Raleigh",
+          "title": "Art and Blooms at the JCRA: \"Mountains, Skies and Water\"",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Bullring 165",
-          "where": "Wake County Speedway · Raleigh",
+          "title": "CaryLIVE! Delta Rae",
+          "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "An Evening with Jaimee Harris & Wes Collins",
-          "where": "The Wake Forest Listening Room · Wake Forest",
+          "title": "Coyotees Band",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Today"
         },
         {
-          "title": "Groovin' in Garner Welcomes EnVision",
-          "where": "Garner Recreation Center · Garner",
+          "title": "Live Music with Luke Schofield",
+          "where": "Rosecomb Beer Garden · Cary",
           "line": "Today"
         },
         {
-          "title": "Horsegirls",
-          "where": "The Cary Theater · Cary",
+          "title": "Mike Casey",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Kids Night Out - \"Back to School\"",
-          "where": "Waverly Place · Cary",
+          "title": "SproutFest 2026",
+          "where": "Holly Springs Farmers Market · Holly Springs",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Tour of Murray-Massenburg School",
-          "where": "Durham",
-          "line": "Sat · Aug 22"
+          "title": "Alex Underwood",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Sun · Aug 23"
         },
         {
-          "title": "Abysmal Lord / FIN / Lichen / Primeval Well",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Sat · Aug 22"
+          "title": "Back To School Brunch: Raleigh, NC",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Sun · Aug 23"
         },
         {
-          "title": "Art and Blooms at the JCRA: \"Mountains, Skies and Water\"",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
-          "line": "Sat · Aug 22"
+          "title": "Squeeze - Tried, Tested and Trixies",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Sun · Aug 23"
         },
         {
-          "title": "CaryLIVE! Delta Rae",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Sat · Aug 22"
+          "title": "Tony Dabas Raleigh Improv",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Aug 23"
         },
         {
-          "title": "Coyotees Band",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Sat · Aug 22"
-        },
-        {
-          "title": "Live Music with Luke Schofield",
-          "where": "Rosecomb Beer Garden · Cary",
-          "line": "Sat · Aug 22"
-        },
-        {
-          "title": "Mike Casey",
+          "title": "Trivia Night",
           "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sat · Aug 22"
+          "line": "Sun · Aug 23"
         },
         {
-          "title": "SproutFest 2026",
-          "where": "Holly Springs Farmers Market · Holly Springs",
-          "line": "Sat · Aug 22"
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Sun · Aug 23"
+        },
+        {
+          "title": "Durham Bulls vs. Norfolk",
+          "where": "Durham",
+          "line": "Tue · Aug 25"
+        },
+        {
+          "title": "Art 101: After School Program",
+          "where": "The Makery · Wake Forest",
+          "line": "Tue · Aug 25"
         }
       ]
     },
@@ -95,50 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Durham Bulls vs. Norfolk",
-          "where": "Durham",
-          "line": "Sun · Aug 30"
-        },
-        {
           "title": "North Durham Farmers' Market",
           "where": "Durham",
           "line": "Sat · Sep 5"
         },
         {
-          "title": "Birds and Bloomers",
-          "where": "DCP Guest Services · Cary",
-          "line": "Mon · Sep 21"
+          "title": "Melissa Etheridge",
+          "where": "Durham",
+          "line": "Sat · Sep 5"
         },
-        {
-          "title": "Eyehategod / Whores / No/Mas",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Music Bingo Monday",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Swift Night Out",
-          "where": "The Willard Rooftop Lounge Horizon Ballroom - AC Hotel Raleigh Downtown Rooftop · Raleigh",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "No School Hangout-Morrisville 2026",
-          "where": "Cedar Fork Community Center · Morrisville",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Sep 21"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "GoldFord - Space of the Heart Tour",
           "where": "The Ritz · Raleigh",
@@ -163,10 +128,30 @@
           "title": "Toddler Tuesday",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Tue · Sep 22"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Fall Equinox Yoga Event",
+          "where": "Fred Fletcher Park · Raleigh",
+          "line": "Wed · Sep 23"
+        },
+        {
+          "title": "Homeschool Day",
+          "where": "Alice Aycock Poe Center for Health Education · Raleigh",
+          "line": "Wed · Sep 23"
         },
         {
           "title": "Movie Night Under the Stars",
           "where": "Sertoma Amphitheatre · Cary",
+          "line": "Wed · Sep 23"
+        },
+        {
+          "title": "Tai Chi: Downtown Cary Park",
+          "where": "DCP Gathering House · Cary",
           "line": "Wed · Sep 23"
         },
         {
@@ -178,6 +163,16 @@
           "title": "FM2FV Concert Series 2026: Smile",
           "where": "Centennial Square · Fuquay-Varina",
           "line": "Thu · Sep 24"
+        },
+        {
+          "title": "Jim Quick & Coastline",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Fri · Sep 25"
+        },
+        {
+          "title": "Shannon Baker & Sometime Soon",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Sep 25"
         }
       ]
     }
