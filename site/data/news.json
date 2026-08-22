@@ -6,40 +6,40 @@
       "color": "var(--dial-slate)",
       "stories": [
         {
-          "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
-          "source": "NBC News",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5"
+          "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+          "source": "NPR",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ek9UMzBJR2h5cVJkbzFpUzY5dkprSXNTNjZjR0RwWEc1RFlxSWlnWGtFaFg1bm5LUUpDUWhfZGRETW9PN1RiWEhxdXN2dUxVeFRZNjJhQ2tJYk1PUnZJYXRISk9oMGdWS1dTYUNiWQ?oc=5"
         },
         {
-          "title": "Defense Rests Case in Lindsay Clancy Murder Trial",
-          "source": "The New York Times",
-          "time": "10h ago",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdEVJbnhHOV9Bekt0a1R6bWJFV3JFNTNnSHpnZXBKMVFZdm1iU0Zlb3UwOEdFaUV6N2dTaEJRTjl1Z0Y0UUhFVUJPWE5kcnJQRk5MOUpaLUN0anozTTZPVldDTzB1Wlk2VGVZUUlwdUVsLVhHQWFhS1dtaw?oc=5"
-        },
-        {
-          "title": "Missing New York grandmother found dead near Las Vegas airport after mysterious Bitcoin texts",
-          "source": "Fox News",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmZhVllGU0tkR3k4WUhzU2RrcGJaTGxMU05ER0hibkZVU2VFVzQ0MVEydW52QVp6Y2gtdTRXbERtYjg3aV9BLVM1eGFTOXkxWEt6ZlV6Ujh2dUxPV2V4NWt5NFFEcjlUY0RoWHY0dW9QMVl6bElWeE5nYWNBb29wME02eW5vSlhmdi1sMkpablpOY3FfMWtMdTZIcm92WFhzWnIyNDNQR0hybHVJeWfSAbMBQVVfeXFMTzgzTTBpWk53NXZDMWlvdFh3b09uWEtXajVOWE0tS0ZoYTFyRXdDREhsX0tmNThNY0FBc1VsQ3NSQkIwZkphSk16cWJVV1VacURNTzBYQU9OUUxQMXVhLTRocWVIOFVhaUdhZFR4WmVqUTZacmRTbXNrRGJxTk1XbUlObWpTbEM5QlM3ckhETjlPbk5CSFhmSk1XdzlOeWZLTkRBRkFDaEFwSzg4b1QtT0dteFk?oc=5"
-        },
-        {
-          "title": "US Postal Service rule tightens mail-in voting despite court orders blocking changes",
+          "title": "Lindsay Clancy trial: everything that happened this week in court",
           "source": "The Guardian",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVY3b3FxcFhTMVM5TE1FVzA4NjMtdFNKaGotZEtqdmhRZFpmUTdIWmFTNFdlbGYxU0NZbG54REhRLTNBWEFBbjIzbnpGb1p2cGpXNkRzM2lkUE5uVENHTWdCd3NNenlTWC1SWlIzdmJKMnpWeXk1aklGb0dJbTZHQTVZbFZIMm9PV3hrTl94UzEzUkRNRmRR?oc=5"
+        },
+        {
+          "title": "Drastic water cuts issued for California, Nevada and Arizona from drought-stricken Colorado River",
+          "source": "CBS News",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU3pQQWo2QnZIOWttb2hyS2NQZ0F4YjN2OHk3T2d4ZFAtQUFRekROR0J5Z3FYTnNsMEZfWXNFaHNaX0Z3UVpMLUxubWsxb2VaLWlBd1pSMFlESmF0UGNqS25wYVFxSkxDMkpPc2N4ZHBuaXdUWjNaQ3NxRDFsSG5qZkxEcDd4ZHkweS0yUGtGTmNac3JXMkVtQlZENklsUQ?oc=5"
+        },
+        {
+          "title": "DHS starts deportation flights after end to remaining protections for TPS holders",
+          "source": "The Hill",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTFFuOVFjWTJWTkZ0dllNLXdLZUNDM2ItLThGdkN6c2hqbE1hTGducm5CejRLMkNmMEJpNGthYzJLY2RuRVdXQlVjekQzSTRuQzNMN0wtd3NvVnp0eFpHTFVTU3N1OURoU2N1R2Z2LXhEMnBvZ1F1eElyaC1mck9iS01LTFQyRXhmV3pkRk1kYw?oc=5"
+        },
+        {
+          "title": "Trump, his clout on the line, stumps for Darline Graham in South Carolina",
+          "source": "The Washington Post",
           "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3QzdFBWOFAyY3VIcXNHMmN2aDVtU3hZTHBFZ0pfd2ROamZ2TUd3RWdnQUR4Q2JOTUQyYVNILVJMYmZYUEZpTXJhSjNHdXVSaWZzbEVxQWF4Tks5b3ZCdkluLXIyRENKN1M1V3VEb3BLbkRqZlhBeGFXdnI2OS1fM09zYkpTQmJpT2FGbA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDJTel9YVHZSWmp4bGllR1REYmhSX2k5aVFyZFhhT3hlXzI5OGJhTldJUTZqaldiNmR0QlVZckNlTjRFWlZscl9hQ2w3akVncm5tcUpseW11MXhhNjdYdjRhNUdSMHV4QWNCTUNsdDRibUE1Rm9KUG1zYTQxbFgxVHYzMWxQTXRPRF9KS0otczdiTkNnNXZXNmppbDE1T1BCc2FTbA?oc=5"
         },
         {
-          "title": "US imposes deep Colorado River water cuts to California, Nevada and Arizona",
-          "source": "Reuters",
-          "time": "10h ago",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG5vMnF2Z29oaHVGUzNEclJKb29zUzkwNlFvNkZmcVdCM0RlREJaODV3RGpRQVdxQkdQa1V6d0w3YnlzNGFMN1NTdmwzLXNUMmUwWHY3S2ZXTGVNWjVsN1lsT3FySFIzRER6UnJGbFczWVVNdmRVM1Vjc0JYVE1SVVZvTlB0X01RaVV6UW5lQTdlY3MweXluVlY0WDcxbmNTWFplU3g1RFFaSnUtdGQ3TGhkMDBEMHFKei1rTGg5QQ?oc=5"
-        },
-        {
-          "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
-          "source": "Axios",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUnNHY1otdDhxcVd1UktXNDR1VGxkUGNUM2N5aURIWW5JZDJiM2lKNy1tY0lXb1BRa0RJMkpqVVZUR1BGX3VPclRVUU9HZklORU1fNVEtcWkzcFl4VmFocHZ5S3hJOGlOREdSdXNPX3duQlFnN2hv?oc=5"
+          "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+          "source": "CNBC",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "color": "var(--dial-blush)",
       "stories": [
         {
-          "title": "Adobe Techie Had A Fight With Wife. His In-Laws Thrashed Him To Death",
-          "source": "NDTV",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3p4UFNtRGJJbDB6SlhuZWNIbjJiS2d0M1pKOEhaYXplTjYtNzgydXdNSE5mOVc5YUV0bWNWTXZweEY2WkV5WGJZdU5qTVpEa3JxdzNSWTNLS1lKd2RiYkxHUTBvRmFtSFNkTUNLMjQxRmVWbnZsVFFtVkxkWVFzOHhHY1ZaUHV1MkxrdmtfNGM3MWV5UWpTZGl5T0RlX2xuT1QxNi1XWW5PcElYNHc?oc=5"
-        },
-        {
-          "title": "Reservation Hatao Andolan: Over 50 detained at Jantar Mantar; reservation should go to poor, not castes:",
+          "title": "'No compromise': BJP passes resolution against Congress on Vande Mataram; vows nationwide protest",
           "source": "The Times of India",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRU9ZRUIzeDN5ZGFhTzNrUk5QTHZCdzlOdERxakdEU29DU0pFSGpKYlJYa19wanZGa1c2azNfZFpKNDJ0bGNQSzZpTTJSRm9vbVpaZV91YkdFa3UxTHRoamZRSi1haXdDc0kwSkhfRkRtM1JxQVpWOTdZbnZtOWxXVDNtLUJUa1lnNUFVQndUbllmM3IzNlhKMElJd3UyYlNYQVVXa1YyZTBuZG5HelRrZmtEN3duWk41bDlMS2hSLXpGd2p6dl9zV3RXS0NqaU9JWWI5ek9ZUzhNbTRaeUE4cmhVdXB0VE4xOTU0RWk4eGpXZUxvejNkLUVMN0FIRTVZakVsa0EwZklWc29kMmRMZVFOMDNpOE3SAZwCQVVfeXFMTkdoTmFfSDlobEl1akJGUDBGbjlDYW1mYkZJUE1MaXZMM3hEREFuVjJKQTIxQUI4QXBkalNoNTVGR1hSbVNpeGpSQlRsS0t2TWZpMExzVjBOLVNydF9YZGZvRlRnZ0NfTjc2clVjUkNtVEp5ZmI2Sy02NGhlVzZoaUtzUmFtd2tJV0dPM2k3eDA1a0M4MFI1eENLS0pJbGNnaUZOVGljN2h6SzhlRHVwY1NGanZtay1jUXRPQ3I4eklxSXkxcUNqbWdZWjd2MjNVVjdFYU5tM2tOM3Q0X2RxZTdGZXlDLUxGNVU1TmpSSzc4RklSeU84dlVSTUVQalpSZlB0U1lGa0hwQjZyampkdldlQ0dJd0Z3MmFzdUw?oc=5"
-        },
-        {
-          "title": "Students, teachers, Calcuttans unite in protest against ABVP assault on JU campus",
-          "source": "Telegraph India",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY3RZbzZ0WVJQeEF3U210bVROWVpMbzZmQ0F4SVZ6andmbGhKWkVveHo3NS1URWpPV2U2VHVwV0pPcDNtRzM2QkVlNnJhOVRuT0xOZnVJR2Rmc0xDMk16ajZqY2FybmhfNEN3QnJNc2pMSG5ZNjBXVnBITWRyN2lCU01wVkx3alRSNWtKQWdWS3dnMUdhN3FfaGx3OV9oS0QzMzJUd1NoMElFaVktWGFhUGpneW5ydVhGZmNLaGxGY3ZWUGlDdjhfOEVZSXpDcU00dkFkd0YzMTFPNkRQZnJRdNIB5gFBVV95cUxNWjE3RDNTSlNVb21ha0ZfOHdPLVZXckFTSTZaZ3FTOEZCSGk4QjFxRjgxWk95ZlB1bnVTc2hJa2JhXzBQMi0zYnRFemhGMDV3c0dKbkhaUHFnclJxckJLSFNVek9NaGVFTnB5ZE1uZF9sRF80NEVfdDZzQ3cyZGx4Y2lseVdyS0VtdTZjWmo3a0k4WEVSVGNpZWp2XzdobUk1dEZCR0lGSTgwZXBIZS1UQUQwbkYyRGZYZklGNlUyNVNfVlkxWGdUSlRIeHZQWS1vQWpwRGpXOFBONTRQVWt0bGlsZGk0dw?oc=5"
-        },
-        {
-          "title": "Boy dies after dispute over iPhone with parents; couple die trying to save him",
-          "source": "The Hindu",
           "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSU5jNHhTbXloSmFxSURrU2FBSE9zVWgyalZjazZiUnFyeWZsOFYzaHVZclpPRVZtRWJ6NHQ1Z0pSSmlYdWswaTN3TWV2bERTX0t0MTdqcEUwME5hZnF5OEo0eThycHhvU0JfTWxqemtmMnAtcmhMOFBDcXFELXEyWUlDTjA1VkdvbTlDamlTMXk3UzNUdU85MlJrbFJmZUlienVzdGVMMGlBeXIyTnVHRzVEcEh0WmQwcVpKbHcyNldUZEV1dTc3em9YSXNmVGRjME4zSXpzNU5sRkh5UjhDbjlxWGlIMWtZd2NPa0Z4aTJKZWNxMmJVUDh5dULSAYMCQVVfeXFMT3hzM3ZSb1dGYlIyV1pXYmwzOGFobGVXczFSc1Q0MnhQWklobWxrMy1KY3R2MUNjMWt1N2ROS1AyYnVyZmd0T29XRHllMnlvXzg3UjROSkdTVVJXSk1INy16MWxTOFg1aVd5M2VKTFBoZVhpaU9hRGZCUnVSc25xVWdMVHpwRGdpMDdhR1g5QjBIdFFTaWU4ZDdxWjJCYU9LQVpaWUhZaHNONXBQSWdGQmR5Y25fQXl4bnBYQWwxM2dDUmdWb1BsTXVsWFVNNzB5SlhnQjFRa3gyTkwxUEhsLVRwMWZvUzY2eWMtT2VfTHMzZWdVdURRNVd2R0J2M1dXVHhqNA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQakxwUXdBVkxwQTAyUFNwbkZrcG5tUnVWNC1Ec2hhVE4ybWp2Q3FFdExKOUtqRVY3SzlScmRIMTBqMTdtekdaZWRHV1gwSmVNTmxESERfMzlnWjkyZ3l6bTBVYjhvbzAyOXpLU0tpaHdFZ3E2Z3BHV1B3dTU3UlJsRnhWQ2hpNDdIc2tYdHdzNjR2cnlpT1ZpT0pEQWNDXzFlVmgybjZfaEN1TjY2REVHZGRCX3A4UHczM1lDT083bG91UlR6QmR6NHJkYTNLdw?oc=5"
         },
         {
-          "title": "Cops recover headless body in pond. Find accused, missing head, and a chilling motive – 20 metres away",
-          "source": "The Indian Express",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajh1UEVmeEI4X3RWeU9DN0JqOGRhNDhHb1JpOHVHVHF2TDVOd3h6UFdyd0dURkk3UC01WURyWlFUNWdLUndnc3pUbmZ5S2V1RzVWbEZmaV9TY3BNZnRHX3pLYXo1bkNzUDIxUDRtWkJwZ283Qi1zVEF6VEpZVlo5VTRNbXJOampkNTJtclB0YTdFSFpjSTlsUUM4b0VPNFNzT0JnRXNoc2vSAa8BQVVfeXFMT1hJWmc5a1FDd0l3bFY3VGYxMzJlQ0EwQWtXU3ZkQmRVM1NiUnZzWHZjSW0tV1JXUlQyc2hheGNna2pKc2R4b0QxYU0teVpEOHJzR1lOTGozamQzc0F4WkhyQ0xfeEJ3bnFvaVNWVm5md05NZHllcDZ5bTV6cmlXNml4QXNObTAyZWZQUHlWLUR5Mi1UR1RiVEE2dmtMMEpEenhlWklCTzR3UHp3VkstNA?oc=5"
+          "title": "Manan Kumar Mishra's Resignation Sought At BCI General Council Meeting",
+          "source": "Live Law",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmxIQWZja2VzZFF3SzJPQmZScU5rYWhldlN3djlXYkhKVUYzcHdZblN5OGNmdzZIY0dpcDlIWEVjcU5wQUZ1bTBJNEhQWVJnN1FTZ2V5M3p1dGZPeFBlOE4zRG1wVXJDMlhjWVZacmEwd21uZjJvbGdmenZTZDZkRkl2d2xRWENWdFNmLVliSVh1eFRQWjcyT1pBamdHTV8zeTBKcEQ5a28xNFBUdHNxaNIBtgFBVV95cUxQMlJBVnhkOHlkR2dUTVBzaG1yOHJpb0hFV2ZpRmVienRuazRPX2lSVzlESjZMU3pfbFNpb0RIR2VVeU14Z2V1TnY3RVlWMGZJalg0eEVoWWxHY1BNVzlHQWtnY253M2Y4ZVJGbmROX1VpdktVZzF3TnVXQkJFdm03cW5zaXhpcWt2QzRXUjR1S2FnMDZsalA1eHFEVUYxcGwtNzhSTTlmcWZXUnE3VTJQTk92RlpfUQ?oc=5"
         },
         {
-          "title": "\"They Have Their Own Agenda\": India Slams US Body Seeking Sanctions On RSS",
+          "title": "2 Killed, Several Injured As Under-Construction Building Collapses In Hyderabad",
           "source": "NDTV",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmhVUzRyM3NOVmNMQlVtUWpYanNLdzRKbWZIUHVFc1l4a210d1VtYjNFQi1hcmZRQ3hpY1ZTeE9sVDZKUXNhaExjSnMwRlNZdWhaNElJWkZTSXVCNndwdVFhQm9ZQjlnYUI4eUFTTV9sdGp5dzE0UGdkZUFmNExUUTF0TXgwdk96TU93N1h6LUR1TUF5RHQ0OW16U2tZUl9TNWQwZzctd3NmMThma19sWWxGbWtoeHlkTmxiN0VJcWdkb0g4VFVvRFB2ZW0ySjQ?oc=5"
+        },
+        {
+          "title": "Karnataka IAS officer goes missing, police trace his travel to Delhi",
+          "source": "The Hindu",
+          "time": "6h ago",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnVhZy1IZzYtdUM5elg0R1JOaEVLWkJqNDBDczc2QlgtcnA4VXZ4VlVPSTBRS1BVMlNFZnF4a2g3Z1RJN2NHdTJEME44U3Q3TjVQRDJseW1ueG5qbjdENjhLS3FwUGJPY205RXprQTdreVZoZjdLY2pSMFVNV3dIM2JfdmhlN0dYdVl1R1RCYXBXbXNIaHVLYklMR3Vkb3lsalJUNHIyODNKNC1yTTRPSEM3VmRpNm1kSTh3MmpfeG5DSHgxS1pyN3gwQ1BuNUR1X3fSAdgBQVVfeXFMTXJJTzFhT2JVN1o0bTBsemdkSzJBRTZnUk1tTlpfQVZPc09NY19ZazNZcm5wQS1EclRDVmNGVF9NLTBCWnFLcGN4MW1kYmVxTkhpdjh3TWg2bHBYQWkxRi1OSXJkS1RNeDhJVFZXVmRncmp6T2J5NjNnU0wxcU9QTjllR2MzaHBXXy0zUVROdlFMZEtMWTdSTE1VUmpCMnR6SC0zMTJseG5KdXBVRzBUNjlRemZwUzNMVmFrMVRvYXZBXzNBMnhtQ1VXZHdvMkh0ODVrUU5wTTF0?oc=5"
+        },
+        {
+          "title": "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained | Hindustan Times",
+          "source": "Hindustan Times",
+          "time": "12h ago",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcktMenBvOWZHWlpWcl9Kc2EzOTdOZFVJUlZqT1B4Q1psVEV4amU0TnQwTkFPczMya3JRa2hHOEFKNkYtdjkzLWE3d0lFSjRsRF9MM3pINXFzdERGYU4wdGxsM2JMZExGRFN4cTZXZW9JaWlwN1RRZ0FVWnJGa0hoOVFndzMybFg2VGJheXlwMjJxTE92aFRzMEZSMmYyeEJBR05FZkVIMkprWG8zWVRrSWNoY3h4elpGOFN5c1pmWk9jNmNtUzN1N0tOZ2tRS09DWTBEOFZ1dmNPMjdOQlJjLVA5Z0E4RW1IeHdvUVpXMmdTalFpOXVPZF9udDTSAYICQVVfeXFMTXBNZUZoZWVsNWtlWmhkczVONWVQemJBNjRQXzIwREFPNXJnZndlUHNPY2V6Q2VReElqay1DVC1uZXVIdmljQkc3a1N4dUVfRzUzZWptYXFwVzdNdTNEVDFjdkJLOU5kQzd1M3RQQ0NYZ05xTldCT3RYTmV6bE0tajFvWmhYMEFJTS0tSGxYMHB4ZzdrX0FrZzhQZmVWTjRvcjBFdnFOTTZsU2tlU3J3Mnk1RE1vNTdralNCMnAtb0g5Z2FXMk9DRGFFMllzUTVtZDUydmtNUXcydTJsSTMxWUdHRVJRNGxHQmdJcVpUOWlsZEhWbDZXaWFfOFVhLUQ0cHBn?oc=5"
+        },
+        {
+          "title": "Jadavpur MLA Sarbori Mukherjee changes tune on university violence, distances BJP from ABVP",
+          "source": "Telegraph India",
           "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSWQtUzlkcFNwT194bXI5X0ROTW5NZlNtdWpINnQ5UHdWdXJEcW5kaXJaOENTSC1VSGtzNGpzTUJqbFJoUXJkLWhMLWp0dTBGa2ZtbGJwX1ZBbGhHaUk0Q1VUZFlLT3llaXJMRHRjeWw5V0JFa3JDYll3enlDdmtQX1RnQTdYcXNaRWVMbE5UWXhkcmE0YXp4QkRUTm5NMzJzUXA0OGRuZmRac0dFdGMyelBjRkxWZ2ZWZ3ZXbUtCMmstX3lyRVo1OUNsSDZLSFlIV2VyVXVhekhLZ3AtRjdQaXJR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOVZ4Tmt4Z2VRZXozai1WSEtoOXU0dGdiZHJHQ3lYSmVYdDh6b3g1dWlXdGpRQ1VTSGVZbUpXeVNINTVrOENjS1lURW4yMV9jYndkdkJGYUQ4M0FwRTBLckxQOWxSR0lDaldrZHdyYkJCb3ZvTDFja0thQmVoQ3hTSG1qRDdEY1YxVVJYakhwUFVlNWxLS2p4Ni1XNHRPODJUb1gtc0lVNXhTMTJBQlVyRllBejE4SGV1d2tLOG1waEdQQXVKbWlVYU5kVlltOHNvazNEOEdKSVZMTEk3ZUHSAeMBQVVfeXFMTW1mQjZzTEU2U3VYaUtMMGdEaW02Z1BMUFN5ZFR1aHhOcEw5SmFmc1NSUjN0WTVnSlBSa2VUXzBUZWxweEZETUdhYnpIcE1MYjlCSjA5bGl4Y0EtZjA5NkJUZ0lyUV9VOFk2akI5NXIzdV9ScFYzTjMzWDBtVW1HbG1UUWJGUjlwa3R3c21oMFNuTmt0MjFxUzJUY0lWcVRPU25KRkJRZHdBYmpxRjVFWFkwNUlTTFljal9qdkRNTk1QMW9YNWRWNm9fR25vRTVXczF3cWVLTG5PWDE3NFRZU0VWOUE?oc=5"
         }
       ]
     },
@@ -90,40 +90,40 @@
       "color": "var(--dial-sky)",
       "stories": [
         {
-          "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130",
-          "source": "Reuters",
-          "time": "9h ago",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5"
-        },
-        {
-          "title": "Swedish police say 1 dead, 2 injured after school sword attack",
+          "title": "Sword attack at Swedish school kills 17-year-old girl, injures 3 others, police say",
           "source": "CBS News",
-          "time": "11h ago",
+          "time": "1h ago",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5a2dGT09fR25UcnpVMkg1SG0xb3pPRTNPNW81UmlNMjBCVnBEbzFnbjUyblBNWmUyVzVZd3gzdlA0cU1yc25xTG41WkM2Z0ZxVl9PM2JPSVZfWTlyZnhURFdGUEZtSWE0bm1zbGZWX0V1Z1k?oc=5"
         },
         {
-          "title": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital",
-          "source": "The Kyiv Independent",
-          "time": "10h ago",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFpZWmxlLW5tSGRlS2UwX2RrUkd2SGlicHFjWnFCR3diUXhZTDMyakFZSXFiS3ZtWnNPbzIwN19yeEVWYjhUUW50U3haWEU0d1NhUi01ai04MWstU0NzLWxualhMR3d5MlAwS2lMV0JPTHo0c2FWZ0lRazlQM1lINWtmQXozNWl4Q3otQThZdXlkY0V4clZ6dWV2WUQ5RnNQZ3ZFNmZTZWp3LVFxbFE?oc=5"
+          "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
+          "source": "The Guardian",
+          "time": "12h ago",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0pmdWd4SEpWUTcwZUhOTE1oSlBNQ05DNXBBeV81Rm9JRzdNdUppODJCT0M1QXF6NzUzUTd6UVowazJaNE5kX2N3d2hwbHRybXNFSlFhcVpXY3Y4dDA5YTZWamlKQkVLY1FILTcwYjlMY2hKUVRRY0ZJUmVsZlU0LWVici1IR1RRaEQ1NWpqbVFaLUhsUFdVREpzOTNOS0R5TkNjcGc1bEhGZFhCaTVoUy1lVU1QLS1ReWJSYmNsRVVRZjNfOHQtZmpR?oc=5"
         },
         {
-          "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
-          "source": "Al Jazeera",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNazM2b2wyeVVrblFzbmZuU0p4aUk3SHVNMWRFS3VJSzNsQ1BFYTY0Qlc3XzQtTTFMeVRHa29CYnhMYVV6RmlTMkNKXzZQb2tsZEtwSVZnOFNZOTU4SHBsZEF3OHhQeTdvaWhGVUpPeDN4M2JlTFRSZW0xYTRadEFwTzJVdno1LTNQZkNGcWlNeG5PWXVoUmhoVnd2UWtJUEVLZGhadDE4YW9SSE9qMlJVVlRON2xIQdIBuwFBVV95cUxQWUhSaTdva180NF96QXZ2RFdEZF9OWkppbUpCal9TZ1NnaS1UNkZCd2NfMUlvaWExQWY5N3JwVmRQb1lUUnc5MXVuRXM2RnZCWmMtZkdCYS1yZm1EZG1QeXV0TmNhcnc5MEtRdWF4NEkxQjVQUDJsSHJzOHlRM1ZadnRWeEsyVzJJbFFxWEdUeUx5YUdyWmNVcHFjWG1YMERld20yOHdNU05LcWhlN2ttVTV5d0Rra1lvSGRB?oc=5"
-        },
-        {
-          "title": "Prince Harry, Elton John & Other Privacy Case Claimants Ordered To Pay Daily Mail Publisher $13 Million",
-          "source": "Deadline",
-          "time": "19h ago",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJnMWNxbGVzU2hmQUg1YTRkSWU4OHBycFlCbUZzWm82LXI0dGFTZ3hfSFBGeHlScGlxcTdxN1doM3lqOXhSM2RESE5WdmxqSXJnRy1oTWFndkZpMmVnNm04amRyTVl0ZkdDb3kyTzZGQzUyNDBVMHJ1T015OHBnNThUdVdPUjY0cHFENUZGQQ?oc=5"
-        },
-        {
-          "title": "US, South Korean militaries wrap up drill early, a day after North Korea’s missile barrage",
+          "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII",
           "source": "AP News",
-          "time": "19h ago",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXJVTUlzZW43bGVHNnMzWmxlXzVxc1NJVlZkQ2RvWHdfaHZfbUVTb2lHUlI4bC02NHVJcFl4dDNraE5RYUJpbjdrQTdadlFiNFpwczUyMnN0QkxJMXBSWGItZ1pVUGRBNW9kdVk4VUk3Ym9KUnZxRTNSV280UV9iMmRtb3JVTjZOUW5QSWdmS2FaLU9MT2lINWJEekZFZw?oc=5"
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWoxWmxoZzJmT20yYWR3Yks0MGd4Z1U0S28yLXpxWDNiZjNNdTJ6cnVTWUlmY2JFREFWRThpTDJQazNRSzA1bHBzWmRkLVBGT0ZJbmhjTFFmVzdEZzA5MHktY2FSRk5DUk4yM1FBMUl3Q3pmRllIQnUyWFFfamZ3Z1Rwa1lVNWlzR2ljUWd2Q1dnY3BZZkdTNmxRVFZ3U2tHN0E?oc=5"
+        },
+        {
+          "title": "South Korea ship to test Arctic commercial route amid Western concerns",
+          "source": "Reuters",
+          "time": "6h ago",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5"
+        },
+        {
+          "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+          "source": "BBC",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MUEQyU3gtRHdUYTduN2RvWEtlNHNmNnhvRGxqWTVlTV93QloySk9yNlYyQ0lQYWNBLUlwczliUXhiaUx3T3VIOGRDNG56ejJ3WHlhQjFtckhyZw?oc=5"
+        },
+        {
+          "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
+          "source": "AP News",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2ZWcnEzSHpvUUo0b0FBWFh5cndyNS1kMVY2dmJzcEpfdU1xM05BR3p1SndrTEthZ0Z4bmFiZWJVQ05zZGRyc3NDNjJwclpHcnZFNUNoMF9hTVF1MHYxMENRNEw4a21pekZzaDN6WHpSYjFiLUJwWFFXRzJHdGhMTnlnMzF6S243SkJYYXpiYzI1T2s?oc=5"
         }
       ]
     },
@@ -132,15 +132,9 @@
       "color": "var(--dial-sage)",
       "stories": [
         {
-          "title": "Lightning strikes Raleigh townhome community, causes fire on Wyatt Brook Way, firefighters say",
-          "source": "CBS 17",
-          "time": "11h ago",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXdFZzFfYXU2YTNOQzZCVnoydkFVSXVPUFNTclRWR0o3YW9SdVJPRXN1NmlJcHJGWUhPRWUyaWg5WVBtQ0xEUDNDLThOc3R3akc5VkxBXzBndHhJank5aUpWd2s2QTAteG1SMVJpWmtjNEFmX1JlX2I4eUUxZnlpZzNDbDBKNHhBbzZHSmx6QlBUUkFoRFkwVXAwR3R0QnBwajlQN1dLcmxQN1ZFV1pUWmhYU3NLemJveFVJNV9jb9IBxAFBVV95cUxONnZxRy1yT1laY2o1cm1Ud1hhREh0VjJpRkl4TXBpWm4yQmZ2N0ZUd0dTOHZtc1dKeHBieUU1RnIwSUN6dVhDTkloTFVmcUEzT185alRxVHNhb1RyNWhGTnJlYXcxeTlmS3FrekNVM2hxeFg3aDBIbFpfczl2X2VTdGZvRGRUQmRoR01yX1VSTVlsVlBrSk5ab0xZYktST3FYcEt3Q21pQVV4TV96U29lZWVvLXZuMGkydXFraHFlc3JZV0Iw?oc=5"
-        },
-        {
           "title": "Weather NC | 2 townhomes in Raleigh damaged after lightning strike causes fire",
           "source": "ABC11 News",
-          "time": "4h ago",
+          "time": "8h ago",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDJ3WEF1LUxXWmhzMVBkWmFZaEZ1QlRYY2RYSERjemF1U2EyaWxFT1pJa2doRWFoVGpydXNwSDN2b2p2M1pqd2tfazcwa3JQTEdLaG9fZjAzV25PdmYwQW1fbXlibEZ6cGdrNjNpYTR1TVE5dDRXOGM5V2JIWmpGYXBhTmQwTkxCSzJzWmtNbVhPam1yQWU0eUNGekZZOUZ6QlHSAacBQVVfeXFMTlExbXV3TWw2NjdRRkR4dVF6S2hGUHpCYnhjZkExSVMzVnE3T1p6OGVPTjlGTHlCYjBWZXpkU25oSzg1VUNWOFhEN3QxbXAzenFpVFV3UkZQTXB1M1Nwak5fdGFzcExzLXpNMWVfR3A4ckV6dWJmWWg2UHRWcXFFOUV1dkVPdlpsM1JNOVgyQVhILXhrRm80R2lYY0ZKYWJkMHVKVkVOWWs?oc=5"
         },
         {
@@ -150,22 +144,28 @@
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNkpfLVd6UHoxTk82OWFxZHdmNEVfb1dTYlJYWllKM1JNU0RwcGlIeHhSZzhMNG1uaVZYM25na1l3UHFVcTR2aWozSE5YMXhKbFNJWVlMbml3ckpQX3g4SlVzZGtlT084dVpOU0liRE8wLWlBYllrU0haZUV4OWtaeUlJa0dScGRjRTI1TVlaUzBXeDNxaHZrMkdWZ3dYVGFIWjRjbG9GYU1yM1g0dHg2d1hRZWlxaEZGYlRGN0dKNzFDVmZub0pKbFc2aVJwRU1TQ2FMS1dvaw?oc=5"
         },
         {
+          "title": "Lightning strikes Raleigh townhome community, causes fire on Wyatt Brook Way, firefighters say",
+          "source": "CBS 17",
+          "time": "16h ago",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXdFZzFfYXU2YTNOQzZCVnoydkFVSXVPUFNTclRWR0o3YW9SdVJPRXN1NmlJcHJGWUhPRWUyaWg5WVBtQ0xEUDNDLThOc3R3akc5VkxBXzBndHhJank5aUpWd2s2QTAteG1SMVJpWmtjNEFmX1JlX2I4eUUxZnlpZzNDbDBKNHhBbzZHSmx6QlBUUkFoRFkwVXAwR3R0QnBwajlQN1dLcmxQN1ZFV1pUWmhYU3NLemJveFVJNV9jb9IBxAFBVV95cUxONnZxRy1yT1laY2o1cm1Ud1hhREh0VjJpRkl4TXBpWm4yQmZ2N0ZUd0dTOHZtc1dKeHBieUU1RnIwSUN6dVhDTkloTFVmcUEzT185alRxVHNhb1RyNWhGTnJlYXcxeTlmS3FrekNVM2hxeFg3aDBIbFpfczl2X2VTdGZvRGRUQmRoR01yX1VSTVlsVlBrSk5ab0xZYktST3FYcEt3Q21pQVV4TV96U29lZWVvLXZuMGkydXFraHFlc3JZV0Iw?oc=5"
+        },
+        {
+          "title": "NAACP speaks out after Black man found hanging from tree in Raleigh",
+          "source": "WITN",
+          "time": "2d ago",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUV3clBQSjNhREw1UGduaFZEc21Mdnh6blFmVmxNTVpONFo4V1paZ3RtTWtWSjBFTHJaNzZzNkNycE5RTDVpeDlTMG9fZkRzV2F5U2IzbXZfNG4zV21ycXExa2ZpblVjRnBwbTRPbzdTTV9fX0E2QkljSkxCX3NHVUU0dFBkVzdQR1UyT0Y3Y3BfZXBtZ0hJ?oc=5"
+        },
+        {
           "title": "Bulls Hold Off Stripers for Friday Win",
           "source": "MLB.com",
-          "time": "5h ago",
+          "time": "10h ago",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcE51YkZzS1d4TE9mT2Qwa3hTeG5YVUhzVnNMNVJVYXlPc1YwYURCcVVnMF9uNTB2ejdjeUdPZ1BrdFcwZU94U05BWktkT05uSW1yNHJ1U3YxcEdBX0l3Z19ZTXJiSEM4Zk50OVV6OE5RazNqODRHaFpXVUd3dFVBMQ?oc=5"
         },
         {
-          "title": "UNC-Chapel Hill Civics School Investigation Can Stay Secret, Judge Says",
-          "source": "The Assembly NC",
-          "time": "16h ago",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVlZNU1NVNFVfMlBQc1dMV3YtOFBuaXpkeHd0Q1YxdHJadGc4V2hXMW9xNG9NOWdJZVJ2LUM4S0ZSUTg1LVlNaHpheFRvRXZzM05nelBpdXhuYkpyN0VOY0RTaUpYVUlVRG9ON3YtSDZXSXJNZDlhcXJPdi1TeG13QmxlOEdQYWw5RndXVnJKOWxBV0wzdVgxNzhkRXFzZl85N1RsTWR4Y2ZnSGFKUEJicEVtVS1haEVwZjFmcmNSU0ZPVXlTM2haeEQ4OFotQQ?oc=5"
-        },
-        {
-          "title": "Despite low unemployment, many NC workers struggle to find jobs",
-          "source": "ABC11 News",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFhxTXRoSmRsWHcwQ01IOU1RQmJPU3d2eXhfTVdNMUU3Q3VEelJsYTVYQXo5cjVvYVFuYXEzdDhxWEs1VzZnemhpNUQzWGxya1BEWDVaYm96dkpFbndaVVNCRklRUXNOX1VGUU1ZdEl6U2VJa1VyNFlJQkJmS2otQmFYN2pNdUphODJ4al81WFNfZnp2SE9Z0gGcAUFVX3lxTE9kOUI3N0dDalRhRXh5bUVLRFFZNk1fc1NvR0w5bjNNVUlJYnBUR3hTTmNjdDEzb21WZmVWcDl4VE5ISWZMTGZuWWtadnl4bkMzNVJSSkVST1dDOHBfWE5uX29FN3RaZUd5MWF4QXRjZzVKSlIwVDNTMkFZUHZBOTdycjZHbE5BM0dGRlh1d1FJRVU2R2hoQ2RTZ2VnNg?oc=5"
+          "title": "Frank Ballard Obituary - Raleigh, NC",
+          "source": "Dignity Memorial",
+          "time": "2d ago",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVFpTc2NTSm4xVmh0b0Y3RVYtWWVHMExKM3N5UGh1UE4yazJ6RlNIV3Z3XzZvcUtYM2tmYWRUS05MdjJkalF3WmRSYzdUX3FhdThkUUxkWHc1MDhzV0FpS2tPVHQ3MXVNemZFQVNlaUx3ejJkaHUtTXNjSUF2SjhGUExR?oc=5"
         }
       ]
     }

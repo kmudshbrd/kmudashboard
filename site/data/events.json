@@ -10,6 +10,11 @@
           "line": "Today"
         },
         {
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Abysmal Lord / FIN / Lichen / Primeval Well",
           "where": "Chapel of Bones · Raleigh",
           "line": "Today"
@@ -38,11 +43,6 @@
           "title": "Mike Casey",
           "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
-        },
-        {
-          "title": "SproutFest 2026",
-          "where": "Holly Springs Farmers Market · Holly Springs",
-          "line": "Today"
         }
       ]
     },
@@ -55,8 +55,8 @@
           "line": "Sun · Aug 23"
         },
         {
-          "title": "Back To School Brunch: Raleigh, NC",
-          "where": "Crooked Hammock Brewery · Raleigh",
+          "title": "Alex Warren Listening Party",
+          "where": "Record Shop · Raleigh",
           "line": "Sun · Aug 23"
         },
         {
