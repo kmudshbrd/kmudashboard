@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Tour of Murray-Massenburg School",
-          "where": "Durham",
+          "title": "50th Annual Lazy Daze Arts and Crafts Festival 2026",
+          "where": "Cary Town Hall Campus · Cary",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "2026 Progressive NCRVDA Raleigh Fall RV Show & Sale",
+          "where": "Jim Graham Building at North Carolina State Fairgrounds · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Abysmal Lord / FIN / Lichen / Primeval Well",
-          "where": "Chapel of Bones · Raleigh",
+          "title": "80’s Party",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Art and Blooms at the JCRA: \"Mountains, Skies and Water\"",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "title": "Alex Underwood",
+          "where": "Crooked Hammock Brewery · Raleigh",
           "line": "Today"
         },
         {
-          "title": "CaryLIVE! Delta Rae",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Coyotees Band",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Today"
-        },
-        {
-          "title": "Live Music with Luke Schofield",
-          "where": "Rosecomb Beer Garden · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Mike Casey",
+          "title": "Trivia Night",
           "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
+        },
+        {
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Today"
+        },
+        {
+          "title": "Celebrate Downtown Holly Springs 150th Anniversary Event",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Through Aug 29"
         }
       ]
     },
@@ -50,34 +50,24 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Alex Underwood",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Sun · Aug 23"
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Mon · Aug 24"
         },
         {
-          "title": "Alex Warren Listening Party",
-          "where": "Record Shop · Raleigh",
-          "line": "Sun · Aug 23"
+          "title": "Legacy of Jazz: Devine and Dexterous",
+          "where": "The Cary Theater · Cary",
+          "line": "Mon · Aug 24"
         },
         {
-          "title": "Squeeze - Tried, Tested and Trixies",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Sun · Aug 23"
+          "title": "Nature Play Day at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "line": "Mon · Aug 24"
         },
         {
-          "title": "Tony Dabas Raleigh Improv",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sun · Aug 23"
-        },
-        {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Sun · Aug 23"
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Mon · Aug 24"
         },
         {
           "title": "Durham Bulls vs. Norfolk",
@@ -87,6 +77,16 @@
         {
           "title": "Art 101: After School Program",
           "where": "The Makery · Wake Forest",
+          "line": "Tue · Aug 25"
+        },
+        {
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Tue · Aug 25"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Tue · Aug 25"
         }
       ]
@@ -104,36 +104,6 @@
           "where": "Durham",
           "line": "Sat · Sep 5"
         },
-        {
-          "title": "GoldFord - Space of the Heart Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Tue · Sep 22"
-        },
-        {
-          "title": "Senior Resources Fair 2026",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Tue · Sep 22"
-        },
-        {
-          "title": "Shaboozey - Outlaws Never Die Tour",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Tue · Sep 22"
-        },
-        {
-          "title": "Stay Upright: Know your Risk, Own your Balance",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Tue · Sep 22"
-        },
-        {
-          "title": "Toddler Tuesday",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Sep 22"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Fall Equinox Yoga Event",
           "where": "Fred Fletcher Park · Raleigh",
@@ -153,6 +123,26 @@
           "title": "Tai Chi: Downtown Cary Park",
           "where": "DCP Gathering House · Cary",
           "line": "Wed · Sep 23"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Autumnal Terrarium Building",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Thu · Sep 24"
+        },
+        {
+          "title": "Brent Blakeney",
+          "where": "Goodnights Comedy Club Room 861 · Raleigh",
+          "line": "Thu · Sep 24"
+        },
+        {
+          "title": "Chris Pierce",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Thu · Sep 24"
         },
         {
           "title": "Explore S'more",
@@ -162,6 +152,11 @@
         {
           "title": "FM2FV Concert Series 2026: Smile",
           "where": "Centennial Square · Fuquay-Varina",
+          "line": "Thu · Sep 24"
+        },
+        {
+          "title": "ZZ Top & Dwight Yoakam: Dos Amigos Tour",
+          "where": "Koka Booth Amphitheatre · Cary",
           "line": "Thu · Sep 24"
         },
         {
