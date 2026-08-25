@@ -5,23 +5,28 @@
       "label": "Today",
       "items": [
         {
-          "title": "Fortnight Run Club",
+          "title": "Durham Bulls vs. Norfolk",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
+          "title": "Billy Strings Listening Party",
+          "where": "Record Shop · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Bourbon and Bites",
+          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Legacy of Jazz: Devine and Dexterous",
-          "where": "The Cary Theater · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Nature Play Day at NCMA",
-          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Service Industry Night",
-          "where": "Slim's Dive Bar · Raleigh",
+          "title": "Soap Making Workshop",
+          "where": "The Workshop · Cary",
           "line": "Today"
         },
         {
@@ -30,14 +35,14 @@
           "line": "Today"
         },
         {
-          "title": "Celebrate Downtown Holly Springs 150th Anniversary Event",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Through Aug 29"
+          "title": "Art 101: After School Program",
+          "where": "The Makery · Wake Forest",
+          "line": "Today"
         },
         {
-          "title": "Downtown Holly Springs Restaurant Week",
-          "where": "Town of Holly Springs · Holly Springs",
-          "line": "Through Aug 29"
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Today"
         }
       ]
     },
@@ -45,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Durham Bulls vs. Norfolk",
-          "where": "Durham",
-          "line": "Tue · Aug 25"
+          "title": "Candle Making Workshop",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Billy Strings Listening Party",
-          "where": "Record Shop · Raleigh",
-          "line": "Tue · Aug 25"
+          "title": "Coffee & Crochet",
+          "where": "Raleigh",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Bourbon and Bites",
-          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
-          "line": "Tue · Aug 25"
+          "title": "Creek Critter Discovery with Haw River Assembly",
+          "where": "Apex Nature Park · Apex",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Aug 25"
+          "title": "Gourmet Game Dining Experience",
+          "where": "High Rail at Seaboard Station · Raleigh",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Soap Making Workshop",
-          "where": "The Workshop · Cary",
-          "line": "Tue · Aug 25"
+          "title": "Horsegirls",
+          "where": "The Cary Theater · Cary",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Art 101: After School Program",
-          "where": "The Makery · Wake Forest",
-          "line": "Tue · Aug 25"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
-          "line": "Tue · Aug 25"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Wed · Aug 26"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Aug 25"
+          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
+          "where": "Abbey Road Tavern & Grill - Apex · Apex",
+          "line": "Wed · Aug 26"
         }
       ]
     },
@@ -99,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Sep 5"
         },
-        {
-          "title": "Autumnal Terrarium Building",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Thu · Sep 24"
-        },
-        {
-          "title": "Brent Blakeney",
-          "where": "Goodnights Comedy Club Room 861 · Raleigh",
-          "line": "Thu · Sep 24"
-        },
-        {
-          "title": "Chris Pierce",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Thu · Sep 24"
-        },
-        {
-          "title": "Explore S'more",
-          "where": "Apex Nature Park · Apex",
-          "line": "Thu · Sep 24"
-        },
-        {
-          "title": "FM2FV Concert Series 2026: Smile",
-          "where": "Centennial Square · Fuquay-Varina",
-          "line": "Thu · Sep 24"
-        },
-        {
-          "title": "ZZ Top & Dwight Yoakam: Dos Amigos Tour",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Thu · Sep 24"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Caligula Blushed: A Tribute to The Smiths and Morrissey",
           "where": "The Pour House Music Hall & Record Shop · Raleigh",
@@ -163,15 +133,50 @@
           "title": "1776: The Musical",
           "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
           "line": "Sep 25 – Sep 27"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "American Dance Festival: Made in NC Encore Performance",
+          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Cary Players presents The Prom",
-          "where": "Cary Arts Center · Cary",
-          "line": "Sep 25 – Oct 4"
+          "title": "American Theory with Half Past Dead",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Sat · Sep 26"
         },
         {
           "title": "Apex Latino Arts Festival 2026",
           "where": "Apex Town Campus · Apex",
+          "line": "Sat · Sep 26"
+        },
+        {
+          "title": "Art Making: Frida Kahlo Art Making Workshop",
+          "where": "The Cary Theater - Suite 230, 2nd Floor · Cary",
+          "line": "Sat · Sep 26"
+        },
+        {
+          "title": "Becky Robinson: The Beasts in Me Tour",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sat · Sep 26"
+        },
+        {
+          "title": "Central Carolina Out of the Darkness Walk",
+          "where": "North Main Athletic Complex · Holly Springs",
+          "line": "Sat · Sep 26"
+        },
+        {
+          "title": "Ghost Light: Echoes of the Revolution",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Sat · Sep 26"
+        },
+        {
+          "title": "Holly Springs Pride Festival",
+          "where": "Holly Springs Cultural Center · Holly Springs",
           "line": "Sat · Sep 26"
         }
       ]
