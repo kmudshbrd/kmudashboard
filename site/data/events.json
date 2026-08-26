@@ -5,28 +5,33 @@
       "label": "Today",
       "items": [
         {
-          "title": "Durham Bulls vs. Norfolk",
-          "where": "Durham",
+          "title": "Candle Making Workshop",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Billy Strings Listening Party",
-          "where": "Record Shop · Raleigh",
+          "title": "Coffee & Crochet",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bourbon and Bites",
-          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
+          "title": "Creek Critter Discovery with Haw River Assembly",
+          "where": "Apex Nature Park · Apex",
           "line": "Today"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "Gourmet Game Dining Experience",
+          "where": "High Rail at Seaboard Station · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Soap Making Workshop",
-          "where": "The Workshop · Cary",
+          "title": "Horsegirls",
+          "where": "The Cary Theater · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
@@ -35,13 +40,8 @@
           "line": "Today"
         },
         {
-          "title": "Art 101: After School Program",
-          "where": "The Makery · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Candle Making Workshop",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Aug 26"
+          "title": "Birdwatching for Beginners",
+          "where": "Prairie Ridge Outdoor Classroom · Raleigh",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Coffee & Crochet",
-          "where": "Raleigh",
-          "line": "Wed · Aug 26"
+          "title": "Classic Cocktails and Classic Hip Hop",
+          "where": "Boatman Spirits Co. · Raleigh",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Creek Critter Discovery with Haw River Assembly",
-          "where": "Apex Nature Park · Apex",
-          "line": "Wed · Aug 26"
+          "title": "Kaylee Grace Live at Vino & Tap",
+          "where": "Vino & Tap · Cary",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Gourmet Game Dining Experience",
-          "where": "High Rail at Seaboard Station · Raleigh",
-          "line": "Wed · Aug 26"
+          "title": "Ladies Night - \"Little Sweetness\"",
+          "where": "Color Me Mine · Cary",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Horsegirls",
-          "where": "The Cary Theater · Cary",
-          "line": "Wed · Aug 26"
+          "title": "Music Bingo at The Backyard",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Wed · Aug 26"
+          "title": "NCFST Mobile Market 2026 4th Thursday",
+          "where": "Across from the Northern Regional Center · Wake Forest",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Wed · Aug 26"
+          "title": "Painting Studio with Clina Polloni",
+          "where": "The Makery · Wake Forest",
+          "line": "Thu · Aug 27"
         },
         {
-          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
-          "where": "Abbey Road Tavern & Grill - Apex · Apex",
-          "line": "Wed · Aug 26"
+          "title": "Southern Peak Run Club",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Thu · Aug 27"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Sep 5"
         },
-        {
-          "title": "Caligula Blushed: A Tribute to The Smiths and Morrissey",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Fri · Sep 25"
-        },
-        {
-          "title": "Comedy Show: Meghan Hanley and Greg Capra",
-          "where": "The Cary Theater · Cary",
-          "line": "Fri · Sep 25"
-        },
-        {
-          "title": "Friday Favorites: Mendelssohn Violin Concerto",
-          "where": "Meymandi Concert Hall at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Fri · Sep 25"
-        },
-        {
-          "title": "Jim Quick & Coastline",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Fri · Sep 25"
-        },
-        {
-          "title": "Shannon Baker & Sometime Soon",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Sep 25"
-        },
-        {
-          "title": "1776: The Musical",
-          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
-          "line": "Sep 25 – Sep 27"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "AAFA Allies Fun Run and Walk",
           "where": "Bond Park Community Center · Cary",
@@ -168,16 +133,46 @@
           "title": "Central Carolina Out of the Darkness Walk",
           "where": "North Main Athletic Complex · Holly Springs",
           "line": "Sat · Sep 26"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "American Dance Festival Masterclass",
+          "where": "Cary Arts Center · Cary",
+          "line": "Sun · Sep 27"
         },
         {
-          "title": "Ghost Light: Echoes of the Revolution",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Sat · Sep 26"
+          "title": "Boylan Arts District Studio Tour",
+          "where": "Historic Boylan Heights · Raleigh",
+          "line": "Sun · Sep 27"
         },
         {
-          "title": "Holly Springs Pride Festival",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Sat · Sep 26"
+          "title": "Carolina Culture Food Fest",
+          "where": "Moore Square · Raleigh",
+          "line": "Sun · Sep 27"
+        },
+        {
+          "title": "Soma Breath Energized Breathwork",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Sun · Sep 27"
+        },
+        {
+          "title": "Author Event: Eleanor Goymer",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "PACE: Care that Keeps you Home",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Sep 30"
+        },
+        {
+          "title": "Celebrate Fuquay-Varina Concert 2026",
+          "where": "Downtown Varina District · Fuquay-Varina",
+          "line": "Thu · Oct 1"
         }
       ]
     }
