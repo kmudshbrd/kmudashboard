@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Durham Bulls vs. Norfolk",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Candle Making Workshop",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Apex Sculpture Walk",
           "where": "Town of Apex Welcome Center · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         }
       ]
