@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Durham Bulls vs. Norfolk",
+          "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Birdwatching for Beginners",
-          "where": "Prairie Ridge Outdoor Classroom · Raleigh",
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Classic Cocktails and Classic Hip Hop",
-          "where": "Boatman Spirits Co. · Raleigh",
+          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190 (Rescheduled)",
+          "where": "Wake County Speedway · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Kaylee Grace Live at Vino & Tap",
-          "where": "Vino & Tap · Cary",
+          "title": "Billy and the Jets: An electrifying tribute to Billy Joel and Elton John.",
+          "where": "Lincoln Theatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Ladies Night - \"Little Sweetness\"",
-          "where": "Color Me Mine · Cary",
+          "title": "Blues Traveler/Gin Blossoms with Spin Doctors",
+          "where": "Koka Booth Amphitheatre · Cary",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Caleb Caudle & the Sweet Critters",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Music Bingo",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "title": "Comedy Show: Kiki Wynns + Jim Payne + E-Man",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "NCFST Mobile Market 2026 4th Thursday",
-          "where": "Across from the Northern Regional Center · Wake Forest",
+          "title": "Invasive Plant Removal Workday",
+          "where": "Kelly Road Park · Apex",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Fri · Aug 28"
+          "title": "Aching Back Sunday",
+          "where": "KINGS · Raleigh",
+          "line": "Sat · Aug 29"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
-          "line": "Fri · Aug 28"
+          "title": "Art Making: Henri Matisse Art Making Workshop",
+          "where": "The Cary Theater - Suite 230, 2nd Floor · Cary",
+          "line": "Sat · Aug 29"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190 (Rescheduled)",
-          "where": "Wake County Speedway · Raleigh",
-          "line": "Fri · Aug 28"
+          "title": "Ascension and Kajlar Newcity",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Sat · Aug 29"
         },
         {
-          "title": "Billy and the Jets: An electrifying tribute to Billy Joel and Elton John.",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Fri · Aug 28"
-        },
-        {
-          "title": "Blues Traveler/Gin Blossoms with Spin Doctors",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Fri · Aug 28"
-        },
-        {
-          "title": "Caleb Caudle & the Sweet Critters",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Aug 28"
-        },
-        {
-          "title": "Comedy Show: Kiki Wynns + Jim Payne + E-Man",
+          "title": "Exhibition on Screen: Matisse from MOMA and Tate Modern",
           "where": "The Cary Theater · Cary",
-          "line": "Fri · Aug 28"
+          "line": "Sat · Aug 29"
         },
         {
-          "title": "Invasive Plant Removal Workday",
-          "where": "Kelly Road Park · Apex",
-          "line": "Fri · Aug 28"
+          "title": "Live Music: Sam Trebing",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Aug 29"
+        },
+        {
+          "title": "Tribute Night: Imagine Dragons, Red Hot Chili Peppers & Van Halen",
+          "where": "The Backyard Bar NC · Apex",
+          "line": "Sat · Aug 29"
+        },
+        {
+          "title": "Aviator Brewing Company Tours",
+          "where": "Fuquay-Varina",
+          "line": "Sat · Aug 29"
+        },
+        {
+          "title": "Holly Springs Farmers Market",
+          "where": "Holly Springs Farmers Market · Holly Springs",
+          "line": "Sat · Aug 29"
         }
       ]
     },
@@ -104,31 +104,6 @@
           "where": "Durham",
           "line": "Sat · Sep 5"
         },
-        {
-          "title": "\"A False Perspective\" Book Talk at Mordecai",
-          "where": "Mordecai Historic Park · Raleigh",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "American Dance Festival Masterclass",
-          "where": "Cary Arts Center · Cary",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Boylan Arts District Studio Tour",
-          "where": "Historic Boylan Heights · Raleigh",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Soma Breath Energized Breathwork",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Sun · Sep 27"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "100BMTE Charity Golf Tournament",
           "where": "Lochmere Golf Club · Cary",
@@ -148,15 +123,35 @@
           "title": "Stretch and Refresh",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Mon · Sep 28"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "Florida Panthers vs. Carolina Hurricanes",
           "where": "Lenovo Center · Raleigh",
           "line": "Tue · Sep 29"
         },
         {
+          "title": "Turnstile",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Tue · Sep 29"
+        },
+        {
+          "title": "Mushroom Cultivating",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Wed · Sep 30"
+        },
+        {
           "title": "PACE: Care that Keeps you Home",
           "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Sep 30"
+        },
+        {
+          "title": "Tai Chi: Downtown Cary Park",
+          "where": "DCP Gathering House · Cary",
           "line": "Wed · Sep 30"
         },
         {
@@ -168,6 +163,11 @@
           "title": "Sustainability Tour",
           "where": "South Cary Water Reclamation Facility · Apex",
           "line": "Thu · Oct 1"
+        },
+        {
+          "title": "Charlie Oakley & Blazin' Grass",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Oct 2"
         }
       ]
     }
