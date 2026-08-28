@@ -10,38 +10,38 @@
           "line": "Today"
         },
         {
-          "title": "Candle Making Workshop",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Birdwatching for Beginners",
+          "where": "Prairie Ridge Outdoor Classroom · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Coffee & Crochet",
-          "where": "Raleigh",
+          "title": "Classic Cocktails and Classic Hip Hop",
+          "where": "Boatman Spirits Co. · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Creek Critter Discovery with Haw River Assembly",
-          "where": "Apex Nature Park · Apex",
+          "title": "Kaylee Grace Live at Vino & Tap",
+          "where": "Vino & Tap · Cary",
           "line": "Today"
         },
         {
-          "title": "Gourmet Game Dining Experience",
-          "where": "High Rail at Seaboard Station · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Horsegirls",
-          "where": "The Cary Theater · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
+          "title": "Ladies Night - \"Little Sweetness\"",
+          "where": "Color Me Mine · Cary",
           "line": "Today"
         },
         {
           "title": "Apex Sculpture Walk",
           "where": "Town of Apex Welcome Center · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "NCFST Mobile Market 2026 4th Thursday",
+          "where": "Across from the Northern Regional Center · Wake Forest",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Birdwatching for Beginners",
-          "where": "Prairie Ridge Outdoor Classroom · Raleigh",
-          "line": "Thu · Aug 27"
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "Classic Cocktails and Classic Hip Hop",
-          "where": "Boatman Spirits Co. · Raleigh",
-          "line": "Thu · Aug 27"
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "Kaylee Grace Live at Vino & Tap",
-          "where": "Vino & Tap · Cary",
-          "line": "Thu · Aug 27"
+          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190 (Rescheduled)",
+          "where": "Wake County Speedway · Raleigh",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "Ladies Night - \"Little Sweetness\"",
-          "where": "Color Me Mine · Cary",
-          "line": "Thu · Aug 27"
+          "title": "Billy and the Jets: An electrifying tribute to Billy Joel and Elton John.",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "Music Bingo at The Backyard",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Aug 27"
+          "title": "Blues Traveler/Gin Blossoms with Spin Doctors",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "NCFST Mobile Market 2026 4th Thursday",
-          "where": "Across from the Northern Regional Center · Wake Forest",
-          "line": "Thu · Aug 27"
+          "title": "Caleb Caudle & the Sweet Critters",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "Painting Studio with Clina Polloni",
-          "where": "The Makery · Wake Forest",
-          "line": "Thu · Aug 27"
+          "title": "Comedy Show: Kiki Wynns + Jim Payne + E-Man",
+          "where": "The Cary Theater · Cary",
+          "line": "Fri · Aug 28"
         },
         {
-          "title": "Southern Peak Run Club",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Thu · Aug 27"
+          "title": "Invasive Plant Removal Workday",
+          "where": "Kelly Road Park · Apex",
+          "line": "Fri · Aug 28"
         }
       ]
     },
@@ -105,40 +105,10 @@
           "line": "Sat · Sep 5"
         },
         {
-          "title": "AAFA Allies Fun Run and Walk",
-          "where": "Bond Park Community Center · Cary",
-          "line": "Sat · Sep 26"
+          "title": "\"A False Perspective\" Book Talk at Mordecai",
+          "where": "Mordecai Historic Park · Raleigh",
+          "line": "Sun · Sep 27"
         },
-        {
-          "title": "American Dance Festival: Made in NC Encore Performance",
-          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
-          "line": "Sat · Sep 26"
-        },
-        {
-          "title": "American Theory with Half Past Dead",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Sat · Sep 26"
-        },
-        {
-          "title": "Apex Latino Arts Festival 2026",
-          "where": "Apex Town Campus · Apex",
-          "line": "Sat · Sep 26"
-        },
-        {
-          "title": "Becky Robinson: The Beasts in Me Tour",
-          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Sat · Sep 26"
-        },
-        {
-          "title": "Central Carolina Out of the Darkness Walk",
-          "where": "North Main Athletic Complex · Holly Springs",
-          "line": "Sat · Sep 26"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "American Dance Festival Masterclass",
           "where": "Cary Arts Center · Cary",
@@ -150,19 +120,39 @@
           "line": "Sun · Sep 27"
         },
         {
-          "title": "Carolina Culture Food Fest",
-          "where": "Moore Square · Raleigh",
-          "line": "Sun · Sep 27"
-        },
-        {
           "title": "Soma Breath Energized Breathwork",
           "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Sun · Sep 27"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "100BMTE Charity Golf Tournament",
+          "where": "Lochmere Golf Club · Cary",
+          "line": "Mon · Sep 28"
         },
         {
           "title": "Author Event: Eleanor Goymer",
           "where": "Page 158 Books · Wake Forest",
           "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Nature Play Day at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Florida Panthers vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Sep 29"
         },
         {
           "title": "PACE: Care that Keeps you Home",
@@ -172,6 +162,11 @@
         {
           "title": "Celebrate Fuquay-Varina Concert 2026",
           "where": "Downtown Varina District · Fuquay-Varina",
+          "line": "Thu · Oct 1"
+        },
+        {
+          "title": "Sustainability Tour",
+          "where": "South Cary Water Reclamation Facility · Apex",
           "line": "Thu · Oct 1"
         }
       ]
