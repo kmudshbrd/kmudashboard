@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
+          "title": "454 LIVE at the Tap Yard",
+          "where": "Tap Yard House · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "Aching Back Sunday",
+          "where": "KINGS · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190 (Rescheduled)",
-          "where": "Wake County Speedway · Raleigh",
+          "title": "Art Making: Henri Matisse Art Making Workshop",
+          "where": "The Cary Theater - Suite 230, 2nd Floor · Cary",
           "line": "Today"
         },
         {
-          "title": "Billy and the Jets: An electrifying tribute to Billy Joel and Elton John.",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Blues Traveler/Gin Blossoms with Spin Doctors",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Caleb Caudle & the Sweet Critters",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Comedy Show: Kiki Wynns + Jim Payne + E-Man",
+          "title": "Exhibition on Screen: Matisse from MOMA and Tate Modern",
           "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Invasive Plant Removal Workday",
-          "where": "Kelly Road Park · Apex",
+          "title": "Live Music: Sam Trebing",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Tribute Night: Imagine Dragons, Red Hot Chili Peppers & Van Halen",
+          "where": "The Backyard Bar NC · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Aviator Brewing Company Tours",
+          "where": "Fuquay-Varina",
+          "line": "Today"
+        },
+        {
+          "title": "Holly Springs Farmers Market",
+          "where": "Holly Springs Farmers Market · Holly Springs",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "454 LIVE at the Tap Yard",
-          "where": "Tap Yard House · Raleigh",
-          "line": "Sat · Aug 29"
+          "title": "Durham Bulls vs. Norfolk",
+          "where": "Durham",
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Aching Back Sunday",
-          "where": "KINGS · Raleigh",
-          "line": "Sat · Aug 29"
+          "title": "Ashley Robinson",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Art Making: Henri Matisse Art Making Workshop",
-          "where": "The Cary Theater - Suite 230, 2nd Floor · Cary",
-          "line": "Sat · Aug 29"
+          "title": "Cocktails & Cuisine Class: Bourbon for Beginners",
+          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Exhibition on Screen: Matisse from MOMA and Tate Modern",
-          "where": "The Cary Theater · Cary",
-          "line": "Sat · Aug 29"
+          "title": "Dale Elliott Jr",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Live Music: Sam Trebing",
+          "title": "Lord of the Rings Drag Brunch",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Aug 30"
+        },
+        {
+          "title": "Pottery Painting with Cozy Panda",
           "where": "Southern Peak Brewery · Apex",
-          "line": "Sat · Aug 29"
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Tribute Night: Imagine Dragons, Red Hot Chili Peppers & Van Halen",
-          "where": "The Backyard Bar NC · Apex",
-          "line": "Sat · Aug 29"
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Sun · Aug 30"
         },
         {
-          "title": "Aviator Brewing Company Tours",
-          "where": "Fuquay-Varina",
-          "line": "Sat · Aug 29"
-        },
-        {
-          "title": "Holly Springs Farmers Market",
-          "where": "Holly Springs Farmers Market · Holly Springs",
-          "line": "Sat · Aug 29"
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Sun · Aug 30"
         }
       ]
     },
@@ -95,40 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
+          "title": "Durham Bulls vs. Nashville",
           "where": "Durham",
-          "line": "Sat · Sep 5"
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Melissa Etheridge",
+          "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
-          "line": "Sat · Sep 5"
+          "line": "Fri · Sep 11"
         },
-        {
-          "title": "100BMTE Charity Golf Tournament",
-          "where": "Lochmere Golf Club · Cary",
-          "line": "Mon · Sep 28"
-        },
-        {
-          "title": "Author Event: Eleanor Goymer",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Mon · Sep 28"
-        },
-        {
-          "title": "Nature Play Day at NCMA",
-          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
-          "line": "Mon · Sep 28"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Sep 28"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Florida Panthers vs. Carolina Hurricanes",
           "where": "Lenovo Center · Raleigh",
@@ -138,6 +113,21 @@
           "title": "Turnstile",
           "where": "Red Hat Amphitheater · Raleigh",
           "line": "Tue · Sep 29"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Biodegradable Yard Waste Bag Giveaway - Buffaloe Road Athletic Park",
+          "where": "Buffaloe Road Athletic Park · Raleigh",
+          "line": "Wed · Sep 30"
+        },
+        {
+          "title": "Jose Madero",
+          "where": "The Ritz - Raleigh · Raleigh",
+          "line": "Wed · Sep 30"
         },
         {
           "title": "Mushroom Cultivating",
