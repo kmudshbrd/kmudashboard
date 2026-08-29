@@ -50,6 +50,11 @@
       "label": "This Week",
       "items": [
         {
+          "title": "454 LIVE at the Tap Yard",
+          "where": "Tap Yard House · Raleigh",
+          "line": "Sat · Aug 29"
+        },
+        {
           "title": "Aching Back Sunday",
           "where": "KINGS · Raleigh",
           "line": "Sat · Aug 29"
@@ -57,11 +62,6 @@
         {
           "title": "Art Making: Henri Matisse Art Making Workshop",
           "where": "The Cary Theater - Suite 230, 2nd Floor · Cary",
-          "line": "Sat · Aug 29"
-        },
-        {
-          "title": "Ascension and Kajlar Newcity",
-          "where": "Slim's Dive Bar · Raleigh",
           "line": "Sat · Aug 29"
         },
         {
