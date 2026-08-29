@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "454 LIVE at the Tap Yard",
           "where": "Tap Yard House · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Aviator Brewing Company Tours",
           "where": "Fuquay-Varina",
-          "line": "Today"
-        },
-        {
-          "title": "Beginners Wheel Throwing Class: First Spin",
-          "where": "The Makery · Wake Forest",
           "line": "Today"
         }
       ]
