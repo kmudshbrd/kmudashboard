@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "Durham Bulls vs. Norfolk",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "454 LIVE at the Tap Yard",
-          "where": "Tap Yard House · Raleigh",
+          "title": "Ashley Robinson",
+          "where": "Crooked Hammock Brewery · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Abbdavv x Limestone Loveseat x The Goodloves",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "Cocktails & Cuisine Class: Bourbon for Beginners",
+          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Aching Back Sunday",
-          "where": "KINGS · Raleigh",
+          "title": "Dale Elliott Jr",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "Art Making: Henri Matisse Art Making Workshop",
-          "where": "The Cary Theater - Suite 230, 2nd Floor · Cary",
+          "title": "Lord of the Rings Drag Brunch",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "Live Music: Sam Trebing",
+          "title": "Pottery Painting with Cozy Panda",
           "where": "Southern Peak Brewery · Apex",
           "line": "Today"
         },
         {
-          "title": "Tribute Night: Imagine Dragons, Red Hot Chili Peppers & Van Halen",
-          "where": "The Backyard Bar NC · Apex",
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Aviator Brewing Company Tours",
-          "where": "Fuquay-Varina",
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Durham Bulls vs. Norfolk",
-          "where": "Durham",
-          "line": "Sun · Aug 30"
+          "title": "A Celebration of our New Kitchen at Sharky's Place",
+          "where": "Sharky's Place · Raleigh",
+          "line": "Mon · Aug 31"
         },
         {
-          "title": "Ashley Robinson",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Sun · Aug 30"
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Mon · Aug 31"
         },
         {
-          "title": "Cocktails & Cuisine Class: Bourbon for Beginners",
-          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
-          "line": "Sun · Aug 30"
+          "title": "Nelward // Sweat Transfer // Jupiter 2",
+          "where": "Neptunes Parlour · Raleigh",
+          "line": "Mon · Aug 31"
         },
         {
-          "title": "Dale Elliott Jr",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sun · Aug 30"
+          "title": "Watch Party Reunion",
+          "where": "AVA Rooftop Bar · Cary",
+          "line": "Mon · Aug 31"
         },
         {
-          "title": "Lord of the Rings Drag Brunch",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sun · Aug 30"
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Tue · Sep 1"
         },
         {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Sun · Aug 30"
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Tue · Sep 1"
         },
         {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sun · Aug 30"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Sep 1"
         },
         {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Sun · Aug 30"
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
+          "line": "Tue · Sep 1"
         }
       ]
     },
@@ -104,21 +104,6 @@
           "where": "Durham",
           "line": "Fri · Sep 11"
         },
-        {
-          "title": "Florida Panthers vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Sep 29"
-        },
-        {
-          "title": "Turnstile",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Tue · Sep 29"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Biodegradable Yard Waste Bag Giveaway - Buffaloe Road Athletic Park",
           "where": "Buffaloe Road Athletic Park · Raleigh",
@@ -143,10 +128,25 @@
           "title": "Tai Chi: Downtown Cary Park",
           "where": "DCP Gathering House · Cary",
           "line": "Wed · Sep 30"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Bragolin / Carrellee / Feyleux / Idol Talk",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Thu · Oct 1"
         },
         {
           "title": "Celebrate Fuquay-Varina Concert 2026",
           "where": "Downtown Varina District · Fuquay-Varina",
+          "line": "Thu · Oct 1"
+        },
+        {
+          "title": "Dylan Gossett & Charles Wesley Godwin",
+          "where": "Red Hat Amphitheater · Raleigh",
           "line": "Thu · Oct 1"
         },
         {
@@ -155,8 +155,23 @@
           "line": "Thu · Oct 1"
         },
         {
+          "title": "Zumba",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Thu · Oct 1"
+        },
+        {
+          "title": "Maddy Smith Presents: Bad Genes Tour",
+          "where": "Raleigh Improv · Cary",
+          "line": "Oct 1 – Oct 2"
+        },
+        {
           "title": "Charlie Oakley & Blazin' Grass",
           "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Oct 2"
+        },
+        {
+          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Fri · Oct 2"
         }
       ]
