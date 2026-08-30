@@ -135,6 +135,11 @@
       "label": "This Year",
       "items": [
         {
+          "title": "Anthony Rodia",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Thu · Oct 1"
+        },
+        {
           "title": "Bragolin / Carrellee / Feyleux / Idol Talk",
           "where": "Chapel of Bones · Raleigh",
           "line": "Thu · Oct 1"
@@ -142,11 +147,6 @@
         {
           "title": "Celebrate Fuquay-Varina Concert 2026",
           "where": "Downtown Varina District · Fuquay-Varina",
-          "line": "Thu · Oct 1"
-        },
-        {
-          "title": "Dylan Gossett & Charles Wesley Godwin",
-          "where": "Red Hat Amphitheater · Raleigh",
           "line": "Thu · Oct 1"
         },
         {
