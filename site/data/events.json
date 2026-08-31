@@ -5,43 +5,23 @@
       "label": "Today",
       "items": [
         {
-          "title": "Durham Bulls vs. Norfolk",
-          "where": "Durham",
+          "title": "A Celebration of our New Kitchen at Sharky's Place",
+          "where": "Sharky's Place · Raleigh",
           "line": "Today"
         },
         {
-          "title": "NC Vintage Bazaar X",
-          "where": "4285 Trinity Road · Raleigh",
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Ashley Robinson",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Dale Elliott Jr",
-          "where": "Raleigh Improv · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Lord of the Rings Drag Brunch",
-          "where": "Raleigh Improv · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Southern Peak Brewery · Apex",
+          "title": "Nelward // Sweat Transfer // Jupiter 2",
+          "where": "Neptunes Parlour · Raleigh",
           "line": "Today"
         },
         {
           "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         }
       ]
@@ -50,24 +30,24 @@
       "label": "This Week",
       "items": [
         {
-          "title": "A Celebration of our New Kitchen at Sharky's Place",
-          "where": "Sharky's Place · Raleigh",
-          "line": "Mon · Aug 31"
+          "title": "Arthur Elrod: Desert Cool",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Tue · Sep 1"
         },
         {
-          "title": "Fortnight Run Club",
+          "title": "CNC Router - Orientation",
+          "where": "ShopSpace · Raleigh",
+          "line": "Tue · Sep 1"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
-          "line": "Mon · Aug 31"
+          "line": "Tue · Sep 1"
         },
         {
-          "title": "Nelward // Sweat Transfer // Jupiter 2",
-          "where": "Neptunes Parlour · Raleigh",
-          "line": "Mon · Aug 31"
-        },
-        {
-          "title": "Watch Party Reunion",
-          "where": "AVA Rooftop Bar · Cary",
-          "line": "Mon · Aug 31"
+          "title": "Trivia Night Fortnight Cary",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Tue · Sep 1"
         },
         {
           "title": "Backyard Comedy Night",
@@ -105,36 +85,6 @@
           "line": "Fri · Sep 11"
         },
         {
-          "title": "Biodegradable Yard Waste Bag Giveaway - Buffaloe Road Athletic Park",
-          "where": "Buffaloe Road Athletic Park · Raleigh",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "Jose Madero",
-          "where": "The Ritz - Raleigh · Raleigh",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "Mushroom Cultivating",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "PACE: Care that Keeps you Home",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "Tai Chi: Downtown Cary Park",
-          "where": "DCP Gathering House · Cary",
-          "line": "Wed · Sep 30"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
           "title": "Anthony Rodia",
           "where": "Goodnights Comedy Club · Raleigh",
           "line": "Thu · Oct 1"
@@ -163,6 +113,21 @@
           "title": "Maddy Smith Presents: Bad Genes Tour",
           "where": "Raleigh Improv · Cary",
           "line": "Oct 1 – Oct 2"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Anupam Kher and Swaroop Sampat Live in Hindi Play",
+          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Fri · Oct 2"
+        },
+        {
+          "title": "Brett Dennen",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Fri · Oct 2"
         },
         {
           "title": "Charlie Oakley & Blazin' Grass",
@@ -173,6 +138,26 @@
           "title": "Emo Night: Deadly Devotion Stained Glass Date",
           "where": "Wake Forest Wine & Design · Wake Forest",
           "line": "Fri · Oct 2"
+        },
+        {
+          "title": "Hand build an Oktoberfest Beer Stein",
+          "where": "Fortnight Brewing Co · Cary",
+          "line": "Fri · Oct 2"
+        },
+        {
+          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 2"
+        },
+        {
+          "title": "Movie Night: Frankenweenie",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Fri · Oct 2"
+        },
+        {
+          "title": "Mystery Theater - A Haunting in Holly Springs",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Oct 2 – Oct 4"
         }
       ]
     }
