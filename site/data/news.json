@@ -4,22 +4,170 @@
     {
       "label": "USA",
       "color": "var(--dial-slate)",
-      "stories": []
+      "stories": [
+        {
+          "title": "At least 80 people rescued after Grand Canyon flash flooding; one is unaccounted for",
+          "source": "The Washington Post",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5"
+        },
+        {
+          "title": "\"Long overdue\" Trucking Association of New York weighs in on federal CDL crackdown",
+          "source": "cbs6albany.com",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1kwMlBoS2lwWl9aaWhYU0llZ1ZpYnN0NmJGUjBtb3ZlYXNzTHpDMnNRTS1zeTNtelMwQWhHWFpvcjZwLTBLYXp5bzZ6M1hONjF1RlNnNjRvRW1RZ28wN05yWU9lQVB3LV9LV1NnWEpiLVhxVW01ZXlYekZ6d2YxSjJ3aXZjM3hkYW1HZ0dneDZNLW5lRk5QeFRaa0hoMTdxUjN6bVl3b1JnNm4yQzFyNlVLQUE?oc=5"
+        },
+        {
+          "title": "Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail",
+          "source": "nytimes.com",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3FmOWxOTDFkbS1Wa0NNUXFsc0VLd050blQtdEk4UUNBUkZOOEQ3VDB1dXF0T08yODdtUnhvRldWWXdvYWJ6MmVEUFZTaHdndlhWNjM0RUFObk9jczVybTJBbm5iZnhCTXV5MWtaMVltOUJVbDk5dU5rZGFEX0Z5OE8tSU0wTTRj?oc=5"
+        },
+        {
+          "title": "Vance offers olive branch to pro-Israel Republicans in closed-door speech",
+          "source": "Politico",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0x6OUVQQmlvMmpPWkJ2SFRBa1pfdk8tNUdOU1ltMUpyejZnb1RhZFBhMGQyOUtjTGFFMm02R3ExRmI1TWJCd2FaRFpQRGJ1RU9XM05IQVVsSWVFQVJtVXpvQWFRRGkwc01Xb3cyLWRpX0hQQ09lNEZoSk5PV2ZvTThQRHhqQk13azg3b1RtNA?oc=5"
+        },
+        {
+          "title": "Tropical Storm Edouard strengthens as it bears down on Louisiana, Texas coasts. Maps show the forecast path.",
+          "source": "CBS News",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbG92RncyZXJpblp2ZmJDdXBzWWdSVldzaVFBT0xBdEx3VDltZUhvTGJWQXdlTmxiTWhjSWV4SUE4cFZ0bmtQLTJLZkFfNVJOYlA2bWdqcGtSY1dZWkFlZVdrYkJXWk9nb2pkOV83LWtZTm1vOW9lb0s3OWIxVmNvYUZ3NjNSdw?oc=5"
+        },
+        {
+          "title": "Supreme Court allows Trump's ballroom construction to proceed",
+          "source": "Axios",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5"
+        }
+      ]
     },
     {
       "label": "India",
       "color": "var(--dial-blush)",
-      "stories": []
+      "stories": [
+        {
+          "title": "BREAKING| Withdrawing September 5 Protest : CJP Leader Saurav Das Tells Supreme Court As Centre Acts To...",
+          "source": "Live Law",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWl9HM1huRVQ1dmx4UXdFTV9xMENTNFFmQWc0RVIzRmZtYnlrXzAwS0dCRmo0QzR2MEtRNkNhWGpYbWRJUGFvdVQ5endzM0t5TjBXZW5FemowWE14LTJqNkxERE1JMEpTQzE0d2xudkpYN25GbjlTbW4wVjVmNEItUzhuejJFVkVHT2RNX00tUnJkUFpHXzlGcVFUUjlBWjY1R2FGRXk2bEg2WndKWDh5MmlVcDJhN2szclVDMFQwTWhXTHlvYzJjNk5DWnZQOWU3bklTelBKVTFURnBVdHFRbG130gHnAUFVX3lxTE9qczY4WlliQndqTFNhcElMT0RXUzB0QjdYVldTTEVac0tJdi01dmJ6WjVpS1lfRzYwbDlFUWt1amQxbW9zV1BJYXhTV3U4X1VJaFp4aHFTcUZDWlR0dUZtS1hmUURGYWxCWTU1Y1RPa2lDakFGa0pMclVBOW5QMlVCN2ItdVRrSTBLMnVfWG1RX3NaVVNZVXNXZklTSUk4bk5QeUR4VXd0TW1YLWp2eHFfQ0hQR2ozaDc1M0ptOXAwVVpyV2tQQ0pUNnR4eTJSSHpmcEw4c3Zjd2hUM2tXRkdzLTU3U2M3aw?oc=5"
+        },
+        {
+          "title": "'Those Attacking Doctors Don't Deserve Bail' : Supreme Court Questions Shiv Sena Corporator In Hospital...",
+          "source": "Live Law",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDdSejB2czNYdFduOWh1Q0hPLU5fV0ZmTFhfVldDZWdwaGRNQmNfZkUzRTI2VUU5VmZLZFdLOWpNVDRKZUFXZ2htQUswWm00VGVvT1ZaZWRCZGZ1VmpERzI2cVJBdXkwT2pkeGNYM0l5bG1hUndOTWlYMFhFTGJPZ1RfVGRxdVpHRFNHQ2Z4TW8td1hzZzhETk1LcnpSbFoxaUdBcHlBYkpDWkl2T005UNIBtgFBVV95cUxQa2llTjhYUmRoeGROc0VpYWtVMmp2NWEyU3NuSlFKSnFtMXlZbFB3S3ZSOUR1TjNsVEx0VFFWY3dMVUlpZ3RtZXNDUGJLbDlRenlvaVI1aGN2S3V6SDh4TnJfUFRpUGtvcTlTVGwzeE9OdENLUl8zYWpxUU1sTG85REp5NWhaT0dGUFhGeElFcVR5aDNrU0RVQm5NLXMxS1VkcVpMT3pLY1pVV1RrZXBSUThYU3BuUQ?oc=5"
+        },
+        {
+          "title": "\"Plan journeys in advance\": Delhi Traffic Police issues advisory for BRICS 2026 motorcade rehearsal",
+          "source": "ANI News",
+          "time": "16h ago",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcmhOb1BDVXhoOWVOVmppV1lLYnduaVhjNDNldXVOMHRSdWtFUWJhQWl3cW9HTjE4d2VvdEZzMWVPdTA3UUVtUVNFdE96MlowdUNldHlCczZraF81eTFXNGVFYXphRjgwTGNNNndVVGprOXRrS1NkVXRCbEhIYW5pRE83QzBtSUZKbVVvR2F3NTF4QjZqNWlraEJqVDlEWWttVXZEUlVEeVFWRDliREpwS1A5dnFhd2gta3NuZWc1NUY2Sk1HdnNKWl81LTVmbS1uS1ZYRDNWMjJhZldRb1J0SUVMdUwtQ2Robm1HS1A4aDJVYmc?oc=5"
+        },
+        {
+          "title": "CM Vijay releases Mettur Dam water for delta irrigation",
+          "source": "The Times of India",
+          "time": "6h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTVoLTl6czRSODdRazRRbjNORzFNbS1WdVNncEh5VDlHZkN1T251Q3FvQ0d2RkpveDhzaGcxWURNNW95V3dibGdTQ3NWeG44SlVMYXhXV2hYNXdSU2hYZ2VwUzduejhGRHJxTUpLQXdGWU9vOHQ2YXpjajhoMV9wd0pjTGJGQkR3aUNfWVJ2aDFmTnlUc1Z2UXVhRDFBSjJRcnBkTEliN1lxQlQ4Qi1WZXJtQmFjZmlocnU0ZVJFMml6a1RERGRjZ2Z4RlZacGVrTjZfSmZ3?oc=5"
+        },
+        {
+          "title": "Secunderabad Madras Regiment Reports Theft of 12 Weapons",
+          "source": "Deccan Chronicle",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaC1adlA2a216b0NNcDcwWjhoYUVwdEpqQWItT19jYWhIOUk0WnF3SUo1WmxEdk5WR0lSdmVWZ193VWR3Q2pvcnRsam44Ui11YnB4WGtqZnNtNWJSUHIyRTF0QkxMcl9iSHpHTEtPRllRSVR5a01WSlNyaVV1TXV1bkl3Vm96TklsVGpIbjBnYVcxclhrUWROUU9IeWNCSEtOQ0Fod2lWeFNhRnNtbWZ5OVREOEtoQm5hMzAyZ0NWZWdsT2ROTGV2N0w2MNIB0AFBVV95cUxOUnNnc0FsM1haMVFRbm9XZEl4THZuSkZPOGVvQVpHbGJZVkp0YWtKNklWTF95ZXdCSWhsQzR2elctQnV2MnBLS3RoWXdDLVo1aXBPME9kMWdZR2JSa09wNlJwTEZMdTBOaVJBdFVKOXZOMFgtcDdLQ0RtNG5ZVHM4U3ZoaGFKcnZUSXM1aUM2NUhqS2wzeWJtdXE5Y2loQkZvRFFYUzd1VDVaM19ETzFGTXdRVjgtM0paT0tHSG5McUM0UXhVaGg2YWpPbWdicFpf?oc=5"
+        },
+        {
+          "title": "Police can't pick and choose which accused to arrest: Delhi High Court",
+          "source": "Bar and Bench",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3BBY1ljMTR6bkJjUlNTNHhhLV9vRnJONm5UQjlsUlJaOFRkNWIxWFZrMWhWMk5WazdNb2pKLU9ZZ1l2SVFrWF9OdW9sV09Ba0dlVXJSZVBvYUZjUWVmaWVncnhZSzFzUUVBQ1lac1FyMUJUYXlrc2FBWlFyUnloVFhaNzJZbDRQMF80NnlkNjdSM2E2aXR4NDF4SnlwVlprdURn0gGwAUFVX3lxTE1IVDVNSzF6cFEtSmd0a1FEbG1iVnl3VHVpYjZrNjhNSFNwU2xvWkFhOE1OdTB6aWtlaVpPY0dlRzJycy1ramg4YzJ6ZGUwV0NxSWNIR0d6N2tBSUUySEVTM3VGWlZ5c05mVFBINC13cDFzNnZMSjRwR0xqWC16ZmJBZ0t0WWQ4OXN6V0pNVVBRdWhwbUx3NjlWR1pJdEhDcW5yY0NTSVlQTklaem5SVEx5?oc=5"
+        }
+      ]
     },
     {
       "label": "World",
       "color": "var(--dial-sky)",
-      "stories": []
+      "stories": [
+        {
+          "title": "Rescuers comb through mud and debris as Nepal-China floods leave more than 1,000 dead",
+          "source": "AP News",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?oc=5"
+        },
+        {
+          "title": "Chinese rescue work in Tibet flood disaster zone still trudging along days later",
+          "source": "Reuters",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6a3lySVRlNG81RGpQVmFWa2w1MGUzZnI4RDE2YmRoUUdFMXRaaHdyUkp0VWlJOEYxOUxHcG9NSXpjSzQyYzNNbXdOck5LY3NubDR4cHhQZUw2TVU2R2ZJdWF6Z19ndUl6RWhycFZaYkUySGQ3aWc1OWRnb3MxUWlGeGZRUkRfS1ZVWW1QS05oUS1yZmlUZjM1QTMwVjVSMlB0UE9jZXdqRnJNYjNhNzJvbzF5ZGV2NDNnems3VGdSVUExaDg3VjJFdmNHMzg?oc=5"
+        },
+        {
+          "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
+          "source": "CNBC",
+          "time": "10h ago",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3cxd1pXWWxEcmhDbzBsbWExOW5RZENtYkZSMzdZMmotQkNKOUN2RG8tUEtXTERLWlYwWFhIV3k2Z0M3aDAxLV9qWWpHYUFEOGtKZGlLU2hpYWZocFVqVDE4M1pEMlFaMFVrNEQ2MGdDZ0JIcTBxZndKbXUxRURoZFZocjJvQ1A2djFwek52TnBfUGV5MjJzQ0JOd9IBoAFBVV95cUxNYXVjWjBPZlJxRTlhTDZSdkJqVDZobDgxNjhBclFobWd6TEI4Nk5QNVllQnhRVk44MWVIOXFXSy1NenlpZXEwZVI1Vk1FakdkVDlQUE1oeGtCdmtKc2h4dXlUcDhLSmFsUWhLcEFzUlM2MlFVNkFHTUVFZ2ZSREhPZGJ3dlJZU08xZ3hqbFptVGxwT0tfNWcyWEdTaXZfOExh?oc=5"
+        },
+        {
+          "title": "Two Oil Supertankers Hit by Projectiles in Hormuz, Marisks Says",
+          "source": "bloomberg.com",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbi1IZjMyR3MwRy15eFpqYjFuMWJfeDhkaFF6cGpRRG4yVW5haC1vaXduOHRmYmNadTh3dmdWbE9NV28yTUtiaG05dVRjckF4RzFZMldfQWk0aXNEZVE4WHV4RGRVVjBFcExrRUk5Y1djNkxkVDMyMmxwWmI5OUo4ZWFfWm9kN1pRZkFGbEVJdVU0UDJOQUVhWThEdDdPWk5qLXY1Sk5tSUtWYW84emFDR2dQNA?oc=5"
+        },
+        {
+          "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+          "source": "nytimes.com",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdE53SUIzUmNYMlFGQXhueEFjV2ZDVXI0RndFXzZoeUVyeDNkd0R1QWY1ZmE1c0pnTTBoSjBtcFlVbHdzUVp5VUVORFpMcWx1UGxEa1VCXzI1SVhvckdhZWFJMGJiMjRZbE5iWkk4T3FaNGRzRzZ5NkFQZld6eHFVQlNCRWRiM2V1M0pJ?oc=5"
+        },
+        {
+          "title": "The Trump-shaped problems awaiting Andy Burnham, ranked",
+          "source": "politico.eu",
+          "time": "1d ago",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnRXMklEX2hRZXM0dldoUmU4Nk1GNUNEdkpGVkhWRTB5aVdNOXBXVGRadGc1S0N3LU5jUTRDQUo5aS1DYTNPZ3VrNVFjdWktMXFweEVLWE1KWVdaZGpTWFpkQ3BOSTUzWjBVWlN3U0h0VlBIanNlTHVENUtZZHg2cGoxZ01tZ2dGMGo1WnRxOUNGSDg5?oc=5"
+        }
+      ]
     },
     {
       "label": "The Triangle",
       "color": "var(--dial-sage)",
-      "stories": []
+      "stories": [
+        {
+          "title": "G20 Innovation Ministerial puts Chapel Hill in global spotlight",
+          "source": "ABC11 News",
+          "time": "14h ago",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXh2TElLU2s3X01hcGM1eFpjRHRJTXVsS3ViY2hSUHA5R3loTFZDRDN2RFBIaVQwaUpJOUlmd1hER2s3dUVrd2ZrSVcwUjZSS3FaZnk1QXpUeV9iYWVSOVl6SDItYWlYa2RMYWFlU041SUxIWThOb1BwLUVxSXJDWHhSeW03b1NYTnZnZEFGZUxBS3dCLWJtLdIBngFBVV95cUxQZTFwQmlTY1RHa3VScWhIY3NTbjYzb21yVnNFU2I1U0pnMDdFQ3VMeFYzSkFSZUlHV0h5cFdOVEhYYmgxLTVTa0NBdEhJOVpWX0FlN09qMG5JTTZsdUVHUW5yLWpWcExCT2hyNHRyc1U4Tm1KY21aSkN3ZTZOOEc5MHJxNThzc2FMUFFXeFNrNHptdXBGMkZObTBlOVRJZw?oc=5"
+        },
+        {
+          "title": "Crash in Durham neighborhood appears to be deadly",
+          "source": "WRAL",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHB1VFcwenRxc2hzYm5vSkZfUXNJVGJYX3JrQzdfemQ1Ul9xTGdRT1Boa2lkZ3pQaXBTb2JPNW5wUlNsZ0cycW5oRGN1NjVHOHUwMmlqQ1pEWWEwOEVCR0x2V0hCc2ZkZERMTXVhZmd3ZnZfSklNTGhZVU1CRmVqdnZSTGpFZw?oc=5"
+        },
+        {
+          "title": "Rabid baby goats in petting zoo visited 2 Durham County sites, 8 others in NC: Officials",
+          "source": "CBS17.com",
+          "time": "1d ago",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUUtFeDBJZmI0LWh6dTA4dVIxdG1LdWp5RkdqODVwcXRsTTU4QWV5SWJVSmRFeVM4MVdzOGRzSzBpS0QwSlViSWZjc0hCaDRtRDJSVDhubUVCanRVay1MY3ljREVOM2ZXcklQanpTbVFYOFl4cjA2TUhzVy1WOUNyQUlTNjBkLUJxbUM2dmhmR2ZjaGdMRjhxWFJDaUtCWjJ4V0hmNUoyM21Gbms3VWE4emNDY04wMU1nTE5fSGtEV2p5cDBZSHZqMEN6YVRBbGlGMDR6U0FNRHBrRjJETVM3cVlzY0hmRHh5YnZOQk8zRTh5TW1I0gH6AUFVX3lxTE5JakJfY09KV0hpMUpiWTRfYUNEbWU0LWlubEN5QUlXTHpXd2p5Sk5KWmRycVRNb2tWTDVuQUpvLXo3LUkyTGlJcG9ZMVVsRmRZRTNkaDJuRjZnUld6RFVPMU5ZWE1GYnF5ZDBpX0l4QzhBQmE3c0llUUhjZmR2ZlkyZUdjMkJwaFNNajF1eXAzSE9OSUJUaFVQa1lsUlR2TzgtZHBiY0J3MENPU1VsTWkwdjFkNXo3cjZjMXdyQk1jZkFRM3NPclFWNG1kalZqY0J3Rk9GcFc5dGJHOV9jX0lxWWduelhnYVR3NG1fS2tYY0Fpbmx6ZGw0SUE?oc=5"
+        },
+        {
+          "title": "Obituary for Ada Patricia (Rita) Hunter-Sanders",
+          "source": "Lea Funeral Home",
+          "time": "13h ago",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QZ3B2UGs2TndRdDRzN2cwUzZwMUxsWThnYThjbWxJTmRXRnhPVFIwLTBxR3Q5MDM0TUl5cjFTa3ZXaFBBM3kxbHUyc2FoUjk1cWJvMl9EVkkySFk3dVBlcF9VMmR0Zl9BRHc?oc=5"
+        },
+        {
+          "title": "NC State-Virginia a rough watch the first time. What stood out in a second look?",
+          "source": "Raleigh News & Observer",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXhqaUthbjFnMDRuZGJ6Y3JtTFVVYTNQR2c3WW5qRE1zYUxIdDJsMTlZQjhaYXQ4S2VfdGFoajMxczh0QXAxMF8xbWlobDBOOVFzTTl0UmNmTVdLb3hvX19wYVNCYVpndXBVM0xQT2lCbWtXNlQ1emZqNzFUMzJBRDFxRlHSAYQBQVVfeXFMTU4yTEFLcXkyTmNEX191eWZlamFGa2g1LXNrRXFvVmN4WXQxU3FEVzlQcWJ5WWdaUEc2OWtmbEJGLUxWZlhVTExUY3hZWFZuYmFvZ3ZYVVZ0SndIQ3ExbUE1aUpGc2tVbTlweWt5M0RZMVVtWDB6ZEdidVlfam9xXzFzM05Y?oc=5"
+        },
+        {
+          "title": "Raleigh ticket wins $1.1 million Cash 5 jackpot Friday night",
+          "source": "NC Education Lottery",
+          "time": "2d ago",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjVmekJwTWwwdV81V0U4b2FCNnZMSTJDUWl2LWZCLTNhd0c1OEl5TDR5RUh0UWFkRFRJeFhfM0FnTFY4VktXeEZMaTYtWlRUbFA5bzNNVDZXVXduQmVCWW9IOEZxOXpaQ0FEX3NMcWN1dlpMa2JFMlpENFhmTVpHRVM5WWYxOGVwd0RKQUVfdURFUEw3VU4zZk16alpQVk85MXc4d29tLWNFajZwY3c?oc=5"
+        }
+      ]
     }
   ]
 }
