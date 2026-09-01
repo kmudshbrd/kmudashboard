@@ -5,28 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "A Celebration of our New Kitchen at Sharky's Place",
-          "where": "Sharky's Place · Raleigh",
+          "title": "Arthur Elrod: Desert Cool",
+          "where": "The Rialto Theatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Fortnight Run Club",
+          "title": "CNC Router - Orientation",
+          "where": "ShopSpace · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Nelward // Sweat Transfer // Jupiter 2",
-          "where": "Neptunes Parlour · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Trivia Night",
+          "title": "Trivia Night Fortnight Cary",
           "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Today"
+        },
+        {
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
           "line": "Today"
         }
       ]
@@ -35,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Arthur Elrod: Desert Cool",
-          "where": "The Rialto Theatre · Raleigh",
-          "line": "Tue · Sep 1"
+          "title": "Author Event: Dr. Jen Golbeck, PhD",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "CNC Router - Orientation",
-          "where": "ShopSpace · Raleigh",
-          "line": "Tue · Sep 1"
+          "title": "Back to School Block Party",
+          "where": "Northwest Cary YMCA · Cary",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Sep 1"
+          "title": "Bill Squire",
+          "where": "Goodnights Comedy Club Room 861 · Raleigh",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "Trivia Night Fortnight Cary",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Sep 1"
+          "title": "Boost",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Tue · Sep 1"
+          "title": "Fall Leaves Linocut",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
-          "line": "Tue · Sep 1"
+          "title": "Gilmore Girls Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Sep 1"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Wed · Sep 2"
         },
         {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
-          "line": "Tue · Sep 1"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Wed · Sep 2"
         }
       ]
     },
@@ -89,41 +104,6 @@
           "where": "Durham",
           "line": "Fri · Sep 11"
         },
-        {
-          "title": "Anthony Rodia",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Thu · Oct 1"
-        },
-        {
-          "title": "Bragolin / Carrellee / Feyleux / Idol Talk",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Thu · Oct 1"
-        },
-        {
-          "title": "Celebrate Fuquay-Varina Concert 2026",
-          "where": "Downtown Varina District · Fuquay-Varina",
-          "line": "Thu · Oct 1"
-        },
-        {
-          "title": "Sustainability Tour",
-          "where": "South Cary Water Reclamation Facility · Apex",
-          "line": "Thu · Oct 1"
-        },
-        {
-          "title": "CatVideoFest 2026",
-          "where": "The Cary Theater · Cary",
-          "line": "Thu · Oct 1"
-        },
-        {
-          "title": "Zumba",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Thu · Oct 1"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Anupam Kher and Swaroop Sampat Live in Hindi Play",
           "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
@@ -153,16 +133,51 @@
           "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
           "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Fri · Oct 2"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Faust, by Invincible Czars",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Movie Night: Frankenweenie",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Fri · Oct 2"
+          "title": "98th Annual Wendell Harvest Festival",
+          "where": "Wendell",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Mystery Theater - A Haunting in Holly Springs",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Oct 2 – Oct 4"
+          "title": "Alicia Villarreal - Bendita Locura Tour 2026",
+          "where": "The Ritz · Raleigh",
+          "line": "Sat · Oct 3"
+        },
+        {
+          "title": "Buck and the Preacher",
+          "where": "The Cary Theater · Cary",
+          "line": "Sat · Oct 3"
+        },
+        {
+          "title": "Celebrate Fuquay-Varina Festival 2026",
+          "where": "Town of Fuquay-Varina · Fuquay-Varina",
+          "line": "Sat · Oct 3"
+        },
+        {
+          "title": "Fall on First Avenue",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Sat · Oct 3"
+        },
+        {
+          "title": "Family Pumpkin Painting",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sat · Oct 3"
+        },
+        {
+          "title": "Live Music: Ian McMahan",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Oct 3"
         }
       ]
     }
