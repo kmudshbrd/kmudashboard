@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Author Event: Dr. Jen Golbeck, PhD",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Brown Bags to Building Bridges (B4) Series - The Planning Department",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Back to School Block Party",
-          "where": "Northwest Cary YMCA · Cary",
+          "title": "Classic Cocktails and Classic Hip Hop",
+          "where": "Boatman Spirits Co. · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bill Squire",
-          "where": "Goodnights Comedy Club Room 861 · Raleigh",
+          "title": "Friends of the Arboretum Lecture",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Boost",
-          "where": "Slim's Dive Bar · Raleigh",
+          "title": "Horsegirls",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Fall Leaves Linocut",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Gilmore Girls Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
+          "title": "Nando De La Gente: En Español",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
           "title": "Apex Sculpture Walk",
           "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
+        },
+        {
+          "title": "HollyQuest 150th Anniversary Event",
+          "where": "Town of Holly Springs · Holly Springs",
+          "line": "Through Sep 30"
+        },
+        {
+          "title": "WFP Urban Walk",
+          "where": "Freddy's Bottle Shop · Wake Forest",
+          "line": "Through Oct 1"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Brown Bags to Building Bridges (B4) Series - The Planning Department",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Thu · Sep 3"
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "Classic Cocktails and Classic Hip Hop",
-          "where": "Boatman Spirits Co. · Raleigh",
-          "line": "Thu · Sep 3"
+          "title": "Amateur Talent Show",
+          "where": "Legends Nightclub · Raleigh",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "Friends of the Arboretum Lecture",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
-          "line": "Thu · Sep 3"
+          "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "Horsegirls",
-          "where": "The Cary Theater · Cary",
-          "line": "Thu · Sep 3"
+          "title": "Ed Stephenson Duo",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "Nando De La Gente: En Español",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Sep 3"
+          "title": "First Fridays in Fuquay-Varina 2026",
+          "where": "Fuquay-Varina Downtown · Fuquay-Varina",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "Music Bingo at The Backyard",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Sep 3"
+          "title": "Jared Place and Sarah Kohrs - Colors and Timelines",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "WFP Urban Walk",
-          "where": "Freddy's Bottle Shop · Wake Forest",
-          "line": "Sep 3 – Oct 1"
+          "title": "Moonlight Bat Stained Glass Experience",
+          "where": "Wake Forest Wine & Design · Wake Forest",
+          "line": "Fri · Sep 4"
         },
         {
-          "title": "Karaoke with Doug",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Sep 3 – Oct 15"
+          "title": "Morrisville Music in the Park 2026",
+          "where": "Indian Creek Greenway & Trailhead · Morrisville",
+          "line": "Fri · Sep 4"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Sep 12"
         },
-        {
-          "title": "Faust, by Invincible Czars",
-          "where": "The Rialto Theatre · Raleigh",
-          "line": "Sat · Oct 3"
-        },
-        {
-          "title": "98th Annual Wendell Harvest Festival",
-          "where": "Wendell",
-          "line": "Sat · Oct 3"
-        },
-        {
-          "title": "Alicia Villarreal - Bendita Locura Tour 2026",
-          "where": "The Ritz · Raleigh",
-          "line": "Sat · Oct 3"
-        },
-        {
-          "title": "Buck and the Preacher",
-          "where": "The Cary Theater · Cary",
-          "line": "Sat · Oct 3"
-        },
-        {
-          "title": "Celebrate Fuquay-Varina Festival 2026",
-          "where": "Town of Fuquay-Varina · Fuquay-Varina",
-          "line": "Sat · Oct 3"
-        },
-        {
-          "title": "Fall on First Avenue",
-          "where": "Knightdale Station Park · Knightdale",
-          "line": "Sat · Oct 3"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Andy Frasco & The U.N",
           "where": "Lincoln Theatre · Raleigh",
@@ -158,10 +123,30 @@
           "title": "Jane Don’t Does America",
           "where": "Raleigh Improv · Cary",
           "line": "Sun · Oct 4"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Amyl and The Sniffers - Raleigh",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Mon · Oct 5"
         },
         {
           "title": "National Night Out 2026",
           "where": "E. Carroll Joyner Park · Wake Forest",
+          "line": "Mon · Oct 5"
+        },
+        {
+          "title": "Pathogenic / Aversed",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Mon · Oct 5"
+        },
+        {
+          "title": "Stretch and Refresh at Downtown Cary Park",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Mon · Oct 5"
         },
         {
@@ -173,6 +158,16 @@
           "title": "Apex Night Out ft. Touch-A-Truck",
           "where": "Town of Apex · Apex",
           "line": "Tue · Oct 6"
+        },
+        {
+          "title": "Toddler Tuesday - Discover Wonder Dogs",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Tue · Oct 6"
+        },
+        {
+          "title": "An Evening with Luke Bulla",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 9"
         }
       ]
     }
