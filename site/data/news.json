@@ -6,40 +6,40 @@
       "color": "var(--dial-slate)",
       "stories": [
         {
-          "title": "Live updates: Judge in Lindsay Clancy trial declares mistrial",
-          "source": "CNN",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5"
-        },
-        {
-          "title": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order",
-          "source": "Politico",
+          "title": "Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict",
+          "source": "WBUR",
           "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjVSTHBVZE9USmxyd0NQdXNodmVyVjNYVGNkYmY2YTc3dmFITW5kZXA3N1FuZTVmVnZaN2RnaVBtcGdCV1VaMEd4c0F1bVhmM2Y5akFreXBhSE5peWFtYVZtU29mVExwdGZuV0N3bkF0Z3pveF9kZmlGUjVRa0cyc19SYVV1NV9pdC00RVN5RFRxMWlEWFItXw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC0waHpWWEYwYUt5alRHOUpfVnhkMFIwdEZxUVJNSUpFUks0WTUyOHhsX2J1aUlhWTVUOWNVVUtyWjZPVE95MFNQay1yNDhOd0lfREJCYTZnbVdMNGNyQjRJMUJTYk1PZHpoNnZrVDlHcE5pal9SS3FpWGhkbVNrTEZvYUNrcVI0Tk0tTjNMOA?oc=5"
         },
         {
-          "title": "Years of threats preceded deadly Minneapolis shooting",
-          "source": "Star Tribune",
-          "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnRLMk9Mb0RIa2Z5V0xoZUwwU1F3dmFmdVRFRFlwdmVKejZhRHdtcHd0aEZyZlJVck11dDFlcjJ2MTN4RjdvNTdWcUtpdjQ5aG9lYkR4Nk1QLWJUYmkwcWtjVUFlMm9CTEloX1BGTzZJMHBfWkZjNGk4elJmZGFSZ09zc2lMcWNGN3pUdHpETkRVdUxwdGc?oc=5"
+          "title": "Judge Once Again Blocks Mail-In Ballot Rules",
+          "source": "nytimes.com",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXpmM3VTQkNraFZlM0JsX0NaX0Y5U0hodnBxempLQ1NCLVlxSV9RZHBybW43dVhMd2t0RDNsM1pqdnN5VVB3Qm82dHRxSGdjTkRMbDljb2NRdUFwWjkzc3ZtRU90WXMxU0tQODVpcWljY3VKYlJ4emYya3V5WjBaZVR5SmRVNlR3cjF3?oc=5"
         },
         {
-          "title": "Trump says he will sign orders to allow ranchers to protect herds from gray wolves",
+          "title": "Trump’s ballroom Tush Push",
+          "source": "Politico",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2RPTi1BaWFvUG83ZmZOZTdMY2lYMi1VRHBpTklhdVE0bmh3NmVGdTF2Vk44LURVbUNxenBobGFEb1ZHSEx3OF9JZzU1M1RkMGlYS1BOQW5zQUhYVUhFOXd5d0N4eGlPX21RZzdHLXJWd0pTX25KZTZiWmxWYUNYX01UMmJJdE9z?oc=5"
+        },
+        {
+          "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms",
+          "source": "AP News",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHduWVYtMzJYQk5UcVJNbWxaY1Z4YnA4ZWZ5dFRQSXEtTERLTUd3Y2gydFJ6MUdTeWstd3k2NTZWZnR1ejNwWEhOY05SRnFUOURrZi1qWUpLeXAyWWR4ZlJSOXBUZFBkY1Q2dmNzbkxncVkwNzZtU0ZtWlluSll0bjB2SDFtTUNvMmNwTlBRY1RNOE5EdGZHRDV3?oc=5"
+        },
+        {
+          "title": "Later in life, Gloria Steinem found herself free of the 'demands of gender'",
+          "source": "NPR",
+          "time": "1d ago",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SnAxZXlHalBIWEtqRWg2UU1JeVpvRzBDbnh5TE9zdjBJMFlMUzJ1VmE0UWFrSUxtZkE1RkNWMXMyM1hCX0tzbFFoRGJGaGM1SXBwWERrcUd0ZjJ2Q3NWVHJveWR4ZzVhQWk5UW5ncndENXBtTkF4Uw?oc=5"
+        },
+        {
+          "title": "Trump signs orders to allow ranchers to protect herds from wolves, expand meat processing",
           "source": "Reuters",
-          "time": "0h ago",
+          "time": "3h ago",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXhrY2ozbmJESDk5NTdOcHhuSXY1aDZZcWZTdHAzZDFoc2M1WFl3OEdIR3hzRUlVSEpTMm5wNkp2MGI3N1dMQ0tDcEp0ZmJuOEVmcHRvcVEza0V1MlhCR3JCQkRhUnMwZHBxM3JYTFdza1dwU2tSczM2bS1pYzZGenFhRDVldE5GNVBuMnhWT1UyYldQeng1SWN6dUhYcFBNbWUxUGxZZ0VFQ3BaQ2NERHRR?oc=5"
-        },
-        {
-          "title": "Vance says Trump, US military have prevented ‘energy crisis’ during Iran war",
-          "source": "Fox News",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGFIVGlBaUNiekdjQ3dleWxrQUNJcHBWSklSRHR2bWk3VUswUmZnOHpELWhlbEplRVVOWHZHREJMQ0x4LWVkdDl5eVEtMnpHOUFSYmxRYy1LcVpnTUJBZk1NM1V3S3Z2eTgxYnRKMkVCUTNZUzRsOXQ1LTRvc3dvcGNNSnNHVE5QYVc0VTNB?oc=5"
-        },
-        {
-          "title": "‘I Truly Don’t Care’: Report Says Fetterman Has Become Apathetic About His Duties—While Advocating For Israel",
-          "source": "forbes.com",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSGRad1I3cUt2ZG1sbW9sdzdRNm4tcURZbmNnLTk4czF6QkY2UHptaGdyU0pidGpMQ1FmX2JiclExZGt2VkpTd2RZX2xXWE9rVXVNSzMxTWREUkR2UUZGZTRqWXlIM3lDbWNlMkcySDRGTGs3dWhfcGUzU0xDZUFuUUE3U1RxWGdEWTBJWm1UMFI1NnVvVVlCalIwQXRFWjFVYTQ0c1pNS2o3YzBTUTV4cEM2cUFoQWs3Vk5ock5tb2JRQjFHemFFaXpnaC1rc3gtczlBRGVfUktRR3RMX2lHN3FISVktMDNwZ2Fv?oc=5"
         }
       ]
     },
@@ -50,38 +50,38 @@
         {
           "title": "Delhi Police detains Swatantra Bharadwaj in Bulandshahr for assaulting CJP protester's father",
           "source": "The Times of India",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWG5HRmQxQTBENWZuYWZ6bXhXU193d1NRQlVyMmRhRm1VR0R2WWlpZTJScnFQclUzOFVNRXlrUjdCcDl1V3NwX1VOalVoZTctY2hwdUlKeEtvaVA2ZWd2WWNqaVo3ZnQ0V0FMR1ZtS0l4WGZFX0NDVlFGbUF3NkF2Mk91TGo4X1M5T2wzcVhudVZvckRGMWRLT2RTMEExQ3ZMcE04QmZ2RmhuS2hvU25KZmRRbmZNRm9zUXhET0VqQ0xCclUyQ0p1NVpabXdkTFN2ejB5dUF3ZnRIdEtCRUFfZXVudmN4MUxreUpRRHcwM2VlZw?oc=5"
-        },
-        {
-          "title": "'Buying Or Not Buying Oil Won't Solve War': India Defends Russia Trade",
-          "source": "NDTV",
-          "time": "17h ago",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeG93TVVkdS13cUxaNTNBdTZrT0N1WFJYVEJ4enMza21IZ2pJS0Fnek53RmR6WklOQ21JOHd6ZThDT2VfQUM2UjRxV011RkMzRkFEMVRrTlQ5dkN6ME9LeXhZcEtJRUdSa2hMVkpCUjJEdnJqUmhUQnluMlZGR2dHeXVrWDQyZlZkYjFFMHZkM2JKcUVsNnRrSk5RZDVKQllqSFNoOHR3VWUxTmRSX3NzaERWUQ?oc=5"
-        },
-        {
-          "title": "India news: ISRO launces first imaging satellite into orbit",
-          "source": "DW.com",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHlPMUEzdlpnS2hRcmRTXzlQWm5aNUx4LWpWaFZFa2NJTlRtNkRNU2RVZHIyNTBUY1haM1l2aXd1LVJ4VE80ZXFxbkV0bkdfVUpVOTlFMkNFdEYtSFVrWEIxZEloVGQtcGFUTVZyT2s5Q1N2d21MN3U0YkVGNF9ib1FXNXJrYUt1cDRNX2Q4NHd4YnJERzU1OTln?oc=5"
-        },
-        {
-          "title": "RAKSHA: India’s 10-year blueprint for defence diplomacy and global strategic partnerships",
-          "source": "The Hindu",
           "time": "12h ago",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNckVlY1dVRlZsaktfY0QxX0FrMWRSU3U1ZGh4Y0tEWERBV3c1blNyR3c0a1pZUFpjSUUtWHIwdFNvNzdHc1ZhQjNSUHZuenU3TzRsczh4RG9CaWdXeGQxMkxBUjFkeWtuOEdNdFhheVZ1dGJINjNGaXBuRTBoTEJwYlNUMkx1X1QyVEVXUGgwVGtsS0ZUanJEX1kweWpOeG5NNmV1QTVlcWJZX1ZvVVp6bGZzaVdoQVY5MDJxajdmaS1NZjZFQ0xMWVNSMU9YeHcwNlNOSFNjVUVLYjNBTjhB0gHmAUFVX3lxTE9oOTk2eEd1X3BzczVjQ1lkazgwQjRiVGFIZlU1Q1lzNC00Mnd2eEVXTG5KQW8tTnppblZhUC1ncE5CekR3NjYzMVBDcXZINFlGakpkUlZsc3BLTW10TngxVGZDRUgzbWJ4MUxXSU9zdnNfMDZVOU1MS2ZsaGFzUEJYRm4tS1JkSkFpbTNPTGFzWkFTdkxzVDV6Z2RzQUc4X3ZOdkJqMHBHdnMzVG9tbEZzUloyNU40cjVlRXV1NjhyaUZMcTE1dUFSOG5pSjFnTWJYSDNVS1NaQnNnOGhobVhDSzBMT2tB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWG5HRmQxQTBENWZuYWZ6bXhXU193d1NRQlVyMmRhRm1VR0R2WWlpZTJScnFQclUzOFVNRXlrUjdCcDl1V3NwX1VOalVoZTctY2hwdUlKeEtvaVA2ZWd2WWNqaVo3ZnQ0V0FMR1ZtS0l4WGZFX0NDVlFGbUF3NkF2Mk91TGo4X1M5T2wzcVhudVZvckRGMWRLT2RTMEExQ3ZMcE04QmZ2RmhuS2hvU25KZmRRbmZNRm9zUXhET0VqQ0xCclUyQ0p1NVpabXdkTFN2ejB5dUF3ZnRIdEtCRUFfZXVudmN4MUxreUpRRHcwM2VlZw?oc=5"
         },
         {
           "title": "Air India sacks Delhi-Phuket flight pilot who tested positive for drugs",
           "source": "The Hindu",
-          "time": "6h ago",
+          "time": "10h ago",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZHZfM29OUVpQS2FIeTJkejFETWEteHdPOHg5SHNmUktKUzI0TF9CRFZoNzBiTkw0amF3bDBDVG9qWFcyTlBBM3Fib1lHRXVKNVJjR2pSVnFEVVY3TGVMN0hOSGdzSDhrR05aaTVkRHg1NGRXY2VaQlRCRU5YQkI0SkRkX1lTajNxYTYtUTlXQkd3a1E0OU5wbXVMeUpod2x3a0UzMFlhLVFxWjU0T2hKWVVKNXQ1OHRyOUpGNTI3SFRQV1d3aVVuWUQxWG5CUE52aXI0NkdrcjdwTi13WHU5eUY5b011czRxdFRXS25UVGzSAfcBQVVfeXFMUFo0UTNncG5qYWxFb2lvRVNCTUN5dnliNnhQa1dqd3EydmRacUhzVmozZmxLTUtkRW9qT2VxRmJMclU5RldsXy1DdEdqUkpqejkzRmdXVEpIQXBrTzJqWkdlb1ItOFNLMWtnRTZJVC13dGI2ckpPbkVtTGFvd1cxWHcyZHZXc0dMT1I2NUJ6OWI0c2lMV2syaGVXeTZ3WmdaVDBIYm9FLU9VbTNCYXlZQ3N0TFRXZEtXWkw0OGtiMDlsZmpzNy1ROXZPbHZ2NUlqQ250QV9HVW9CcGY5R1BUbF82N2N1bi1pdFc2TnlnanlteGozQlpVWQ?oc=5"
         },
         {
           "title": "BJP seeks NHRC probe into custodial torture of Sikh protester by Punjab Police",
-          "source": "tribuneindia.com",
-          "time": "6h ago",
+          "source": "The Tribune",
+          "time": "11h ago",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3h1ZTd1RmFkTVJkOXd2Rmp5dHFVVjVtS21tZVd4X2ota0RTUkc1OWhzT29EMzU2d08zd0RNa2M4S1VXQ29IMlgxd19lVnNNNVdqcFg1dDlXU0FFNHlrS2RtYlA1eDlxbTdWMEZrcTBPY1FMSTlwNTZVMkVtZHZYQTNaTzhVMFAwSUpfLWZuWHQwVDIzdW9xaXpRdzNuUW1pNEpVWnAxZmNjNl9kTUpXam5WUlJlX1kwU3RYUV8yVnczajkzWUZV0gHLAUFVX3lxTE1JNm9qZXVLZ1pYcFNqQ3hoYUJaWU1jOE5kR0NSdTF6VFV5TzJHYUY4Tk9MNW9TUzNjOTF0SF90YWo1RlQ1VW9TQmFQei1NSXAzUmtTUzhJS3dGeXZTb2c5NWFGN0ZDRkVHaHozMkhPOVlrQ3FXY0ZZU08wNXl2MGNIYTY5dmNwcXlERHRhLUNUSGtVX2Q5dnJkWVNJYzFlanJjV1h5YUhMZ0tlSWJMTTFVeDBvVDlwdHNIU3pKNjE3THppNk5LZVhtdmE0?oc=5"
+        },
+        {
+          "title": "CBI searches 89 locations across 20 States in crackdown against ‘digital arrest’ syndicates; three held",
+          "source": "The Hindu",
+          "time": "13h ago",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2FUUzh2VjNtaEMyN25Eak9zX2k5QThuYlNXcms5eFFUM3VMOEJJdk5XbURtRGl3bDhqTkxBZmJiS3JfbUtJcGlJTkpVS24zb3RmY0hSMmtFMWp2WTA2d0s4dWpIQVllX1AxZFFsX0N4ckc4aU5ISWtBU1ltU2QybElZVGphV25wRWlNTGZNeGdQTDAzV09WZzBkM0pZZVBzcDM1VVBTdUo5OWM1RUNOZzR3VkRMaUJNSDFDQzBXX2hOMFItOThqZmktVjgxX0VDQmt4Z0g1V1VLdTNRd0ZrV0FIS1BFQ21pNFVN0gHyAUFVX3lxTE5Pb1NVaVcxOVJKc1JHX2JLTnpMeTVLcV9McEFwd3BLMnIxZ3ROZGVCZWRjTmh4Ync3ZEJXRHJYVmJMSndkS2ZEclVTTDU2aGtTN0pIWmJrZU9yT3R1RlA5VmhfZ1hGX1NGY0FKRGlWUUZreXF0TUZFb0NZRkNEMnFtazRnMmEwcUhPd3NQb0c2MWtfMmZXMUdTSGZiTzJ4RzFQcE5hZVVWU1ltcjlUS2xRM29uM0hmVnU0OG5BRXhJUkdhekJXUzcxWEJ1X3lJYjgzQ25ralVTV2tlckhWa0tHV1dhTkNhVGtqZXBlekY4VHB3?oc=5"
+        },
+        {
+          "title": "Fact Check: Is Konda Surekha Leaving Congress?",
+          "source": "Deccan Chronicle",
+          "time": "17h ago",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2hpbDJaM3ZGdFp3bHg1bHlCN0w3ZWFwenBIdzVPQnJMbkJjamE5MGhMc0hHbldvRGUwYVdySWo2VWc4SVBocG5LdkxHVzhaR2R2RDVaRF9pbWNWVVVIT1FSdzFTSU0wbGt5cDNNYmQ5bk45LWNpXzVKeXZRcEJPc2JfbDZkRFNLbWY1OHBHUnBWSENVMW10WE1pMVBvN1RPR1RuVjRFNGQ?oc=5"
+        },
+        {
+          "title": "India-Born US Citizen Added To FBI's Most Wanted List In Fraud Case",
+          "source": "NDTV",
+          "time": "20h ago",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcFFlb3NkU2RieXJZdVBJdWphcmF2Ym04cG9KbUJNM0pHMlBpSFN3cXFyM0JrbnZkQUhIWGpZVzBaYWFiT0l5UzNtZjBYRUFobXpKUE9FM3NzUkJNN0pSVGFmMVZQT1ZfdUhIdkp4QkRsMEROWTNMNF9kVV9HTjgyeXBBNU5TdVJqYWNuOG9ZTkJ6RzlnQUtreUhldjJqR1kyaUpsSWtPN2ctbXpzNXRPRDU5YTlNSERjakVrTXk3dEN5ZmdBak9CZmpsaXpQU1hGT3VhRU1wZlBOd2hLa0HSAeYBQVVfeXFMTUV0ZkhNQ3drV1R6TVVZNncwb0Q2Szg3elBMT25iOVR1eFFLTUoxRlJWWW4tT0x6a3drOU1DWHJZSThJbTNtRU5GeFl6WGUxWmRta0o5OXBkYlA0TWVUallGSnJTOERyZ3NtREcxN0xoVy0yd0htTy1YLThIZC12OFJOTUpuWV9sSjFWeVl5VzJZemxEM1NuYW1sY2VhQ3RkdnpocjNGb1UtTjZteDQ2YnZQbzBOVGdPcGRVTVNpOUg3aXJUWVhLejhnTFBmQy1SeGR3MXhKOW5zWURFVnpGVl90RGpHWWc?oc=5"
         }
       ]
     },
@@ -90,40 +90,40 @@
       "color": "var(--dial-sky)",
       "stories": [
         {
-          "title": "Two men pulled alive from Nepal hydropower plant tunnel nine days after floods",
-          "source": "CNN",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5"
+          "title": "Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods",
+          "source": "NBC News",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenZNaG5zUWlWb19wYVlQRXlXZ1ByekxiZW1NbHRRTkhnR1FBWnBTT0NnNTNjaWFfbjhPNnlzdlNlMjZDVGJncmZxbGV0bVFUQktBWVQ1b2hUUUF1aTR1dk1Uc1NrMDF5SmZCVk1FQmlyb0QwZ0ZQcll1ODJEUnF4ZTBuY0UzaWs5YVBRbjhMRGpPa25RRjcw?oc=5"
         },
         {
-          "title": "Families Turn to Symbolic Cremation After Nepal Floods",
-          "source": "The New York Times",
+          "title": "Nigel Farage's party suspends top officials after undercover sting makes foreign funding claims",
+          "source": "AP News",
           "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3hYWm1ZVFNIQTVEbDk0ZlpENUdfZnRhUFZoTUJjVTZVTFZGbzZOYU9DNTVMSk5paWhwNVQwMHlxdEktWGhMUGhlLTBjeVB5NnUxbFJBQ1VDQWdfMWtkM2R1M1dLV2J1XzZKU0Y2anROenJxSmdTR0RaVExwY1BRODNhcjZXck1JVGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmZ6ZldvMmE3bS0zMktVSVdlVVZFXzRFR1VsQjMzWDZGck5vV05sdHRIMXhuTURtSzdxZTBBcDNHbGlwQ1NCM3B4MXJoQmJxZlVMNW1qZHRjRjFObDduYTBEZzVnS0c5LWdZd3pBeU1GdGJ0azRHdFJLU2x0bnlTZnlkZ1p2ZHExZVpTZGhTcWRBVHBNVDdZZy1DTE8?oc=5"
         },
         {
-          "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-          "source": "apnews.com",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5"
+          "title": "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
+          "source": "aljazeera.com",
+          "time": "12h ago",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3poNjg3bkJva3pGRy10T2JYVFpDdV9GTVh4NUU1M0VCR0FVUjJxeDh6U3FSRk9SQnVCTXBuTzRMN0Yyc1ZDT2xnRTRuXzlsajNvNzQ1ODNqMmpuYU5TOWRSRktKcjhfalEzTldGRi0xbWZNRXpPTTZaamVjTXQxdG1SelN4YUVVMWRZV1hEMzlfV2hHbXhuVVJWcUd1bDFkTTNEOE04SmxraWx2NEHSAbMBQVVfeXFMT1NXdmxCWS1SUTFiVzV2ZUROc09BbnJ0T0t0WGUzMV9oZlJUY3RyUG5sMzE3Q1RHYVcwZ3FlYVJJSlh3NG5CWDRxeEdNQ21vUHlxLTdGenBrelNUYXU3anJOZk9ON3hvMFIySDZXU1BFNFVHR2RxbVZxcmc0aFZKclBZX1p6RzJoVVdTUUQxRTJHaWI4eVdRRlRLU2Y5V0E5YXpmNk9TcUhudi1xdmxSOE44WjQ?oc=5"
         },
         {
-          "title": "Philippine vice president is ordered arrested for threats against the president",
-          "source": "NPR",
-          "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmg1WjcxM0Ixbk83WENKdi1qbFJ2US1md3FCTjFWMjd0bExoS21hYXJLVGtzUC1mWUpqdFY0a295MTQ5dEplRkVrYWRCU3BiSS1lUndHTzZWSGFaU1k2dXVYZE5WN0hQeUJrZDFPcVpkVW5uSl9QbFItUC1Hc0ZJeWNmamNzYXQyR0otUlEwRDlrb1doVndRWXVENEMtRWdtd1doZnJUZzNGRjdzMVkwLVdPNmdDQkFOZ3l0ZW9nZw?oc=5"
+          "title": "Russian drone strikes Ukraine's security service HQ, escalating air war",
+          "source": "Reuters",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5"
         },
         {
-          "title": "How a ‘dodgy money’ scandal hijacked Nigel Farage’s reset conference",
-          "source": "politico.eu",
-          "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM3dPdUN3ekZTbkIzX1ZhSGo1eXRoX3o2aThxZ202NFBSenEwRkdjRTJaV2ZqRUxVUjhJZXNIUnhNNllzZTlsemxhMU5LaUhIaXB3Qk9oS0dsOWczOU91b0RFblBWOF96OXFmZDNaX0M1d080QUtxQWhZalNkUGN3WGRGdDFVV2VTUWxoUjI0aUJaeFpwQUVMYTZn?oc=5"
+          "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering",
+          "source": "CNN",
+          "time": "13h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTlaV1pacmZMdnJNQ3MwLWN4bzBkd1p1V0t1ZVQyMEtXemRreWNvbmM4Qkt3ZnVpLXBkR3pnTWdlcjRzQzVqd3pPQ0FleEF0ZE9ZU1FYX2Raa0ZHa2ExWmpqTlNkSVVSM3dRWW15blN4dEw2R0E3b3JYYllFQ19ERm4tT0tOT1FpQ1pF?oc=5"
         },
         {
-          "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-          "source": "BBC",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bS1aVFc1ektQekdnZHU5Y0dBTkI4RnRUZFhTSWJ1WnZpd1U5dWNaMmppbWVfWmVkeDNFWjVwaUNIMW90Mng0bFhzQWNtNHYxN3g5bVNEekhsUQ?oc=5"
+          "title": "Former Labor secretary allegedly fueled toxic workplace, drank on job, misused funds, watchdog report finds",
+          "source": "Politico",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTJFaWdjR1g5V3JLZEsxYlRtX3pDSHdUT0VGajVlQkxQZG9VS28ycW50Ymhxbk1DeDFaSER6R3BqSlkydTF5SzlqWXh1Rm5QY2MtZzEyMW9XQlYyY2VBWkxiRUZ0cUVWaGVRZGwzc3hobmUxVWd1T2Q3dmdrcnNqN0RRNnV6eFNLQUc1MUNQZGhISV84MkNRXzVR?oc=5"
         }
       ]
     },
@@ -132,40 +132,40 @@
       "color": "var(--dial-sage)",
       "stories": [
         {
+          "title": "Police investigate reported shooting at North Raleigh apartment complex",
+          "source": "ABC11 News",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDBoQlNWN1hQdUdPcXEtWmgxMU54b2Q0S01ZaEdnSy1jUjZ1dXZ0ejRUbC1sOERIU052U25vT1Q0UDhnalRSZEh0eS02QUhxQ3hQVjFrYWZqTE1mdWhzdXFEcEtuUjFDSW1pbmVmMVc3dTE5UDhUdFBHWE93NC1mdG0tOThHQzFhU2dQQ2tRSHNKQlotXzVZRDVUMkpNd204ZERV0gGoAUFVX3lxTE5oV1ZhTUZvMm1GRXVIVDVSdW93WWNobS1jNGNZSjZENDB1d2Y3OGlUaGI1VnZ4MGRQbzRtb0wzSlE1dE4zY05fcUl2Yk4zclFDNzZBMFM5RnNfNTdVaUJCUkFIOU8wY2xaMGNMdkN2Qk5yNFEtVVptV1R5TVFhcnY4WFRGWVBQdDZ4czJRajFaeTVZTUwtMzI2bUVjRW5kR1RCTXpIUEdndw?oc=5"
+        },
+        {
           "title": "The Park with a City in It: Celebrating 50 Years of the Raleigh Greenway System",
           "source": "RaleighNC.gov",
-          "time": "13h ago",
+          "time": "17h ago",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbklDbmJfNnY2N1daeXpuQ2dBZ2ctMC1ZTEw1ZUprM0lqb253dmZiVm9lQlkweFZybkkxLW8tMkI4Tmx1RmJmWjZIUjBCTERzaFktaUl3M3d5UFhvUWlZY3BLd3oxcDIwUzZSWkV2bFoxdE04TVVScXI5RE92dnRiVGhHTVN1OUo5a3ZrV2t5RURCSFhuc285bUZHRGhFQmVETEE3c1NVU3VkM00?oc=5"
         },
         {
-          "title": "Teen shot outside Subway in Raleigh shopping center",
-          "source": "ABC11 News",
-          "time": "22h ago",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02NEdpNzZpb1QyaE15b2RDWnFvd2dpV24zOXh6U01USC05Tk1iQjV2TlZXcXhsckc0NHA5eDQzWXFFRG0wS25uNEd2dFJTQVVralZPZk8zVmhocFh4QmJyNC1DT0Z6cmNXQzZzSkhB0gFzQVVfeXFMTTlMTUFDSHRzdEhJSU1vQ2d3YS1TYUdNN2V0X1VlR2x6S3BZdGhYZHc0VFVrMnpzbmgweUR2UVBGS2VtT2pGVG1XNmN3N0ZZc21aZGtnMU4yV0pYamp4cjRJanRaWmVEd0hwTDF6ODlUYWQ2SQ?oc=5"
+          "title": "Police investigating reports of shots fired in Raleigh neighborhood",
+          "source": "WRAL",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3pDNHB1SGwwT2x5Q05KVGFoZGlpeDVoM013UC1uWWd5QkNzSXhyNTBUOFpJdWxzRlNaNTBXQmtsTHRKclNiUXVqbTBBT25mZm1HaVhwVGM3NmRpbDJTWTRyN3JRSGtzeGdOT29tXzhFZTcxM1JQR08wcm93ZnFPY2MxamxNcWMzUS1yVUZLLW1JaVBMZHFmVmhSdw?oc=5"
         },
         {
           "title": "Baseball Releases 2026 Fall Schedule",
           "source": "University of North Carolina Athletics",
-          "time": "2h ago",
+          "time": "6h ago",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xcGlfUUpFbXU3N0JvS2lQNnpKb0FxOGNPTWpIQ0Jnc2Etc2JPbXM1aWJCSm0zamZ2ak5Nb0dSWnZGRld6eG8tTFZGWm5YbHR2RGlqVERFR2dKUmtNY25GVE9ReTdCRXFGbmVRb0xQTzIxVDRZSXJCR2Z3?oc=5"
+        },
+        {
+          "title": "News & Observer photojournalists capture scenes from across NC and beyond",
+          "source": "Raleigh News & Observer",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wbk5qczE4WXJOamstd2xVOVREQl8zdHZ1QWktbTFOVWY0SXBXOG9DSkl2SDlnN1plaHJ6RkJaUGROb2lBZDNGWFlSR1hoTWVGQnQ2ODd5SU5wMXdrVEJfTGNQS3hYX3VjQXlyQjln0gFuQVVfeXFMUGtDVjh6ZVNEUVl4TjVadUxvbkxIUXpPS2lYV2w5TTc5eXpVR3dYVFNTZEZNRXlsLXVqUE1YZ0FiVEMtMDdwdTJUZ21iMGU5MXR0bUpFTjZGVWhNN3Q0S0tLTGstSXlPZFdXdmhGLUE?oc=5"
         },
         {
           "title": "Eastern District of North Carolina | Raleigh Drug Ringleader Convicted at Federal Guns and Drugs Trial",
           "source": "Department of Justice (.gov)",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUswc2lLbDRidXhRUnNIUVpxVGFPOTdyVWJnYUs2M3ZaeVVneHJWbElMUWlTUFo2My11T1Fucm81NFZ3LUhoVTVza0tGWHpzcHRBU1JDRGcwUlpaQ0JnT3VZRXdSV2FlaTRycDY0cFhOemdHRG5pMUJ0NVRsXzFNNXRMdGU3YVUwcDV1WExtc2x1MEY2UnRFYmxURzVTN1hV?oc=5"
-        },
-        {
-          "title": "In split vote, NC approves new mail-in ballot guidelines hours before voting begins",
-          "source": "Raleigh News & Observer",
           "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPelYzZEI2UFBJaWZ6TU9UcHdxakl5Y2VGaDVwZ3pXRmN6bzBELUc4QTAwS3hDQURYS3lJTWVSUDlYTzAzVUYzck1rM1UyMFhDWUJycnJuUGtZbFRidlhBZlRrdzBUTFc2aW8ySHdBQlVORUlyM1F5anVGRzRWMWluazk3YWxkMmdaZHQtMdIBjAFBVV95cUxNRFU5dFNycEZvLVRMUzBqaGFhUy1yU0F0azY5cVphbmdLTGYxNlBpTmdPbW9xZ1JwQU42Z2JuY2Ezb0Y0b2l6Z0ZHLWNiMmNUYUlSVEpOUXRQT2xNbXhtVnZYc1ZIQmo5NzVJaXMwMktudlc2SlFwWXBueEpTZFFWMUlKa0R3cWgzc2EzeQ?oc=5"
-        },
-        {
-          "title": "Teenager shot on Poole Road, Raleigh police say",
-          "source": "CBS17.com",
-          "time": "22h ago",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2FNOVo3SUlqVW5HdEg0T051MnNTakFoakt5bTRSOVFXdjUxcVp6SG5YU0xMS1RDazJkYkN3U0syRVdILTBSempyN01DN21sT25BUGJmMTVhX3JUQzJGZERFSFFrYzFSRmR2LTNqZmk0YlJmb1hzUW1DVTNUMVAtMGNSZmR2MjdZVlRIbXYwcnJKRVpXUDdBQ1NtZXVZMFNKT0dBYtIBqgFBVV95cUxNWWhkbWk3UDNDQmlOVlpZUF9tZVJBRVdDc0M0LV9jb0dydjFGOW11WmFpcExEMGRFTnh1U0ROOW0xbktFaEVJZXhlWGVTQ1o2VFp6QThGVVVQNG1aZVVLSmxEUkRRUmZJd1M2WUhfS01sTWhsV0xxZzduZ1lNUWk3SDNkZlQ3aDk0TFlXcU5iemhhbUVPMnJiVE1GTDV0dXhreUtlOUtreEVidw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUswc2lLbDRidXhRUnNIUVpxVGFPOTdyVWJnYUs2M3ZaeVVneHJWbElMUWlTUFo2My11T1Fucm81NFZ3LUhoVTVza0tGWHpzcHRBU1JDRGcwUlpaQ0JnT3VZRXdSV2FlaTRycDY0cFhOemdHRG5pMUJ0NVRsXzFNNXRMdGU3YVUwcDV1WExtc2x1MEY2UnRFYmxURzVTN1hV?oc=5"
         }
       ]
     }
