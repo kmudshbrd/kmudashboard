@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Amateur Talent Show",
-          "where": "Legends Nightclub · Raleigh",
+          "title": "Melissa Etheridge",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
+          "title": "Big Sweep Trash Cleanup at Walnut Creek Wetland Park",
+          "where": "Walnut Creek Wetland Park · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Ed Stephenson Duo",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "title": "Composting for Kids and Families",
+          "where": "Good Hope Farm · Cary",
           "line": "Today"
         },
         {
-          "title": "First Fridays in Fuquay-Varina 2026",
-          "where": "Fuquay-Varina Downtown · Fuquay-Varina",
+          "title": "Earther / Condado / Arms Length Away / Glowr",
+          "where": "KINGS · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Horsegirls",
-          "where": "The Cary Theater · Cary",
+          "title": "Flatrock & Ellis",
+          "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
         },
         {
-          "title": "Moonlight Bat Stained Glass Experience",
-          "where": "Wake Forest Wine & Design · Wake Forest",
+          "title": "He's An Amazing God - My Final Chapter",
+          "where": "Garner Performing Arts Center · Garner",
           "line": "Today"
         },
         {
-          "title": "Morrisville Music in the Park 2026",
-          "where": "Indian Creek Greenway & Trailhead · Morrisville",
+          "title": "Joe Hero – The Ultimate Foo Fighters Tribute",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
-          "line": "Sat · Sep 5"
+          "title": "65 North Pickers X Radish",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "Melissa Etheridge",
-          "where": "Durham",
-          "line": "Sat · Sep 5"
+          "title": "BYO Holiday Cactus",
+          "where": "Copperline Plant Co. · Raleigh",
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "Big Sweep Trash Cleanup at Walnut Creek Wetland Park",
-          "where": "Walnut Creek Wetland Park · Raleigh",
-          "line": "Sat · Sep 5"
+          "title": "Stained Glass Ghost Workshop",
+          "where": "Wake Forest Wine & Design · Wake Forest",
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "Composting for Kids and Families",
-          "where": "Good Hope Farm · Cary",
-          "line": "Sat · Sep 5"
+          "title": "Stained Glass Pumpkin Workshop",
+          "where": "Cary Wine & Design · Cary",
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "Earther / Condado / Arms Length Away / Glowr",
-          "where": "KINGS · Raleigh",
-          "line": "Sat · Sep 5"
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "Flatrock & Ellis",
+          "title": "Bluegrass Jam - Hosted by the Eastside Ramblers",
           "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Sep 5"
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "He's An Amazing God - My Final Chapter",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Sat · Sep 5"
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Sun · Sep 6"
         },
         {
-          "title": "Joe Hero – The Ultimate Foo Fighters Tribute",
-          "where": "The Backyard Bar · Apex",
-          "line": "Sat · Sep 5"
+          "title": "Cricut Makerspace Orientation",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Tue · Sep 8"
         }
       ]
     },
@@ -95,45 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "The Eno Flows Downtown",
-          "where": "Durham",
-          "line": "Sat · Sep 12"
-        },
-        {
           "title": "Durham Bulls vs. Nashville",
           "where": "Durham",
           "line": "Sun · Sep 13"
         },
-        {
-          "title": "Amyl and The Sniffers - Raleigh",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Mon · Oct 5"
-        },
-        {
-          "title": "National Night Out 2026",
-          "where": "E. Carroll Joyner Park · Wake Forest",
-          "line": "Mon · Oct 5"
-        },
-        {
-          "title": "Pathogenic / Aversed",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Mon · Oct 5"
-        },
-        {
-          "title": "Stretch and Refresh at Downtown Cary Park",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Oct 5"
-        },
-        {
-          "title": "Mahjong Mondays - Open Play",
-          "where": "Apex Senior Center · Apex",
-          "line": "Oct 5 – Nov 23"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Apex Night Out ft. Touch-A-Truck",
           "where": "Town of Apex · Apex",
@@ -158,10 +123,35 @@
           "title": "Stained Glass Snake Plant Workshop",
           "where": "Cary Wine & Design · Cary",
           "line": "Oct 6 – Oct 23"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Autumn Flowers",
+          "where": "DCP Guest Services · Cary",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Biodegradable Yard Waste Bag Giveaway - Worthdale Park Community Center",
+          "where": "Worthdale Park · Raleigh",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Comedy for a Cause",
+          "where": "Crafty Beer, Wine and Spirits · Raleigh",
+          "line": "Wed · Oct 7"
         },
         {
           "title": "Harry Potter Trivia Night",
           "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Live at The Bark Bar: Josh Rhyne",
+          "where": "DCP Bark Bar · Cary",
           "line": "Wed · Oct 7"
         },
         {
@@ -172,6 +162,11 @@
         {
           "title": "Country Grass",
           "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Oct 9"
+        },
+        {
+          "title": "Friday Family Flicks - Toy Story 5",
+          "where": "Garner Recreation Center · Garner",
           "line": "Fri · Oct 9"
         }
       ]
