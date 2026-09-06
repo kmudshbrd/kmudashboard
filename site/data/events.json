@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
+          "title": "65 North Pickers X Radish",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "BYO Holiday Cactus",
+          "where": "Copperline Plant Co. · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Big Sweep Trash Cleanup at Walnut Creek Wetland Park",
-          "where": "Walnut Creek Wetland Park · Raleigh",
+          "title": "Stained Glass Ghost Workshop",
+          "where": "Wake Forest Wine & Design · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Composting for Kids and Families",
-          "where": "Good Hope Farm · Cary",
+          "title": "Stained Glass Pumpkin Workshop",
+          "where": "Cary Wine & Design · Cary",
           "line": "Today"
         },
         {
-          "title": "Earther / Condado / Arms Length Away / Glowr",
-          "where": "KINGS · Raleigh",
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Flatrock & Ellis",
+          "title": "Bluegrass Jam - Hosted by the Eastside Ramblers",
           "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
         },
         {
-          "title": "He's An Amazing God - My Final Chapter",
-          "where": "Garner Performing Arts Center · Garner",
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Joe Hero – The Ultimate Foo Fighters Tribute",
-          "where": "The Backyard Bar · Apex",
-          "line": "Today"
+          "title": "HollyQuest 150th Anniversary Event",
+          "where": "Town of Holly Springs · Holly Springs",
+          "line": "Through Sep 30"
         }
       ]
     },
@@ -50,43 +50,43 @@
       "label": "This Week",
       "items": [
         {
-          "title": "65 North Pickers X Radish",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Sun · Sep 6"
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Mon · Sep 7"
         },
         {
-          "title": "BYO Holiday Cactus",
-          "where": "Copperline Plant Co. · Raleigh",
-          "line": "Sun · Sep 6"
+          "title": "R.I.P. Dolly Karaoke",
+          "where": "Plum Raleigh · Raleigh",
+          "line": "Mon · Sep 7"
         },
         {
-          "title": "Stained Glass Ghost Workshop",
-          "where": "Wake Forest Wine & Design · Wake Forest",
-          "line": "Sun · Sep 6"
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Mon · Sep 7"
         },
         {
-          "title": "Stained Glass Pumpkin Workshop",
-          "where": "Cary Wine & Design · Cary",
-          "line": "Sun · Sep 6"
+          "title": "Compost Workshops",
+          "where": "Good Hope Farm · Cary",
+          "line": "Mon · Sep 7"
         },
         {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sun · Sep 6"
+          "title": "Memorial Flag-Raising Ceremonies 2026",
+          "where": "Centennial Plaza · Wake Forest",
+          "line": "Sep 7 – Oct 5"
         },
         {
-          "title": "Bluegrass Jam - Hosted by the Eastside Ramblers",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sun · Sep 6"
-        },
-        {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Sun · Sep 6"
+          "title": "Memorial Flag Raising Ceremony 2026",
+          "where": "Wake Forest Town Hall Centennial Plaza · Wake Forest",
+          "line": "Sep 7 – Oct 5"
         },
         {
           "title": "Cricut Makerspace Orientation",
           "where": "Morrisville Senior Center · Morrisville",
+          "line": "Tue · Sep 8"
+        },
+        {
+          "title": "Apex Mahjong Club",
+          "where": "Southern Peak Brewery · Apex",
           "line": "Tue · Sep 8"
         }
       ]
@@ -95,40 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Durham Bulls vs. Nashville",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
-          "line": "Sun · Sep 13"
+          "line": "Sat · Sep 19"
         },
-        {
-          "title": "Apex Night Out ft. Touch-A-Truck",
-          "where": "Town of Apex · Apex",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Bleachers Forever",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Chad Zumock Live",
-          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Toddler Tuesday - Discover Wonder Dogs",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Stained Glass Snake Plant Workshop",
-          "where": "Cary Wine & Design · Cary",
-          "line": "Oct 6 – Oct 23"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Autumn Flowers",
           "where": "DCP Guest Services · Cary",
@@ -153,6 +123,41 @@
           "title": "Live at The Bark Bar: Josh Rhyne",
           "where": "DCP Bark Bar · Cary",
           "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Bharata Natyam Workshops",
+          "where": "Morrisville",
+          "line": "Oct 7 – Oct 10"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Aaron Branch",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Thu · Oct 8"
+        },
+        {
+          "title": "Blue Island",
+          "where": "The Ritz · Raleigh",
+          "line": "Thu · Oct 8"
+        },
+        {
+          "title": "Mark Paul: The Daddy Ball Tour",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Oct 8"
+        },
+        {
+          "title": "Spooky Movie Night – The Nightmare Before Christmas",
+          "where": "Paragon Theaters - Fenton Square · Cary",
+          "line": "Thu · Oct 8"
+        },
+        {
+          "title": "Abhinaya Intensive",
+          "where": "Harmony District · Morrisville",
+          "line": "Oct 8 – Oct 9"
         },
         {
           "title": "An Evening with Luke Bulla",
