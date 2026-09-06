@@ -5,13 +5,13 @@
       "label": "Today",
       "items": [
         {
-          "title": "65 North Pickers X Radish",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "title": "17th Annual African American Cultural Festival of Raleigh and Wake County",
+          "where": "Fayetteville St. block party; Ticketed concerts at Martin Marietta Center for the Performing Arts · Raleigh",
           "line": "Today"
         },
         {
-          "title": "BYO Holiday Cactus",
-          "where": "Copperline Plant Co. · Raleigh",
+          "title": "65 North Pickers X Radish",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
@@ -30,6 +30,11 @@
           "line": "Today"
         },
         {
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
+          "line": "Today"
+        },
+        {
           "title": "Bluegrass Jam - Hosted by the Eastside Ramblers",
           "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
@@ -38,11 +43,6 @@
           "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
           "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
-        },
-        {
-          "title": "HollyQuest 150th Anniversary Event",
-          "where": "Town of Holly Springs · Holly Springs",
-          "line": "Through Sep 30"
         }
       ]
     },
