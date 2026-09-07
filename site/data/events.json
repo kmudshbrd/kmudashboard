@@ -5,44 +5,39 @@
       "label": "Today",
       "items": [
         {
-          "title": "17th Annual African American Cultural Festival of Raleigh and Wake County",
-          "where": "Fayetteville St. block party; Ticketed concerts at Martin Marietta Center for the Performing Arts · Raleigh",
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "65 North Pickers X Radish",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "title": "R.I.P. Dolly Karaoke",
+          "where": "Plum Raleigh · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Stained Glass Ghost Workshop",
-          "where": "Wake Forest Wine & Design · Wake Forest",
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Stained Glass Pumpkin Workshop",
-          "where": "Cary Wine & Design · Cary",
+          "title": "Compost Workshops",
+          "where": "Good Hope Farm · Cary",
           "line": "Today"
         },
         {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Today"
+          "title": "Concert in the Park 2026",
+          "where": "Joyner Park Amphitheater · Wake Forest",
+          "line": "Through Sep 13"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
-          "line": "Today"
+          "title": "HollyQuest 150th Anniversary Event",
+          "where": "Town of Holly Springs · Holly Springs",
+          "line": "Through Sep 30"
         },
         {
-          "title": "Bluegrass Jam - Hosted by the Eastside Ramblers",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Today"
+          "title": "Memorial Flag-Raising Ceremonies 2026",
+          "where": "Centennial Plaza · Wake Forest",
+          "line": "Through Oct 5"
         }
       ]
     },
@@ -50,34 +45,14 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Fortnight Run Club",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Mon · Sep 7"
+          "title": "A/V Geeks Go Old School",
+          "where": "Alamo Drafthouse Cinema · Raleigh",
+          "line": "Tue · Sep 8"
         },
         {
-          "title": "R.I.P. Dolly Karaoke",
-          "where": "Plum Raleigh · Raleigh",
-          "line": "Mon · Sep 7"
-        },
-        {
-          "title": "Service Industry Night",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Mon · Sep 7"
-        },
-        {
-          "title": "Compost Workshops",
-          "where": "Good Hope Farm · Cary",
-          "line": "Mon · Sep 7"
-        },
-        {
-          "title": "Memorial Flag-Raising Ceremonies 2026",
-          "where": "Centennial Plaza · Wake Forest",
-          "line": "Sep 7 – Oct 5"
-        },
-        {
-          "title": "Memorial Flag Raising Ceremony 2026",
-          "where": "Wake Forest Town Hall Centennial Plaza · Wake Forest",
-          "line": "Sep 7 – Oct 5"
+          "title": "Casual Calligraphy Lettering",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Tue · Sep 8"
         },
         {
           "title": "Cricut Makerspace Orientation",
@@ -85,8 +60,28 @@
           "line": "Tue · Sep 8"
         },
         {
+          "title": "Escape the Lost Temple: A Mother & Daughter Adventure",
+          "where": "Herbert C. Young Community Center · Cary",
+          "line": "Tue · Sep 8"
+        },
+        {
+          "title": "Evening Garden Stroll",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "line": "Tue · Sep 8"
+        },
+        {
           "title": "Apex Mahjong Club",
           "where": "Southern Peak Brewery · Apex",
+          "line": "Tue · Sep 8"
+        },
+        {
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Tue · Sep 8"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Tue · Sep 8"
         }
       ]
@@ -104,41 +99,6 @@
           "where": "Durham",
           "line": "Fri · Sep 25"
         },
-        {
-          "title": "Autumn Flowers",
-          "where": "DCP Guest Services · Cary",
-          "line": "Wed · Oct 7"
-        },
-        {
-          "title": "Biodegradable Yard Waste Bag Giveaway - Worthdale Park Community Center",
-          "where": "Worthdale Park · Raleigh",
-          "line": "Wed · Oct 7"
-        },
-        {
-          "title": "Comedy for a Cause",
-          "where": "Crafty Beer, Wine and Spirits · Raleigh",
-          "line": "Wed · Oct 7"
-        },
-        {
-          "title": "Harry Potter Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Wed · Oct 7"
-        },
-        {
-          "title": "Live at The Bark Bar: Josh Rhyne",
-          "where": "DCP Bark Bar · Cary",
-          "line": "Wed · Oct 7"
-        },
-        {
-          "title": "Bharata Natyam Workshops",
-          "where": "Morrisville",
-          "line": "Oct 7 – Oct 10"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Aaron Branch",
           "where": "Goodnights Comedy Club · Raleigh",
@@ -163,10 +123,30 @@
           "title": "Abhinaya Intensive",
           "where": "Harmony District · Morrisville",
           "line": "Oct 8 – Oct 9"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "An Evening with Luke Bulla",
           "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 9"
+        },
+        {
+          "title": "Andy Thomas",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Fri · Oct 9"
+        },
+        {
+          "title": "B93.9’s Rising Stars: Shane Profitt/Taylor Austin Dye/Cole Goodwin",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Fri · Oct 9"
+        },
+        {
+          "title": "Coming Home: The Music of James Taylor",
+          "where": "Cary Arts Center · Cary",
           "line": "Fri · Oct 9"
         },
         {
@@ -175,8 +155,18 @@
           "line": "Fri · Oct 9"
         },
         {
+          "title": "Flying Dragon Stained Glass Workshop",
+          "where": "Cary Wine & Design · Cary",
+          "line": "Fri · Oct 9"
+        },
+        {
           "title": "Friday Family Flicks - Toy Story 5",
           "where": "Garner Recreation Center · Garner",
+          "line": "Fri · Oct 9"
+        },
+        {
+          "title": "Haunted Trail 2026",
+          "where": "Jefferson L. Sugg Farm Park at Bass Lake · Holly Springs",
           "line": "Fri · Oct 9"
         }
       ]
