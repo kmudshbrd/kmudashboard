@@ -20,14 +20,14 @@
           "line": "Today"
         },
         {
-          "title": "Compost Workshops",
-          "where": "Good Hope Farm · Cary",
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Concert in the Park 2026",
-          "where": "Joyner Park Amphitheater · Wake Forest",
-          "line": "Through Sep 13"
+          "title": "Compost Workshops",
+          "where": "Good Hope Farm · Cary",
+          "line": "Today"
         },
         {
           "title": "HollyQuest 150th Anniversary Event",
@@ -37,6 +37,11 @@
         {
           "title": "Memorial Flag-Raising Ceremonies 2026",
           "where": "Centennial Plaza · Wake Forest",
+          "line": "Through Oct 5"
+        },
+        {
+          "title": "Memorial Flag Raising Ceremony 2026",
+          "where": "Wake Forest Town Hall Centennial Plaza · Wake Forest",
           "line": "Through Oct 5"
         }
       ]
