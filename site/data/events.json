@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Fortnight Run Club",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "A/V Geeks Go Old School",
+          "where": "Alamo Drafthouse Cinema · Raleigh",
           "line": "Today"
         },
         {
-          "title": "R.I.P. Dolly Karaoke",
-          "where": "Plum Raleigh · Raleigh",
+          "title": "Casual Calligraphy Lettering",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Service Industry Night",
-          "where": "Slim's Dive Bar · Raleigh",
+          "title": "Cricut Makerspace Orientation",
+          "where": "Morrisville Senior Center · Morrisville",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Escape the Lost Temple: A Mother & Daughter Adventure",
+          "where": "Herbert C. Young Community Center · Cary",
           "line": "Today"
         },
         {
-          "title": "Compost Workshops",
-          "where": "Good Hope Farm · Cary",
+          "title": "Evening Garden Stroll",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
           "line": "Today"
         },
         {
-          "title": "HollyQuest 150th Anniversary Event",
-          "where": "Town of Holly Springs · Holly Springs",
-          "line": "Through Sep 30"
+          "title": "Apex Mahjong Club",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Today"
         },
         {
-          "title": "Memorial Flag-Raising Ceremonies 2026",
-          "where": "Centennial Plaza · Wake Forest",
-          "line": "Through Oct 5"
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Today"
         },
         {
-          "title": "Memorial Flag Raising Ceremony 2026",
-          "where": "Wake Forest Town Hall Centennial Plaza · Wake Forest",
-          "line": "Through Oct 5"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Today"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "A/V Geeks Go Old School",
-          "where": "Alamo Drafthouse Cinema · Raleigh",
-          "line": "Tue · Sep 8"
+          "title": "Durham Bulls vs. Nashville",
+          "where": "Durham",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Casual Calligraphy Lettering",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Sep 8"
+          "title": "Birds and Bloomers",
+          "where": "DCP Guest Services · Cary",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Cricut Makerspace Orientation",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Tue · Sep 8"
+          "title": "Celebrating Godfrey Cheshire",
+          "where": "The Rialto · Raleigh",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Escape the Lost Temple: A Mother & Daughter Adventure",
-          "where": "Herbert C. Young Community Center · Cary",
-          "line": "Tue · Sep 8"
+          "title": "Coffee & Crochet",
+          "where": "Raleigh",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Evening Garden Stroll",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
-          "line": "Tue · Sep 8"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Apex Mahjong Club",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Tue · Sep 8"
+          "title": "Queer Women's Pokemon Night",
+          "where": "East Coast Gaming · Cary",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Tue · Sep 8"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Wed · Sep 9"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Sep 8"
+          "title": "Kickoff Bingo",
+          "where": "Zebulon Community Center · Zebulon",
+          "line": "Wed · Sep 9"
         }
       ]
     },
@@ -104,36 +104,6 @@
           "where": "Durham",
           "line": "Fri · Sep 25"
         },
-        {
-          "title": "Aaron Branch",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Thu · Oct 8"
-        },
-        {
-          "title": "Blue Island",
-          "where": "The Ritz · Raleigh",
-          "line": "Thu · Oct 8"
-        },
-        {
-          "title": "Mark Paul: The Daddy Ball Tour",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Oct 8"
-        },
-        {
-          "title": "Spooky Movie Night – The Nightmare Before Christmas",
-          "where": "Paragon Theaters - Fenton Square · Cary",
-          "line": "Thu · Oct 8"
-        },
-        {
-          "title": "Abhinaya Intensive",
-          "where": "Harmony District · Morrisville",
-          "line": "Oct 8 – Oct 9"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "An Evening with Luke Bulla",
           "where": "The Wake Forest Listening Room · Wake Forest",
@@ -163,16 +133,51 @@
           "title": "Flying Dragon Stained Glass Workshop",
           "where": "Cary Wine & Design · Cary",
           "line": "Fri · Oct 9"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Apex Oktoberfest",
+          "where": "Town of Apex; Apex Town Campus · Apex",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Friday Family Flicks - Toy Story 5",
-          "where": "Garner Recreation Center · Garner",
-          "line": "Fri · Oct 9"
+          "title": "Barkitecture 2026",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Haunted Trail 2026",
-          "where": "Jefferson L. Sugg Farm Park at Bass Lake · Holly Springs",
-          "line": "Fri · Oct 9"
+          "title": "Beatlesque 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Sat · Oct 10"
+        },
+        {
+          "title": "Bingo Loco Afternoon",
+          "where": "The Ritz · Raleigh",
+          "line": "Sat · Oct 10"
+        },
+        {
+          "title": "Bingo Loco Evening",
+          "where": "The Ritz · Raleigh",
+          "line": "Sat · Oct 10"
+        },
+        {
+          "title": "Diggery's Dino Adventure",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sat · Oct 10"
+        },
+        {
+          "title": "Hum Sub Diwali Festival",
+          "where": "Cary",
+          "line": "Sat · Oct 10"
+        },
+        {
+          "title": "Live Music: Kat Taylor",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Oct 10"
         }
       ]
     }
