@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "A/V Geeks Go Old School",
-          "where": "Alamo Drafthouse Cinema · Raleigh",
+          "title": "Durham Bulls vs. Nashville",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Casual Calligraphy Lettering",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Birds and Bloomers",
+          "where": "DCP Guest Services · Cary",
           "line": "Today"
         },
         {
-          "title": "Cricut Makerspace Orientation",
-          "where": "Morrisville Senior Center · Morrisville",
+          "title": "Celebrating Godfrey Cheshire",
+          "where": "The Rialto · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Escape the Lost Temple: A Mother & Daughter Adventure",
-          "where": "Herbert C. Young Community Center · Cary",
+          "title": "Coffee & Crochet",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Evening Garden Stroll",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Apex Mahjong Club",
-          "where": "Southern Peak Brewery · Apex",
+          "title": "Queer Women's Pokemon Night",
+          "where": "East Coast Gaming · Cary",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
+          "title": "Kickoff Bingo",
+          "where": "Zebulon Community Center · Zebulon",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Durham Bulls vs. Nashville",
-          "where": "Durham",
-          "line": "Wed · Sep 9"
+          "title": "Art Inside the Bottle: In Perfect Harmony",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Birds and Bloomers",
-          "where": "DCP Guest Services · Cary",
-          "line": "Wed · Sep 9"
+          "title": "Classic Cocktails and Classic Hip Hop",
+          "where": "Boatman Spirits Co. · Raleigh",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Celebrating Godfrey Cheshire",
-          "where": "The Rialto · Raleigh",
-          "line": "Wed · Sep 9"
+          "title": "FM2FV Concert Series 2026: Band of Oz",
+          "where": "Centennial Square · Fuquay-Varina",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Coffee & Crochet",
-          "where": "Raleigh",
-          "line": "Wed · Sep 9"
+          "title": "Jay Jurden",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Wed · Sep 9"
+          "title": "Paws & Rec Kick-Off Event",
+          "where": "Apex Community Park · Apex",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Queer Women's Pokemon Night",
-          "where": "East Coast Gaming · Cary",
-          "line": "Wed · Sep 9"
+          "title": "Wilderness Skills Series",
+          "where": "Forest Ridge Park · Wake Forest",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Wed · Sep 9"
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Sep 10"
         },
         {
-          "title": "Kickoff Bingo",
-          "where": "Zebulon Community Center · Zebulon",
-          "line": "Wed · Sep 9"
+          "title": "Line Dancing Boot Camp",
+          "where": "PBR Cowboy Bar Cary · Cary",
+          "line": "Thu · Sep 10"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Fri · Sep 25"
         },
-        {
-          "title": "An Evening with Luke Bulla",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Oct 9"
-        },
-        {
-          "title": "Andy Thomas",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Fri · Oct 9"
-        },
-        {
-          "title": "B93.9’s Rising Stars: Shane Profitt/Taylor Austin Dye/Cole Goodwin",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Fri · Oct 9"
-        },
-        {
-          "title": "Coming Home: The Music of James Taylor",
-          "where": "Cary Arts Center · Cary",
-          "line": "Fri · Oct 9"
-        },
-        {
-          "title": "Country Grass",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Oct 9"
-        },
-        {
-          "title": "Flying Dragon Stained Glass Workshop",
-          "where": "Cary Wine & Design · Cary",
-          "line": "Fri · Oct 9"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Apex Oktoberfest",
           "where": "Town of Apex; Apex Town Campus · Apex",
@@ -168,16 +133,51 @@
           "title": "Diggery's Dino Adventure",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Sat · Oct 10"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Beabadoobee The Powerlines Tour",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "Hum Sub Diwali Festival",
-          "where": "Cary",
-          "line": "Sat · Oct 10"
+          "title": "Bombargo",
+          "where": "KINGS · Raleigh",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "Live Music: Kat Taylor",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Sat · Oct 10"
+          "title": "Kids Fest",
+          "where": "Fortnight Brewing Co · Cary",
+          "line": "Sun · Oct 11"
+        },
+        {
+          "title": "Setu - a Bridge Between",
+          "where": "Green Level High School · Cary",
+          "line": "Sun · Oct 11"
+        },
+        {
+          "title": "Indigenous Peoples' Day Ceremony",
+          "where": "Apex Nature Park · Apex",
+          "line": "Mon · Oct 12"
+        },
+        {
+          "title": "Medicare Open Enrollment",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Oct 14"
+        },
+        {
+          "title": "Sensory-Friendly Fall Rides at New Hope Valley Railway",
+          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
+          "line": "Wed · Oct 14"
+        },
+        {
+          "title": "Halloween BINGO",
+          "where": "Zebulon Community Center · Zebulon",
+          "line": "Wed · Oct 14"
         }
       ]
     }
