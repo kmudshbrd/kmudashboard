@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Durham Bulls vs. Nashville",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Art Inside the Bottle: In Perfect Harmony",
           "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
@@ -35,13 +40,8 @@
           "line": "Today"
         },
         {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Line Dancing Boot Camp",
-          "where": "PBR Cowboy Bar Cary · Cary",
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
         }
       ]
