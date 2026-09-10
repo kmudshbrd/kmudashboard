@@ -4,22 +4,170 @@
     {
       "label": "USA",
       "color": "var(--dial-slate)",
-      "stories": []
+      "stories": [
+        {
+          "title": "Supreme Court again blocks new Missouri congressional map favoring GOP",
+          "source": "The Washington Post",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?oc=5"
+        },
+        {
+          "title": "Lindsay Clancy’s lawyer asks judge to find her not guilty after mistrial",
+          "source": "The Guardian",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFhEaU9WWmNLZWdKZ3BYRzVfd2tEM01icDQ2aURlV0VVUzFQT094SWdyTS13NDRsbV9yVW9wSFl4YmJXNWRTZTJ5eE55WERidlZ3NFVzWF9RQWI4STFIU0M4dXcwbDVBX25RcERKLUQ3RHRPNGxHc3k0ZHo2Mk1hM3M3TUk?oc=5"
+        },
+        {
+          "title": "A Year After Charlie Kirk’s Killing, a Divided Utah Campus Honors Him",
+          "source": "The New York Times",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmhqb29aWk9xNFBORXF0LUVrblBHejFpUlYweEpOOUpPV2o3amVraW81WVdLSWo1N3g0LXNZS2g1cEFzNmNQN2MweXZtYWRhSmRJdkRhd1VFeEJiNkN3enZTRDhLRkdOQ3VPVGV1N2FDY19ERjc4UGhCcW5ISmY2cVcwMG1meEE2?oc=5"
+        },
+        {
+          "title": "Fetterman fundraising off GOP midterm convention appearance",
+          "source": "The Hill",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmttUjN4TXFYN1ZUbFh6dnJsVDhDYWNuei1LM1RuOXhRQzlUWkNCUEljVWVNbUh0RkxCb3lueHRabkhpSUowMkJ6RGVnSllDZUVLX3VwZjJ2NWlFX3hSSngySzk3M2xMNGJDUG02OWZVczZiQWotaTZ1dnAydGJCNHZMcFdjMjRf0gGOAUFVX3lxTFAxSk1wZU1GOHF0aUhVNFdsNHJFYlVHOTdELTJUb3NtWkpvYTN6LS1MX0tiaUxRV0hHZktzZzRCYXhCbWg0NFlSVjFHNnFsV1ZzbjhiREhuM1Y2MlFtUTc0MjlveXFSNW9yRERrUl9KcGlLSTAtcm94VHp5cVRYR011YWstaFZBQlBhY1FSMWc?oc=5"
+        },
+        {
+          "title": "Appeals court rejects Trump request to lift block on Postal Service rule for mail ballots",
+          "source": "CBS News",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFZrTTV1b3BwWmJHdkIzcXFtcEhwREhhVTRuZ2g4TVljUnk5Y0kzU3RYRzhKQ2d5c2FtNmlRcGJoQWF1UUpsMm1rX2MwRWRfaElGSFJZMC05SmFCZzZYQjB4QmQycVRjXy1ZVUJRcDZwWGNKa1hORTMxMnpSdTU0V3FJMmhXMXZv?oc=5"
+        },
+        {
+          "title": "Trump’s $5,000 pledge and the bond market revolt shows it's a voter bribe — costing every American $8,000",
+          "source": "Fortune",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORlNOanVHSjVLNEpSUndFMWViQlJnZTZGTk15UFlMVkNkamdZbjZuMTNHSlBVTUIyN0NKbWlVZHVmYVl2ZG41QXFVbzJCNV9nU1A1Q0tfRGhjekpYNGhZeE1aSXVyZkdqc3QwVXhsRDNLMjQ5R1lfWDZkZ3ZLZS1MZmlVV0ladkQ2YjQ5cDBRdXlPNFk?oc=5"
+        }
+      ]
     },
     {
       "label": "India",
       "color": "var(--dial-blush)",
-      "stories": []
+      "stories": [
+        {
+          "title": "China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda",
+          "source": "The Hindu",
+          "time": "11h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMnVULXF4dDRFUkFlNnRGbkdnT280MGp1YTU5MThDaW1IbnNGUExxSkRBZTZqb203UlZZTTZZbXJFUjFibXJvbzZTMGNKU0ZMOHlOd0Q3SXgtdnJ3ZEpvOWRCWlNmMkdKQjdhZzdOVU9PMnhsZm1IQ0NCRldiU2ctLTlmbGxMV05CVnowNUh1OVR1RXR5MDFKaUNpZldmR2p3ajFqRnlwRm80Q2ptVHh6blNWME9fV1c1SjJIQnc1WnFXMzE0dzJ5TUFaTldLTXd4RTJfT9IB2wFBVV95cUxOSTJZLVlWRHFRQi00cUg0VVBRUkIxOUFoNnJVQ3BtS21QT0RRUHFhTGszSC1XMXVKaUZ6X3dfU2NOV0ZhQ3VBczJyS0daMnd6X2ZCajIyOFJyNy1yMXI4WENLXzBCZk0xOWU4dzNrUWVFVHhKMUZmbnpCVC1vTHRNazBnYWZ0NlY5VldoSEsyV05SZzBrZ3pEZXowS3pTN1UxaDJNU29jcWFYM3dCSlFYVWVhRERjRk03SHBfOHZDckRwNHFLbHhNd1RDUEhCNFFrc0F3V2hJOExaRkE?oc=5"
+        },
+        {
+          "title": "Satya Niketan PG Collapse | Supreme Court Seeks Reports From Civic Autorities Of State/UT Capitals On...",
+          "source": "Live Law",
+          "time": "11h ago",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYUlEbnl0QnNub2JPMzFmeDdwVlpsZmFkbVd6Q0RnUk94RGdORGJ5Mi11WHJpT1JKVGtCUExqUjNneDVUZzh5TFlXZjIyeFhIT19kdGUtdG5oU3NfYU10N051MGFGdE9jSjZqeTlOUWVCZXJSa0E0dlA3YjRBOGplN2M0MHVpanUzZ0RSWDhocldhRkthWGtWMUQwb3Bvd1plMldqTGFERTczN0czMk9WYVRCcWpheEpCM3R4cGlpQkpPZUZ5VmVBOW5jdHRKWVY5TGk2aEphYXB5eEE3UzJ4ekEwZ1RVdEpfSEktV0QxQUhGOWZTTENv0gH8AUFVX3lxTE5WRFphdVV5c2VvWEtaNW93RkhlM3Y4bFNrREJ0MnFOQzdtOC1IV2RydlJLRWUxanJsSVFRQzhBeklzNzcwLXAxcDFNUk8tMVhOZjhidVRfWFAySW5mQ1VwaHpSYUVRUV9TNm15QzBpR0dwTmd2TFVTQ3k5TkE0di13bGdsX3gyaTc4OFNUWjFTdmhURlByYTlqVkI5dWxja3NCYVJXT3ROdjNraE85dk9SRzFLNllaQVNrVnRTM2IyN0dFcHZVWUE0RENiVDN5OUNWRFpRaDVDT2tadEdoRlVlV0RjSmFsblFUNnd3U2VMNzVVMzdyRnNNMnE1Wg?oc=5"
+        },
+        {
+          "title": "Russia President Vladimir Putin arrives in India ahead of Brics Summit 2026, to meet PM Modi",
+          "source": "The Times of India",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaHRLaDB0VFBjb184TW9VaVhXd0JwUjR5Y3liX3dOLUpwdEM3b3hFWVpqNFQ3azFWSjMxajVUV3pmeTVyWEtSTjlfdU4tNHRDdEJVQng3bXlVeE9EdlRPd3Y2VktQblVyaTQtYXZoelJQOXZHRHBIY1lOblJiVWpjNVVLOU9QNUNYMUtFUUJRUFNuSTNxOEh0UnV2dHZ6T3pTeFhHVTBwY1lRYm5sb2hoSTc0WFU2djQxNFE5aVA1a3B4dFNuTG4tNHRzWkNhR3lrdjVCdFFlSXg2QWFmQ1ZGTjhXMnN1WFZtQzI2TFQ4U28?oc=5"
+        },
+        {
+          "title": "Delhi court frames money laundering charge against Lalu Yadav, Tejashwi Yadav, Rabri Devi in IRCTC case",
+          "source": "Bar and Bench",
+          "time": "12h ago",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNzlpNGFoY09zRGVLOTVYVlVjZEpQUUNTSWhTcTQxYXJSQmRxVklMekpURkk3eDAxcU82ajM1Tm1EY2ZfMUZPNDZINUVDVUQ0NzAtNEl4emdQQms5SE54UXl0TXhzQXlKY3NpQjhWWWhxWlkzY2RBQ2FnRlV5eUpkc1FYUzZDeVNwTEMxRjFGWERRM0dIbWNsckpLMFNfU3g0YlV1MGszS1VZVWpTU0cwc0JUTk8zSnkwb253ZnBrVUIyaFRYQkxtZy1wcHE3enRWOXM4dFlTUnlXRHhWb0HSAesBQVVfeXFMUEY0azVNWDNjb2ZENy1IRmhxQkYzVHFDMmpCN2tHMlJxRDI1MFZMejFwWVFfRGJUQWhReFotc05ZVEFySTJ6VTBybFRoVUM5Wk5oTWxxeFZOeGllc1FIeDY0RWdkVVFObnM0dUJ1QVZRa3FyVDkwWTBCcEpmQnFCNC03aW53VFNOQ3BZbkJYcUl3WHNBMmoxcFZuWUtMZWJSQmt1eXNuaEpaZnVSZ1RNWUdBWk5CMWdJSXNXNmRZU0k5R0Q1VnNHNnpES0JCclBlNS1DSS1NX1dZSUstcEFKWXh2OVZ0REJsVkJsWQ?oc=5"
+        },
+        {
+          "title": "Gold, silver worth crores locked inside: Here’s why MCD sealed dozens of jewellery shops in Chandni Chowk, Delhi",
+          "source": "livemint.com",
+          "time": "10h ago",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUk04ZjMydzVEdU5oWUM3clNEcm9LeWZuM21HMTZ2cmtSdUhJYllCMEp5SXpwcThzOHFxZG1HaVBNbkZtRGpMN0VtM0VDRy1YYkRaMERuWlVpZVVLaGtUZW9JNHFFZVFFdmQwbHdJZDlPOW92ZTlLNnNKNkZhOWhzYXdGejBJbEE1aWhGaEtTSFZLV0tJZG53U045Ml92WkwzNS1TYWYxUDBiQXhwWFlPSE81T2ZzQS1ZT3hIZnBHekZaVTYxMkhvelBZZDVYSWw5bGF6R3oycEF0TWZFVGFGMDRicjRHdUs4UjlGbFQ5NkRsbFVsTVIzOdIB_gFBVV95cUxNQ1kzbHA0ajUySGlBaFVydVYxSFhPRE1zVERsb1VTVVRYanExMmdibnZtMmlqR2RGSzA5V29fYkVSaVJxNi16RzJndnRzcFRBNHJ2Y0lWN0I3QmpDWlVsbGNPcWtEQzJjYmZ2ZkxKam5nb29yVzBnSkcweXN0aG5vakFOMlZOb3dNLUhuN3N6YmY3aU9xUExyREstTzdkYnJkaVNhQjlUQk4xS0x4TDlwcXdDSlFSVTJib3JRUmRVY0VlVmlxcDJlOTJacThFT1lYMGFmdEtlODFqSFZFV2dlWVJHSEs5dkNZWXJkOWZwY1NmTnN3cjBXZkRSTnhXUQ?oc=5"
+        },
+        {
+          "title": "India hosts BRICS summit as Iran war tests bloc unity",
+          "source": "Reuters",
+          "time": "10h ago",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckJSazh5QjVkOTBaUXN3cm5TRkM5NGhqN3NWTUNidU5BX2QyZmNlSHkwYmQ0S2JPSmlFUWl2TWswaUlrVWJCRmkyMUZ6c0U5eTZsdldNZEZHR0cySmg5dTAyNW4td2JzZUNhaVhMaXFJTEpuMEQzZUJDbUhlTXhoMGt5elNXRU5TUGR2XzZmd2xXMzcwR09SYUlzRGlZb1E?oc=5"
+        }
+      ]
     },
     {
       "label": "World",
       "color": "var(--dial-sky)",
-      "stories": []
+      "stories": [
+        {
+          "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+          "source": "Al Jazeera",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzhZS2ZzX3N1YkI2WHEyaVZPVHJzaW1MV0lpenJnak5PQ2NtOVRVaHJ4cDVlT2p3bzNCUjRYRUxWaGk0eTQwRWFoN2E0ZUNidVp1UWVCSlRsMjVMLVBoS0lnUktRTjdCMjZadXNqc0JFZjh6dElfVWJCejVJWkdlZmRFTE9xZUMtM0l3Q1R0QVIyQ0Z5SXlWWtIBngFBVV95cUxNX1RJeHVscmJ6SV9VY0dNS2ZhRV9HaHI1Szg4SC1MZ2dCQl9RM2lNYTlQZjVZTFFtLXlsYzZTeUFZSWRuOXgzdHVPbXlLNWRHSkdIVXNOWFMwLVdrYWdUX09uai1tSlh6eUxVTXVQdDNjdjhmWU93TmJGdVBkT1RjdGVHa1EwbnVuWWE4N0NJazcxMWVpS2tHRl9ORjJoQQ?oc=5"
+        },
+        {
+          "title": "Sánchez’s release of declassified Ceuta files turns into ‘own goal’",
+          "source": "politico.eu",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTEwZU5OYkxCbmtpTTVLVVVjSnhNTlJlODUtQnRPcFUySE1DM05Fd3JHTFE2MGc2QVE5QnpKLTJfQXlvbXJ2VGI1d3A3RVZfSXdUeDdHV1lrTEdRamJRU3g3VzFseG9GV21VamFzRTItVnFzUFl4V2w5S09fMkwxTExMT213cmVyUkxTMDhKRGR6Q2xIdWNwX01tRDN1b1JZbkx5OQ?oc=5"
+        },
+        {
+          "title": "Timeline: How a Russian drone nearly hit Zelenskyy's plane in Moldova",
+          "source": "Euronews.com",
+          "time": "13h ago",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUItb2UwbnNEdklTQTM2UjhaUWlVM0NiQWMtMEtfbjd2SG52eEoxaHc2aWNZb0VDdF90am40WnJJaWpCUFBERnVzOXBjSnF5M1VqOHl0Sk1YS1ZLSXNmMmVmWEVRTUFCWFBiVjBDMWdOSUwwOHpfTFA1STcxRDVuNG1TTHVmZ253aVZXMzAwbVB4WGdXTlVNRjI1NzNBaFhPRk92amdIcDZPLWRWU3d1N25Ibw?oc=5"
+        },
+        {
+          "title": "NATO allies foil Russian subsea cable sabotage plot",
+          "source": "Honolulu Star-Advertiser",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjN1SkdWMUVFbjUtMjdYZXMwOW5tODZxR0d0NHBsM1dLcGdRdElwdk0wd0lyRVZOS2Z5YkNRY2NqVzVIUmRzQXdhNzBMRG9KVWlYQ0ZqdktMVDVfV3lNX3BOM3JJNlU3cUl2TlpVNEQyVVJsWDI3cG45YTBDMk1oRW92eTlscTZsdVV3SW1jM0QyQlBva0dWeGR3bnNqWW5JdlFDODBkeGpqY1hv?oc=5"
+        },
+        {
+          "title": "Bayeux Tapestry Exhibition Opens at British Museum",
+          "source": "The New York Times",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR296RmY1VW5penA3MjdpblYta1ZCWW1Ib3NUWnFCMW5aVzRqOEdiTDNRc3lvRDFkaXBuR3BMdTNaNWVGaUpmQVJCbkhuWDlZbEJvWkVXeGZIaUxrOEJBSmNaYmppc2ZXRUJpenVyNFFvQlFEeENBeWZkWmsxSGJleGhuLWkwSVhjMWVGS3FGbkZ4NUta?oc=5"
+        },
+        {
+          "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected",
+          "source": "AP News",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5"
+        }
+      ]
     },
     {
       "label": "The Triangle",
       "color": "var(--dial-sage)",
-      "stories": []
+      "stories": [
+        {
+          "title": "Targeted Help, Faster: Inside Raleigh CARES",
+          "source": "RaleighNC.gov",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGN5TTd6RnVYZzhOUzdnNFg3U3l1VmN1SmMtS3JnT1M3ZktDUXVhYXR2aEZyR1N4TnMza3hDWGdRNEtxOVV2djh6czdkYmR5aHpfU3hEVDlhVFZPQ1ZRekVxc2lUak1aV250dmdwUU0wNmdnT0g4djQ3algxYmVaUmUtMzc?oc=5"
+        },
+        {
+          "title": "9/11 events, observations across central NC",
+          "source": "ABC11 News",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTGFEZ1lSdHJCNnBIR1pwb1NwZG81WklwS2lHalJPTHpNazJ4RW8tcXNNRmM2WVZLTDRJUUk3SldzQTNjdm5FSGkwM2ZsMWd0ck1vRlJtNTEwQnk1N2Fza1AtMFRfSUpERjJ1Vl9uVzJpc0F4aHfSAXtBVV95cUxQZzd0ejRsd2RRWlR5U3d4QjY1UFQtQTVoVnlManpIWWdnTW01VHp5QnRDMDFSNVVaMVhadFUwRVRvUnRxMXVlSy1aU0g5Rm8yaGpndEdPYkNocWpaWVBKaU1yLXBXLXA1V3hzaldSM3pHQ2VRd0Z2SlR0bk0?oc=5"
+        },
+        {
+          "title": "Raleigh man pulled from Haw River by helicopter will be okay, mom says",
+          "source": "WRAL",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzFaT1lVLXRCMHpqUzg3N2lKRExrX0lZbDlKX2NvNWRURFBJWk5TUWVFRW9pbjhGZjdtM2tSNUFrNF9mbnE5aHBrR0E0WV90LUM0QzIxQ0NXWnRXNGZXeDRCWGU5RVVWTTNoRldWNTA3a0Q3T3ZOOS0ta0Fzd3d3Q0h3R0w3cE0zSHNKOXltdw?oc=5"
+        },
+        {
+          "title": "Marshall Volleyball Travels to North Carolina for Pair of Matches",
+          "source": "Marshall University Athletics",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVdBT1dPUWY3M1M0MFBINGFRbXY4UHhVektUc0dGb3BsMXY5eld5eGowOEVJRDJrTS1wX3Q2R0RfbFpLZWRuRGNZS2hFUUtidVdNQ1FCVEc0SU1JU0NvLXdiUUc5QnhoU2RiYUl5SU43VGR5MG5OZGYwVFJqZExGa0VvbE1NQm5DcmdVcTJUXzFMUm80S1lLalAtb2ZSaXZRVWRn?oc=5"
+        },
+        {
+          "title": "Field Hockey Returns to Chapel Hill to Play #5 UNC on Friday",
+          "source": "Old Dominion Athletics",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUtsN1Z2bWEzRWczSUJZOEpscS1hSWdVUnpfZ0l1MzQ0Z0QtTG45STN2cHl3YS1PeS1XMWNqTmMyaHFFUjdNZlQ3Ym92NHJqSmlFZ0RKRDF6Z1h3WE94Ul9KVmp3TE5naHAySzVoS2s5QUE2b3YxYUc1UmtJbENEejdnZTNSTHZqMG92dnVIdEFHNWRVN2tHSU5rYlhuUQ?oc=5"
+        },
+        {
+          "title": "NC lawmakers beef up US attorneys’ staffs, leave Wake DA with no new prosecutors",
+          "source": "Raleigh News & Observer",
+          "time": "6h ago",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVo4azczMTFmY3lZbVc5emZCbElTTmtFeXVHa3ZQd1RRN2N4UGtiNW5Rc180NFZGSUlOLVlZRlJqUDFDLXdpTzd3MmZ2QXk1V014RHNtcGZKQ1dCaVNteXkzalRhOXJ0eGVvdWJXME1YMUNCMGJFNHBsaVRaV09ZYmQ2YUhWNjhUY3fSAYoBQVVfeXFMT3B2Y05ydVBQMWdKVFRKME5xVXlpVWRmT0dQTVJHbXdzSzNCNWxWSm8yeG95ZjBFTzJHVEZWSEFlT1NtaEpsM0RNd2pNWXc3alZTZWMtR01wOUptOWxFM0NGUGl6NThueEhOSU9SUkk4SE93WkdZaEk5MnRyT1Jwb1MxR1dRWWZBcXpR?oc=5"
+        }
+      ]
     }
   ]
 }
