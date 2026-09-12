@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
+          "title": "The Eno Flows Downtown",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "2000's Rave",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "9/11 Remembrance Ceremony",
-          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
+          "title": "2026 Ladies Self-Love Social",
+          "where": "Hilton Garden Inn Raleigh/Crabtree Valley · Raleigh",
           "line": "Today"
         },
         {
-          "title": "College Football: N.C. State Wolfpack vs. Richmond Spiders",
-          "where": "Carter-Finley Stadium · Raleigh",
+          "title": "55+ Health & Wellness Fair",
+          "where": "Apex Senior Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Creative Aging Mini-Retreat for Active Adults 55+",
-          "where": "Mini Acres Farm · Raleigh",
+          "title": "9/11 Honor & Remembrance Ceremony",
+          "where": "Rolesville Elementary School · Rolesville",
           "line": "Today"
         },
         {
-          "title": "Demystifying FilmFreeway: Insider Strategies for Festival Success with Crickett Rumley",
+          "title": "Altis at Serenity Lifestyle Showcase",
+          "where": "Altis at Serenity · Fuquay Varina",
+          "line": "Today"
+        },
+        {
+          "title": "Ariella & Nicolaas",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Today"
+        },
+        {
+          "title": "Building Community, Support and a Distribution Plan with Seed & Spark and Kinema",
           "where": "Gathering House · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Floy Doy",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Free YO Mind Adult Open Mic",
-          "where": "Garner Performing Arts Center · Garner",
           "line": "Today"
         }
       ]
@@ -50,74 +50,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "The Eno Flows Downtown",
+          "title": "Durham Bulls vs. Nashville",
           "where": "Durham",
-          "line": "Sat · Sep 12"
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "2000's Rave",
-          "where": "The Ritz · Raleigh",
-          "line": "Sat · Sep 12"
+          "title": "2026 Award Winners: Shorts",
+          "where": "The Cary Theater · Cary",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "2026 Ladies Self-Love Social",
-          "where": "Hilton Garden Inn Raleigh/Crabtree Valley · Raleigh",
-          "line": "Sat · Sep 12"
+          "title": "Babymetal World Tour 2026",
+          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "55+ Health & Wellness Fair",
-          "where": "Apex Senior Center · Apex",
-          "line": "Sat · Sep 12"
+          "title": "Classical Concert Series - Thron-Larkin Duo",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "9/11 Honor & Remembrance Ceremony",
-          "where": "Rolesville Elementary School · Rolesville",
-          "line": "Sat · Sep 12"
+          "title": "Concert in the Park 2026",
+          "where": "Joyner Park Amphitheater · Wake Forest",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Altis at Serenity Lifestyle Showcase",
-          "where": "Altis at Serenity · Fuquay Varina",
-          "line": "Sat · Sep 12"
+          "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+          "where": "Daily Planet Cafe · Raleigh",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Ariella & Nicolaas",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Sat · Sep 12"
+          "title": "Fenton Art Festival 2026",
+          "where": "Fenton Square · Cary",
+          "line": "Sun · Sep 13"
         },
         {
-          "title": "Building Community, Support and a Distribution Plan with Seed & Spark and Kinema",
-          "where": "Gathering House · Cary",
-          "line": "Sat · Sep 12"
+          "title": "Food Truck Rodeo Fuquay Varina 2026",
+          "where": "Downtown Varina Parking Lot · Fuquay-Varina",
+          "line": "Sun · Sep 13"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
-          "line": "Sat · Sep 19"
-        },
-        {
-          "title": "Indigenous Peoples' Day Ceremony",
-          "where": "Apex Nature Park · Apex",
-          "line": "Mon · Oct 12"
-        },
-        {
-          "title": "The Dread Crew of Oddwood w/ special guests Broadslab",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Mon · Oct 12"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Oct 12"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "Chris vs. The People",
@@ -133,6 +108,21 @@
           "title": "Apex Mahjong Club",
           "where": "Southern Peak Brewery · Apex",
           "line": "Oct 13 – Dec 8"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Artist Reception: Art What You Eat",
+          "where": "Block Gallery at Raleigh Municipal Building · Raleigh",
+          "line": "Wed · Oct 14"
+        },
+        {
+          "title": "Biodegradable Yard Waste Bag Giveaway - Lake Johnson Park",
+          "where": "Lake Johnson Park · Raleigh",
+          "line": "Wed · Oct 14"
         },
         {
           "title": "Bones & Botanicals",
@@ -158,6 +148,11 @@
           "title": "Halloween BINGO",
           "where": "Zebulon Community Center · Zebulon",
           "line": "Wed · Oct 14"
+        },
+        {
+          "title": "Author Event: Wade Rouse",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Thu · Oct 15"
         }
       ]
     }

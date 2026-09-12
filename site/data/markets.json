@@ -1,5 +1,5 @@
 {
-  "meta": "2-year performance · quotes as of 18:28 ET",
+  "meta": "2-year performance · quotes as of 00:24 ET",
   "groups": [
     {
       "label": "Metals",
@@ -191,8 +191,8 @@
         {
           "name": "Platinum",
           "sub": "NYMEX · oz",
-          "price": 1801.6,
-          "changePct": 78.99652260307997,
+          "price": 1797.6,
+          "changePct": 78.59910581222056,
           "series": [
             1006.5,
             1008.5,
@@ -246,7 +246,7 @@
             1650.300048828125,
             1750.0,
             1847.5999755859375,
-            1801.6
+            1797.6
           ]
         }
       ]
