@@ -10,6 +10,11 @@
           "line": "Today"
         },
         {
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "2000's Rave",
           "where": "The Ritz · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Ariella & Nicolaas",
           "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Today"
-        },
-        {
-          "title": "BEYOND Film Festival Masterclass",
-          "where": "DCP Gathering House · Cary",
           "line": "Today"
         }
       ]
@@ -94,6 +94,16 @@
     {
       "label": "This Month",
       "items": [
+        {
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Sep 25"
+        },
+        {
+          "title": "Phoenix Fest",
+          "where": "Durham",
+          "line": "Sat · Oct 3"
+        },
         {
           "title": "Chris vs. The People",
           "where": "Goodnights Comedy Club · Raleigh",
