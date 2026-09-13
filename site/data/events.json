@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "The Eno Flows Downtown",
+          "title": "Durham Bulls vs. Nashville",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "2026 Award Winners: Shorts",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "2000's Rave",
-          "where": "The Ritz · Raleigh",
+          "title": "Babymetal World Tour 2026",
+          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 Ladies Self-Love Social",
-          "where": "Hilton Garden Inn Raleigh/Crabtree Valley · Raleigh",
+          "title": "Classical Concert Series - Thron-Larkin Duo",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         },
         {
-          "title": "55+ Health & Wellness Fair",
-          "where": "Apex Senior Center · Apex",
+          "title": "Concert in the Park 2026",
+          "where": "Joyner Park Amphitheater · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "9/11 Honor & Remembrance Ceremony",
-          "where": "Rolesville Elementary School · Rolesville",
+          "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+          "where": "Daily Planet Cafe · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Altis at Serenity Lifestyle Showcase",
-          "where": "Altis at Serenity · Fuquay Varina",
+          "title": "Fenton Art Festival 2026",
+          "where": "Fenton Square · Cary",
           "line": "Today"
         },
         {
-          "title": "Ariella & Nicolaas",
-          "where": "Lorraine's Coffee House and Music · Garner",
+          "title": "Food Truck Rodeo Fuquay Varina 2026",
+          "where": "Downtown Varina Parking Lot · Fuquay-Varina",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Durham Bulls vs. Nashville",
-          "where": "Durham",
-          "line": "Sun · Sep 13"
+          "title": "Ataxia Connection Golf Challenge",
+          "where": "Prestonwood Country Club · Cary",
+          "line": "Mon · Sep 14"
         },
         {
-          "title": "2026 Award Winners: Shorts",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Sep 13"
+          "title": "Black Marble/Public Circuit",
+          "where": "KINGS · Raleigh",
+          "line": "Mon · Sep 14"
         },
         {
-          "title": "Babymetal World Tour 2026",
-          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
-          "line": "Sun · Sep 13"
+          "title": "Drag Bingo Night",
+          "where": "The Longleaf Lounge · Raleigh",
+          "line": "Mon · Sep 14"
         },
         {
-          "title": "Classical Concert Series - Thron-Larkin Duo",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Sun · Sep 13"
+          "title": "Drop-in Puzzling and Puzzle Swap Meet",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Mon · Sep 14"
         },
         {
-          "title": "Concert in the Park 2026",
-          "where": "Joyner Park Amphitheater · Wake Forest",
-          "line": "Sun · Sep 13"
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Tue · Sep 15"
         },
         {
-          "title": "Dueling Dinosaurs Sensory Friendly Mornings",
-          "where": "Daily Planet Cafe · Raleigh",
-          "line": "Sun · Sep 13"
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Tue · Sep 15"
         },
         {
-          "title": "Fenton Art Festival 2026",
-          "where": "Fenton Square · Cary",
-          "line": "Sun · Sep 13"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Sep 15"
         },
         {
-          "title": "Food Truck Rodeo Fuquay Varina 2026",
-          "where": "Downtown Varina Parking Lot · Fuquay-Varina",
-          "line": "Sun · Sep 13"
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
+          "line": "Tue · Sep 15"
         }
       ]
     },
@@ -104,26 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 3"
         },
-        {
-          "title": "Chris vs. The People",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Tue · Oct 13"
-        },
-        {
-          "title": "Jay Legend",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Tue · Oct 13"
-        },
-        {
-          "title": "Apex Mahjong Club",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Oct 13 – Dec 8"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Artist Reception: Art What You Eat",
           "where": "Block Gallery at Raleigh Municipal Building · Raleigh",
@@ -153,16 +133,51 @@
           "title": "Southern Nights Comedy Tour, Landon Bryant, Mary Ryan Brown",
           "where": "Raleigh Improv · Cary",
           "line": "Wed · Oct 14"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
-          "title": "Halloween BINGO",
-          "where": "Zebulon Community Center · Zebulon",
-          "line": "Wed · Oct 14"
+          "title": "Gaelic Storm",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Thu · Oct 15"
         },
         {
           "title": "Author Event: Wade Rouse",
           "where": "Page 158 Books · Wake Forest",
           "line": "Thu · Oct 15"
+        },
+        {
+          "title": "David Nihill: Taking Tangents Tour",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "FM2FV Concert Series 2026: Spare Change",
+          "where": "Centennial Square · Fuquay-Varina",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "Stained Glass Custom Pet Experience",
+          "where": "Wake Forest Wine & Design · Wake Forest",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "Ty Myers: The Legal Tour",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "SIX the Musical Live",
+          "where": "The Cary Theater · Cary",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "Cricut Holiday Craft",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Oct 15 – Oct 29"
         }
       ]
     }
