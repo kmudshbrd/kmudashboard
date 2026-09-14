@@ -5,44 +5,34 @@
       "label": "Today",
       "items": [
         {
-          "title": "Durham Bulls vs. Nashville",
-          "where": "Durham",
+          "title": "Ataxia Connection Golf Challenge",
+          "where": "Prestonwood Country Club · Cary",
           "line": "Today"
         },
         {
-          "title": "2026 Award Winners: Shorts",
-          "where": "The Cary Theater · Cary",
+          "title": "Black Marble/Public Circuit",
+          "where": "KINGS · Raleigh",
           "line": "Today"
         },
         {
-          "title": "BEYOND: The Cary Film Festival",
-          "where": "The Cary Theater · Cary",
+          "title": "Drag Bingo Night",
+          "where": "The Longleaf Lounge · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Babymetal World Tour 2026",
-          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
+          "title": "Drop-in Puzzling and Puzzle Swap Meet",
+          "where": "Downtown Cary Park · Cary",
           "line": "Today"
         },
         {
-          "title": "Classical Concert Series - Thron-Larkin Duo",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Today"
+          "title": "HollyQuest 150th Anniversary Event",
+          "where": "Town of Holly Springs · Holly Springs",
+          "line": "Through Sep 30"
         },
         {
-          "title": "Concert in the Park 2026",
-          "where": "Joyner Park Amphitheater · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Dueling Dinosaurs Sensory Friendly Mornings",
-          "where": "Daily Planet Cafe · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Food Truck Rodeo Fuquay Varina 2026",
-          "where": "Downtown Varina Parking Lot · Fuquay-Varina",
-          "line": "Today"
+          "title": "Farmers Market @ Oak City",
+          "where": "Oak City Brewing Company · Knightdale",
+          "line": "Through Oct 11"
         }
       ]
     },
@@ -50,24 +40,24 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Ataxia Connection Golf Challenge",
-          "where": "Prestonwood Country Club · Cary",
-          "line": "Mon · Sep 14"
+          "title": "Anthony Mrocka",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Tue · Sep 15"
         },
         {
-          "title": "Black Marble/Public Circuit",
-          "where": "KINGS · Raleigh",
-          "line": "Mon · Sep 14"
+          "title": "Black Label Society",
+          "where": "The Ritz · Raleigh",
+          "line": "Tue · Sep 15"
         },
         {
-          "title": "Drag Bingo Night",
-          "where": "The Longleaf Lounge · Raleigh",
-          "line": "Mon · Sep 14"
+          "title": "Irrigation, Rainwater Systems & Agriculture",
+          "where": "Good Hope Farm · Cary",
+          "line": "Tue · Sep 15"
         },
         {
-          "title": "Drop-in Puzzling and Puzzle Swap Meet",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Mon · Sep 14"
+          "title": "Music Bingo - Cary Fortnight Brewing",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Tue · Sep 15"
         },
         {
           "title": "Backyard Comedy Night",
@@ -105,41 +95,6 @@
           "line": "Sat · Oct 3"
         },
         {
-          "title": "Artist Reception: Art What You Eat",
-          "where": "Block Gallery at Raleigh Municipal Building · Raleigh",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Biodegradable Yard Waste Bag Giveaway - Lake Johnson Park",
-          "where": "Lake Johnson Park · Raleigh",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Bones & Botanicals",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Medicare Open Enrollment",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Sensory-Friendly Fall Rides at New Hope Valley Railway",
-          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Southern Nights Comedy Tour, Landon Bryant, Mary Ryan Brown",
-          "where": "Raleigh Improv · Cary",
-          "line": "Wed · Oct 14"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
           "title": "Gaelic Storm",
           "where": "The Rialto Theatre · Raleigh",
           "line": "Thu · Oct 15"
@@ -168,16 +123,51 @@
           "title": "Ty Myers: The Legal Tour",
           "where": "Koka Booth Amphitheatre · Cary",
           "line": "Thu · Oct 15"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "An Evening with Alexa Rose (w/Josh Oliver)",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 16"
         },
         {
-          "title": "SIX the Musical Live",
+          "title": "Ancient Nubia Member Preview Day",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Fri · Oct 16"
+        },
+        {
+          "title": "Avery Anna",
+          "where": "The Ritz · Raleigh",
+          "line": "Fri · Oct 16"
+        },
+        {
+          "title": "Comedy Show: Ryan Erwin and Don Garrett",
           "where": "The Cary Theater · Cary",
-          "line": "Thu · Oct 15"
+          "line": "Fri · Oct 16"
         },
         {
-          "title": "Cricut Holiday Craft",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Oct 15 – Oct 29"
+          "title": "Diwali",
+          "where": "Garner Recreation Center · Garner",
+          "line": "Fri · Oct 16"
+        },
+        {
+          "title": "Drive-In Movie at the Park",
+          "where": "Pleasant Park · Apex",
+          "line": "Fri · Oct 16"
+        },
+        {
+          "title": "Larry Stephenson",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Oct 16"
+        },
+        {
+          "title": "Midnight Raven Stained Glass Workshop",
+          "where": "Cary Wine & Design · Cary",
+          "line": "Fri · Oct 16"
         }
       ]
     }
