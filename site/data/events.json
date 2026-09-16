@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Anthony Mrocka",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Pat Metheny: Side-Eye III+",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Black Label Society",
-          "where": "The Ritz · Raleigh",
+          "title": "2026 N.C. Assistive Technology Expo Pre-Conference",
+          "where": "McKimmon Conference & Training Center · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Irrigation, Rainwater Systems & Agriculture",
-          "where": "Good Hope Farm · Cary",
+          "title": "25+ Sapphic Singles Speed Dating",
+          "where": "Bitter Social · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "Caring for Your Skin as We Age",
+          "where": "Morrisville Senior Center · Morrisville",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Hispanic Heritage Month: Spider Stories",
+          "where": "Hunter Street Park · Apex",
           "line": "Today"
         },
         {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
+          "title": "Live at The Bark Bar: Sam Trebing",
+          "where": "DCP Bark Bar · Cary",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
+          "title": "Salsa Wednesdays - Komana Brewery with Salsa4Life.com",
+          "where": "KōMANA Brewing Company · Cary",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Pat Metheny: Side-Eye III+",
-          "where": "Durham",
-          "line": "Wed · Sep 16"
-        },
-        {
-          "title": "2026 N.C. Assistive Technology Expo Pre-Conference",
+          "title": "2026 Assistive Technology Expo",
           "where": "McKimmon Conference & Training Center · Raleigh",
-          "line": "Wed · Sep 16"
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "25+ Sapphic Singles Speed Dating",
-          "where": "Bitter Social · Raleigh",
-          "line": "Wed · Sep 16"
+          "title": "Alistair Ogden",
+          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Caring for Your Skin as We Age",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Sep 16"
+          "title": "An Evening with Sam Robbins",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Hispanic Heritage Month: Spider Stories",
-          "where": "Hunter Street Park · Apex",
-          "line": "Wed · Sep 16"
+          "title": "Attracting Pollinators with Native Plants",
+          "where": "Good Hope Farm · Cary",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Live at The Bark Bar: Sam Trebing",
-          "where": "DCP Bark Bar · Cary",
-          "line": "Wed · Sep 16"
+          "title": "FM2FV Concert Series 2026: North Tower",
+          "where": "Centennial Square · Fuquay-Varina",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Wed · Sep 16"
+          "title": "Pollinators in Our Parks",
+          "where": "Carpenter Park · Cary",
+          "line": "Thu · Sep 17"
         },
         {
-          "title": "Salsa Wednesdays - Komana Brewery with Salsa4Life.com",
-          "where": "KōMANA Brewing Company · Cary",
-          "line": "Wed · Sep 16"
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Sep 17"
+        },
+        {
+          "title": "Music Bingo at The Backyard",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Sep 17"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 3"
         },
-        {
-          "title": "An Evening with Alexa Rose (w/Josh Oliver)",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Ancient Nubia Member Preview Day",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Avery Anna",
-          "where": "The Ritz · Raleigh",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Comedy Show: Ryan Erwin and Don Garrett",
-          "where": "The Cary Theater · Cary",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Diwali",
-          "where": "Garner Recreation Center · Garner",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Drive-In Movie at the Park",
-          "where": "Pleasant Park · Apex",
-          "line": "Fri · Oct 16"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "An Evening with the Hoots",
           "where": "Bond Brothers Eastside · Cary",
@@ -168,16 +133,46 @@
           "title": "Diwali Festival 2026",
           "where": "Morrisville Community Park · Morrisville",
           "line": "Sat · Oct 17"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Ancient Nubia Community Day",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Gospel Melodies Day Party",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sat · Oct 17"
+          "title": "Cello Day at Meredith College with NCCS",
+          "where": "Wainwright Music Building · Raleigh",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Halloween Boo Bash Wake Forest 2026",
-          "where": "Downtown Wake Forest · Wake Forest",
-          "line": "Sat · Oct 17"
+          "title": "Fall Foliage in Stained Glass",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Oct 18"
+        },
+        {
+          "title": "Jazz’d Up Sundays: Kobie Watkins",
+          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
+          "line": "Sun · Oct 18"
+        },
+        {
+          "title": "Trampled by Turtles",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Sun · Oct 18"
+        },
+        {
+          "title": "NC Coastal Camino Experience: Wilmington, Fort Fisher & Kure Beach Day Trip from Raleigh",
+          "where": "Parking Lot at North Main Athletic Complex · Holly Springs",
+          "line": "Oct 21 – Nov 11"
+        },
+        {
+          "title": "Durham FRINGE Festival",
+          "where": "Durham",
+          "line": "Oct 30 – Nov 8"
         }
       ]
     }
