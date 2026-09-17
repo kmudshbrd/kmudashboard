@@ -35,13 +35,13 @@
           "line": "Today"
         },
         {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Music Bingo",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         }
       ]
@@ -160,6 +160,11 @@
           "line": "Oct 21 – Nov 11"
         },
         {
+          "title": "Free Wednesday Morning Movies",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Oct 21 – Dec 16"
+        },
+        {
           "title": "An Evening with Hank, Pattie & the Current",
           "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Thu · Oct 22"
@@ -168,11 +173,6 @@
           "title": "Icons of Jazz: Divine & Dexterous",
           "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Thu · Oct 22"
-        },
-        {
-          "title": "Devine & Dexterous featuring Camille Thurman & The Christian Tamburr Quintet",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Fri · Oct 23"
         }
       ]
     }
