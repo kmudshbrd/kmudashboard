@@ -6,40 +6,40 @@
       "color": "var(--dial-slate)",
       "stories": [
         {
+          "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+          "source": "AP News",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5"
+        },
+        {
           "title": "Holdout Lindsay Clancy juror says he didn’t have ‘any doubts’ during contentious deliberations",
           "source": "NBC News",
-          "time": "2h ago",
+          "time": "3h ago",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmx0dWtiUS1RM0hJZF8yeGFsYVFkU1pfT0NwSUZfcHd3OTZhRVIyQzZta2g3Tm1xbDRVdUpQS2RaZV9OWG1OV0w1bTlXSnhFTGNmQVFaRXprZ1VJT29WN2Z4LVpPSzFra1k2NkZVVzdZSURsQmV2bjlEY0pjNjhHSW1RSkh5Vm1ZUGJYcW9idVE1NDBNZXFVTktfVTgxZU5Xc3VjQlZFVXVaSTVxQi10SXJRM211TVdW?oc=5"
         },
         {
-          "title": "New video shows dazed driver after deadly Metro bus crash in Chatsworth",
-          "source": "KTLA",
+          "title": "Trump takes aim at Russia's energy sector with sanctions bill",
+          "source": "BBC",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSHg0WFRlY1pCUkotVTE1N3pUOHdfak53ZVFjaVRUa3hpUEtKWTN5ZzBUOEpIQ25DQzJnZlVlM2JpU2tJcnVraG1rZkR2SUotSEEwNUxJMmRKT28?oc=5"
+        },
+        {
+          "title": "Bailee Rios, suspect in deadly Metro bus crash, seen in new video moments after crash in Chatsworth",
+          "source": "ABC7 Los Angeles",
           "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzNiV28xQ2drU3c1REZvRFpvM0NzZ0JRS2pkUVJDTElqdGlkcUQwUDE3ZDc2OUk1dUktRHRjNllnbXlVYzU1VTI5akJ6TFlDWk9SSXJFN1JhQ2lfV2xnTmhhQU55Nm55eC0yLXpESnE1cFJIcWpRMGx1R3lEbWMxcEMwWVktaUpCQkRfbWpwdVpVUWlDUGFWTkZwS3J0TS1NN3A4MDJTcmTSAa4BQVVfeXFMT0xKVkRMOF9mQ1lKVWFjUGpFWENPNktYRVBraUpheUtZamp0RkNIQnA3NllHZ1d2V2FmMS1FenczUVM4OW1BbW1hV2xrNC1mOE9xMkVQWHlHSG44cmkySTUyalRvNzZUVWRVczhmUmRTR0tkZTBlcHJHVno5R2dReUNSdFBaVkdvMmRnQ2F0a2pENy1pN3ZEZEJPenBEX0daTGswT0p5T1l0RGgxWWpB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEFmYklfbEZZNDVfaHVKNzJURGxPTDdvZFlvSkJJZlFKZ2M5dy1wZHR1ZjM3eUZUdVc2ODJvbGFCVVNwR1NPLVdsUmxDbGNES2lRM2xIRndza2ZfM28zZUJhaVdtb0FEcHlZU2tiendfaGNidlBxaUtXcXQ5dXhjNjducW91NWZqaGhtTnVfa3d3eWpxUFI0T2IzUzhlX2NzSTNObl9vUDJPZWPSAbABQVVfeXFMTlN4TW5vN3ZPTlI4cllrVmFwYkswZzhCdEZRcVB0MDRzOWdqZkZGZm9nZmJaSlJWNEktLU5BQndZUXdjak1TeUFDakdWNUs1c1RqZEhGTXRka2pFVTQ3RFhIRXdIdk90ckZNRUt2UWZjcGhudGdyNGdJUWNyRmZDcEtpYnRLMVpMa2VRdi1rczBpSnpNcVBra3hRbktuM3czM1hmVjdhQzU0cUIzUjJ1ay0?oc=5"
         },
         {
-          "title": "Early voting begins in US midterm elections that could flip control of Congress",
-          "source": "AP News",
+          "title": "Gottheimer unveils 2 bipartisan AI safety bills",
+          "source": "Politico",
           "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5"
-        },
-        {
-          "title": "Fear and loathing in Trump's Miami backyard over immigration crackdown",
-          "source": "axios.com",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGZBbXItaEVNQVRrekFDYTQxdmg3emc4SGJQYXhRSkgzRE5kWnIzMjRRUVhhR2gyQU0yekItWGszb0ppcHczRlVra28wOW1xWmdJWm5vNUZmRlc0bks2WGVsNC1UeTNLV0hoUHVJWnlqMTFGTDdDZ0lCMHF0dkR6ZFozUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG5qZjV6VVZDOENDVUxENE1oZmJyaEMzbU9XSWMyWmgyMEZXSlc4UmxHVjN0TTVrQTZDVFE3NHFlVnRFdXBLV0xnM1c3SE9za3VXUXhnb0FjLUhsaHdGaUo3MGNFY0hyREN2ZTYxNmtwYl9LM2dSeGlaMGxCWnNfUHFKaG92em11RXBmVHhOekI0bUsxMnVqak53Z0hXdndxenAzWmpBTjQ5eGFkTk45elJWS1FjVTQ?oc=5"
         },
         {
           "title": "Hill investigates after F-35 parts diverted to Hong Kong",
           "source": "Politico",
-          "time": "3h ago",
+          "time": "6h ago",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2ltOUhhLUQtV0ZuVy1sb3BGMkRNWmtzTjl0UGZxb2h4WjJDeTd0c3hDdkk3T0pJX3ZMYVRjcG50TWdmc1NlZHZIRlI0aHMwMjBWNDhzc3h2WDl2Z2psTXE3MmhpZlROYVV3dXVLUWdDWTY4YndTeUxtUlljbmtjVV9UUW9iNGMyRU84?oc=5"
-        },
-        {
-          "title": "Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors",
-          "source": "The New York Times",
-          "time": "9h ago",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3ZfVzZyZk9JS2pEVGdzN3dkNmhpTjlxWVBpTXNpenhVNFpvNElXS3BUZXFESnA2RHF6dWVpM01NbndKNGNlTEVwSUtqLV9ySW9XQWZleGxZcnNkRGpOUTFCNk1iek4xQjc0ZnFPMi1BcmdUWERpOXdoZE1FNlp1dy1hQlVySmxFaG5Jejc3cGhGRkRMczZfdHBMSUZ3dTZEUXFTaFVxU1M0WTl4c3J4MEtKV21hVmN1MFFqVEhuRk9uZ0Zi?oc=5"
         }
       ]
     },
@@ -50,38 +50,38 @@
         {
           "title": "Mamata Banerjee loses symbol, party name, gains Congress support, CJP sympathy",
           "source": "Telegraph India",
-          "time": "10h ago",
+          "time": "13h ago",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXdjMkxuVVNHZlR3dHlDTF81T0piTWU4RlFEY3dJdHpHdXdtRGZPVEFKdExQZmxCMGZaTXdzVm1HOEVnaDFUSk1fdXZQUF9taEIzNTFnX0lScUNuTXpsSXhETVRLSUlYMHJ2Zk5kZ1o5cm5lV2R0V1JZbmt3ellEYmVXREVtVzdPbDJxS2ktdW9CaHhwZTU0YzVNZzk2cGNNZjVtZDdzZFkxbzVvYkkxM0hBZkk1Yk05ZEFKR2JZNmlzOHZrN2Iwb3Jn?oc=5"
         },
         {
-          "title": "‘PNS Hunain violated maritime norms’: India rejects Pakistan’s ‘usual prevarication’ over naval collision",
+          "title": "HAL hands over LCA FOC trainers, first HTT-40 ‘Ankur’ to IAF, 4 Dhruv-NG Choppers to Pawan Hans",
           "source": "The Times of India",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOendoaTNKT3VtUHE5WlU5YnpwTm5YbTZDWEpLWDgtSEZmX3FQdkNaUV9rbFpxcDBEOU9ZbjJxYVRUMkR5dXN0azctZjdLQWxVaWZVNGRYeFVwMm9KN2I5WWkwXzZiMHUtczU3SEtycmR0dGpudkdTOC03SHE1Z2VrMGw4M3FaTFRubHVYcFRkZTcxbGpyVXJsMXZoZWFVbTU4Y09ndWlibDR2bi13MkhOWDhqdXpZVkVoOEpvNzc4dElTYnFINU5MYjVFUUhLRzhlRGFaV2YxMm5xa0RaRXBmZ1F6dklMbXJTYjZKWW5GdXhVSHN3WnZ4WXVkMA?oc=5"
+          "time": "10h ago",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbjMtSGZmQzVmSmRpbmlKNjRPNGtjSWNXTlYyUVdxVHRxMDV4bFVWU0U5ajloMURucEJ2djlOSmx1Vm1adF93RW9YSVZsSFN4Q0k3NFN0SXhOc1NLT0lULTdzOXJpTk1XOWpoSGpSeEJickoybllLZmIzTkItZHk4MzJxcmtQc0NTd1B5ZlJTRURLdXBmdkVycW14bzNJZEo0ZG1JWHdMYTVWT3JBZjRYaVQ4TllNWUFIazVYZC1iTDJwRXRCcFZtNzduMU05ZlRzOWw0RXAybVZaTmN3ZmJrRVd4V3NURjIzeDdtdnpSRFc4VWc?oc=5"
         },
         {
-          "title": "Delhi’s Swaroop Nagar rape-murder: Minor girl’s body, partly eaten by dogs, found; three juveniles among four arrested",
+          "title": "Tirupati Laddu prasadam made from palm oil and chemicals, says ED; arrests ghee company owner",
+          "source": "Deccan Herald",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZWNId1ZHWUVQbEQ4dVI0TllSTG9KaWNVc2gxdFEwaVNPQWxCT1BjazNOQ3UtV1l3ZGg3ZzhOMHBnem9QWE9uelVrM0YwN3JCTnB1b1FaZ05lT1AzNnJHX1JvSjd4Ynh5QmNNTGVzS08tV3F3WjgwWHA4endvYmlZZ1M5NTNqTkRMNWlzclVxNVVsN2xzb1FqRDdWZElJckhNMmtWN0Y2OGFGWF91akRpMGNSMDVuaXZXZzJXekYxUXVKbUZ2ZC1JUDhNTGdsbkhMN1BRTnBNTldoWEp1Yk1MLVJYZw?oc=5"
+        },
+        {
+          "title": "Nandigram bypoll: Congress candidate Milan Pradhan arrested hours after getting Mamata’s support",
           "source": "The Hindu",
-          "time": "15h ago",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdURBN1c1X0lZdzd2SmJIbDVOeU5YU1JnNGNhS2tIYkRrQnREQ2N4M0E5aDRoTTI0LWRJZjZZNWIxdWRxRFBaZjFQYnVQRXlFaDcyVURGdVYtRE5YcHIwbmpfcmlvZl8tTDVxR055V0t4ckttdjdkOS1rTExTMGdhTzg3R2lnZ0VEWTRJM3JLa1lvVWJqV3Rha2kyeW5ybWNiYnFsUVF3MjhPS2RWd2MtdFVib29qQ2VrX0dYUFlVcXc0cmZHSGdUa1FIdUk1a196SDNlZEZCTGpnWDVaSzJpZUlpS3p2WWNLbk9RVFhjeDdfd9IB-AFBVV95cUxNWHB5ZVZIRkZUT3g2bTNyNVJ1b0tpZlY3YzNBUjN6TEFMN2ljWWxkRVVqM01PY3hOY2pCRTV6ZWxudWo4Nm1keDc5ei1BSzg5UWJ3OF9KM0FZREFqeWFBU3lHV0RmRjZNd0xvQWhUWndiZkpjcjlWSFR0N0RJQWxnWjkyMTRBT3NZVUx3R0czNmJ0b3lsc19JaW5IUWljQnVrSFdCdzN6Y3ltMGIzQmMweldRRXpyeUx0OXoyRzhmMlpRcmZONmVxa0RjQnVucFdVN2g3WDBDZzF3ZmtVczVhZFpOak9jSWhaRG9DQVU5dE5YeFVwQk53Xw?oc=5"
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPME9jWW53Qm4ySjd6eHlIZzExZTV4cVFCbFZnb0xKdk1ldzVPeV9ZN2JITjFGaU56OWZTZ0dBRkdzNUxnRWg3R2MyV3pOVUpycFhWUmRDaEJzS2pMd2k5NUd6dm9wYUkwTjVzU2p6MUo4WnpUNWUybEZGM25rX0FsZERvZWVNa18yckU0UVpEVDltb2s1blBLTDlhbUQtb0RyUXlsYjdKajdIdGlfa3Zma2QzaC1tZWI5LVBfanBNM29FRlZJcnFLWlRSZDBaQdIB1AFBVV95cUxPZkpaNHo5M245UEgwcVRvOGVHeXdQN2ZTZXB6cXhkRllXWkxGdktZRGpJWFlZOHdWMGJHSVlTQzBSMkIwOFZPWi1TXzFIaDVpdXF6UlY4Z25yenlyUjl5OHJuM2YtYndfalJfdkVDakVjVGhVdDBoQl9jTmFVWHFlai1udkJXenZaRHNQZEw3LU9TcHNHNjY3YjU3MGhGbE16RGZkNF8xRUYzZnJfWjF2Yl9id204RVI3SkpDTER0MF9rUFJDQkpfLU1VQTNZMmtBWTdNcA?oc=5"
         },
         {
-          "title": "DUSU Election 2026 highlights: ABVP confident of clean sweep in polls; NSUI claims victories at many colleges | Hindustan Times",
-          "source": "Hindustan Times",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTF9aNVpiZlF1OUtCbWlIcG8tZ2YwQ2dxbTZCLUZaQlk1eTdkTzBFQXU5X3phT3N3Q2JlQjdXdnh6YlJmbUxTRl9UT0pSdGtvY3RuX1hLaXBLcFdJOEMyZFRpLVVsMGxYODFQd3JkLUotbGxOajA5U2dxZ25qR09Zb1puM1pxdUMwcmRQQ0NYQVUwbUw5SXZ4d2pJUmtJZEtGY2tzRkp0a1pST2ZjLWt6NE1nVFFMNnhQOWtudHhtalhtNXBGb05GdEJpazlYTFNWTkJON1NmWlZMdzByQWtGWFc2N1BDUHlDcUxPTnlidmtwR0wzMS1MSXp5UkU5SGdPeEhrWGFmSmVGZy1jcURvaNIBlgJBVV95cUxPMWQzcUJWRV9vX3VScFhHdGRzaVdOVTM4OHAySzEyVDJDUm5PNElKY04ybWk0bjJnWkdVa21rYjNIWXdEdUU4VUZGV1JYbXNLZlMwQXFwMWFRVjBBVzJ1WlB0NXV6QkdMOHB5WUxEdm5IWTRxRnpJQkktazhUaUpHRVlNSkIzaTlGU3hsbGhYSEN5a2w5OVluazN2TFhQcDlEMGs5S0hzNURZdjBMREh2NVUxNWFtVC1uWHBsVzI2ZXlYX0l4bVpRYzAyR2g2eTlRQmFfaTVlUVBnT2o5UmIxQlN2YVJIN05uU1dQcEZKUmhhVWJxZmt4bFpPb0w1RlZWRnUwOGdJbzBqaHRZUGJkV3laWld6dw?oc=5"
+          "title": "Joint Parliamentary Committee on Foreign Contribution (Regulation) Amendment Bill to hold its first meeting in New Delhi today",
+          "source": "newsonair.gov.in",
+          "time": "14h ago",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0didDZPSW9zUGMtY1B6cE9ZWEpORUxsOU5qR251SWgtbmN1NnBGQmFLVUZYYUwxNFhPTUtJOUkxa1dXRkh0NlFYSFlWT0M5ODNLUGp1eGY4Rk1MX20wU251RlN0WWZKQXNzejgtRVZ6dUtLeldDeURHNzhPeTZ4YVdJT3dlWHVaYkhqeHVoSkl5ZXRhZDlIci1RWFdBQXpRclRZRTJIRVFneVdXYWVvZVdRbVVsWTZnREpaM3RlQVZsR3hxclUtTlhHRUpTSC1SeVRSUkJHUWduMUJ4TzRKeXJJbjE?oc=5"
         },
         {
-          "title": "Jagtar Singh Johal granted bail nine years after being detained in India",
-          "source": "BBC",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMldLaS1CSGQzcG0ybnBiNUYwQTFkNmdES01NeFBIZ3NyTTY5U2Q4dTR5Y1kxSFJkdEU2aGFJN196OTNuNlU1X0d0UDBSdldGT1pWOUxrSUJzS1U?oc=5"
-        },
-        {
-          "title": "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender disqualified as member of Legislative Assembly",
-          "source": "The Hindu",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTllUdEJlTktzdmx6UDRQdXBlMUVKZUNzMEwyR2V6SjRsZThWU19qZnItQ0tvbzVFUnhlOHB1b21PTmozZFVUVVNkRFZ2UkYtbVhWenRhU3RTTFg4cHladFl1S0VYbVFNeGZtMTcyRFZZOEIzckh2R2FpOEN5ZkhtQnZYcTFKRjFTOXAzT0I3TWd0a1VPc1ZmbWZ2UjMyZThfdXl2UWpJUkd2NWE2QVRUVzM0S05XMnA0WUlQM0lvYU91WjFhWVBrUEQ5TDZrOWcybmdLbUszQmphSld1YWszeldCRDFsem02M3J6Z1ZPWTQtYU5IM3ItaTRCVFFTcXA2QlVUNUVEb9IBjgJBVV95cUxOWXNFanQxd05vck81cENGdmhLYVZ1dHZaVVdVSk1WeGtDbkxpZ1lQdnFCUEhKc2JjWTF0WWtFYVBCbDZqOFFnd0JnekF5bjVGTHkzN2ljbXAtX2dNU3A4VGNWWFVQSFNKVHBtRDJZaFR4ODUzMHJFX3VHRzZRT2Q5QXl1TVkyRFljQVFkLWZYNGs2c3FybTNzUDJqamJjRzd4SGluSWY2WEJibjE5THZNU0VZem14dWlOa2xqNndYdEpsYW9CSkhxZ2Z5WlI1TjJQVkM5RHVrd3gtOHVyWWR0d1RNZ3N6R1F6RGpBa2QtenRMTGg1bl9qWHhScnNjRjlWd2g1b1dHRFhaSGZiSGc?oc=5"
+          "title": "West Bengal SIR | 37 Lakh Appeals Pending; Less Than 3% Disposed By Appellate Tribunals : ECI Tells...",
+          "source": "livelaw.in",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTZueHpSbEJRaXpYNDR0NmZvaXktVUZabGFOcXBqTFp1LVJveEZrNlpFYWlPUWc0QXdTX3RvLU1JbjRPVGZWdmRnMnRBMTdGXzByRFJsWHBwV2p4UGxCbDRLdm9oZjdjOXdaUVI1RnVBek91UFYwd3lLUG9MTm9kYmJ6LXpXYXh0UUw4aWpOLTNpb0JuYkFRN0tBcjZRbDZlc2lTZUhTbEltMlVQMzZ2V2w0bGlfZkllVHZEbFB5R3Y4QVNZZ1BERVB6eWtoR05xak05a0d5cTnSAd4BQVVfeXFMUERsUzV4Z3BVMllmcHpqdkVlTVFlbFRLTXlqV0lfclFxNmxRTWJudm94WGNCQkpyblhRZExGR21zQkgwaFJscHV3ekRiYkFmR0k2Y2NQNXJtaTk5SGkxSFFQMlBQVUN6cUlNdXR4bEZlQnNzWWNwNzlMMzk2azViYmpleWlXZjJIWGxtV0JmeHoySGxaRmFaWHhVaW9GVzd3MGJ0UHVZeEdhUHdMX0dmXzdtRmxiSVJCTW5VdVJxS2M0d0VzNXJ3ZjNyajM5ZWVUbzVxT0pXYkQ5UERFc1VB?oc=5"
         }
       ]
     },
@@ -90,40 +90,40 @@
       "color": "var(--dial-sky)",
       "stories": [
         {
-          "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-          "source": "BBC",
+          "title": "‘There are no decent parties left’: Sham elections underscore Putin’s grip on Russia",
+          "source": "politico.eu",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTluRmdiblV6d3JhQ0RqZVV5dmdPRUpBaWJDN0V2eGFYVG1qelNRWXdsQnROWkJJVEozY2xQdUFuUTk4NVJSUFQwclhBOUxEbGtsYjNVUlJ3MzlBZHFnTUdvczYwMGpQNEZ3Y0RNQlBGY3RYM2RwSG5PREZUY0FKMm9aTjJLQmJ6dXFHS0hOU0FQX0l4ZHBObGpxZnJJRnlYYXl4RXA1bFRCSkFoU1VNbThPTQ?oc=5"
+        },
+        {
+          "title": "European leaders prepare public for ‘intensified threat’ from Putin",
+          "source": "politico.eu",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmd5SGlINVVHMmVmNnRSa2RnZVZWYkZNTVdqRUwtbzNKNklUankyeGNreHJpQ3lJNXBHMUF4T0ZZOXo3UlRFSkE5c3hMRHl1UFNEVXZsX2YzMGJ0dlRiSnJCMHpMMjRGTzNldG1PN2NRb3oweTkyYnBxcXJldERqSU1wWlRMR3daNHZKZkJMb09qQWQxaXl3b2owRFk?oc=5"
+        },
+        {
+          "title": "Shark kills swimmer off Western Australian city beach",
+          "source": "WRAL",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEFTN0N4b3QxRVVrR2lDYkJxUkVtOHR3dFpZblRIMkdmdjFCb3pmdjZ5OUtSZnVQYnRGMzlGcUtVdlJMcUZ0MGRES29xYm5vNGR3NVY0ZGpBWkF0by1hdkRLOHdlR1ZVQnFEbVI0UU5zVElETlp0dFNDcUc1dk5nQlhLaHZHemZjVkpCSzA5TUU2eE0?oc=5"
+        },
+        {
+          "title": "Police capture suspected serial killer disguised as woman, carrying baby in Brazil",
+          "source": "CBS News",
           "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWXduN2tfb19IRUJ2UHI0MFFoM3NCOE9nOEFFSEJLTTZ2OTlxOWFEaEdGb21KeVRBemRXQzN2UWoxSG9JdzZoUGM0dkd4ZHdhemJkVGJMVE1nWnM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmNUYnNuakhid0RxVE1BbTBpbmtabkpwcHpzazdrR3J6clBSVVpGRkxITDI3SVdxNmhYcy1KSGlYV295MlUwSlpCUTBWc05zOWFHUEUxZm5XUkdheW5neTJQQ3owSVhjbktPQlZHbHN6NTA3VkJyODExTlphS0FCRmNWTGlpMGlzTXI3Z3JiSkxaeGdE?oc=5"
         },
         {
-          "title": "Russians go to polls with no party against Putin or war in Ukraine",
-          "source": "Euronews.com",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlFWTy1yaktWdFcxS3hOMXQxTnJZbThUeXk0WlhDV0l0WWZYWWhLaThlNUl2eEFGM0VVclBCSktKcVFkRW1FU25hcGN5bUNqUmt2N0M3anVLTFIxdVBrLU9jajgwVjFBZHBzdEduQ1Z1d3J6VFdWVERBNFFPS3laR1liYlNHS1d0OTVGaUxDczJKSnVNdEZBZ3hSQUZOZGtIYkhMWFl3U2xabl9PNmc?oc=5"
+          "title": "Diana’s brother says Charles sounded ‘giddily elated’ after her death",
+          "source": "NBC News",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEFKaUJFLWtiVXRzSENQRV9RUy1qNGhKUWFDRnBTQlRSZW1saTZyUXJxLV9kY1MyY2dHY19KRktybENHd05aOW8ycnlnd1NTMXJiX0dYQmoxOW5jWFhNUjNXUWVqbEQ1bFI5TEIwODFOWmoxQnhmRS0ycWtGNVZBMjVYUVFMeERtOU9ETkVaVU9QTVV5ZXhwOGZaTEt4WnAzZ0ltcEtLcWg3MWY1NDE3clc0eHpwYUZieERTdG1aTzVtNFdn?oc=5"
         },
         {
-          "title": "Swimmer killed in shark attack off popular Western Australia beach",
-          "source": "FOX Weather",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSEhzbzBXMTZhODhBYzc4bm9tYmptZmN0UUYxY1RxQVJSSy1oMDBuOFhyc3g3TUFMQzR6RXVoMnpEb1F5cm1LX0I0QW0ycVA0ckFLTjZhS2FwNFFTU2J5aGxQWXRua05sRC1La2l6aV9IOHMyQW5LY1p5ZW5PTkwyUXk1dkY5VmkwWWs1XzVwcndGTUxEVEYtQ1h4V0hFQjFLYmRNa0N1ZjJkMUN4UTRWQlRnejhUV0JL0gG-AUFVX3lxTFA1SHl2RW91SE8xc2RmQ1hMZmpLQ1dyS203N3o1Z1dnRUFZTVJYV2hGWUZoeTh6VlZBWXlybGRSeGdUNVVmTFV0U3d0OEFhWnBYWjhyVnkyNTd0WEFVT1JXLXNDQjlrTFpsMS1va3JFMldfdDRNQ1J6V3hSSU83WmJwS25QSmVoNTNCQnN3V0ZTOXJEVUxWMmtIWXQ5S3pKUkljNHpmejZsdnIyWkU2MnhtRzRYT2pnb3lhWDJjYmc?oc=5"
-        },
-        {
-          "title": "Denmark speeds up Ukraine aid package after Russian warship fires flares at helicopter",
-          "source": "Reuters",
-          "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZngyZ3RoMER3Sl83bUtlX2VfdUs0Z3pRR0l5VGRUR2dubzZucnRIbW5oQy1zS19ZMUdLLU5neTc0eU41WUpwV05tUVh3Z1VFdXhpdklUTmZLNVVkMTJ2RTQyaG55clRYR0hZV3JCdGZOMFZXWHVuNVdjR2NxMF94a1FlY240ajRkSWdTaTNSelNuZUFmOW9FUU9DRTl4QVo1a2psNF82ekNkbDA2WURRbnVKcDZOdlRPSTVrMmF1V2JGc2Y5SnplQzJYbng2Zm8w?oc=5"
-        },
-        {
-          "title": "South Africa ‘feels like a prison’ for women amid spate of femicides",
-          "source": "NPR",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHFuSXQ5YVZQcTczM2hvSEEtZWx3UjlFNlRheU14blJRZ0QwT0h3N20wRE91R0JyT3g0dTZUVUp3U2loa2NockVRclpOZ2g3dXhybUtKS2pyblRvMG4zc3NTLWNRcjhZNGtwMU9HMzlvX0l0Zk9PY2owcDZfeHhCdXNjUFdIazdZV0pvemI1bS1oajNoblZmb2JZZmJzWGxYeEo2S3VGbURiRGZoclZsVQ?oc=5"
-        },
-        {
-          "title": "New Species of Cat Discovered for First Time in a Century",
-          "source": "The New York Times",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUk4Q19sV3pPOHp6RDVlYWF2UG4ydG9RY3RRRU5wZkVoZWxaSEFQXzdvOEg1US1yMnhwSk9Vck9aRzFLS3Q4ZlcwRk95M0VRVGotTVlneFlBWm1MX0RiM192ODNUMFUzQm5ZaGlXdkFoZHZJYWQ0eVVLVHJCcEVZdlNQTmpNUQ?oc=5"
+          "title": "Meet Earth’s newest wild cat species, the first named in over a century",
+          "source": "AP News",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVlVRNUJ2QlBsYk4weWE2d3JHTG8wX25SajMxY3FRWnoyeFBEVi1XX2N5bzJUTWI4c2w0VFdFYnRwOUdyMGlROXlyRlJKa1dLU0RxMkxVMlhDYlFFMTJROXJTWlpTTDJsSVQySlZXUmhQa2I2WGdLVXczM0RicnJ2NHFVTEgwaEo2S25oVExRX01pOGI4dkFqOEVqVG1tSnpCLTBvRzU2NVVIVG5BbDNHNGxJMndDSGZjTDQ0bUJBRW1zejgycXhV?oc=5"
         }
       ]
     },
@@ -132,40 +132,40 @@
       "color": "var(--dial-sage)",
       "stories": [
         {
-          "title": "Football To Open ACC Play At Clemson Saturday",
-          "source": "University of North Carolina Athletics",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRtLWkyR1RXYWQ0UEp1WXNkMnUyRFNYMENZd1hfWWM4bGFJNzJXSlVJM194dEIxM3pCRWFwbmJtM3NkTWgtN1pRRk13X3RGSzhWLVMyMTZ5anVnUzJNOHdSMElFM3NjZ1NFZDRQRVJxTG5JYXlwWkhBU25vUC1QN21xZUc1U2s?oc=5"
-        },
-        {
-          "title": "2 crashes on I-40 in Wake County near RDU spur traffic gridlock",
-          "source": "CBS 17",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeW5YSjlqWWltQ3hMN3ZMb3VVazM4ellZMzZzZ2FxZ1BXWUEtN051ZVZSTW1aTFdXYUh6TUpPcXoyUFFqU294T2otVTgtX1Z1YkpKbTNkOWNVZ3ZEWDltWXB2UHlYTTA3cFpOQ1JDdC1UdEJWdWQ0UnRHanZlb1RnaUlIQm5Td054OThrSTdkaFVWeVU1bW1oVEUyaC0tRUU2YjVfWGRIR2tVMGVza19ObTQxWjhLdTNnblpF0gHAAUFVX3lxTE9sMW5Bc012UWFkendjXzRCMng0aE82Q2xXTnBJZGwwbXBHRFcxTTBsTmhCOUxQMU1taTdaSU44VmhVNFNDYklVQUdMcUdDOEJNY3ZqT29sbVFHcHl5Yy1xYndSTGxLSk8wVHNTV2JKQTJpTk10UkQyT0UteTZveWxOdW00dS02bEo0aDNMdFBJWE9kMVRSRmtPLUtacm5hMzJVYXhuNGpuNEJJM3VvQ2ZhVGVyUXV0NjRmVGdPVzN4bg?oc=5"
-        },
-        {
-          "title": "ProgDay: World's longest-running progressive rock festival endures at North Carolina farm in Chapel Hill",
-          "source": "ABC11 News",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0VSemNGdlBsUlQxLU1sRUdnRFVFNTBUM0t0RnE3Z09DUlRXa0lVOTMzbjF4NWVZbUxrWWZDUWxRc18zdmNrTmQtR3NxZ3h4MmI1Ql9kRlh3R1JLWDZWY1FDZGttcUlNQmNtSlFtMlI3RWVvT0pMUzlYXzBSeld0WW5vRmY3X2FuR2ozbDI2dUdveHBFSTVhaElKOWphLTFxSEdXVmljaks0TDdtOFR6eTY5M2RfdE9oNXk2QlJGNW9yQ0d3OHczV9IBzgFBVV95cUxNV0d1RzhMRExQcy0tdGhGUXZHQmRpMEx2NzM4bmxWZkJJTmpzSndEeGdoZzNDMER1b1JLVWdtcTZocFFsY29qWmZsLVB1X2djNWZwT2J1cHc4ZEdwakdCTTNYV0Y1YndvTC15UElGdHdOR1VKeVVDck1KbjdHVkloNVlxSkFidGlyRHBUWXRQdnpCaXpNWC1fRXZuX1RxbkR4a3BtT2lPNTJnYUNZYUgzdFlIOTRVREtXMEYwWExIM3hOM3JRTkQ1SU9hZkx2Zw?oc=5"
-        },
-        {
-          "title": "North Carolina water feature linked to teen's fatal brain-eating amoeba infection",
-          "source": "KOKH",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOdmZOUG02c0tKUlF3NjEyM2tOcXRfQkR5Rjk1TDZUSXZOc1hsaE05RmtLOG9SOGJ0M0ViVmd2ajdOQll6OEM0WnpCQ29OblFFMG13Mk9ic0V0dlJqeEFlbUt6dXp0azY3OTB6Y1JsOW43TERzLW50clZKcW41MEZaQTlNci16MXBXR2ZFcVRDN2V4R2ZTRURZZ0JkM0dLVGZobXFrVm1sVlBNenRPMVRMSkJsa0MwTE56MHZDMVVEU2t6cV9FcjNodndSekVveEJCaEhkcENtS1JlZmcxVUN5VEl0eFJ0Tjc4VUhzQ0ZNSHRSZTE1bDVYU2M0d1hSZjZ4SjJzMEdWOHd5dDdYdF9XSy1oUU9aeHJEVEUweFFDVmlVTUFqSGo5SEJXX2w5V2IwTWliV0ZhMDF6VUIzZXpJQlhuendyMndLSUo2MHc2UlZBdHlYdThEV0dWZWJ2ZXMyV3FNZU5rNG1zZw?oc=5"
-        },
-        {
           "title": "Obituary for Nicholas Laurence Lightner",
           "source": "Haywood Funeral Home & Cremation Service",
-          "time": "2d ago",
+          "time": "3h ago",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JUGpCOFpkNkItbDRUbXVSV2NxWGk4aW9ka2lQclFwaUhoakJxb09rUWJ4YlI4UVZLb20zQy13RHBoUlE0WDZEY0MwVGZUUEI5NFRvNi00c2N4Qi1yamw4R0tsLWhlRVlkSkgzdA?oc=5"
         },
         {
-          "title": "Severe thunderstorm warning active for the Piedmont region Friday afternoon",
-          "source": "newsobserver.com",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iWllpUk84bW9UNHYtUHJRRlc0SGFNUXpQR19Qdzg5T3UyS09FRW1KNnZxcGpPLTRpZWRhcnQwQzNnS3dvSE54RHV1SDAxTkFxSWpnYnBMNG4tWnBkYjRjb2lFaERwWExqMHZnWkFaaG03YW14NmlF?oc=5"
+          "title": "New Podcast Episode: Why Should I Attend the Engage Raleigh Expo?",
+          "source": "RaleighNC.gov",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0RieGtIdW5xMUxKemh6ZnBZWkF5R2pGMHpaTHRVY2dlVkhaX2lHX1F5Z1hjN2FCeWtNdG9HZXhfQ0h5a2tVSVprUW1oanRjd0VxY2xmZVlVV1RicFFSU19KWm5nVG93TnVTaFA3TGNURm44eWxQTVV5SWh2MFdvWHpzYU9sdkd6UU8ydXFxZ0tEdzl2bFRpNWd5T1FpZ0k?oc=5"
+        },
+        {
+          "title": "Football To Open ACC Play At Clemson Saturday",
+          "source": "University of North Carolina Athletics",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTRtLWkyR1RXYWQ0UEp1WXNkMnUyRFNYMENZd1hfWWM4bGFJNzJXSlVJM194dEIxM3pCRWFwbmJtM3NkTWgtN1pRRk13X3RGSzhWLVMyMTZ5anVnUzJNOHdSMElFM3NjZ1NFZDRQRVJxTG5JYXlwWkhBU25vUC1QN21xZUc1U2s?oc=5"
+        },
+        {
+          "title": "2 taken to hospital after I-40 crash with dump truck, four cars: Troopers",
+          "source": "CBS 17",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeW5YSjlqWWltQ3hMN3ZMb3VVazM4ellZMzZzZ2FxZ1BXWUEtN051ZVZSTW1aTFdXYUh6TUpPcXoyUFFqU294T2otVTgtX1Z1YkpKbTNkOWNVZ3ZEWDltWXB2UHlYTTA3cFpOQ1JDdC1UdEJWdWQ0UnRHanZlb1RnaUlIQm5Td054OThrSTdkaFVWeVU1bW1oVEUyaC0tRUU2YjVfWGRIR2tVMGVza19ObTQxWjhLdTNnblpF0gHAAUFVX3lxTE9sMW5Bc012UWFkendjXzRCMng0aE82Q2xXTnBJZGwwbXBHRFcxTTBsTmhCOUxQMU1taTdaSU44VmhVNFNDYklVQUdMcUdDOEJNY3ZqT29sbVFHcHl5Yy1xYndSTGxLSk8wVHNTV2JKQTJpTk10UkQyT0UteTZveWxOdW00dS02bEo0aDNMdFBJWE9kMVRSRmtPLUtacm5hMzJVYXhuNGpuNEJJM3VvQ2ZhVGVyUXV0NjRmVGdPVzN4bg?oc=5"
+        },
+        {
+          "title": "News & Observer photojournalists capture scenes from across NC",
+          "source": "Raleigh News & Observer",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9va1c3UTJkb3BwOHRwMEVpcXRsYURGSWxpSmo1c3FkQ3lqOURGdUl5TmpScFpNaGt0VUJzTXFhcmpucUd0N1JjekdOS3VoRm5FWGNNWUxtMGYyX2lseERDOF9vOGllTC0xR3hGV3FB0gFuQVVfeXFMTnhnU1RBMWJNVGhMTkhrUDk3LW9iMWdIdzI0S2J0OE1yVE5BSkFWaXQ3MXJ3MnhXdTNoQjNHNjhPbGpxS3JkYkJ1WEN4Znh4UlhfdFBOaUxlemZ0LUtoSmVGa3ZwUFFuQmRmR0RVamc?oc=5"
+        },
+        {
+          "title": "Chapel Hill church proposes new campus with affordable housing",
+          "source": "spectrumlocalnews.com",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdU15QTZuZjlJUEdGQnFQVTBSalJIZzBLUmIzbF9wQVRHQVBFd3M3TkNsb05pQ3lJUWdNbWwydjUtUjZBVUxrUEtXQV92VFByVVhaSUl3VUV6ZDBvdGpyT1hHZ092cDNxYmtxck9ibzBjbV9rekoycDI4ZW5jRDBwSDJCVEYtVWd3M2R3eTZBWE1DVVRVNV9TT2pyWVM0QkFQTTdZSTNGREQ?oc=5"
         }
       ]
     }
