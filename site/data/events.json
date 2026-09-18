@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "2026 Assistive Technology Expo",
-          "where": "McKimmon Conference & Training Center · Raleigh",
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Alistair Ogden",
-          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
+          "title": "'90s Skate Party",
+          "where": "John Chavis Memorial Park and Community Center · Raleigh",
           "line": "Today"
         },
         {
-          "title": "An Evening with Sam Robbins",
+          "title": "10 Ways Estate Plans Can Fail",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Today"
+        },
+        {
+          "title": "Alex Underwood",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Bad Momz Are Back",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Today"
+        },
+        {
+          "title": "Boots & Beats Silent Disco",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Today"
+        },
+        {
+          "title": "Brown Mountain Lightning Bugs w/Couldn’t Be Happiers",
           "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Attracting Pollinators with Native Plants",
-          "where": "Good Hope Farm · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "FM2FV Concert Series 2026: North Tower",
-          "where": "Centennial Square · Fuquay-Varina",
-          "line": "Today"
-        },
-        {
-          "title": "Pollinators in Our Parks",
-          "where": "Carpenter Park · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
+          "title": "Dave Devlin Live at Vino & Tap",
+          "where": "Vino & Tap · Cary",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
-          "line": "Fri · Sep 18"
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "'90s Skate Party",
-          "where": "John Chavis Memorial Park and Community Center · Raleigh",
-          "line": "Fri · Sep 18"
+          "title": "Cosmic GLOW Jump Adventure",
+          "where": "Durham",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "10 Ways Estate Plans Can Fail",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Fri · Sep 18"
+          "title": "Asia Fest 2026",
+          "where": "Koka Booth Amphitheatre · Cary",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Alex Underwood",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Fri · Sep 18"
+          "title": "2000's Rave",
+          "where": "The Ritz · Raleigh",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Bad Momz Are Back",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Fri · Sep 18"
+          "title": "22 Strings",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Boots & Beats Silent Disco",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Fri · Sep 18"
+          "title": "919 DAY 2026: Hardcore Showcase",
+          "where": "KINGS · Raleigh",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Brown Mountain Lightning Bugs w/Couldn’t Be Happiers",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Sep 18"
+          "title": "Author Event: Rebecca Hodge",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Sat · Sep 19"
         },
         {
-          "title": "Dave Devlin Live at Vino & Tap",
-          "where": "Vino & Tap · Cary",
-          "line": "Fri · Sep 18"
+          "title": "Boom Ball Tour",
+          "where": "Nomaco Park · Zebulon",
+          "line": "Sat · Sep 19"
         }
       ]
     },
@@ -95,45 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Fri · Sep 25"
-        },
-        {
           "title": "Phoenix Fest",
           "where": "Durham",
           "line": "Sat · Oct 3"
         },
         {
-          "title": "Ancient Nubia Community Day",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Sun · Oct 18"
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Oct 9"
         },
-        {
-          "title": "Cello Day at Meredith College with NCCS",
-          "where": "Wainwright Music Building · Raleigh",
-          "line": "Sun · Oct 18"
-        },
-        {
-          "title": "Fall Foliage in Stained Glass",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sun · Oct 18"
-        },
-        {
-          "title": "Jazz’d Up Sundays: Kobie Watkins",
-          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
-          "line": "Sun · Oct 18"
-        },
-        {
-          "title": "Trampled by Turtles",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Sun · Oct 18"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "2026 Raleigh Medal of Arts Award Ceremony",
           "where": "Raleigh",
@@ -153,6 +123,31 @@
           "title": "Drop-in Puzzling and Puzzle Swap Meet",
           "where": "Downtown Cary Park · Cary",
           "line": "Oct 19 – Dec 14"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "CNC Router - Orientation",
+          "where": "ShopSpace · Raleigh",
+          "line": "Tue · Oct 20"
+        },
+        {
+          "title": "Ian McConnell",
+          "where": "KINGS · Raleigh",
+          "line": "Tue · Oct 20"
+        },
+        {
+          "title": "Mummy & Son Ball 2026",
+          "where": "Harold D. Ritter Park - Rotary Shelter · Cary",
+          "line": "Tue · Oct 20"
+        },
+        {
+          "title": "Toddler Tuesday - Cookie Decorating",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Tue · Oct 20"
         },
         {
           "title": "NC Coastal Camino Experience: Wilmington, Fort Fisher & Kure Beach Day Trip from Raleigh",
