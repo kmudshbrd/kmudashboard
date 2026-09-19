@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "'90s Skate Party",
-          "where": "John Chavis Memorial Park and Community Center · Raleigh",
+          "title": "Cosmic GLOW Jump Adventure",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "10 Ways Estate Plans Can Fail",
-          "where": "Morrisville Senior Center · Morrisville",
+          "title": "Asia Fest 2026",
+          "where": "Koka Booth Amphitheatre · Cary",
           "line": "Today"
         },
         {
-          "title": "Alex Underwood",
-          "where": "Crooked Hammock Brewery · Raleigh",
+          "title": "2000's Rave",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bad Momz Are Back",
-          "where": "Garner Performing Arts Center · Garner",
+          "title": "22 Strings",
+          "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
         },
         {
-          "title": "Boots & Beats Silent Disco",
-          "where": "Haven of Knightdale · Knightdale",
+          "title": "919 DAY 2026: Hardcore Showcase",
+          "where": "KINGS · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Brown Mountain Lightning Bugs w/Couldn’t Be Happiers",
-          "where": "The Wake Forest Listening Room · Wake Forest",
+          "title": "Author Event: Rebecca Hodge",
+          "where": "Page 158 Books · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Dave Devlin Live at Vino & Tap",
-          "where": "Vino & Tap · Cary",
+          "title": "Boom Ball Tour",
+          "where": "Nomaco Park · Zebulon",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
-          "line": "Sat · Sep 19"
+          "title": "La Fiesta del Pueblo 2026",
+          "where": "Raleigh",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Cosmic GLOW Jump Adventure",
-          "where": "Durham",
-          "line": "Sat · Sep 19"
+          "title": "15th Annual Mama Afrika Festival",
+          "where": "Raleigh",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Asia Fest 2026",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Sat · Sep 19"
+          "title": "Flying Dragon Stained Glass Workshop",
+          "where": "Cary Wine & Design · Cary",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "2000's Rave",
-          "where": "The Ritz · Raleigh",
-          "line": "Sat · Sep 19"
+          "title": "Live Music from Tom Neuhauser",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "22 Strings",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Sep 19"
+          "title": "One Day Planter",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "919 DAY 2026: Hardcore Showcase",
-          "where": "KINGS · Raleigh",
-          "line": "Sat · Sep 19"
+          "title": "Pottery Painting with Cozy Panda",
+          "where": "Unhinged Coffee & Co. · Knightdale",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Author Event: Rebecca Hodge",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Sat · Sep 19"
+          "title": "Summer Wine Dinner with Spread NC",
+          "where": "Zin Yoga and Wine Lounge · Garner",
+          "line": "Sun · Sep 20"
         },
         {
-          "title": "Boom Ball Tour",
-          "where": "Nomaco Park · Zebulon",
-          "line": "Sat · Sep 19"
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Sun · Sep 20"
         }
       ]
     },
@@ -104,31 +104,6 @@
           "where": "Durham",
           "line": "Fri · Oct 9"
         },
-        {
-          "title": "2026 Raleigh Medal of Arts Award Ceremony",
-          "where": "Raleigh",
-          "line": "Mon · Oct 19"
-        },
-        {
-          "title": "Daisyhead, Sunday Morning, Suns & Blush",
-          "where": "KINGS · Raleigh",
-          "line": "Mon · Oct 19"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Oct 19"
-        },
-        {
-          "title": "Drop-in Puzzling and Puzzle Swap Meet",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Oct 19 – Dec 14"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "CNC Router - Orientation",
           "where": "ShopSpace · Raleigh",
@@ -148,6 +123,31 @@
           "title": "Toddler Tuesday - Cookie Decorating",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Tue · Oct 20"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Acid Mother's Temple w/ Magick Potion",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Wed · Oct 21"
+        },
+        {
+          "title": "Artful Story Time",
+          "where": "North Carolina Museum of Art, West Building · Raleigh",
+          "line": "Wed · Oct 21"
+        },
+        {
+          "title": "Moonlit Landscape in Watercolor",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Wed · Oct 21"
+        },
+        {
+          "title": "Tai Chi: Downtown Cary Park",
+          "where": "DCP Gathering House · Cary",
+          "line": "Wed · Oct 21"
         },
         {
           "title": "NC Coastal Camino Experience: Wilmington, Fort Fisher & Kure Beach Day Trip from Raleigh",
