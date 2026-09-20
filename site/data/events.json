@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
+          "title": "La Fiesta del Pueblo 2026",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "15th Annual Mama Afrika Festival",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Asia Fest 2026",
-          "where": "Koka Booth Amphitheatre · Cary",
+          "title": "Flying Dragon Stained Glass Workshop",
+          "where": "Cary Wine & Design · Cary",
           "line": "Today"
         },
         {
-          "title": "2000's Rave",
-          "where": "The Ritz · Raleigh",
+          "title": "Live Music from Tom Neuhauser",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "22 Strings",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "One Day Planter",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "919 DAY 2026: Hardcore Showcase",
-          "where": "KINGS · Raleigh",
+          "title": "Pottery Painting with Cozy Panda",
+          "where": "Unhinged Coffee & Co. · Knightdale",
           "line": "Today"
         },
         {
-          "title": "Author Event: Rebecca Hodge",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Summer Wine Dinner with Spread NC",
+          "where": "Zin Yoga and Wine Lounge · Garner",
           "line": "Today"
         },
         {
-          "title": "Boom Ball Tour",
-          "where": "Nomaco Park · Zebulon",
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "La Fiesta del Pueblo 2026",
-          "where": "Raleigh",
-          "line": "Sun · Sep 20"
+          "title": "Birds and Bloomers",
+          "where": "DCP Guest Services · Cary",
+          "line": "Mon · Sep 21"
         },
         {
-          "title": "15th Annual Mama Afrika Festival",
-          "where": "Raleigh",
-          "line": "Sun · Sep 20"
+          "title": "Eyehategod / Whores / No/Mas",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Mon · Sep 21"
         },
         {
-          "title": "Flying Dragon Stained Glass Workshop",
-          "where": "Cary Wine & Design · Cary",
-          "line": "Sun · Sep 20"
-        },
-        {
-          "title": "Live Music from Tom Neuhauser",
+          "title": "Fortnight Run Club",
           "where": "Fortnight Brewing Company · Cary",
-          "line": "Sun · Sep 20"
+          "line": "Mon · Sep 21"
         },
         {
-          "title": "One Day Planter",
+          "title": "Love Your Falls Lake",
+          "where": "Falls Lake Dam · Wake Forest",
+          "line": "Mon · Sep 21"
+        },
+        {
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Mon · Sep 21"
+        },
+        {
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Mon · Sep 21"
+        },
+        {
+          "title": "No School Hangout-Morrisville 2026",
+          "where": "Cedar Fork Community Center · Morrisville",
+          "line": "Mon · Sep 21"
+        },
+        {
+          "title": "Pottery Mug",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sun · Sep 20"
-        },
-        {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Unhinged Coffee & Co. · Knightdale",
-          "line": "Sun · Sep 20"
-        },
-        {
-          "title": "Summer Wine Dinner with Spread NC",
-          "where": "Zin Yoga and Wine Lounge · Garner",
-          "line": "Sun · Sep 20"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sun · Sep 20"
+          "line": "Tue · Sep 22"
         }
       ]
     },
@@ -100,35 +100,10 @@
           "line": "Sat · Oct 3"
         },
         {
-          "title": "Kenny Wayne Shepherd Band",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
-          "line": "Wed · Oct 7"
+          "line": "Sat · Oct 3"
         },
-        {
-          "title": "CNC Router - Orientation",
-          "where": "ShopSpace · Raleigh",
-          "line": "Tue · Oct 20"
-        },
-        {
-          "title": "Hamlet",
-          "where": "Sneaky Penguin Brewing · Raleigh",
-          "line": "Tue · Oct 20"
-        },
-        {
-          "title": "Mummy & Son Ball 2026",
-          "where": "Harold D. Ritter Park - Rotary Shelter · Cary",
-          "line": "Tue · Oct 20"
-        },
-        {
-          "title": "Toddler Tuesday - Cookie Decorating",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Oct 20"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Acid Mother's Temple w/ Magick Potion",
           "where": "The Pour House Music Hall & Record Shop · Raleigh",
@@ -158,16 +133,51 @@
           "title": "Free Wednesday Morning Movies",
           "where": "The Halle Cultural Arts Center · Apex",
           "line": "Oct 21 – Dec 16"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "An Evening with Hank, Pattie & the Current",
           "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Thu · Oct 22"
         },
         {
+          "title": "Arch Enemy & The Black Dahlia Murder: Wrath Across North America 2026",
+          "where": "The Ritz · Raleigh",
+          "line": "Thu · Oct 22"
+        },
+        {
+          "title": "Bingo Night",
+          "where": "Maywood Hall & Garden · Raleigh",
+          "line": "Thu · Oct 22"
+        },
+        {
+          "title": "Damitas Histeria (En Español)",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Oct 22"
+        },
+        {
           "title": "Icons of Jazz: Divine & Dexterous",
           "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Thu · Oct 22"
+        },
+        {
+          "title": "Pumpkin Flotilla - Pumpkin Drop Off 2026",
+          "where": "Fred G. Bond Metro Park and Boathouse · Cary",
+          "line": "Thu · Oct 22"
+        },
+        {
+          "title": "Devine & Dexterous featuring Camille Thurman & The Christian Tamburr Quintet",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Fri · Oct 23"
+        },
+        {
+          "title": "Fall & Winter Birds of Wake County",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Fri · Oct 23"
         }
       ]
     }
