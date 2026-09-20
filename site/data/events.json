@@ -15,6 +15,11 @@
           "line": "Today"
         },
         {
+          "title": "Fall Wake Forest HerbFest",
+          "where": "Wake Forest",
+          "line": "Today"
+        },
+        {
           "title": "Flying Dragon Stained Glass Workshop",
           "where": "Cary Wine & Design · Cary",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Summer Wine Dinner with Spread NC",
           "where": "Zin Yoga and Wine Lounge · Garner",
-          "line": "Today"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         }
       ]
