@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "La Fiesta del Pueblo 2026",
-          "where": "Raleigh",
+          "title": "Birds and Bloomers",
+          "where": "DCP Guest Services · Cary",
           "line": "Today"
         },
         {
-          "title": "15th Annual Mama Afrika Festival",
-          "where": "Raleigh",
+          "title": "Eyehategod / Whores / No/Mas",
+          "where": "Chapel of Bones · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Amir K",
-          "where": "Raleigh Improv · Cary",
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Fall Wake Forest HerbFest",
-          "where": "Wake Forest",
+          "title": "Love Your Falls Lake",
+          "where": "Falls Lake Dam · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Flying Dragon Stained Glass Workshop",
-          "where": "Cary Wine & Design · Cary",
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Today"
         },
         {
-          "title": "One Day Planter",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "title": "Service Industry Night",
+          "where": "Slim's Dive Bar · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Unhinged Coffee & Co. · Knightdale",
+          "title": "No School Hangout-Morrisville 2026",
+          "where": "Cedar Fork Community Center · Morrisville",
           "line": "Today"
         },
         {
-          "title": "Summer Wine Dinner with Spread NC",
-          "where": "Zin Yoga and Wine Lounge · Garner",
-          "line": "Today"
+          "title": "HollyQuest 150th Anniversary Event",
+          "where": "Town of Holly Springs · Holly Springs",
+          "line": "Through Sep 30"
         }
       ]
     },
@@ -50,43 +50,43 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Birds and Bloomers",
-          "where": "DCP Guest Services · Cary",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Eyehategod / Whores / No/Mas",
+          "title": "Craft Club",
           "where": "Chapel of Bones · Raleigh",
-          "line": "Mon · Sep 21"
+          "line": "Tue · Sep 22"
         },
         {
-          "title": "Fortnight Run Club",
+          "title": "Florida Panthers vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Sep 22"
+        },
+        {
+          "title": "Music Bingo - Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Love Your Falls Lake",
-          "where": "Falls Lake Dam · Wake Forest",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Music Bingo Monday",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "Service Industry Night",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Mon · Sep 21"
-        },
-        {
-          "title": "No School Hangout-Morrisville 2026",
-          "where": "Cedar Fork Community Center · Morrisville",
-          "line": "Mon · Sep 21"
+          "line": "Tue · Sep 22"
         },
         {
           "title": "Pottery Mug",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Tue · Sep 22"
+        },
+        {
+          "title": "Senior Resources Fair 2026",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Tue · Sep 22"
+        },
+        {
+          "title": "Stained Glass Custom Pet Experience",
+          "where": "Wake Forest Wine & Design · Wake Forest",
+          "line": "Tue · Sep 22"
+        },
+        {
+          "title": "Stay Upright: Know your Risk, Own your Balance",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Tue · Sep 22"
+        },
+        {
+          "title": "Toddler Tuesday",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Tue · Sep 22"
         }
       ]
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 3"
         },
-        {
-          "title": "Acid Mother's Temple w/ Magick Potion",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Wed · Oct 21"
-        },
-        {
-          "title": "Artful Story Time",
-          "where": "North Carolina Museum of Art, West Building · Raleigh",
-          "line": "Wed · Oct 21"
-        },
-        {
-          "title": "Moonlit Landscape in Watercolor",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Oct 21"
-        },
-        {
-          "title": "Tai Chi: Downtown Cary Park",
-          "where": "DCP Gathering House · Cary",
-          "line": "Wed · Oct 21"
-        },
-        {
-          "title": "NC Coastal Camino Experience: Wilmington, Fort Fisher & Kure Beach Day Trip from Raleigh",
-          "where": "Parking Lot at North Main Athletic Complex · Holly Springs",
-          "line": "Oct 21 – Nov 11"
-        },
-        {
-          "title": "Free Wednesday Morning Movies",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Oct 21 – Dec 16"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "An Evening with Hank, Pattie & the Current",
           "where": "The Wake Forest Listening Room · Wake Forest",
@@ -168,6 +133,31 @@
           "title": "Pumpkin Flotilla - Pumpkin Drop Off 2026",
           "where": "Fred G. Bond Metro Park and Boathouse · Cary",
           "line": "Thu · Oct 22"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "11th Annual Zombiepalooza 2026",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Fri · Oct 23"
+        },
+        {
+          "title": "Adult Nights: Tales of Woe",
+          "where": "North Carolina Museum of Natural Sciences · Raleigh",
+          "line": "Fri · Oct 23"
+        },
+        {
+          "title": "An Evening with John Cusack and a Special Screening of Say Anything",
+          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Fri · Oct 23"
+        },
+        {
+          "title": "Bats, Bugs and Beasts",
+          "where": "DCP Guest Services · Cary",
+          "line": "Fri · Oct 23"
         },
         {
           "title": "Devine & Dexterous featuring Camille Thurman & The Christian Tamburr Quintet",
@@ -177,6 +167,16 @@
         {
           "title": "Fall & Winter Birds of Wake County",
           "where": "Morrisville Senior Center · Morrisville",
+          "line": "Fri · Oct 23"
+        },
+        {
+          "title": "Trick-or-Treat Downtown FVDA 2026",
+          "where": "Fuquay-Varina Downtown · Fuquay-Varina",
+          "line": "Fri · Oct 23"
+        },
+        {
+          "title": "Two Friends – Two Voices",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Fri · Oct 23"
         }
       ]
