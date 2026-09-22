@@ -5,27 +5,17 @@
       "label": "Today",
       "items": [
         {
-          "title": "Craft Club",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Today"
-        },
-        {
           "title": "Florida Panthers vs. Carolina Hurricanes",
           "where": "Lenovo Center · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Music Bingo - Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "GoldFord: Space of the Heart Tour",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Pottery Mug",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Senior Resources Fair 2026",
+          "title": "Morrisville Senior Resources Fair 2026",
           "where": "Morrisville Senior Center · Morrisville",
           "line": "Today"
         },
@@ -35,13 +25,23 @@
           "line": "Today"
         },
         {
-          "title": "Stay Upright: Know your Risk, Own your Balance",
-          "where": "Morrisville Senior Center · Morrisville",
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Toddler Tuesday",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo at Cary Fortnight Brewing",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo w/ DJ Ones",
+          "where": "Doherty's Irish Pub & Restaurant - Cary · Cary",
           "line": "Today"
         }
       ]
@@ -70,8 +70,8 @@
           "line": "Wed · Sep 23"
         },
         {
-          "title": "Salsa Wednesdays - Komana Brewery with Salsa4Life.com",
-          "where": "KōMANA Brewing Company · Cary",
+          "title": "CatVideoFest 2026",
+          "where": "The Cary Theater · Cary",
           "line": "Wed · Sep 23"
         },
         {
