@@ -25,6 +25,11 @@
           "line": "Today"
         },
         {
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
+          "line": "Today"
+        },
+        {
           "title": "CatVideoFest 2026",
           "where": "The Cary Theater · Cary",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Music Bingo with DJ NYCE Danger the Entertainer",
           "where": "Abbey Road Tavern & Grill - Apex · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Pub Trivia w/ DJ Ray",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
           "line": "Today"
         }
       ]
