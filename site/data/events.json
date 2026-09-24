@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "An Evening with Penelope Bourbon",
-          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
+          "title": "Autumnal Terrarium Building",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Author Talk: Richard Osman",
-          "where": "Jones Auditorium · Raleigh",
+          "title": "Brent Blakeney BACK at Goodnights Comedy Club",
+          "where": "Goodnights Comedy Club Room 861 · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Movie Night Under the Stars",
-          "where": "Sertoma Amphitheatre · Cary",
+          "title": "Candlelight Concert: Neo-Soul Favorites ft. Songs by Prince, Childish Gambino, & More",
+          "where": "The Rialto · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
+          "title": "Explore S'more",
+          "where": "Apex Nature Park Amphitheater · Apex",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "FM2FV Concert Series 2026: Smile",
+          "where": "Centennial Square · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "CatVideoFest 2026",
-          "where": "The Cary Theater · Cary",
+          "title": "ZZ Top & Dwight Yoakam: Dos Amigos Tour",
+          "where": "Koka Booth Amphitheatre · Cary",
           "line": "Today"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         },
         {
-          "title": "Music Bingo with DJ NYCE Danger the Entertainer",
-          "where": "Abbey Road Tavern & Grill - Apex · Apex",
+          "title": "NCFST Mobile Market 2026 4th Thursday",
+          "where": "Across from the Northern Regional Center · Wake Forest",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Autumnal Terrarium Building",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Thu · Sep 24"
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "Brent Blakeney BACK at Goodnights Comedy Club",
-          "where": "Goodnights Comedy Club Room 861 · Raleigh",
-          "line": "Thu · Sep 24"
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "Candlelight Concert: Neo-Soul Favorites ft. Songs by Prince, Childish Gambino, & More",
-          "where": "The Rialto · Raleigh",
-          "line": "Thu · Sep 24"
+          "title": "Brent Stimmell",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "Explore S'more",
-          "where": "Apex Nature Park Amphitheater · Apex",
-          "line": "Thu · Sep 24"
+          "title": "Caligula Blushed: A Tribute to The Smiths and Morrissey",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "FM2FV Concert Series 2026: Smile",
-          "where": "Centennial Square · Fuquay-Varina",
-          "line": "Thu · Sep 24"
+          "title": "Comedy Show: Meghan Hanley and Greg Capra",
+          "where": "The Cary Theater · Cary",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "ZZ Top & Dwight Yoakam: Dos Amigos Tour",
-          "where": "Koka Booth Amphitheatre · Cary",
-          "line": "Thu · Sep 24"
+          "title": "Jim Quick & Coastline",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Sep 24"
+          "title": "Meet the Artist Sydney Lee",
+          "where": "Page-Walker Arts and History Center · Cary",
+          "line": "Fri · Sep 25"
         },
         {
-          "title": "NCFST Mobile Market 2026 4th Thursday",
-          "where": "Across from the Northern Regional Center · Wake Forest",
-          "line": "Thu · Sep 24"
+          "title": "Shannon Baker & Sometime Soon",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Sep 25"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 3"
         },
-        {
-          "title": "An Evening of French Music: Onyx Club Boys with Sophie Dal-Pra",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Oct 24"
-        },
-        {
-          "title": "An Evening with Kathy Mattea",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Sat · Oct 24"
-        },
-        {
-          "title": "Boogie T",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Sat · Oct 24"
-        },
-        {
-          "title": "CarnEvil: A Live! Halloween Party 2026",
-          "where": "Sports & Social · Cary",
-          "line": "Sat · Oct 24"
-        },
-        {
-          "title": "Chatham Rabbits",
-          "where": "The Rialto Theatre · Raleigh",
-          "line": "Sat · Oct 24"
-        },
-        {
-          "title": "Goblin's Groove Family Dance",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Sat · Oct 24"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Author Event: The Art of Hospitality with Molly Irani, cofounder of Chai Pani",
           "where": "North Carolina Museum of Art · Raleigh",
@@ -163,6 +128,31 @@
           "title": "Watercolor: Plein Air - Sundays",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Oct 25 – Nov 1"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Bright Side's ACOTAR 6 Midnight Release Party",
+          "where": "Junction West · Raleigh",
+          "line": "Mon · Oct 26"
+        },
+        {
+          "title": "Downtown Cary Park Diwali Celebration",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Mon · Oct 26"
+        },
+        {
+          "title": "Grieves w/ Mouse Powell",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Mon · Oct 26"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Oct 26"
         },
         {
           "title": "Watercolor: Plein Air - Tuesdays",
@@ -178,6 +168,11 @@
           "title": "\"Of Blood and Bone\": Ghost Stories with Donna Washington",
           "where": "The Halle Cultural Arts Center · Apex",
           "line": "Wed · Oct 28"
+        },
+        {
+          "title": "Boo Bash Morrisville 2026",
+          "where": "Morrisville Community Park · Morrisville",
+          "line": "Thu · Oct 29"
         }
       ]
     }
