@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Autumnal Terrarium Building",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Brent Blakeney BACK at Goodnights Comedy Club",
-          "where": "Goodnights Comedy Club Room 861 · Raleigh",
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Candlelight Concert: Neo-Soul Favorites ft. Songs by Prince, Childish Gambino, & More",
-          "where": "The Rialto · Raleigh",
+          "title": "Brent Stimmell",
+          "where": "Crooked Hammock Brewery · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Explore S'more",
-          "where": "Apex Nature Park Amphitheater · Apex",
+          "title": "Caligula Blushed: A Tribute to The Smiths and Morrissey",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "FM2FV Concert Series 2026: Smile",
-          "where": "Centennial Square · Fuquay-Varina",
+          "title": "Comedy Show: Meghan Hanley and Greg Capra",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Live Music From Ashley Robinson",
-          "where": "Vino & Tap · Cary",
+          "title": "Jim Quick & Coastline",
+          "where": "Holly Springs Cultural Center · Holly Springs",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Meet the Artist Sydney Lee",
+          "where": "Page-Walker Arts and History Center · Cary",
           "line": "Today"
         },
         {
-          "title": "NCFST Mobile Market 2026 4th Thursday",
-          "where": "Across from the Northern Regional Center · Wake Forest",
+          "title": "Shannon Baker & Sometime Soon",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Fri · Sep 25"
+          "title": "AAFA Allies Fun Run and Walk",
+          "where": "Bond Park Community Center · Cary",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
-          "line": "Fri · Sep 25"
+          "title": "American Dance Festival: Made in NC Encore Performance",
+          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Brent Stimmell",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Fri · Sep 25"
+          "title": "American Theory with Half Past Dead",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Caligula Blushed: A Tribute to The Smiths and Morrissey",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Fri · Sep 25"
+          "title": "Becky Robinson: The Beasts in Me Tour",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Comedy Show: Meghan Hanley and Greg Capra",
-          "where": "The Cary Theater · Cary",
-          "line": "Fri · Sep 25"
+          "title": "Central Carolina Out of the Darkness Walk",
+          "where": "North Main Athletic Complex · Holly Springs",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Jim Quick & Coastline",
+          "title": "Holly Springs Pride Festival",
           "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Fri · Sep 25"
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Meet the Artist Sydney Lee",
-          "where": "Page-Walker Arts and History Center · Cary",
-          "line": "Fri · Sep 25"
+          "title": "Latino Arts Festival",
+          "where": "Downtown Apex · Apex",
+          "line": "Sat · Sep 26"
         },
         {
-          "title": "Shannon Baker & Sometime Soon",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Sep 25"
+          "title": "Mental Wellness Fair 2026",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sat · Sep 26"
         }
       ]
     },
@@ -104,36 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 3"
         },
-        {
-          "title": "Author Event: The Art of Hospitality with Molly Irani, cofounder of Chai Pani",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Cocktails & Cuisine Class: Ooky Spooky Halloween Cocktails",
-          "where": "The Willard Rooftop Lounge - AC Hotel Raleigh Downtown Rooftop · Raleigh",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Hocus Pocus Drag Brunch",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Legacy of Jazz: Devine and Dexterous",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Watercolor: Plein Air - Sundays",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 25 – Nov 1"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Bright Side's ACOTAR 6 Midnight Release Party",
           "where": "Junction West · Raleigh",
@@ -153,6 +123,26 @@
           "title": "Stretch and Refresh",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Mon · Oct 26"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Beer & Belly Dancing",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Boston Bruins vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "EsDeeKid - Council House Rat Tour",
+          "where": "The Ritz · Raleigh",
+          "line": "Tue · Oct 27"
         },
         {
           "title": "Watercolor: Plein Air - Tuesdays",
@@ -167,6 +157,11 @@
         {
           "title": "\"Of Blood and Bone\": Ghost Stories with Donna Washington",
           "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Wed · Oct 28"
+        },
+        {
+          "title": "Eurocult Cinema Series",
+          "where": "The Cary Theater · Cary",
           "line": "Wed · Oct 28"
         },
         {
