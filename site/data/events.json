@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "AAFA Allies Fun Run and Walk",
           "where": "Bond Park Community Center · Cary",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Latino Arts Festival",
           "where": "Downtown Apex · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Mental Wellness Fair 2026",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         }
       ]
