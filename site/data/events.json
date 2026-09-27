@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "\"A False Perspective\" Book Talk at Mordecai",
+          "where": "Mordecai Historic Park · Raleigh",
           "line": "Today"
         },
         {
-          "title": "AAFA Allies Fun Run and Walk",
-          "where": "Bond Park Community Center · Cary",
+          "title": "American Dance Festival Masterclass",
+          "where": "Cary Arts Center · Cary",
           "line": "Today"
         },
         {
-          "title": "American Dance Festival: Made in NC Encore Performance",
-          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
+          "title": "Battleship Potemkin",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "American Theory with Half Past Dead",
-          "where": "Slim's Dive Bar · Raleigh",
+          "title": "Botanical Teacup Candle Making",
+          "where": "Bloom Collective · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Becky Robinson: The Beasts in Me Tour",
-          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "title": "Good Neighbor Day- A NeighborUp Community Celebration",
+          "where": "Market Square - Sweetwater Town Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Central Carolina Out of the Darkness Walk",
-          "where": "North Main Athletic Complex · Holly Springs",
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Holly Springs Pride Festival",
-          "where": "Holly Springs Cultural Center · Holly Springs",
+          "title": "1776: The Musical",
+          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Latino Arts Festival",
-          "where": "Downtown Apex · Apex",
+          "title": "Apex Sculpture Walk",
+          "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "\"A False Perspective\" Book Talk at Mordecai",
-          "where": "Mordecai Historic Park · Raleigh",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "American Dance Festival Masterclass",
-          "where": "Cary Arts Center · Cary",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Battleship Potemkin",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Botanical Teacup Candle Making",
-          "where": "Bloom Collective · Raleigh",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Good Neighbor Day- A NeighborUp Community Celebration",
-          "where": "Market Square - Sweetwater Town Center · Apex",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sun · Sep 27"
-        },
-        {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Sun · Sep 27"
+          "title": "100BMTE Charity Golf Tournament",
+          "where": "Lochmere Golf Club · Cary",
+          "line": "Mon · Sep 28"
         },
         {
           "title": "Author Event: Eleanor Goymer",
           "where": "Page 158 Books · Wake Forest",
           "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Blue Monday Goth Night w/ Academy Order, Mostly Mesh , & DJ Ordo Amoris",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Intro to Still Life Drawing",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Nature Play Day at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "line": "Mon · Sep 28"
+        },
+        {
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Tue · Sep 29"
+        },
+        {
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Tue · Sep 29"
         }
       ]
     },
@@ -104,31 +104,6 @@
           "where": "Durham",
           "line": "Wed · Oct 7"
         },
-        {
-          "title": "Beer & Belly Dancing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Oct 27"
-        },
-        {
-          "title": "Boston Bruins vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Oct 27"
-        },
-        {
-          "title": "EsDeeKid - Council House Rat Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Tue · Oct 27"
-        },
-        {
-          "title": "Watercolor: Plein Air - Tuesdays",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 27 – Nov 3"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "\"A Little Shiver\" Kid's Show: Ghost Stories with Donna Washington",
           "where": "The Halle Cultural Arts Center · Apex",
@@ -158,15 +133,50 @@
           "title": "Harvest Cooking Demo",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Wed · Oct 28"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "Boo Bash Morrisville 2026",
           "where": "Morrisville Community Park · Morrisville",
           "line": "Thu · Oct 29"
         },
         {
+          "title": "Cary Police Department Trunk or Treat 2026",
+          "where": "Park Street · Cary",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Columbus Blue Jackets vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Doom Gong",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Tucker and Dale vs. Evil",
+          "where": "The Cary Theater · Cary",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "The House Band",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Oct 29 – Dec 12"
+        },
+        {
           "title": "An Evening with Murry Attaway, Don Dixon & Peter Holsapple",
           "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Jeki Yoo Magician",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Fri · Oct 30"
         }
       ]
