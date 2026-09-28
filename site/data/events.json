@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "\"A False Perspective\" Book Talk at Mordecai",
-          "where": "Mordecai Historic Park · Raleigh",
+          "title": "100BMTE Charity Golf Tournament",
+          "where": "Lochmere Golf Club · Cary",
           "line": "Today"
         },
         {
-          "title": "American Dance Festival Masterclass",
-          "where": "Cary Arts Center · Cary",
+          "title": "Author Event: Eleanor Goymer",
+          "where": "Page 158 Books · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Battleship Potemkin",
-          "where": "The Cary Theater · Cary",
+          "title": "Blue Monday Goth Night w/ Academy Order, Mostly Mesh , & DJ Ordo Amoris",
+          "where": "Chapel of Bones · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Botanical Teacup Candle Making",
-          "where": "Bloom Collective · Raleigh",
+          "title": "Fortnight Run Club",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Good Neighbor Day- A NeighborUp Community Celebration",
-          "where": "Market Square - Sweetwater Town Center · Apex",
+          "title": "Intro to Still Life Drawing",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "1776: The Musical",
-          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
+          "title": "Nature Play Day at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
           "line": "Today"
         },
         {
           "title": "Apex Sculpture Walk",
           "where": "Town of Apex Welcome Center · Apex",
           "line": "Today"
+        },
+        {
+          "title": "HollyQuest 150th Anniversary Event",
+          "where": "Town of Holly Springs · Holly Springs",
+          "line": "Through Sep 30"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "100BMTE Charity Golf Tournament",
-          "where": "Lochmere Golf Club · Cary",
-          "line": "Mon · Sep 28"
+          "title": "Book Signing With Anne Brennan",
+          "where": "Vino & Tap · Cary",
+          "line": "Tue · Sep 29"
         },
         {
-          "title": "Author Event: Eleanor Goymer",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Mon · Sep 28"
+          "title": "Florida Panthers vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Sep 29"
         },
         {
-          "title": "Blue Monday Goth Night w/ Academy Order, Mostly Mesh , & DJ Ordo Amoris",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Mon · Sep 28"
+          "title": "Turnstile",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Tue · Sep 29"
         },
         {
-          "title": "Fortnight Run Club",
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Tue · Sep 29"
+        },
+        {
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Tue · Sep 29"
+        },
+        {
+          "title": "Music Bingo at Cary Fortnight Brewing",
           "where": "Fortnight Brewing Company · Cary",
-          "line": "Mon · Sep 28"
+          "line": "Tue · Sep 29"
         },
         {
-          "title": "Intro to Still Life Drawing",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Mon · Sep 28"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Sep 29"
         },
         {
-          "title": "Nature Play Day at NCMA",
-          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
-          "line": "Mon · Sep 28"
-        },
-        {
-          "title": "Seniors Without Walls Program - Chair Aerobics",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Sep 28 – Oct 15"
-        },
-        {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Sep 28 – Oct 26"
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
+          "line": "Tue · Sep 29"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Wed · Oct 7"
         },
-        {
-          "title": "\"A Little Shiver\" Kid's Show: Ghost Stories with Donna Washington",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "\"Of Blood and Bone\": Ghost Stories with Donna Washington",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Eurocult Cinema Series",
-          "where": "The Cary Theater · Cary",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Forging II",
-          "where": "ShopSpace · Raleigh",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Grace Helbig & Mamrie Hart",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Harvest Cooking Demo",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Oct 28"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Boo Bash Morrisville 2026",
           "where": "Morrisville Community Park · Morrisville",
@@ -168,15 +133,50 @@
           "title": "Tucker and Dale vs. Evil",
           "where": "The Cary Theater · Cary",
           "line": "Thu · Oct 29"
-        },
-        {
-          "title": "The House Band",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Oct 29 – Dec 12"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "An Evening with Murry Attaway, Don Dixon & Peter Holsapple",
           "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Blood on the Clock Tower",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
+          "where": "The Ritz · Raleigh",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Fall Fest featuring Epic Live 2026",
+          "where": "The Shepherd's Church · Cary",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Jeki Yoo Magician",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Kick or Treat the Trail",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Lords of Acid: Cheeky Freaky Tour w/ Princess Superstar / Tony & The Kiki / Mz Neon",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Fri · Oct 30"
+        },
+        {
+          "title": "Of Blood and Bone",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Fri · Oct 30"
         }
       ]
