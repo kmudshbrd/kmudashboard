@@ -5,33 +5,18 @@
       "label": "Today",
       "items": [
         {
-          "title": "100BMTE Charity Golf Tournament",
-          "where": "Lochmere Golf Club · Cary",
+          "title": "Book Signing With Anne Brennan",
+          "where": "Vino & Tap · Cary",
           "line": "Today"
         },
         {
-          "title": "Author Event: Eleanor Goymer",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Florida Panthers vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Blue Monday Goth Night w/ Academy Order, Mostly Mesh , & DJ Ordo Amoris",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Fortnight Run Club",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Intro to Still Life Drawing",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Nature Play Day at NCMA",
-          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "title": "Turnstile",
+          "where": "Red Hat Amphitheater · Raleigh",
           "line": "Today"
         },
         {
@@ -40,9 +25,24 @@
           "line": "Today"
         },
         {
-          "title": "HollyQuest 150th Anniversary Event",
-          "where": "Town of Holly Springs · Holly Springs",
-          "line": "Through Sep 30"
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo at Cary Fortnight Brewing",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Today"
+        },
+        {
+          "title": "Zin RUN/Walk Club",
+          "where": "Zin Yoga & Wine · Garner",
+          "line": "Today"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Book Signing With Anne Brennan",
-          "where": "Vino & Tap · Cary",
-          "line": "Tue · Sep 29"
+          "title": "Biodegradable Yard Waste Bag Giveaway - Buffaloe Road Athletic Park",
+          "where": "Buffaloe Road Athletic Park · Raleigh",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Florida Panthers vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Sep 29"
+          "title": "Courageous Conversations: The Church and Political Exhaustion",
+          "where": "Baptist Grove Church · Raleigh",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Turnstile",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Tue · Sep 29"
+          "title": "Dandiya & Garba: Craft + Dance Workshop",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Tue · Sep 29"
+          "title": "Energies Are Shifting; An Evening of Yoga, Journaling, Tea & Conversation",
+          "where": "Fred Fletcher Park · Cary",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
-          "line": "Tue · Sep 29"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Music Bingo at Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Sep 29"
+          "title": "PACE: Care that Keeps you Home",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Sep 29"
+          "title": "Seniors Without Walls Program - Trivia",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Wed · Sep 30"
         },
         {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
-          "line": "Tue · Sep 29"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Wed · Sep 30"
         }
       ]
     },
@@ -95,50 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
-          "where": "Durham",
-          "line": "Tue · Oct 6"
-        },
-        {
           "title": "Kenny Wayne Shepherd Band",
           "where": "Durham",
           "line": "Wed · Oct 7"
         },
         {
-          "title": "Boo Bash Morrisville 2026",
-          "where": "Morrisville Community Park · Morrisville",
-          "line": "Thu · Oct 29"
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Oct 9"
         },
-        {
-          "title": "Cary Police Department Trunk or Treat 2026",
-          "where": "Park Street · Cary",
-          "line": "Thu · Oct 29"
-        },
-        {
-          "title": "Columbus Blue Jackets vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Thu · Oct 29"
-        },
-        {
-          "title": "Doom Gong",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Thu · Oct 29"
-        },
-        {
-          "title": "Seniors Without Walls Program - Sip-n-Paint w/ Humana",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Thu · Oct 29"
-        },
-        {
-          "title": "Tucker and Dale vs. Evil",
-          "where": "The Cary Theater · Cary",
-          "line": "Thu · Oct 29"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "An Evening with Murry Attaway, Don Dixon & Peter Holsapple",
           "where": "The Wake Forest Listening Room · Wake Forest",
@@ -168,16 +133,51 @@
           "title": "Kick or Treat the Trail",
           "where": "Knightdale Station Park · Knightdale",
           "line": "Fri · Oct 30"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Art and Blooms at the JCRA",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "line": "Sat · Oct 31"
         },
         {
-          "title": "Lords of Acid: Cheeky Freaky Tour w/ Princess Superstar / Tony & The Kiki / Mz Neon",
+          "title": "Bands & Babes: Halloween!",
           "where": "Chapel of Bones · Raleigh",
-          "line": "Fri · Oct 30"
+          "line": "Sat · Oct 31"
         },
         {
-          "title": "Of Blood and Bone",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Fri · Oct 30"
+          "title": "Fuquay-Varina Fire Department Annual Open House 2026",
+          "where": "Town of Fuquay-Varina · Fuquay-Varina",
+          "line": "Sat · Oct 31"
+        },
+        {
+          "title": "Halloween Show with the SnoFlakes, You Me and Kyle and special guest TBA",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Sat · Oct 31"
+        },
+        {
+          "title": "HollyFest 2026",
+          "where": "Jefferson L. Sugg Farm Park at Bass Lake · Holly Springs",
+          "line": "Sat · Oct 31"
+        },
+        {
+          "title": "Spiderweb Stained Glass Workshop",
+          "where": "Cary Wine & Design · Cary",
+          "line": "Sat · Oct 31"
+        },
+        {
+          "title": "Travelin Band CCR Halloween Bash",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Sat · Oct 31"
+        },
+        {
+          "title": "Trick or Treat the Trail",
+          "where": "White Deer Park · Garner",
+          "line": "Sat · Oct 31"
         }
       ]
     }
