@@ -100,11 +100,6 @@
           "line": "Fri · Oct 9"
         },
         {
-          "title": "Trombone Shorty & Orleans Avenue",
-          "where": "Durham",
-          "line": "Tue · Oct 13"
-        },
-        {
           "title": "Art and Blooms at the JCRA",
           "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
           "line": "Sat · Oct 31"
@@ -120,6 +115,11 @@
           "line": "Sat · Oct 31"
         },
         {
+          "title": "Halloween 2026",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "line": "Sat · Oct 31"
+        },
+        {
           "title": "Halloween Show with the SnoFlakes, You Me and Kyle and special guest TBA",
           "where": "Bond Brothers Eastside · Cary",
           "line": "Sat · Oct 31"
@@ -130,8 +130,8 @@
           "line": "Sat · Oct 31"
         },
         {
-          "title": "Spiderweb Stained Glass Workshop",
-          "where": "Cary Wine & Design · Cary",
+          "title": "Travelin Band CCR Halloween Bash",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Sat · Oct 31"
         }
       ]
