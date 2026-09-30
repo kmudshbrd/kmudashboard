@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Book Signing With Anne Brennan",
-          "where": "Vino & Tap · Cary",
+          "title": "Biodegradable Yard Waste Bag Giveaway - Buffaloe Road Athletic Park",
+          "where": "Buffaloe Road Athletic Park · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Florida Panthers vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
+          "title": "Box Making for Beginners",
+          "where": "ShopSpace · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Turnstile",
-          "where": "Red Hat Amphitheater · Raleigh",
+          "title": "Dandiya & Garba: Craft + Dance Workshop",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Energies Are Shifting; An Evening of Yoga, Journaling, Tea & Conversation",
+          "where": "Fred Fletcher Park · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "PACE: Care that Keeps you Home",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Today"
+        },
+        {
+          "title": "Seniors Without Walls Program - Trivia",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
           "line": "Today"
         },
         {
           "title": "Apex Sculpture Walk",
           "where": "Town of Apex Welcome Center · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Music Bingo at Cary Fortnight Brewing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Today"
-        },
-        {
-          "title": "Zin RUN/Walk Club",
-          "where": "Zin Yoga & Wine · Garner",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Biodegradable Yard Waste Bag Giveaway - Buffaloe Road Athletic Park",
-          "where": "Buffaloe Road Athletic Park · Raleigh",
-          "line": "Wed · Sep 30"
+          "title": "Anthony Rodia",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Thu · Oct 1"
         },
         {
-          "title": "Courageous Conversations: The Church and Political Exhaustion",
-          "where": "Baptist Grove Church · Raleigh",
-          "line": "Wed · Sep 30"
+          "title": "Carrellee / Feyleux / Idol Talk / Saiph",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Thu · Oct 1"
         },
         {
-          "title": "Dandiya & Garba: Craft + Dance Workshop",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Sep 30"
+          "title": "Celebrate Fuquay-Varina Concert 2026",
+          "where": "Downtown Varina District · Fuquay-Varina",
+          "line": "Thu · Oct 1"
         },
         {
-          "title": "Energies Are Shifting; An Evening of Yoga, Journaling, Tea & Conversation",
-          "where": "Fred Fletcher Park · Cary",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "PACE: Care that Keeps you Home",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Sep 30"
-        },
-        {
-          "title": "Seniors Without Walls Program - Trivia",
+          "title": "Seniors Without Walls Program - Smartphone Skills",
           "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Wed · Sep 30"
+          "line": "Thu · Oct 1"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Wed · Sep 30"
+          "title": "Stanley Cup Visits Knightdale",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Thu · Oct 1"
+        },
+        {
+          "title": "Sustainability Tour",
+          "where": "South Cary Water Reclamation Facility · Apex",
+          "line": "Thu · Oct 1"
+        },
+        {
+          "title": "CatVideoFest 2026",
+          "where": "The Cary Theater · Cary",
+          "line": "Thu · Oct 1"
+        },
+        {
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Oct 1"
         }
       ]
     },
@@ -95,50 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Kenny Wayne Shepherd Band",
-          "where": "Durham",
-          "line": "Wed · Oct 7"
-        },
-        {
           "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
           "line": "Fri · Oct 9"
         },
         {
-          "title": "An Evening with Murry Attaway, Don Dixon & Peter Holsapple",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Oct 30"
+          "title": "Trombone Shorty & Orleans Avenue",
+          "where": "Durham",
+          "line": "Tue · Oct 13"
         },
-        {
-          "title": "Blood on the Clock Tower",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Fri · Oct 30"
-        },
-        {
-          "title": "DJ CD Halloween Party",
-          "where": "Tap Yard Raleigh · Raleigh",
-          "line": "Fri · Oct 30"
-        },
-        {
-          "title": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
-          "where": "The Ritz · Raleigh",
-          "line": "Fri · Oct 30"
-        },
-        {
-          "title": "Fall Fest featuring Epic Live 2026",
-          "where": "The Shepherd's Church · Cary",
-          "line": "Fri · Oct 30"
-        },
-        {
-          "title": "Jeki Yoo Magician",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Fri · Oct 30"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Art and Blooms at the JCRA",
           "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
@@ -168,16 +133,51 @@
           "title": "Spiderweb Stained Glass Workshop",
           "where": "Cary Wine & Design · Cary",
           "line": "Sat · Oct 31"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "404Blac: Back for Tha First Time",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Travelin Band CCR Halloween Bash",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Sat · Oct 31"
+          "title": "Donovan Harrell w/ Strangers Until Now, Kylah Leshon, Deandre Thorpe",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Trick or Treat the Trail",
-          "where": "White Deer Park · Garner",
-          "line": "Sat · Oct 31"
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
+          "line": "Sun · Nov 1"
+        },
+        {
+          "title": "NC Courage vs Denver Summit FC",
+          "where": "WakeMed Soccer Park · Cary",
+          "line": "Sun · Nov 1"
+        },
+        {
+          "title": "Pirates and Mermaids Holiday Market with Haven Farm",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Sun · Nov 1"
+        },
+        {
+          "title": "Media Explorations",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Nov 3 – Nov 24"
+        },
+        {
+          "title": "Estate Planning Made Easy",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Nov 4"
+        },
+        {
+          "title": "Friends Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Nov 4"
         }
       ]
     }
