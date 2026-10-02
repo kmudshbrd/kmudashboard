@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Anthony Rodia",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Carrellee / Feyleux / Idol Talk / Saiph",
-          "where": "Chapel of Bones · Raleigh",
+          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190",
+          "where": "Wake County Speedway · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Celebrate Fuquay-Varina Concert 2026",
-          "where": "Downtown Varina District · Fuquay-Varina",
+          "title": "Anupam Kher and Swaroop Sampat Live in Hindi Play",
+          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Smartphone Skills",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "title": "Charlie Oakley & Blazin' Grass",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Today"
         },
         {
-          "title": "Stanley Cup Visits Knightdale",
-          "where": "Knightdale Station Park · Knightdale",
+          "title": "Emo Night: Deadly Devotion Stained Glass Date",
+          "where": "Wake Forest Wine & Design · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Sustainability Tour",
-          "where": "South Cary Water Reclamation Facility · Apex",
+          "title": "Gravity Shift",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
           "line": "Today"
         },
         {
-          "title": "Apex Sculpture Walk",
-          "where": "Town of Apex Welcome Center · Apex",
+          "title": "Hand build an Oktoberfest Beer Stein",
+          "where": "Fortnight Brewing Co · Cary",
           "line": "Today"
         },
         {
-          "title": "CatVideoFest 2026",
-          "where": "The Cary Theater · Cary",
+          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         }
       ]
@@ -50,84 +50,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "Phoenix Fest",
           "where": "Durham",
-          "line": "Fri · Oct 2"
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190",
-          "where": "Wake County Speedway · Raleigh",
-          "line": "Fri · Oct 2"
+          "title": "North Durham Farmers' Market",
+          "where": "Durham",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Anupam Kher and Swaroop Sampat Live in Hindi Play",
-          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Fri · Oct 2"
+          "title": "Faust, by Invincible Czars",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Charlie Oakley & Blazin' Grass",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Oct 2"
+          "title": "5th Time Around Live at Tap Yard",
+          "where": "Tap Yard House · Raleigh",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Emo Night: Deadly Devotion Stained Glass Date",
-          "where": "Wake Forest Wine & Design · Wake Forest",
-          "line": "Fri · Oct 2"
+          "title": "98th Annual Wendell Harvest Festival",
+          "where": "Wendell",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Gravity Shift",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
-          "line": "Fri · Oct 2"
+          "title": "Audiobook Walk",
+          "where": "Fenton Square by Paragon Theaters · Cary",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Hand build an Oktoberfest Beer Stein",
-          "where": "Fortnight Brewing Co · Cary",
-          "line": "Fri · Oct 2"
+          "title": "Autumn Goat’s Milk Soap Workshop",
+          "where": "The Workshop · Cary",
+          "line": "Sat · Oct 3"
         },
         {
-          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Oct 2"
+          "title": "Celebrate Fuquay-Varina Festival 2026",
+          "where": "Town of Fuquay-Varina · Fuquay-Varina",
+          "line": "Sat · Oct 3"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Fri · Oct 9"
-        },
-        {
-          "title": "404Blac: Back for Tha First Time",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Sun · Nov 1"
-        },
-        {
-          "title": "Donovan Harrell w/ Strangers Until Now, Kylah Leshon, Deandre Thorpe",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Sun · Nov 1"
-        },
-        {
-          "title": "Hoosiers - 40th Anniversay",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Nov 1"
-        },
-        {
-          "title": "NC Courage Pre-Match Party",
-          "where": "Sports & Social · Cary",
-          "line": "Sun · Nov 1"
-        },
-        {
-          "title": "Pirates and Mermaids Holiday Market with Haven Farm",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Sun · Nov 1"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "Movements - Happier Now USA Tour",
@@ -148,11 +113,31 @@
           "title": "Stretch and Refresh",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Mon · Nov 2"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Cocktail Class at Boatman Spirits - Punch Me",
+          "where": "Boatman Spirits Co. · Raleigh",
+          "line": "Tue · Nov 3"
+        },
+        {
+          "title": "Motionless In White",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Nov 3"
         },
         {
           "title": "Media Explorations",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Nov 3 – Nov 24"
+        },
+        {
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
+          "line": "Wed · Nov 4"
         },
         {
           "title": "Estate Planning Made Easy",
@@ -162,6 +147,11 @@
         {
           "title": "Friends Trivia Night",
           "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Nov 4"
+        },
+        {
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
           "line": "Wed · Nov 4"
         },
         {
