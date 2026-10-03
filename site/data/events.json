@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "Phoenix Fest",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Capital Chevrolet 190",
-          "where": "Wake County Speedway · Raleigh",
+          "title": "North Durham Farmers' Market",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Anupam Kher and Swaroop Sampat Live in Hindi Play",
-          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
+          "title": "Faust, by Invincible Czars",
+          "where": "The Rialto Theatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Charlie Oakley & Blazin' Grass",
-          "where": "Lorraine's Coffee House and Music · Garner",
+          "title": "Triangle Oktoberfest",
+          "where": "Cary",
           "line": "Today"
         },
         {
-          "title": "Emo Night: Deadly Devotion Stained Glass Date",
-          "where": "Wake Forest Wine & Design · Wake Forest",
+          "title": "5th Time Around Live at Tap Yard",
+          "where": "Tap Yard House · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Funk Infusion",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "98th Annual Wendell Harvest Festival",
+          "where": "Wendell",
           "line": "Today"
         },
         {
-          "title": "Gravity Shift",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "title": "Audiobook Walk",
+          "where": "Fenton Square by Paragon Theaters · Cary",
           "line": "Today"
         },
         {
-          "title": "Jason Adamo Presents North Carolina Songwriters in the Round",
-          "where": "The Wake Forest Listening Room · Wake Forest",
+          "title": "Celebrate Fuquay-Varina Festival 2026",
+          "where": "Town of Fuquay-Varina · Fuquay-Varina",
           "line": "Today"
         }
       ]
@@ -50,74 +50,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Phoenix Fest",
+          "title": "Move-A-Bull City Open Streets",
           "where": "Durham",
-          "line": "Sat · Oct 3"
+          "line": "Sun · Oct 4"
         },
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
-          "line": "Sat · Oct 3"
+          "title": "Andy Frasco & The U.N",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Sun · Oct 4"
         },
         {
-          "title": "Faust, by Invincible Czars",
-          "where": "The Rialto Theatre · Raleigh",
-          "line": "Sat · Oct 3"
+          "title": "Applause! Good Dogs and Lucky Dogs",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Sun · Oct 4"
         },
         {
-          "title": "5th Time Around Live at Tap Yard",
-          "where": "Tap Yard House · Raleigh",
-          "line": "Sat · Oct 3"
+          "title": "AyoDylan w/ Pinkfield, Fusebox",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Sun · Oct 4"
         },
         {
-          "title": "98th Annual Wendell Harvest Festival",
-          "where": "Wendell",
-          "line": "Sat · Oct 3"
+          "title": "Jane Don’t Does America",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Oct 4"
         },
         {
-          "title": "Audiobook Walk",
-          "where": "Fenton Square by Paragon Theaters · Cary",
-          "line": "Sat · Oct 3"
+          "title": "Ponder Parade of Homes 2026",
+          "where": "Ponder · Wendell",
+          "line": "Oct 4 – Oct 18"
         },
         {
-          "title": "Autumn Goat’s Milk Soap Workshop",
-          "where": "The Workshop · Cary",
-          "line": "Sat · Oct 3"
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Oct 4 – Dec 27"
         },
         {
-          "title": "Celebrate Fuquay-Varina Festival 2026",
-          "where": "Town of Fuquay-Varina · Fuquay-Varina",
-          "line": "Sat · Oct 3"
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Oct 4 – Dec 27"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "Movements - Happier Now USA Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Mon · Nov 2"
-        },
-        {
-          "title": "NC State Men's Basketball vs. Campbell",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Mon · Nov 2"
-        },
-        {
-          "title": "Drop-in Puzzling and Puzzle Swap Meet",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 2"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 2"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "Cocktail Class at Boatman Spirits - Punch Me",
@@ -133,10 +108,25 @@
           "title": "Media Explorations",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Nov 3 – Nov 24"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Wed · Nov 4"
         },
         {
           "title": "Build Your Own Lasagna Planter",
           "where": "DCP Gathering Garden · Cary",
+          "line": "Wed · Nov 4"
+        },
+        {
+          "title": "Caiola",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Wed · Nov 4"
         },
         {
@@ -157,6 +147,11 @@
         {
           "title": "Veterans Day Celebration Zebulon 2026",
           "where": "Zebulon Town Hall. Rain Site Zebulon Community Center · Zebulon",
+          "line": "Wed · Nov 4"
+        },
+        {
+          "title": "Thanksgiving BINGO",
+          "where": "Zebulon Community Center · Zebulon",
           "line": "Wed · Nov 4"
         }
       ]
