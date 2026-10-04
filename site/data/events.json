@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Phoenix Fest",
+          "title": "Move-A-Bull City Open Streets",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
+          "title": "Andy Frasco & The U.N",
+          "where": "Lincoln Theatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Faust, by Invincible Czars",
-          "where": "The Rialto Theatre · Raleigh",
+          "title": "Applause! Good Dogs and Lucky Dogs",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Triangle Oktoberfest",
-          "where": "Cary",
+          "title": "AyoDylan w/ Pinkfield, Fusebox",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "5th Time Around Live at Tap Yard",
-          "where": "Tap Yard House · Raleigh",
+          "title": "Jane Don’t Does America",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "98th Annual Wendell Harvest Festival",
-          "where": "Wendell",
+          "title": "Misery",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Audiobook Walk",
-          "where": "Fenton Square by Paragon Theaters · Cary",
+          "title": "Mystery Theater - A Haunting in Holly Springs",
+          "where": "Holly Springs Cultural Center · Holly Springs",
           "line": "Today"
         },
         {
-          "title": "Celebrate Fuquay-Varina Festival 2026",
-          "where": "Town of Fuquay-Varina · Fuquay-Varina",
-          "line": "Today"
+          "title": "\"Drinking Habits\" Fall Play",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Through Oct 11"
         }
       ]
     },
@@ -50,69 +50,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Move-A-Bull City Open Streets",
-          "where": "Durham",
-          "line": "Sun · Oct 4"
+          "title": "Amyl and the Sniffers",
+          "where": "The Ritz · Raleigh",
+          "line": "Mon · Oct 5"
         },
         {
-          "title": "Andy Frasco & The U.N",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Sun · Oct 4"
+          "title": "Fall Back Vintage Market 2026",
+          "where": "Salvage Yard · Raleigh",
+          "line": "Mon · Oct 5"
         },
         {
-          "title": "Applause! Good Dogs and Lucky Dogs",
+          "title": "Memorial Flag-Raising Ceremonies 2026",
+          "where": "Centennial Plaza · Wake Forest",
+          "line": "Mon · Oct 5"
+        },
+        {
+          "title": "National Night Out 2026",
+          "where": "E. Carroll Joyner Park · Wake Forest",
+          "line": "Mon · Oct 5"
+        },
+        {
+          "title": "Stretch and Refresh at Downtown Cary Park",
           "where": "DCP Academy Pavilion · Cary",
-          "line": "Sun · Oct 4"
+          "line": "Mon · Oct 5"
         },
         {
-          "title": "AyoDylan w/ Pinkfield, Fusebox",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Sun · Oct 4"
+          "title": "Seniors Without Walls Program - Adult Fitness",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Oct 5 – Oct 22"
         },
         {
-          "title": "Jane Don’t Does America",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sun · Oct 4"
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Oct 5 – Oct 26"
         },
         {
-          "title": "Ponder Parade of Homes 2026",
-          "where": "Ponder · Wendell",
-          "line": "Oct 4 – Oct 18"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Oct 4 – Dec 27"
-        },
-        {
-          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Oct 4 – Dec 27"
+          "title": "Make & Take: A Full Day of Wood Turning",
+          "where": "Rockler Woodworking & Hardware · Cary",
+          "line": "Oct 5 – Oct 31"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "Cocktail Class at Boatman Spirits - Punch Me",
-          "where": "Boatman Spirits Co. · Raleigh",
-          "line": "Tue · Nov 3"
-        },
-        {
-          "title": "Motionless In White",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Nov 3"
-        },
-        {
-          "title": "Media Explorations",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Nov 3 – Nov 24"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
@@ -153,6 +133,51 @@
           "title": "Thanksgiving BINGO",
           "where": "Zebulon Community Center · Zebulon",
           "line": "Wed · Nov 4"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Ashley Cooke: The Baby Blues Tour",
+          "where": "The Ritz · Raleigh",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "Big Shrimp",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "Friendsgiving! Festive Dishes Demo",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "Karaoke with Doug",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "Zumba",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "Beginner Photography",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Nov 5 – Nov 19"
+        },
+        {
+          "title": "An Evening with Carrie Welling",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "Comedian John Floyd",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Fri · Nov 6"
         }
       ]
     }
