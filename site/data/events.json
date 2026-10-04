@@ -95,6 +95,16 @@
       "label": "This Month",
       "items": [
         {
+          "title": "Trombone Shorty & Orleans Avenue",
+          "where": "Durham",
+          "line": "Tue · Oct 13"
+        },
+        {
+          "title": "Scott Bradlee’s Postmodern Jukebox – The Future is Vintage World Tour",
+          "where": "Durham",
+          "line": "Thu · Oct 15"
+        },
+        {
           "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
           "where": "Chapel of Bones · Raleigh",
           "line": "Wed · Nov 4"
@@ -122,16 +132,6 @@
         {
           "title": "Hoosiers - 40th Anniversay",
           "where": "The Cary Theater · Cary",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Veterans Day Celebration Zebulon 2026",
-          "where": "Zebulon Town Hall. Rain Site Zebulon Community Center · Zebulon",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Thanksgiving BINGO",
-          "where": "Zebulon Community Center · Zebulon",
           "line": "Wed · Nov 4"
         }
       ]
