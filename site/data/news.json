@@ -6,40 +6,40 @@
       "color": "var(--dial-slate)",
       "stories": [
         {
+          "title": "What to Know About the Medical Plane That Went Missing Near Nantucket",
+          "source": "The New York Times",
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkZqTmhKZkdWbk13S2x1UlZCNXllbXdIdUtGMTYxYjd6Z3gxYWNwVE1uVlN3cTJ1RDVMRkhlVG1obDBHOWc5OFZNYjN4eDA5RnNXMGdLVVNPc0xPd3NLbjdkNjl5ODVjbXFBV3V6NVZwZkI0cFZrWWdoUWZSWWozZUZXY2NjanJhS0puRDNHLWQ?oc=5"
+        },
+        {
+          "title": "Christa Pike still in critical condition after botched execution, lawyer says",
+          "source": "The Washington Post",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR09yTDhhX3BhNF9UbW0zQ3BFZy15OERYenpxVFFIVE9mbTVRUHFyYWNmUEVXOXEza051ODcwZG5NbEF2YndoVWNmeDk4UnpScXNfSFpJYkp5OEt1VjI2NTN6WHJ2UEtWelg3Sk1JeVUxemRrVTZHc0oxWUlfX2dzVXI2SGRlTmpUYjJyV28yeEYyT2hBRDB4WURCLUNsTlhha3hNT1NGMDVld0NCcU9BN1JwTVVLVTBpZzdKSE95RW4?oc=5"
+        },
+        {
+          "title": "Poll: Latino voters swing away from Trump and Republicans",
+          "source": "NBC News",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXlfWTJtUE1HbjliSG9zeWc4QlhUUzlrRkZJX1lBdXh0dVpkamcwblBka1g1S1kwdE5nWlJLbGtzbG1vZmlCdll6VXhNcWtNQ1JkdngtOWctZlh0LXo1MkVpTFhjZGZQVUI0cFNTVHctVkFjcEl0QjU0Qlh3Zk00ZnpLb1dNVlkyZk9TckM3azlGZ2tBY1RiUFVrQnBUeVczdUlJenlvZG5TRjlPMHBNUVZ0WnVpWEczTThZ?oc=5"
+        },
+        {
           "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
           "source": "The Guardian",
           "time": "1h ago",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0NxOGtWRDBIZDRNVHEyU2stQnoyYnJwNVR0Si1RN1BKbW9qVmVxODBwSVV4RFdRNkJldHpMSURFZkE3OUIyWEJSY3puemF1b1B0SF95SHM4ZHgwdm9IYnhiaVA3WVRfX2FqX0N2WmI1MEVsbzR3eXRyM1ZCNWxIRXR6QmViaTVacXhJeTZUT2VJNVpteDhodk04VnlKY2poT0pfZXBibVV6aDRVUlhjVWtsNGtmb0lRWEdNNzZKOA?oc=5"
         },
         {
-          "title": "What to Know About the Medical Plane That Went Missing Near Nantucket",
-          "source": "The New York Times",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkZqTmhKZkdWbk13S2x1UlZCNXllbXdIdUtGMTYxYjd6Z3gxYWNwVE1uVlN3cTJ1RDVMRkhlVG1obDBHOWc5OFZNYjN4eDA5RnNXMGdLVVNPc0xPd3NLbjdkNjl5ODVjbXFBV3V6NVZwZkI0cFZrWWdoUWZSWWozZUZXY2NjanJhS0puRDNHLWQ?oc=5"
-        },
-        {
-          "title": "Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution",
-          "source": "PBS",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWxhQnA0b2dBMzR5N2R0el9USEJBWUdKanBUVHZXYnZGeVRuOXhGZC1VeWg1RXprUGxKaGcyRkN4cU9KU196d1pMeU5sY09qenhkQ3NleXRYdG9VYlBhQTlaRy1KOWFnZlZCd0hYZHRKUmNyeXdHVklURHhrTTBkNF9wNkQ3ejFqMVBtOGg2RTN4OUt4MWtOMV93clVzZjVfMk85cGRQNm5yeExRc0FOem5HeGxIbFhSRkUzMDlnMHA5OElYMTZrVjdaRkZsUQ?oc=5"
-        },
-        {
-          "title": "Buttigieg goes big to help 2026 Dems",
+          "title": "Trump is putting a generation of young judges on the bench — for life",
           "source": "politico.com",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFBMUXpvTkdCWmFTSHd0OWlEb2Z4OTNNZ25tME1BR1JGUHRjQjRiLTNHZlRwNDUwOVdrWWhLWm5XcWpKUkxBcG04Z0JtaVNkTENXNFZBOG5GYjg0Nm9nZ3BoODFmSF9fQUJFcFlpcmdvWGtyU1d2TFRtYTFNdTdmOQ?oc=5"
+        },
+        {
+          "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+          "source": "NPR",
           "time": "4h ago",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2ljUjdGRTI1YjFFZ1oyVjdrb0FMNHBhU1piU09rbFd2cUhkMzRLTl9OaFdJR0htN08yMUJacjlKaFZ1dHcyVHk5Q05wQ3dmZC1MWWxKX1oyb0ZGV1ZLZkE1Szhsd2xEMjBOeXl2QjdiX0hZVzNwVTZMbjByOE9uNS1kdlJ5dG4tNjNVbXp6M3FBWGs?oc=5"
-        },
-        {
-          "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-          "source": "Al Jazeera",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmpkdFV0ZDVROWFQb09hUlFCVlN1NlJiODRqMHo1d1ZQcnFHQWJlR0FjWjhTV09FVFlKUXM0MnU4RWRMRE5COHdMNWNBbHh5dGNtQ3ZhUDU0MzJvSkdnbHBRczNhMU8wNUU5N2twTWZrcHpaZFZoUUVyUURxMW5lMm02Z2U3NllPTTZ0V3N4TjBDaG5CUEFadk00WmxSWHJzd2tFRjR4ZTB0X0pidVBURWlDQ1TSAboBQVVfeXFMUGhtUFQtdl9Wcm9aRnl4ckt5ekxDaTVzNkVGUHBLVVBQeGNPbjVpU0VGRmhuV2VNSHZxaXNncHlzenB3N2kxcHJFX0EwYWp4ck03V3B4WnFidVR4dFAydDBidmJONzVrSnhyWDVLVW84SXBHTHhiZG1heHlzZ0pXV1QxbWxtSHhsLVhkcmY3Z3RFeGZiWFhuZy1aZlRoZjVycFc5cXEtRF9kZTlEYklBYnZ3WkttOXVMMHB3?oc=5"
-        },
-        {
-          "title": "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown",
-          "source": "The Washington Post",
-          "time": "0h ago",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa19adU9sV0V4bFFRV1BZYlJySTRjbURpekNybjFtZWIzQ3h6LWJrdXRoVG5nSGlMaTh0QlJRZkYwYWczR1JNejNIZ0wwYkFETDhPMVp2c1RrRlhqNFVyMDR1OHJIajljMkgzSEVwOUtEMXY3S2N5UE5KWFpZNExLelNIN0hUSjZhRWRaS0dMd0U0WndnMXpZWjk4UDhGR0daLS1ZV2xUMDBPREJTT3d3VFZKU1FyUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XcWRJLUVQZ3ZVTDhReFJONG1jSmtyWkRKbDNWeGJLVEpuRHZNdGUxa0JjN0I5Vnc3S1VVakJaLWlaZS1oT3RhTXA0LWhHdEczTUd4bTlTa2lCU2NHMzRBaG9DTFBENUwtNlFkeE5HdkRWNDVodWFoUnhn?oc=5"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "color": "var(--dial-blush)",
       "stories": [
         {
-          "title": "Protests intensify in India over demands for election chief to quit",
-          "source": "Reuters",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5"
-        },
-        {
-          "title": "AISA Claims Neha Bora Detained During Protest, Released Without Phone, Bag",
-          "source": "NDTV",
-          "time": "4h ago",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDZPSU9JTUNSajVsZHdkaHB5YWVLZHE2Q3JCS1FRaWJ4V0RjX1lmcWVjTFE4YW5ZYWU0X3JRTThWVlhmczNzZ29IYnhpM2p0NG9NREhDYVRGZVltWFlpMmFiQnR2UDBaX0NJaW4tc0JTX0lkQnF4WVpfdUlCYWEwTGpCY2hTaFBNZUczZWxkVTVZTmVFcEJJS2hwejVEQUZJVVlRNGpwTkZ6bTRwR2xQOWpQUdIBuwFBVV95cUxNQVI0aFhlQ25UYTRXaFFlZ2N6OWpjWWFYbU1ZMExNT1dRRXp6SDhXeHdsSXZKeDFtbVNwb2t3NEZoYVVXRTM2ckVYY1RVcWFfMEc4Q0t4UXA4UzlNU2R3WHRsQmNWTVNScFN3Nk1LVDFuOVlwWGJZTDdWbF8tNERMRTF6aDdrQmFaeW83S2xGYTFZcmlEV1JwT05QaFVYREd3ZnpyQzhGRGhjVlpHTDZQMXNmSG8xVjMxNUpN?oc=5"
-        },
-        {
-          "title": "Delhi Police refer three journalists’ sexual harassment allegations case against ACP Vivek Bhagat to crime branch without FIR",
+          "title": "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
           "source": "The Hindu",
-          "time": "15h ago",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlgzOEpObWUtcEhIOGRFV3hEc3BqbUFrekpReWxyLTM4aHFKc0c0UVc2MEFEU3ZtcWFTRWNWSEFwOXBLODhUTzA5SEZmTHhjN2ZNRDlGNVdUQk1wSmU5Tkltem9IaVBXdVdoN3JZUVEyLU9YbVVva0I4ZDhIWVFTN3M4SFJQX2tDTEVqSzJoMTZod25vS3ljcmdBeW1iRl9rZ2FUQUZiYVRudUktVWdRQ0lqeFR6NGFTVHRfQ0JqZVVzNVQwT3dXWmh2U0s2ME5Ga0tmZTBTX2MzWl9PaXZkc004bFhFaFFnQ0hfS9IB8wFBVV95cUxQS3NjeUpyS08wLUdzZlY0MUtITUpZUWVWSWxVMjByakd0Q3ZmR29zU0MyaW84SmhPN2NNU1lQM1FFUzNIZFBvVTc4LW1fWk1TNVBtd1lGZ1U4QU9kc01mWDBoLVFKcjAzbFBRWTQ4NV9VNlh1MnQ0QTY4eVVncTE4Zi1uMEtMQzlMQlNJSDU2cy12Tk13eTl5N0JaVlFfNEt2YktyZlBSSGFiSzhhNnZINVBRMnB0QlJzMFBzVWJhR3J0emFJMXFuYnJPN2cwQ2RUQXBWUVNkYklYRFJKZG5GXzBMQUlUaUthVGUyQTI1UUhDN3c?oc=5"
+          "time": "10h ago",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUM1azZJYlM3UkhBNTJoYVRaZEZYeVZwVk12blFleDkyNTVPQmRuWDd3R1Jrb1g2bGFlMXEybFJFS2xXaWwyZV9SbkczUjJPV2lqLTJwaFVOc1NUMTNCODYyRmMwZjVpcmVJMlRRZUN6d29CMmF4NUo3dWpWX1IxM3NmNlRnUENjaWZnUnhSa2t4ZURWUUV3UnJRYjJudTAzckJjUmdOdHc1VkJVSktRUFp6VlFjUdIBvAFBVV95cUxPbkhuSU13QlgxOEQ1ZmE1VTJ5Ylc0a1dsU1Fmb2hyelJfSUdONXlqMFp5dUV2b0pkcWdXRzlOczktYzVjWlkxLVJ1d3AwMTZVaEN4RWRZQ2ZaZVUyWk50enZaeTNiVjFhZFpLSjFjVnFOWjJqSTNpZ3pTWG55OTBTbjNHV0dodEJ5SS1WMWNRbFQyNHpLb2w1MDRwSllnRlNBMmVXSS1ZTXE4bVZrWUZlenVTcU5VdjAtd1VVdQ?oc=5"
         },
         {
           "title": "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:...",
           "source": "Live Law",
-          "time": "5h ago",
+          "time": "9h ago",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVjdFZmU3Nm4yNFlTYXVVOWpkYk56ZVBEbXVabFVEbEVNTlpYMkhYeGhLaFJ5ZS1RSXI1dF82dmhlLTlIekxCNVJ5N2JWUW1wZDJDekJZSUVEdGZoOWFwSGp5MThmT2pJcDhUS052XzJySTVMVnNGWHYtdndkRnNyMmVGZDNfVzcwTWZ1WEZ4S3VXSHA2WUh5czZIMzkteFFBOU5mNnVUZWNGNzZQN0VxVEJzajRpOHBZdi1OV2VXd253YjBqd3dDdnpCY3hyY091N3k2WEV1ZE9fb29fZlFWRWpjWkVFdi1QZEJUYW84R20xU2NnV1pMddIB_gFBVV95cUxNSVo4LVViNjNnaEVydGxWQWJ4a3R4bjlyd0g4TmZkZlJSYXJNb29WYXNKLVJhaTZnRDZ6V0RpRzg0bDR0Tmd2NV96MVdFMlNkVFJEaFU2MnZJaGoyWHpFdTZRZGxzTlBSM2c4UVpQYXhfWXR2Q3E4VG83UkRJZWo2NWNhekN5V1VmcUNlOVFLSG5ycEVnT096VmR0NjJTRUR4d2xnZlB6ZWNaS0RnaWh2em1yV2lkTDVzd3JBbDNJRWNSSE5HdUdrb1U1c0t3X1ZQNUFaQS0xem5MWG9lSmNISGxZWmZOY0pKb2dGOWtnRmhTOXotckhERnhQelVadw?oc=5"
         },
         {
-          "title": "ECI Row : Supreme Court To Hear Tomorrow Petitions Against CEC Gyanesh Kumar Over SIR Decisions",
-          "source": "Live Law",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa2prN01JbXduY20xOE5ZQTRwc0s3Y3NYMDdNZHJsUWptWk1CMWlXX1dwNTZ4MEgwVDJsNFItOFd5X044Zm9ROG9fVkE4bDVqR2gwNjlHZnFPWl9Nem9NYl9XSjBUN3ZKZG5IaDkzN3U2Sy1MR2dDSUQ5WTJ5ZnRLMmZVc3RxY25nQ011MXh2T3hXd09OM0FaMmprVkJPallOYjg5Qk5xdnNEaDZPRWdUTzRoSVFhYjFud2dnSnNyU1FkMXk2U2ZmRkxtbDRJbXB40gHWAUFVX3lxTFBsZWpkelBYVURsdFlOeUdpNXBLTTBQUGJVQmxyUE5jbXJOek50NlE0WnFJOGd6cUhpNVJLTW5UNHVVWFhHX1AyU3RxY25Ma3ItbzVrOFVheDRuT1g5a0tub2F6TEVfaVV4amxOUlItMFJCRFk0M28zZ3FJMUNLeFBad25WU1M0MG0zR0tsYXpBTkF0TlhWQl9SYVhwNGZBRm04RWxNNzhNeXhNd2VubnFlUGdYUllXMTJiSzFJbU5XdXNRcmlpX1pDZUt5VmdtWWFtRlJUM0E?oc=5"
+          "title": "Supreme Court to hear pleas against CEC Gyanesh Kumar’s 'suspension over poll panel actions'",
+          "source": "Telegraph India",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdTJIUjFjdEJITEI2VkQteUt4cmY5TmpUUW9DYXNYUFhJcmZUWDEwRm1YNWRuMFVtV1praHVnLUR2UUg3eFRmN0pZQTVvWVc2cmp0b3BqVDZBOWdTemp3RzFtNzhJeHRaTjE4SHlNMXhNU2QzOS05OXVwNF83MnRuaFhFbTlyeFE5RVU3NlRsejUwR18zTmo0bkFwU0t1bkVJQXdVck16RVl2NWowQnRQR0RwR2R2ZHZuczFvX3Z0eGRYdTRtZ3JnQVNHM2lsWEZGblJ2T9IB2gFBVV95cUxOMGt5MmdHU2ZkcnpBVXJuZFRkajROdThrMHBfYy1lSzR6X2s2bk1MMktfM0FnX0hrZUs3MUZqalhvN1VSNFZFM0dKemVaWmRqd2YyUUpMUklVMllrdHl5QUJKdVJjeENWcW5WejZlOWpJWTdBUnF4aHF0YlJTZkkwR2VrS1ZMcVZQSjJpbi1ZOElzdV90MXBzNUZHc1hwZjJfWnk4aFFUWjJfQk5PcWZxVS1NbnR1UW1XSkY0ampuaVJmeUl6VDg3UmhISV9VazdOaHUyM1cxSmVZZw?oc=5"
         },
         {
-          "title": "IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered | India News",
-          "source": "Hindustan Times",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS19GTVVIakltZmJleTdKWjFMWTBkdExlNGVKRllFOWtKZlgweXo2eVgzUkZVUFBLSVVhZWlzamQ3TmFqcFZzREJQcXNyaEd4WWd5bTZUV1hieUVqelBoMzcyRGpPRUdQSElCd1ZWS0tMTTJIQXZDR19KeFBDR1ZIelV0LWhhaEZXZGJ3Rnl4Y0pDbkcwZ3k4c0VSanBNUk8xM0VCLTNjeGdjeWtzS2swc2FpR0pxRkxvZTRrRTdrYWtTSVpWUGM0emp2UHdwQ09FcGVDUF9CTGtTdWNncHJwYWpHZUUyT3pkVW5PSFpaZW9SNC1mZVZhMHNhMkxhM0Fmc0NVR3NVY1RSdzdGX3pZZVllWQ?oc=5"
+          "title": "Muslim youths set up BJP office in Nandigram after CM Suvendu Adhikari's ‘friendship’ appeal",
+          "source": "The Times of India",
+          "time": "1d ago",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORHNJOTh1cHJRb0VMWGlqazloR3FyVDVoZjRvcGp4N2doTXlVTDVjYnNVZFllUEsydmFOS09TNElWVG83NVhHeU1Vd1gybkJ5UUZHLWFoZ1FHMnpPOS16VkJiYmJQRVg1ZzEtLWJMWWVuOExOWXhjYnJRRm5vT3k2YWlCWHdvYVVncDNiU0cyZlVXbTVGMEdmbE1BdVFRWkxLS1Q0aTJsd1plQXJQbXVrQ2QxRzRiS2ZDTlZ2M2dWd0NXWERMLWYwMy05b285YlZobHdYRHNFSUJTRW9vQUZlR9IB5gFBVV95cUxNN3JiRUZ4TGFFLTlsR2QxYWN2ZUZlMHBVQTI1TnJKSDJBRzRFQlBESUNUQlF3NFo5SzlPeVhfdm95djd5emlERHpRWlFEYl9SbzM3eURmYTFyNF9uV1NhQUZaVGc1eXBlZS1hSEZBMUNoTXZzaHJjZW1FME9LSm82OGdEUFBKeGhuY0Eza3RyM2dLanFqT19pYXpGTGw4UHdzX3JPeUczN1dFZS1PRXlLbzhObUNFSVd4N1hSYzZpdEJiR2kxdDgxUzlxQzloS0NUZFFOZXg2VXpIS19zWGJYYjMwNG4tUQ?oc=5"
+        },
+        {
+          "title": "Scrap SIR, EVMs: Thackeray Cousins Lead Mumbai Protest Against Poll Body Chief",
+          "source": "NDTV",
+          "time": "15h ago",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN3N5Q3Y0SEEtbXZhQjBMRHBWQ3d1TkFSZlNsNkhmclh1LXJvQXh4dkUteEV3akNwa2taTk5sQ3NFSm4xY0V1YTljVWUyV2JJdVJ3dnB1cC1BVHl6d0tDLUNQWVlQd0hUU3RrbTNQWHJXbW44ZU5NdHloVWFGVjRPUEExUmRmNkpuMnMwUUhHZHR4SmJRV1U1RWR1b21kSnQ2d3dPajM5cUs2Qjlpb19YSWt3RlhSTVFXTmtzdDE2RTlNd3JYMXJEOTRYSE56cEZRdWs5NjdnbHpwYVdJSjFvTXZVNk9rOUliQTZERk1JNXNLaWNEQXdhNtIBgAJBVV95cUxQNzhybzhpVFVSYkxndUdKbFNqNHBBUmRNZEZXc2Vab3NLV3NyT0lOM0lOSTZBRzZmUnUydE9fdjhSQnV2VjFPYjlCenNoOUtBeTk4cnc5QkRCdnVDSW96SXJFV0FMZVRuVkNiTFBOcGNRaFpCdzFSLXF1NmVIVzNFdF9uenh4OHJrU1VFY2paanJsWWQxT1JzNWFjUUVXVTcxQVBmdmxXVGpaai0zUlhwVi1Cb041LUVxbC1QTG1LcjdPNmlYXzIzLWRaR0VWcU5DUmVwNDRzYnJ6SzZ5clJBSXJYaElCcUtOLXRPN2xzenZtYjJVR3JsMDd4a0ticW5r?oc=5"
+        },
+        {
+          "title": "India’s Russia-Ukraine ceasefire proposal ‘broadest’ among four on table, says Kyiv",
+          "source": "ThePrint",
+          "time": "10h ago",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGIydEdMcEVtVzd5WWs2Q1FIZFJfT3FORnVfbnJId3VmRDJScDE2eUtRRW93TllIY2tzMEtHWDlCZWE5MjhCQTVBM3djWXh2YkdvYnkyNmlkNndZX3hJWFllUnBHRDVIRzU4Q3VIT0lZWXIzajBZSldISkxtRzI5WEQxYldzeGdEdEdPRnRCZXE3bXd2Q0tfSGtZUnpfZV8weVMtZ01DZ2tYODdWb0FDY0RMVGpnTC05cFHSAb8BQVVfeXFMTkIwamZ2V3hNS0lhZ0xfZmU4UDRUcnRIREF4YjlhTWZwUlFVMUxydkNaRVJtYXJLQXFhd05pWEJHLTlUTTJtQjhFNkphaExSSFBHVVJiMVdkN2hKNnBhNlVCNWtQdDVIWFdnZzhKdTVFaTNXcGFLTVhXOHZKVG0yQXFNcklFejJ4Tm9XZkQ4RzBPUV9nbTV0WkZhR3BSRjUxSzF2V2ZLMTZpQ2xfN2pndTM3TDZKNmNLTWIyc21DSm8?oc=5"
         }
       ]
     },
@@ -90,40 +90,40 @@
       "color": "var(--dial-sky)",
       "stories": [
         {
-          "title": "U.S. Marine accused of killing woman in Japan, drawing official protest from Tokyo",
-          "source": "washingtonpost.com",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzlKMDkxTU10cUdYQlpObV8wTm5nRktoMzIxNGRwdDZIZXJaeTQ5SWNfaGVPZFczdjFfRXpBLUdoS2pGS09GQWlHMjNiUFZnQTA2N3U3c0dNMzg4M2VrT3NQVDFaRW5UUl8zOEMyeTY1LXZxUlhVZlc1aDY0eDdmR3lJZHBmbXBPSHFvSHAwM0l2U2d2U0VqUUpseElnWGQycXdrYjhLSXRXeklmZDhB?oc=5"
-        },
-        {
-          "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+          "title": "Japan summons US envoy as marine arrested over Okinawa murder",
           "source": "Al Jazeera",
           "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTndfRkxzcjdQeEhEMUdxajV3dHBWQkpCSzRMOHNHNGJBM1habTd2dG5fNEZhTTZwUndYeGJXYjJnLWFLMGhhVXJ5SDdtOGRac3dwMjEyQ3FkeHNxQXE1NnVTYUxibkN4aG9VWXpHVkxGQmlDYUViX1pVWngtTEJzMlpybmlicFNadnRMLVNFd2pST19mUmk1SWRyNjFYSG5PY2IwMUFFRldWZkdJLVFtY2p2UdIBuAFBVV95cUxQZDFDXzJSMVNwSm1ua3d2aURZMkNSRi1sMzhfOExYbTNEVmxtTngzZHR6ME1LTzdGS2dkSkFCLW1SMDV4TUhyWVg1X0trd21sMXhVSHBlcHoxa1FLLVBDSGd5MEZad1NwUG85NVN5aHBoZFR1d0E1bFNjaDYyN0FUTXNuNmxQRGpVV0w5cFZTNkx0bUREb25pMHR4U3oyUjlRY1MxVXNIdmRvc1UxeDBkUERjLV9rQWQx?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk5hVVhEeHdBcW41SkxsWm56LTdGMlFBRkFYdWNXdmR0UUdHUlFFcUdlZGcxU1RxRXRlOFpQVjlfdVRqTkdjSEJNUDRLT2dxUDdkcXRuN05FWUE4MkNzTzM5T3ZIODZvLVFrUnRrWm53cWQ3QlAtbzltRkd1VXFoZkw5LUQ1VENlbGtyRHk1OEwtb2lxMkhDYzJlWExxS2hqaEdtONIBqgFBVV95cUxQeVFUZE1UWUZUYU9NNVFYc2tRWHE4OHYwbHRtVHRKQloxcFJWUTdIV1pSN242Z1R3cXlqZGtZMFZVUzRrX0R6VHFTTjA4MmVqbnpPSnB2ZnNpQ1NUR0dfVHZSMEtPRC01dm1JUzVZUWFmOTFtTkJHM25tRnVzazM5ZTdjYkFUblNfS0hJSU42MlJCV1VZdWpfcUJJZnhuSzJuMjdpR1RGSEdtZw?oc=5"
         },
         {
-          "title": "Yemeni and Saudi forces launch counteroffensive against the Houthis",
-          "source": "Axios",
+          "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+          "source": "The New York Times",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXNRSlg4RFU5UjlUTF9FZU1kNG9icjM4M1I0WWlScFNNRFZVa241bEl4aG01R3NLWUZ4dzdNcWNxbkdnSTd2eFl3ZTQ4Nk9DR2RKTmpWaE9laWhqcW1wLWpENjVhRDMwdk5Tc2xFRUtFZ01VUVZyRUlqN1JNdTViUElNYTh2czctREJqbjdOejlLZw?oc=5"
+        },
+        {
+          "title": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP",
+          "source": "AP News",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDB6OUQwcTRCN3p2Mnl0MnY3Mlk4S2pITUZacXlNVDhaV2RkbFo2VUtIOGd3TGxCZVZ5bmhWNXNESUlsN09BX21NaUtLSkFSNjFjdVlqaXpZZDNGRWFlekoxTzlTd2FlbFh2cXF0WnVtSEk0T0t3VkF5Nkx4M3RYVmprS21Cd2FHbUcyaV83OEdVcDBQSWwyaXRmckE1YkJxTVQxVWhIRQ?oc=5"
+        },
+        {
+          "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+          "source": "Reuters",
           "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01d1lsRnBldWpXRGNLUUdiRDBkd0dGMVJ1cUJBTVY2clRnTTJ2V3VBYUZUbU5aMXEtOTh6ekVUbFNlNEpyZUFvb3QwU3BCV2lNWGp0V2RsTVBBUEp5NDg0djI1YXU4VkRYUS10YndJdXM5c3hpc0RDeA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5"
         },
         {
-          "title": "Alleged Flydubai hijacking attempt exposes worrying gaps in aviation security",
-          "source": "CNN",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWtyazhka19qT1phLWU5a0JZOFlXNVlaTDdXYW9rcEh6eVB3Ylp5TV90djJhb3ZsVElIc2dGcWFCOXgzQm85c0haVFRGWWlEOTlULVcwUGR1V0hwRUh6eVY2ZUV2Qzh3Vy1RMkhCQUxENnJKVEQ0a1Z5UGkwZzZRa0U5XzFrVjlLalQzSEdMRQ?oc=5"
+          "title": "Brazil presidential election 2026: first-round live results",
+          "source": "The Guardian",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0FBUllHNWVmdEJkd2w5M3YzYVR6ZGFZX09NVTNROTRkUy1MSUpsQ3E3NkZWT1JxWnV0NzMyZVZSZWl1dmhRWlp3REF5M1ZBX1lxR0lpWFZCOHppa3p2ZHpGckw2ZTZZQ1hYT0s0R0JzMERRRTR1MGlUZnRqMkJ1NjJONW8wZXA1OW80bUdYa2JLVW54bWg3YlB1OGM4QmdUZHpMdWE3cGp5Vmg4MDVUWU9CRFg5MUdLTEx3?oc=5"
         },
         {
           "title": "Merz makes surprise Kyiv visit as Germany pledges more aid to Ukraine",
           "source": "Euronews.com",
-          "time": "7h ago",
+          "time": "10h ago",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFBxX3hnMTdYQ2hWS2ItMGNqci1CWGQ5bGItX1dhZ013ZC1jZWpzaXlwQ0RBZE9lQ0tVbGJZV3RDRXJBb085VGJ0bS1uQ3JMSW00NzlnYzUwQzVXMVFRS3JiblRRTzh2c3ExaHE4bG9kajVFMVlMX3hCd2ZlWVAwUTRvSTRhRmZIX3hndXBqRDVuek5UN1FpTFlUMGNLRmdhdkFQSlEzVUF1Smt4?oc=5"
-        },
-        {
-          "title": "Britain’s Greens have voted, shamefully, to say Zionism is racism",
-          "source": "The Economist",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzEtMjVsZG8tSkRDQ2pBWmZ4UXBySnY0Yzg1SUE2b0R3QXUyLURQOW9zaTVKMURuS0JjeUdGa2lBMy1YTGl4U0pJQXpYQi1fTWlRMlhZSXIzZWxpNmFrN2pxay1SSGkxcXMzSEVGd2ZJTzVHU0NkTjBYRGdYLWdtQWk2OWpQMTJfeHFxNjQyeURDUFliWG5GSlZiRjU2emdQMGpFQXlmaUo2cE0?oc=5"
         }
       ]
     },
@@ -132,40 +132,40 @@
       "color": "var(--dial-sage)",
       "stories": [
         {
-          "title": "After suffering critical injuries, man dies as 2nd Durham shooting in hours turns deadly: Police",
-          "source": "CBS17.com",
-          "time": "4h ago",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMWxuUTVEbmVRNlRFZDdGeE1OU2k2MV9wclNFSmVSV0hRZjlNX0RMYUZPcU0zUTJKR0dnLTYzcVA1bUVldEFJWVdLMGF0SDR2ZkFjbGZfYW56VVVsTno0Zm00TE9qMU92b01mMG1PamxZZlFNeXNieGZVc1lFaS1Jbnp0RVlLbEJTaHpRM0JnNThOZDJZR3dHS0t1bmhLU2NvMUF2SVdUYWhQQTBDdUZGVmNPOFB5MjhEa2ZfT0VOSF9pang3SDRuWVBMc9IB0AFBVV95cUxNdXBxN3M2ZE9vMjktLVZyOGxNUW5EZjE0dktiR2hUTk5WYjFRQUU3Z1pQSEpMYjFjLTVnOUFpck9jeFdHVG84TVRRY3RoVEthZWFUZGUyRVlEbTVpbmU1MWZxU1NiOTIzRU1ibXl2bXI1QXozZGYwVllRMXR6MlpUVU9lNVd6MFB6TFFubUEzQW0xdm9ael9mR1pfeEp6eHl0LVZfSEdvQkJBSWwzUWhkVmxZaTd0QnV6T3VGVThxRWZpd191S3pHVGFEbGZ0VjRW?oc=5"
+          "title": "One dead, one injured in Durham shooting on Chapel Hill Boulevard",
+          "source": "WRAL",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXN2MGFLY1QtWHI3T20zU2JMVkQ5Rk5LWk5TREUxd0RpUTltUmNlQkhOU01rM3d6Q1kwcHhWSExJdlk3SW85THJROUVWckQtTlMtVE1YRDZ6UG11Mi1yRmRVTXpHaUdRcTJsWmR0LVpMMzNyM0Q3aVNaY3VBTXI4ZkhuUmdDU2tZYXc?oc=5"
         },
         {
           "title": "Proof Of Concept",
           "source": "University of North Carolina Athletics",
-          "time": "0h ago",
+          "time": "2h ago",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wWWt0XzhxWXpzU1UxRXBwNDlQSW5XWVpUX2tfaGYyRHE5dmxGWGhoSmUySi1rUnR5ZWN2TUlGczdKcFJjUFFFOGpFOWpaM201VkhwR09nVUVTQWhtSnVGUVhwVnZHQkNWSzNTWA?oc=5"
         },
         {
-          "title": "1 dead, 1 injured in overnight Durham shooting, police say",
+          "title": "After suffering critical injuries, man dies as 2nd Durham shooting in hours turns deadly: Police",
+          "source": "CBS17.com",
+          "time": "8h ago",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMWxuUTVEbmVRNlRFZDdGeE1OU2k2MV9wclNFSmVSV0hRZjlNX0RMYUZPcU0zUTJKR0dnLTYzcVA1bUVldEFJWVdLMGF0SDR2ZkFjbGZfYW56VVVsTno0Zm00TE9qMU92b01mMG1PamxZZlFNeXNieGZVc1lFaS1Jbnp0RVlLbEJTaHpRM0JnNThOZDJZR3dHS0t1bmhLU2NvMUF2SVdUYWhQQTBDdUZGVmNPOFB5MjhEa2ZfT0VOSF9pang3SDRuWVBMc9IB0AFBVV95cUxNdXBxN3M2ZE9vMjktLVZyOGxNUW5EZjE0dktiR2hUTk5WYjFRQUU3Z1pQSEpMYjFjLTVnOUFpck9jeFdHVG84TVRRY3RoVEthZWFUZGUyRVlEbTVpbmU1MWZxU1NiOTIzRU1ibXl2bXI1QXozZGYwVllRMXR6MlpUVU9lNVd6MFB6TFFubUEzQW0xdm9ael9mR1pfeEp6eHl0LVZfSEdvQkJBSWwzUWhkVmxZaTd0QnV6T3VGVThxRWZpd191S3pHVGFEbGZ0VjRW?oc=5"
+        },
+        {
+          "title": "Duke Energy outage leaves hundreds without power in northeast Raleigh",
           "source": "ABC11 News",
           "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNclYwRHdkcGdKTjFYTnBQY2ZRYzA1SFRiS1NmVUYyS0lPQXFUenZUMTU3LVVCUEFNSWl4T2xXY2VWbE9qUThRNkhLX21OYUN5a3Nvb2FXRTlSMXIyVGQ0UU9HT1kxNTZaOVJXcDJUUUh4aEZzckpibFRzNjJzM2tiYzdMcXBrYk05c0F3LdIBkgFBVV95cUxNbFd4R0FJS1hRd0hQb3U3UXp4ZFJhSWRIVFJLV1RwODBvMmpwWFVzTWN3clRmLVpaZjFzWmN6Ym1nckJLWVFCNzNnMGJjY0R4SVQyUjJWVUhfQkpqT2gzOGNlZmVVOWJSQmIybFRMWVZPNEZZVEp2YlUxUV92Ykc0R1dUaGtwMGhOb3plOGgteGpDdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlZuM3lvaE9GSVdFTzN1UXczWXdpQ2NqSm9fZGFvZ0xmM05Ybm0tTDd5RHVPbDFxNmlzSFhNdlFiZE5zdkJNcmdyUENYUjQ0QkJKN2paVGdRTHl6OEtuQ0hXNzFNOUdGNUo0amN3MnNFZHVITjFmTTAzdWF6TXNOaW5uSXFfNURJelBBSGVmTGNYeWJQT2fSAZsBQVVfeXFMTmdTMTd0aG16V3JRUFd4d0pMdTJ2cXV6Vmw0dkU1VnprOU9nOExUQ05QYjQ5NHV5TFhESFJEWmlkZjF6UG5JNVlYaFRqdmkxUmdldy1FVklGS0JjNXpoOFAyWE1HU1hKOEs1Tk1DdzVocFVWTWNpMkhEdUwwSVlXbHE3VFF1aWpaRkRLelp3cUU4MWZoUFJPTXRlbUU?oc=5"
         },
         {
-          "title": "Woman hospitalized after shooting in Durham",
-          "source": "WRAL",
-          "time": "18h ago",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSy1KMzhkZTJOV0RMbE5TczZMd05UZUdnTW9HejBfZklRMHVmWXNWT1A3SF9GZ0JrNWp4dGZuSjFldEZCbVRBTTkwT0FNbm1XcW5mY0Vjdzl1a0VIVnBlOUhWdGF5aWxOREpPR0pEcm9XZXhvemxqMXRldFZEVGVwUEk2MmtQeVNhSk9Ibjd6dk95YTVETkJNNmd6SXNCWTVIaGc?oc=5"
+          "title": "Where Louisville football stands after falling to NC State on road",
+          "source": "The Courier-Journal",
+          "time": "7h ago",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNkhXTy1rTUxLaU9VRkwydGFka3c2SEdOWnN1dFg4YVZwTlJGY0VvUDVCc3Zob3dDUGd5NW9OSXRySVhTRGx5azBkcEt0Q0U4MG9DWFdzVTNmV1d6Zi1hbnA4bmxaR1djaGQyZUdLTWtlN21PRm96d1NBTVp4cGRZNXZ2bGhTaG55R1pCSndmUnhfQmduYkFySjBEc1A3V0d0TUYzRUFBdi03TGpoVkF2ZUZhbzl0M3RXREktUEVpUmo0NWxHaUpzWDdBS19OQWZ2a05CdTRrQ1ZOOEhscVo0Z3dtUkhjNGxHLWUxZkpaTzFZbzJ2dk9MYWIzQ3pxZGpDU2tr?oc=5"
         },
         {
-          "title": "COLLEGE FOOTBALL: No. 3 Notre Dame outduels North Carolina",
-          "source": "Wyoming County Examiner",
-          "time": "13h ago",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmJlX0p4X2s1UU5LU25OMzJKXzR6TWJ3eG4zMmx4cDJ4ZWtrakxaNGxZRGI3engxVVk0RHVRVzVMOUZmdzV6VnpIUVdKNlotNWtsREYxZkplUGJ5VkN5SjhzZGtnMkhqajhNZGpTak5OWXRQTGlMV3FsdTZjMHFQRmNjTldXREdQbUNLYzF3UVNadVhVYVVtZ1VuVQ?oc=5"
-        },
-        {
-          "title": "Reflecting Raleigh",
-          "source": "RaleighNC.gov",
-          "time": "6d ago",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTUFHTVZjbTUzS1dWRnRENnJyUzVqMmJxRHR6NmVJUDVyYTdONzAwRjFrTXhqTFZtRmZZTzBRWDhvOFBlXzRMRm0zT0ozMlgzbEloYzhKVFpFYV9FZm5FZzl4Mld4cUJIT3c?oc=5"
+          "title": "What is the unemployment rate in the Raleigh, NC area right now?",
+          "source": "USAFacts",
+          "time": "4d ago",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0VVMy1JTmdIeUxhQnpCLWZhdVMyLW4wa2FlRG5GZzJONjNzZlVtWjNodFZiWWU1U0hYVTdUNC1HeU90TWJXbFFLclNVektOY0tNREZESGRhOG81NGMyaXBXVS02U1hBYmFwdE40VldCSk9pdFRsNnY2a2ZmcGFYdkhWVWpxQUZt?oc=5"
         }
       ]
     }
