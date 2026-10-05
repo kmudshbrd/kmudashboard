@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Move-A-Bull City Open Streets",
-          "where": "Durham",
+          "title": "Amyl and the Sniffers",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Andy Frasco & The U.N",
-          "where": "Lincoln Theatre · Raleigh",
+          "title": "Fall Back Vintage Market 2026",
+          "where": "Salvage Yard · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Applause! Good Dogs and Lucky Dogs",
+          "title": "Memorial Flag-Raising Ceremonies 2026",
+          "where": "Centennial Plaza · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "National Night Out 2026",
+          "where": "E. Carroll Joyner Park · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Stretch and Refresh at Downtown Cary Park",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "AyoDylan w/ Pinkfield, Fusebox",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Today"
+          "title": "Seniors Without Walls Program - Adult Fitness",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Through Oct 22"
         },
         {
-          "title": "Jane Don’t Does America",
-          "where": "Raleigh Improv · Cary",
-          "line": "Today"
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Through Oct 26"
         },
         {
-          "title": "Misery",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Mystery Theater - A Haunting in Holly Springs",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Today"
-        },
-        {
-          "title": "\"Drinking Habits\" Fall Play",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Through Oct 11"
+          "title": "Make & Take: A Full Day of Wood Turning",
+          "where": "Rockler Woodworking & Hardware · Cary",
+          "line": "Through Oct 31"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Amyl and the Sniffers",
-          "where": "The Ritz · Raleigh",
-          "line": "Mon · Oct 5"
+          "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
+          "where": "Durham",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "Fall Back Vintage Market 2026",
-          "where": "Salvage Yard · Raleigh",
-          "line": "Mon · Oct 5"
+          "title": "Abhinaya Intensive",
+          "where": "Morrisville",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "Memorial Flag-Raising Ceremonies 2026",
-          "where": "Centennial Plaza · Wake Forest",
-          "line": "Mon · Oct 5"
+          "title": "Apex Night Out ft. Touch-A-Truck",
+          "where": "Town of Apex · Apex",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "National Night Out 2026",
-          "where": "E. Carroll Joyner Park · Wake Forest",
-          "line": "Mon · Oct 5"
+          "title": "Beer and Banjos: Hilltop Hounds",
+          "where": "Raleigh",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "Stretch and Refresh at Downtown Cary Park",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Oct 5"
+          "title": "Bleachers Forever",
+          "where": "Red Hat Amphitheater · Raleigh",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "Seniors Without Walls Program - Adult Fitness",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Oct 5 – Oct 22"
+          "title": "French Regions Wine Tasting at Vino & Tap",
+          "where": "Vino & Tap · Cary",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Oct 5 – Oct 26"
+          "title": "Mahjong & Mingle",
+          "where": "The Backyard · Cary",
+          "line": "Tue · Oct 6"
         },
         {
-          "title": "Make & Take: A Full Day of Wood Turning",
-          "where": "Rockler Woodworking & Hardware · Cary",
-          "line": "Oct 5 – Oct 31"
+          "title": "National Night Out",
+          "where": "Redford Place Park · Rolesville",
+          "line": "Tue · Oct 6"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Thu · Oct 15"
         },
-        {
-          "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Caiola",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Estate Planning Made Easy",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Friends Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Hoosiers - 40th Anniversay",
-          "where": "The Cary Theater · Cary",
-          "line": "Wed · Nov 4"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Ashley Cooke: The Baby Blues Tour",
           "where": "The Ritz · Raleigh",
@@ -168,6 +133,21 @@
           "title": "Beginner Photography",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Nov 5 – Nov 19"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "10th Annual Dia De Los Muertos",
+          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "21Marbles",
+          "where": "Marbles Kids Museum · Raleigh",
+          "line": "Fri · Nov 6"
         },
         {
           "title": "An Evening with Carrie Welling",
@@ -177,6 +157,26 @@
         {
           "title": "Comedian John Floyd",
           "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "Grassomatics",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "Icons of Jazz: The Sister Moon Project",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "Julia Golden with Back 40 and Kaden Jones",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "Movie Night: Minions",
+          "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Fri · Nov 6"
         }
       ]
