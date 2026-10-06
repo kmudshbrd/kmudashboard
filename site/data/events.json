@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Amyl and the Sniffers",
-          "where": "The Ritz · Raleigh",
+          "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Fall Back Vintage Market 2026",
-          "where": "Salvage Yard · Raleigh",
+          "title": "Abhinaya Intensive",
+          "where": "Morrisville",
           "line": "Today"
         },
         {
-          "title": "Memorial Flag-Raising Ceremonies 2026",
-          "where": "Centennial Plaza · Wake Forest",
+          "title": "Apex Night Out ft. Touch-A-Truck",
+          "where": "Town of Apex · Apex",
           "line": "Today"
         },
         {
-          "title": "National Night Out 2026",
-          "where": "E. Carroll Joyner Park · Wake Forest",
+          "title": "Beer and Banjos: Hilltop Hounds",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Stretch and Refresh at Downtown Cary Park",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Bleachers Forever",
+          "where": "Red Hat Amphitheater · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Adult Fitness",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Through Oct 22"
+          "title": "French Regions Wine Tasting at Vino & Tap",
+          "where": "Vino & Tap · Cary",
+          "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Through Oct 26"
+          "title": "Mahjong & Mingle",
+          "where": "The Backyard · Cary",
+          "line": "Today"
         },
         {
-          "title": "Make & Take: A Full Day of Wood Turning",
-          "where": "Rockler Woodworking & Hardware · Cary",
-          "line": "Through Oct 31"
+          "title": "National Night Out",
+          "where": "Redford Place Park · Rolesville",
+          "line": "Today"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
+          "title": "Kenny Wayne Shepherd Band",
           "where": "Durham",
-          "line": "Tue · Oct 6"
+          "line": "Wed · Oct 7"
         },
         {
-          "title": "Abhinaya Intensive",
+          "title": "50th Anniversary Greenway Run",
+          "where": "Taco Bamba · Raleigh",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Autumn Flowers",
+          "where": "DCP Guest Services · Cary",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Biodegradable Yard Waste Bag Giveaway - Worthdale Park Community Center",
+          "where": "Worthdale Park · Raleigh",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Harry Potter Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Live at The Bark Bar: Josh Rhyne",
+          "where": "DCP Bark Bar · Cary",
+          "line": "Wed · Oct 7"
+        },
+        {
+          "title": "Bharata Natyam Workshops",
           "where": "Morrisville",
-          "line": "Tue · Oct 6"
+          "line": "Oct 7 – Oct 10"
         },
         {
-          "title": "Apex Night Out ft. Touch-A-Truck",
-          "where": "Town of Apex · Apex",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Beer and Banjos: Hilltop Hounds",
-          "where": "Raleigh",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Bleachers Forever",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "French Regions Wine Tasting at Vino & Tap",
-          "where": "Vino & Tap · Cary",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "Mahjong & Mingle",
-          "where": "The Backyard · Cary",
-          "line": "Tue · Oct 6"
-        },
-        {
-          "title": "National Night Out",
-          "where": "Redford Place Park · Rolesville",
-          "line": "Tue · Oct 6"
+          "title": "Seniors Without Walls Program - Bunco",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Oct 7 – Oct 21"
         }
       ]
     },
@@ -95,50 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Trombone Shorty & Orleans Avenue",
-          "where": "Durham",
-          "line": "Tue · Oct 13"
-        },
-        {
           "title": "Scott Bradlee’s Postmodern Jukebox – The Future is Vintage World Tour",
           "where": "Durham",
           "line": "Thu · Oct 15"
         },
         {
-          "title": "Ashley Cooke: The Baby Blues Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Thu · Nov 5"
+          "title": "North Durham Farmers' Market",
+          "where": "Durham",
+          "line": "Sat · Oct 17"
         },
-        {
-          "title": "Big Shrimp",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Thu · Nov 5"
-        },
-        {
-          "title": "Friendsgiving! Festive Dishes Demo",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Thu · Nov 5"
-        },
-        {
-          "title": "Karaoke with Doug",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Thu · Nov 5"
-        },
-        {
-          "title": "Zumba",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Thu · Nov 5"
-        },
-        {
-          "title": "Beginner Photography",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Nov 5 – Nov 19"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "10th Annual Dia De Los Muertos",
           "where": "City of Raleigh Museum (COR Museum) · Raleigh",
@@ -168,16 +133,51 @@
           "title": "Icons of Jazz: The Sister Moon Project",
           "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Fri · Nov 6"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "2026 Old North State Story Telling Festival: Sensory Friendly Showcase",
+          "where": "The Cary Theater · Cary",
+          "line": "Sat · Nov 7"
         },
         {
-          "title": "Julia Golden with Back 40 and Kaden Jones",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Fri · Nov 6"
+          "title": "2026 Old North State Story Telling Festival: Showcase 2",
+          "where": "The Cary Theater · Cary",
+          "line": "Sat · Nov 7"
         },
         {
-          "title": "Movie Night: Minions",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Fri · Nov 6"
+          "title": "An Evening with Liz Longley",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Sat · Nov 7"
+        },
+        {
+          "title": "An evening with Mountain Grass Unit",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Sat · Nov 7"
+        },
+        {
+          "title": "Astronomy & Astrophysics Research",
+          "where": "Nature Research Center 1st Floor · Raleigh",
+          "line": "Sat · Nov 7"
+        },
+        {
+          "title": "Holly Springs Autism Acceptance Day",
+          "where": "Holly Springs",
+          "line": "Sat · Nov 7"
+        },
+        {
+          "title": "Infinity Ballet: \"Fairytale Fables\"",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sat · Nov 7"
+        },
+        {
+          "title": "Live Music: Kyle Mullins",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Nov 7"
         }
       ]
     }
