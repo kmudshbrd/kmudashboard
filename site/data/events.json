@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Fred Armisen: Comedy for Musicians But Everyone is Welcome",
+          "title": "Kenny Wayne Shepherd Band",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Abhinaya Intensive",
+          "title": "50th Anniversary Greenway Run",
+          "where": "Taco Bamba · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Autumn Flowers",
+          "where": "DCP Guest Services · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Biodegradable Yard Waste Bag Giveaway - Worthdale Park Community Center",
+          "where": "Worthdale Park · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Harry Potter Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Live at The Bark Bar: Josh Rhyne",
+          "where": "DCP Bark Bar · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Bharata Natyam Workshops",
           "where": "Morrisville",
-          "line": "Today"
+          "line": "Through Oct 10"
         },
         {
-          "title": "Apex Night Out ft. Touch-A-Truck",
-          "where": "Town of Apex · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Beer and Banjos: Hilltop Hounds",
-          "where": "Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Bleachers Forever",
-          "where": "Red Hat Amphitheater · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "French Regions Wine Tasting at Vino & Tap",
-          "where": "Vino & Tap · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Mahjong & Mingle",
-          "where": "The Backyard · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "National Night Out",
-          "where": "Redford Place Park · Rolesville",
-          "line": "Today"
+          "title": "Seniors Without Walls Program - Bunco",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Through Oct 21"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Kenny Wayne Shepherd Band",
+          "title": "Good Moon x Discover Durham Presents \"Discover The Moon\"",
           "where": "Durham",
-          "line": "Wed · Oct 7"
+          "line": "Thu · Oct 8"
         },
         {
-          "title": "50th Anniversary Greenway Run",
-          "where": "Taco Bamba · Raleigh",
-          "line": "Wed · Oct 7"
+          "title": "Aaron Branch",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Thu · Oct 8"
         },
         {
-          "title": "Autumn Flowers",
-          "where": "DCP Guest Services · Cary",
-          "line": "Wed · Oct 7"
+          "title": "Artisan Soy Candle-Making Workshop",
+          "where": "The Workshop · Cary",
+          "line": "Thu · Oct 8"
         },
         {
-          "title": "Biodegradable Yard Waste Bag Giveaway - Worthdale Park Community Center",
-          "where": "Worthdale Park · Raleigh",
-          "line": "Wed · Oct 7"
+          "title": "Blue Island",
+          "where": "The Ritz · Raleigh",
+          "line": "Thu · Oct 8"
         },
         {
-          "title": "Harry Potter Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Wed · Oct 7"
+          "title": "Mark Paul: The Daddy Ball Tour",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Oct 8"
         },
         {
-          "title": "Live at The Bark Bar: Josh Rhyne",
-          "where": "DCP Bark Bar · Cary",
-          "line": "Wed · Oct 7"
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Oct 8"
         },
         {
-          "title": "Bharata Natyam Workshops",
-          "where": "Morrisville",
-          "line": "Oct 7 – Oct 10"
+          "title": "Abhinaya Intensive",
+          "where": "Harmony District · Morrisville",
+          "line": "Oct 8 – Oct 9"
         },
         {
-          "title": "Seniors Without Walls Program - Bunco",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Oct 7 – Oct 21"
+          "title": "Stained Glass Studio",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Oct 8 – Oct 22"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 17"
         },
-        {
-          "title": "10th Annual Dia De Los Muertos",
-          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
-          "line": "Fri · Nov 6"
-        },
-        {
-          "title": "21Marbles",
-          "where": "Marbles Kids Museum · Raleigh",
-          "line": "Fri · Nov 6"
-        },
-        {
-          "title": "An Evening with Carrie Welling",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Nov 6"
-        },
-        {
-          "title": "Comedian John Floyd",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Fri · Nov 6"
-        },
-        {
-          "title": "Grassomatics",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Nov 6"
-        },
-        {
-          "title": "Icons of Jazz: The Sister Moon Project",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Fri · Nov 6"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "2026 Old North State Story Telling Festival: Sensory Friendly Showcase",
           "where": "The Cary Theater · Cary",
@@ -168,16 +133,36 @@
           "title": "Holly Springs Autism Acceptance Day",
           "where": "Holly Springs",
           "line": "Sat · Nov 7"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "America 250",
+          "where": "Meymandi Concert Hall · Raleigh",
+          "line": "Sun · Nov 8"
         },
         {
-          "title": "Infinity Ballet: \"Fairytale Fables\"",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Sat · Nov 7"
+          "title": "Cash Money & No Limit Tour",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Sun · Nov 8"
         },
         {
-          "title": "Live Music: Kyle Mullins",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Sat · Nov 7"
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
+          "line": "Sun · Nov 8"
+        },
+        {
+          "title": "Paint the Page: Teen Art Competition",
+          "where": "Page-Walker Arts and History Center · Cary",
+          "line": "Sun · Nov 8"
+        },
+        {
+          "title": "Veterans Day Tribute",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Sun · Nov 8"
         }
       ]
     }
