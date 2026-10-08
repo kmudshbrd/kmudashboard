@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Kenny Wayne Shepherd Band",
+          "title": "Good Moon x Discover Durham Presents \"Discover The Moon\"",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "50th Anniversary Greenway Run",
-          "where": "Taco Bamba · Raleigh",
+          "title": "Aaron Branch",
+          "where": "Goodnights Comedy Club · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Autumn Flowers",
-          "where": "DCP Guest Services · Cary",
+          "title": "Artisan Soy Candle-Making Workshop",
+          "where": "The Workshop · Cary",
           "line": "Today"
         },
         {
-          "title": "Biodegradable Yard Waste Bag Giveaway - Worthdale Park Community Center",
-          "where": "Worthdale Park · Raleigh",
+          "title": "Blue Island",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Harry Potter Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
+          "title": "Mark Paul: The Daddy Ball Tour",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "Live at The Bark Bar: Josh Rhyne",
-          "where": "DCP Bark Bar · Cary",
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
+        },
+        {
+          "title": "Abhinaya Intensive",
+          "where": "Harmony District · Morrisville",
+          "line": "Through Oct 9"
         },
         {
           "title": "Bharata Natyam Workshops",
           "where": "Morrisville",
           "line": "Through Oct 10"
-        },
-        {
-          "title": "Seniors Without Walls Program - Bunco",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Through Oct 21"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Good Moon x Discover Durham Presents \"Discover The Moon\"",
+          "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
-          "line": "Thu · Oct 8"
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "Aaron Branch",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Thu · Oct 8"
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "Artisan Soy Candle-Making Workshop",
-          "where": "The Workshop · Cary",
-          "line": "Thu · Oct 8"
+          "title": "2026 NASCAR Regional Season - The Capital CJD-Garner 170",
+          "where": "Wake County Speedway · Raleigh",
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "Blue Island",
-          "where": "The Ritz · Raleigh",
-          "line": "Thu · Oct 8"
+          "title": "Adam Pitts - Beatle's Night",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "Mark Paul: The Daddy Ball Tour",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Oct 8"
+          "title": "An Evening with Luke Bulla",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Oct 8"
+          "title": "Andy Thomas",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "Abhinaya Intensive",
-          "where": "Harmony District · Morrisville",
-          "line": "Oct 8 – Oct 9"
+          "title": "Coming Home: The Music of James Taylor",
+          "where": "Cary Arts Center · Cary",
+          "line": "Fri · Oct 9"
         },
         {
-          "title": "Stained Glass Studio",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 8 – Oct 22"
+          "title": "Country Grass",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Oct 9"
         }
       ]
     },
@@ -95,50 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Scott Bradlee’s Postmodern Jukebox – The Future is Vintage World Tour",
-          "where": "Durham",
-          "line": "Thu · Oct 15"
-        },
-        {
           "title": "North Durham Farmers' Market",
           "where": "Durham",
           "line": "Sat · Oct 17"
         },
         {
-          "title": "2026 Old North State Story Telling Festival: Sensory Friendly Showcase",
-          "where": "The Cary Theater · Cary",
-          "line": "Sat · Nov 7"
+          "title": "Trinty Park Home Tour",
+          "where": "Durham",
+          "line": "Sun · Oct 18"
         },
-        {
-          "title": "2026 Old North State Story Telling Festival: Showcase 2",
-          "where": "The Cary Theater · Cary",
-          "line": "Sat · Nov 7"
-        },
-        {
-          "title": "An Evening with Liz Longley",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Sat · Nov 7"
-        },
-        {
-          "title": "An evening with Mountain Grass Unit",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Sat · Nov 7"
-        },
-        {
-          "title": "Astronomy & Astrophysics Research",
-          "where": "Nature Research Center 1st Floor · Raleigh",
-          "line": "Sat · Nov 7"
-        },
-        {
-          "title": "Holly Springs Autism Acceptance Day",
-          "where": "Holly Springs",
-          "line": "Sat · Nov 7"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "America 250",
           "where": "Meymandi Concert Hall · Raleigh",
@@ -163,6 +128,51 @@
           "title": "Veterans Day Tribute",
           "where": "Knightdale Station Park · Knightdale",
           "line": "Sun · Nov 8"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Micah Schnabel",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "SiM – Hooman World Tour",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Mahjong Mondays - Open Play",
+          "where": "Apex Senior Center · Apex",
+          "line": "Nov 9 – Nov 23"
+        },
+        {
+          "title": "Handmade in Clay for the Holidays",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Rolesville Veterans Day Celebration",
+          "where": "Rolesville Community Center · Rolesville",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Veterans Day Ceremony 2026",
+          "where": "Veterans Memorial · Holly Springs",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Veterans Day Observance",
+          "where": "Aversboro Road Baptist Church · Garner",
+          "line": "Wed · Nov 11"
         }
       ]
     }
