@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Good Moon x Discover Durham Presents \"Discover The Moon\"",
+          "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Aaron Branch",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Artisan Soy Candle-Making Workshop",
-          "where": "The Workshop · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Blue Island",
-          "where": "The Ritz · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Mark Paul: The Daddy Ball Tour",
-          "where": "Raleigh Improv · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
+          "title": "2026 NASCAR Regional Season - The Capital CJD-Garner 170",
+          "where": "Wake County Speedway · Raleigh",
           "line": "Today"
         },
         {
           "title": "Abhinaya Intensive",
           "where": "Harmony District · Morrisville",
-          "line": "Through Oct 9"
+          "line": "Today"
         },
         {
-          "title": "Bharata Natyam Workshops",
-          "where": "Morrisville",
-          "line": "Through Oct 10"
+          "title": "Adam Pitts - Beatle's Night",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "An Evening with Luke Bulla",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Andy Thomas",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Coming Home: The Music of James Taylor",
+          "where": "Cary Arts Center · Cary",
+          "line": "Today"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Fri · Oct 9"
+          "title": "2026 Oberlin Celebration BBQ & Trolley Tours",
+          "where": "Avance Care Oberlin Road · Raleigh",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
-          "line": "Fri · Oct 9"
+          "title": "26th Annual Evening of Pawsibilities",
+          "where": "North Ridge Country Club · Raleigh",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Capital CJD-Garner 170",
-          "where": "Wake County Speedway · Raleigh",
-          "line": "Fri · Oct 9"
+          "title": "American Legion Post 124 Apex OctoberFest",
+          "where": "Apex Town Hall · Apex",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Adam Pitts - Beatle's Night",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
-          "line": "Fri · Oct 9"
+          "title": "Apex Oktoberfest",
+          "where": "Town of Apex; Apex Town Campus · Apex",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "An Evening with Luke Bulla",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Oct 9"
+          "title": "Barkitecture 2026",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Andy Thomas",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Fri · Oct 9"
+          "title": "Beatlesque 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Coming Home: The Music of James Taylor",
-          "where": "Cary Arts Center · Cary",
-          "line": "Fri · Oct 9"
+          "title": "Beginner-Friendly Morning Flow with YogaSix",
+          "where": "Fenton Square by Paragon Theaters · Cary",
+          "line": "Sat · Oct 10"
         },
         {
-          "title": "Country Grass",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Oct 9"
+          "title": "Diggery's Dino Adventure",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sat · Oct 10"
         }
       ]
     },
@@ -104,36 +104,6 @@
           "where": "Durham",
           "line": "Sun · Oct 18"
         },
-        {
-          "title": "America 250",
-          "where": "Meymandi Concert Hall · Raleigh",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Cash Money & No Limit Tour",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Hoosiers - 40th Anniversay",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Paint the Page: Teen Art Competition",
-          "where": "Page-Walker Arts and History Center · Cary",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Veterans Day Tribute",
-          "where": "Knightdale Station Park · Knightdale",
-          "line": "Sun · Nov 8"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Micah Schnabel",
           "where": "Slim's Dive Bar · Raleigh",
@@ -153,11 +123,31 @@
           "title": "Mahjong Mondays - Open Play",
           "where": "Apex Senior Center · Apex",
           "line": "Nov 9 – Nov 23"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "Handmade in Clay for the Holidays",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Hunter Luke Edwards",
+          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Modi",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Art Cart 2026-Tuesday",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Nov 10 – Dec 29"
         },
         {
           "title": "Rolesville Veterans Day Celebration",
@@ -172,6 +162,11 @@
         {
           "title": "Veterans Day Observance",
           "where": "Aversboro Road Baptist Church · Garner",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Veterans Day at New Hope Valley Railway",
+          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
           "line": "Wed · Nov 11"
         }
       ]
