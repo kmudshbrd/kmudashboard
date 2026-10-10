@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "2026 Oberlin Celebration BBQ & Trolley Tours",
           "where": "Avance Care Oberlin Road · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Beginner-Friendly Morning Flow with YogaSix",
           "where": "Fenton Square by Paragon Theaters · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Bharata Natyam Workshops",
-          "where": "Morrisville",
           "line": "Today"
         }
       ]

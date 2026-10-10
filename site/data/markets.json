@@ -1,5 +1,5 @@
 {
-  "meta": "2-year performance · quotes as of 01:39 ET",
+  "meta": "2-year performance · quotes as of 10:25 ET",
   "groups": [
     {
       "label": "Metals",
@@ -319,8 +319,8 @@
         {
           "name": "Russell 2000",
           "sub": "Index",
-          "price": 2806.981,
-          "changePct": 25.625158785215675,
+          "price": 2806.9814,
+          "changePct": 25.625176687033857,
           "series": [
             2234.409912109375,
             2207.989990234375,
@@ -374,7 +374,7 @@
             2972.3701171875,
             2903.93994140625,
             2837.550048828125,
-            2806.981
+            2806.9814
           ]
         },
         {
