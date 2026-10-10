@@ -1,40 +1,40 @@
 {
-  "temp": 62.1,
-  "desc": "Overcast, feels like 61°. Rain likely around 11:00.",
-  "aqi": 59,
+  "temp": 69.6,
+  "desc": "Overcast, feels like 70°. Rain likely around 16:00.",
+  "aqi": 58,
   "aqiLabel": "Moderate",
   "sunrise": "07:16",
   "sunset": "18:45",
   "hours": [
     {
-      "h": "12h",
-      "icon": "☁︎",
-      "t": 66.7,
-      "p": 76
-    },
-    {
-      "h": "15h",
-      "icon": "🌦",
-      "t": 69.3,
-      "p": 83
-    },
-    {
       "h": "18h",
       "icon": "🌦",
-      "t": 66.9,
-      "p": 53
+      "t": 68.3,
+      "p": 60
     },
     {
       "h": "21h",
-      "icon": "🌧",
-      "t": 66.9,
-      "p": 47
+      "icon": "🌦",
+      "t": 67.2,
+      "p": 33
     },
     {
       "h": "00h",
       "icon": "🌦",
-      "t": 67.2,
-      "p": 35
+      "t": 67.5,
+      "p": 38
+    },
+    {
+      "h": "03h",
+      "icon": "🌦",
+      "t": 68.2,
+      "p": 61
+    },
+    {
+      "h": "06h",
+      "icon": "🌦",
+      "t": 69.3,
+      "p": 32
     }
   ]
 }
