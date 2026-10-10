@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
+          "title": "2026 Oberlin Celebration BBQ & Trolley Tours",
+          "where": "Avance Care Oberlin Road · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
+          "title": "26th Annual Evening of Pawsibilities",
+          "where": "North Ridge Country Club · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 NASCAR Regional Season - The Capital CJD-Garner 170",
-          "where": "Wake County Speedway · Raleigh",
+          "title": "American Legion Post 124 Apex OctoberFest",
+          "where": "Apex Town Hall · Apex",
           "line": "Today"
         },
         {
-          "title": "Abhinaya Intensive",
-          "where": "Harmony District · Morrisville",
+          "title": "Apex Oktoberfest",
+          "where": "Town of Apex; Apex Town Campus · Apex",
           "line": "Today"
         },
         {
-          "title": "Adam Pitts - Beatle's Night",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "title": "Barkitecture 2026",
+          "where": "Downtown Cary Park · Cary",
           "line": "Today"
         },
         {
-          "title": "An Evening with Luke Bulla",
-          "where": "The Wake Forest Listening Room · Wake Forest",
+          "title": "Beatlesque 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Today"
         },
         {
-          "title": "Andy Thomas",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "title": "Beginner-Friendly Morning Flow with YogaSix",
+          "where": "Fenton Square by Paragon Theaters · Cary",
           "line": "Today"
         },
         {
-          "title": "Coming Home: The Music of James Taylor",
-          "where": "Cary Arts Center · Cary",
+          "title": "Bharata Natyam Workshops",
+          "where": "Morrisville",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "2026 Oberlin Celebration BBQ & Trolley Tours",
-          "where": "Avance Care Oberlin Road · Raleigh",
-          "line": "Sat · Oct 10"
+          "title": "38th Annual Thad & Alice Eure Walk for Hope & Festival",
+          "where": "Angus Barn · Raleigh",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "26th Annual Evening of Pawsibilities",
-          "where": "North Ridge Country Club · Raleigh",
-          "line": "Sat · Oct 10"
+          "title": "A Stand for Dignity: People of Faith Raising Voices for Immigrants",
+          "where": "North Carolina State Capitol, South Lawn · Raleigh",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "American Legion Post 124 Apex OctoberFest",
-          "where": "Apex Town Hall · Apex",
-          "line": "Sat · Oct 10"
+          "title": "Farmers Market @ Oak City",
+          "where": "Oak City Brewing Company · Knightdale",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "Apex Oktoberfest",
-          "where": "Town of Apex; Apex Town Campus · Apex",
-          "line": "Sat · Oct 10"
+          "title": "Jack-o-Lantern Gourd Decorating",
+          "where": "Page-Walker Arts and History Center · Cary",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "Barkitecture 2026",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Sat · Oct 10"
+          "title": "Kids Fest",
+          "where": "Fortnight Brewing Co · Cary",
+          "line": "Sun · Oct 11"
         },
         {
-          "title": "Beatlesque 2026",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Sat · Oct 10"
-        },
-        {
-          "title": "Beginner-Friendly Morning Flow with YogaSix",
-          "where": "Fenton Square by Paragon Theaters · Cary",
-          "line": "Sat · Oct 10"
-        },
-        {
-          "title": "Diggery's Dino Adventure",
+          "title": "Pottery Pumpkins + Gourds",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sat · Oct 10"
+          "line": "Sun · Oct 11"
+        },
+        {
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Oct 11 – Dec 27"
+        },
+        {
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Oct 11 – Dec 27"
         }
       ]
     },
@@ -95,40 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
-          "where": "Durham",
-          "line": "Sat · Oct 17"
-        },
-        {
           "title": "Trinty Park Home Tour",
           "where": "Durham",
           "line": "Sun · Oct 18"
         },
         {
-          "title": "Micah Schnabel",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Mon · Nov 9"
+          "title": "The Chamber Orchestra of the Triangle: The Roxelanne Effekt",
+          "where": "Durham",
+          "line": "Sun · Oct 18"
         },
-        {
-          "title": "SiM – Hooman World Tour",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Mahjong Mondays - Open Play",
-          "where": "Apex Senior Center · Apex",
-          "line": "Nov 9 – Nov 23"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Handmade in Clay for the Holidays",
           "where": "DCP Academy Pavilion · Cary",
@@ -148,10 +123,35 @@
           "title": "Art Cart 2026-Tuesday",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Nov 10 – Dec 29"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "2026 SEA Change North Carolina Signature Cohort Showcase",
+          "where": "The Loading Dock - Beryl · Raleigh",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Davvn w/ Glimmers, Pretty Pity",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Live at The Bark Bar: illoh",
+          "where": "DCP Bark Bar · Cary",
+          "line": "Wed · Nov 11"
         },
         {
           "title": "Rolesville Veterans Day Celebration",
           "where": "Rolesville Community Center · Rolesville",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Tai Chi: Downtown Cary Park",
+          "where": "DCP Gathering House · Cary",
           "line": "Wed · Nov 11"
         },
         {
