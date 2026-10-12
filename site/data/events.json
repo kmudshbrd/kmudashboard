@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "38th Annual Thad & Alice Eure Walk for Hope & Festival",
-          "where": "Angus Barn · Raleigh",
+          "title": "Honey Marmalade",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "A Stand for Dignity: People of Faith Raising Voices for Immigrants",
-          "where": "North Carolina State Capitol, South Lawn · Raleigh",
+          "title": "Indigenous Peoples' Day Ceremony",
+          "where": "Apex Nature Park · Apex",
           "line": "Today"
         },
         {
-          "title": "Farmers Market @ Oak City",
-          "where": "Oak City Brewing Company · Knightdale",
+          "title": "Make & Take: Cutting Boards",
+          "where": "Rockler Woodworking & Hardware · Cary",
           "line": "Today"
         },
         {
-          "title": "Jack-o-Lantern Gourd Decorating",
-          "where": "Page-Walker Arts and History Center · Cary",
+          "title": "The Dread Crew of Oddwood w/ special guests Broadslab",
+          "where": "Chapel of Bones · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Kids Fest",
-          "where": "Fortnight Brewing Co · Cary",
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
           "line": "Today"
         },
         {
-          "title": "Pottery Pumpkins + Gourds",
+          "title": "Musical Theatre 101 for Adults",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Today"
+          "line": "Through Oct 26"
         },
         {
-          "title": "Sunday Funday with REPLAY — Pop & Rock Hits",
-          "where": "The Backyard Bar · Apex",
-          "line": "Today"
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Through Oct 26"
         },
         {
-          "title": "\"Drinking Habits\" Fall Play",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Today"
+          "title": "Seniors Without Walls Program - Balance Training",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Through Oct 29"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Honey Marmalade",
+          "title": "Trombone Shorty & Orleans Avenue",
+          "where": "Durham",
+          "line": "Tue · Oct 13"
+        },
+        {
+          "title": "Beer and Banjos: Redbud",
           "where": "Raleigh",
-          "line": "Mon · Oct 12"
+          "line": "Tue · Oct 13"
         },
         {
-          "title": "Indigenous Peoples' Day Ceremony",
-          "where": "Apex Nature Park · Apex",
-          "line": "Mon · Oct 12"
+          "title": "Chris vs. The People",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Tue · Oct 13"
         },
         {
-          "title": "Make & Take: Cutting Boards",
-          "where": "Rockler Woodworking & Hardware · Cary",
-          "line": "Mon · Oct 12"
+          "title": "Skillpop Class: Modern Calligraphy for Beginners",
+          "where": "Rosecomb Beer Garden · Cary",
+          "line": "Tue · Oct 13"
         },
         {
-          "title": "The Dread Crew of Oddwood w/ special guests Broadslab",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Mon · Oct 12"
+          "title": "$5 Ticket Tuesdays",
+          "where": "Paragon Theaters Fenton · Cary",
+          "line": "Tue · Oct 13"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Mon · Oct 12"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Oct 13"
         },
         {
-          "title": "Musical Theatre 101 for Adults",
+          "title": "Line Dancing for All Levels",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 12 – Oct 26"
+          "line": "Oct 13 – Oct 27"
         },
         {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Oct 12 – Oct 26"
-        },
-        {
-          "title": "Seniors Without Walls Program - Balance Training",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Oct 12 – Oct 29"
+          "title": "Next-Level Line Dancing",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Oct 13 – Oct 27"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Fri · Oct 23"
         },
-        {
-          "title": "2026 SEA Change North Carolina Signature Cohort Showcase",
-          "where": "The Loading Dock - Beryl · Raleigh",
-          "line": "Wed · Nov 11"
-        },
-        {
-          "title": "Davvn w/ Glimmers, Pretty Pity",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Wed · Nov 11"
-        },
-        {
-          "title": "Live at The Bark Bar: illoh",
-          "where": "DCP Bark Bar · Cary",
-          "line": "Wed · Nov 11"
-        },
-        {
-          "title": "Rolesville Veterans Day Celebration",
-          "where": "Rolesville Community Center · Rolesville",
-          "line": "Wed · Nov 11"
-        },
-        {
-          "title": "Tai Chi: Downtown Cary Park",
-          "where": "DCP Gathering House · Cary",
-          "line": "Wed · Nov 11"
-        },
-        {
-          "title": "Veterans Day Ceremony 2026",
-          "where": "Veterans Memorial · Holly Springs",
-          "line": "Wed · Nov 11"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Accessible Nature Tour",
           "where": "Gipson Play Plaza at Dix Park · Raleigh",
@@ -168,16 +133,51 @@
           "title": "Zumba",
           "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Thu · Nov 12"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "A Magical Cirque Christmas",
+          "where": "Raleigh",
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "Wilderness Skills Series",
-          "where": "Forest Ridge Park · Wake Forest",
-          "line": "Nov 12 – Dec 10"
+          "title": "An Evening With: Shadowgrass",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Fri · Nov 13"
         },
         {
           "title": "Broken Compass Bluegrass",
           "where": "Garner Performing Arts Center · Garner",
           "line": "Fri · Nov 13"
+        },
+        {
+          "title": "Garrett Newton Band",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Nov 13"
+        },
+        {
+          "title": "Striking Copper w/Matt Phillips",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Nov 13"
+        },
+        {
+          "title": "Fuquay Film Festival 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
+          "line": "Nov 13 – Nov 14"
+        },
+        {
+          "title": "Billy Gardell",
+          "where": "Raleigh Improv · Cary",
+          "line": "Nov 13 – Nov 15"
+        },
+        {
+          "title": "Buckin' Birthdays",
+          "where": "Deep Eddy Vodka · Cary",
+          "line": "Nov 13 – Dec 11"
         }
       ]
     }
