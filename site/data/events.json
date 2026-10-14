@@ -5,33 +5,33 @@
       "label": "Today",
       "items": [
         {
-          "title": "Trombone Shorty & Orleans Avenue",
-          "where": "Durham",
+          "title": "Artist Reception: Art What You Eat",
+          "where": "Block Gallery at Raleigh Municipal Building · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Beer and Banjos: Redbud",
-          "where": "Raleigh",
+          "title": "Atomic Life / Machine Baby",
+          "where": "KINGS · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Chris vs. The People",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Bones & Botanicals",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Skillpop Class: Modern Calligraphy for Beginners",
-          "where": "Rosecomb Beer Garden · Cary",
+          "title": "Girls Night Out: Fall Mixology",
+          "where": "AVA Rooftop Bar · Cary",
           "line": "Today"
         },
         {
-          "title": "$5 Ticket Tuesdays",
-          "where": "Paragon Theaters Fenton · Cary",
+          "title": "Sensory-Friendly Fall Rides at New Hope Valley Railway",
+          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
+          "title": "Halloween BINGO",
+          "where": "Zebulon Community Center · Zebulon",
           "line": "Today"
         },
         {
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Artist Reception: Art What You Eat",
-          "where": "Block Gallery at Raleigh Municipal Building · Raleigh",
-          "line": "Wed · Oct 14"
+          "title": "Scott Bradlee’s Postmodern Jukebox – The Future is Vintage World Tour",
+          "where": "Durham",
+          "line": "Thu · Oct 15"
         },
         {
-          "title": "Atomic Life / Machine Baby",
+          "title": "Gaelic Storm",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "Author Event: Wade Rouse",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "Awen Family Band - A LaMP Afterparty at Kings",
           "where": "KINGS · Raleigh",
-          "line": "Wed · Oct 14"
+          "line": "Thu · Oct 15"
         },
         {
-          "title": "Bones & Botanicals",
+          "title": "Bingo Night Fenton",
+          "where": "Fenton Square · Cary",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "FM2FV Concert Series 2026: Spare Change",
+          "where": "Centennial Square · Fuquay-Varina",
+          "line": "Thu · Oct 15"
+        },
+        {
+          "title": "Frightfully Beautiful Mini Frame",
           "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Oct 14"
+          "line": "Thu · Oct 15"
         },
         {
-          "title": "Girls Night Out: Fall Mixology",
-          "where": "AVA Rooftop Bar · Cary",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Sensory-Friendly Fall Rides at New Hope Valley Railway",
-          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Halloween BINGO",
-          "where": "Zebulon Community Center · Zebulon",
-          "line": "Wed · Oct 14"
-        },
-        {
-          "title": "Beginning Pottery",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 14 – Oct 28"
-        },
-        {
-          "title": "Intro to Drawing - Sketchbook Focus",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 14 – Oct 28"
+          "title": "Garner Rotary Club's 21st Annual OysterFest",
+          "where": "Agri-Supply of Garner · Garner",
+          "line": "Thu · Oct 15"
         }
       ]
     },
@@ -95,50 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "No Carve Pumpkin Night",
-          "where": "Durham",
-          "line": "Wed · Oct 21"
-        },
-        {
           "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
           "line": "Fri · Oct 23"
         },
-        {
-          "title": "A Magical Cirque Christmas",
-          "where": "Raleigh",
-          "line": "Fri · Nov 13"
-        },
-        {
-          "title": "An Evening With: Shadowgrass",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Fri · Nov 13"
-        },
-        {
-          "title": "Broken Compass Bluegrass",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Fri · Nov 13"
-        },
-        {
-          "title": "Garrett Newton Band",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Nov 13"
-        },
-        {
-          "title": "Striking Copper w/Matt Phillips",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Nov 13"
-        },
-        {
-          "title": "Fuquay Film Festival 2026",
-          "where": "Fuquay-Varina Arts Center · Fuquay-Varina",
-          "line": "Nov 13 – Nov 14"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Adam Pascal: Broadway Unplugged",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
@@ -173,11 +133,51 @@
           "title": "Marvelous Music Series: Hayde Bluegrass Orchestra",
           "where": "Cary Arts Center · Cary",
           "line": "Sat · Nov 14"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "\"ELVIS: in Person\" Starring Matt Stone and the TEC Band",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sun · Nov 15"
         },
         {
-          "title": "Southern Shade of Blue: Carrie Marshall",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Sat · Nov 14"
+          "title": "Christian Johnson",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Sun · Nov 15"
+        },
+        {
+          "title": "Chunky Knit Scarves",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Nov 15"
+        },
+        {
+          "title": "Classical Concert Series - A World in Three Voices",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Nov 15"
+        },
+        {
+          "title": "Geometric Stained Glass Suncatcher",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Nov 15"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Nov 16"
+        },
+        {
+          "title": "Toddler Tuesday - Falling for Fun",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Tue · Nov 17"
+        },
+        {
+          "title": "Learn about Senior Games",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Nov 18"
         }
       ]
     }
