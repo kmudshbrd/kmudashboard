@@ -35,14 +35,14 @@
           "line": "Today"
         },
         {
-          "title": "Line Dancing for All Levels",
+          "title": "Beginning Pottery",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Through Oct 27"
+          "line": "Through Oct 28"
         },
         {
-          "title": "Next-Level Line Dancing",
+          "title": "Intro to Drawing - Sketchbook Focus",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Through Oct 27"
+          "line": "Through Oct 28"
         }
       ]
     },
@@ -100,6 +100,11 @@
           "line": "Fri · Oct 23"
         },
         {
+          "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
+          "where": "Durham",
+          "line": "Sun · Oct 25"
+        },
+        {
           "title": "Adam Pascal: Broadway Unplugged",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Sat · Nov 14"
@@ -127,11 +132,6 @@
         {
           "title": "Live Music: Emma Rae",
           "where": "Southern Peak Brewery · Apex",
-          "line": "Sat · Nov 14"
-        },
-        {
-          "title": "Marvelous Music Series: Hayde Bluegrass Orchestra",
-          "where": "Cary Arts Center · Cary",
           "line": "Sat · Nov 14"
         }
       ]
