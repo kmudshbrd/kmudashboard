@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Scott Bradlee’s Postmodern Jukebox – The Future is Vintage World Tour",
+          "title": "Bull City Cocktails Tour",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Gaelic Storm",
-          "where": "The Rialto Theatre · Raleigh",
+          "title": "321Coffee Movie Night: Hoppers",
+          "where": "Fall For Five Points · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Author Event: Wade Rouse",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "AfterBurn Band | Pop & Rock Hits",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         },
         {
-          "title": "Awen Family Band - A LaMP Afterparty at Kings",
-          "where": "KINGS · Raleigh",
+          "title": "An Evening with Alexa Rose (w/Josh Oliver)",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Bingo Night Fenton",
-          "where": "Fenton Square · Cary",
+          "title": "Ancient Nubia Member Preview Day",
+          "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
         },
         {
-          "title": "FM2FV Concert Series 2026: Spare Change",
-          "where": "Centennial Square · Fuquay-Varina",
+          "title": "Blacklight Pottery Painting with Cozy Panda",
+          "where": "Daughter’s Soft Serve · Wendell",
           "line": "Today"
         },
         {
-          "title": "Frightfully Beautiful Mini Frame",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Blue Sky Crying w/ Reverend Sam & The Experience",
+          "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
         },
         {
-          "title": "Garner Rotary Club's 21st Annual OysterFest",
-          "where": "Agri-Supply of Garner · Garner",
+          "title": "Brad Benson",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
-          "line": "Fri · Oct 16"
+          "line": "Sat · Oct 17"
         },
         {
-          "title": "321Coffee Movie Night: Hoppers",
-          "where": "Fall For Five Points · Raleigh",
-          "line": "Fri · Oct 16"
+          "title": "A/V Geeks presents Dismember the Alamo 2026",
+          "where": "Alamo Drafthouse Cinema · Raleigh",
+          "line": "Sat · Oct 17"
         },
         {
-          "title": "AfterBurn Band | Pop & Rock Hits",
-          "where": "The Backyard Bar · Apex",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "An Evening with Alexa Rose (w/Josh Oliver)",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Ancient Nubia Member Preview Day",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Blacklight Pottery Painting with Cozy Panda",
-          "where": "Daughter’s Soft Serve · Wendell",
-          "line": "Fri · Oct 16"
-        },
-        {
-          "title": "Blue Sky Crying w/ Reverend Sam & The Experience",
+          "title": "An Evening with the Hoots",
           "where": "Bond Brothers Eastside · Cary",
-          "line": "Fri · Oct 16"
+          "line": "Sat · Oct 17"
         },
         {
-          "title": "Brad Benson",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
-          "line": "Fri · Oct 16"
+          "title": "Arbor Day Celebration 2026",
+          "where": "Forest Shelter at Pleasant Park · Apex",
+          "line": "Sat · Oct 17"
+        },
+        {
+          "title": "Ashley Robinson",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Sat · Oct 17"
+        },
+        {
+          "title": "Autumn Art & Plant Festival",
+          "where": "Wake Forest Historical Museum · Wake Forest",
+          "line": "Sat · Oct 17"
+        },
+        {
+          "title": "Autumn Goat’s Milk Soap Workshop",
+          "where": "The Workshop · Cary",
+          "line": "Sat · Oct 17"
+        },
+        {
+          "title": "Diwali Celebration Morrisville 2026",
+          "where": "Cedar Fork District Park · Morrisville",
+          "line": "Sat · Oct 17"
         }
       ]
     },
@@ -95,45 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Fri · Oct 23"
-        },
-        {
           "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
           "where": "Durham",
           "line": "Sun · Oct 25"
         },
-        {
-          "title": "\"ELVIS: in Person\" Starring Matt Stone and the TEC Band",
-          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Sun · Nov 15"
-        },
-        {
-          "title": "Christian Johnson",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Sun · Nov 15"
-        },
-        {
-          "title": "Chunky Knit Scarves",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sun · Nov 15"
-        },
-        {
-          "title": "Classical Concert Series - A World in Three Voices",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Sun · Nov 15"
-        },
-        {
-          "title": "Geometric Stained Glass Suncatcher",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sun · Nov 15"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Author Event: Karen Garloch",
           "where": "Page 158 Books · Wake Forest",
@@ -153,11 +118,31 @@
           "title": "Stretch and Refresh",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Mon · Nov 16"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Massa Nera / Process//Sleep / Covenant Eye / Cyprian",
+          "where": "KINGS · Raleigh",
+          "line": "Tue · Nov 17"
+        },
+        {
+          "title": "North Carolina Awards - Honoring Our Heroes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Nov 17"
         },
         {
           "title": "Toddler Tuesday - Falling for Fun",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Tue · Nov 17"
+        },
+        {
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
+          "line": "Wed · Nov 18"
         },
         {
           "title": "Learn about Senior Games",
@@ -168,6 +153,11 @@
           "title": "An Evening with the Gravy Boys",
           "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Thu · Nov 19"
+        },
+        {
+          "title": "An Evening with Sugaree String Society",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Nov 20"
         },
         {
           "title": "Harvest Fest 2026",
