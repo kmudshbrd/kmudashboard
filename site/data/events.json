@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "321Coffee Movie Night: Hoppers",
-          "where": "Fall For Five Points · Raleigh",
+          "title": "A/V Geeks presents Dismember the Alamo 2026",
+          "where": "Alamo Drafthouse Cinema · Raleigh",
           "line": "Today"
         },
         {
-          "title": "AfterBurn Band | Pop & Rock Hits",
-          "where": "The Backyard Bar · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "An Evening with Alexa Rose (w/Josh Oliver)",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Ancient Nubia Member Preview Day",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Blacklight Pottery Painting with Cozy Panda",
-          "where": "Daughter’s Soft Serve · Wendell",
-          "line": "Today"
-        },
-        {
-          "title": "Blue Sky Crying w/ Reverend Sam & The Experience",
+          "title": "An Evening with the Hoots",
           "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
         },
         {
-          "title": "Brad Benson",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
+          "title": "Arbor Day Celebration 2026",
+          "where": "Forest Shelter at Pleasant Park · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Ashley Robinson",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Autumn Art & Plant Festival",
+          "where": "Wake Forest Historical Museum · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Autumn Goat’s Milk Soap Workshop",
+          "where": "The Workshop · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Diwali Celebration Morrisville 2026",
+          "where": "Cedar Fork District Park · Morrisville",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
+          "title": "Trinty Park Home Tour",
           "where": "Durham",
-          "line": "Sat · Oct 17"
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "A/V Geeks presents Dismember the Alamo 2026",
-          "where": "Alamo Drafthouse Cinema · Raleigh",
-          "line": "Sat · Oct 17"
+          "title": "The Chamber Orchestra of the Triangle: The Roxelanne Effekt",
+          "where": "Durham",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "An Evening with the Hoots",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Oct 17"
+          "title": "Ancient Nubia Community Day",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Arbor Day Celebration 2026",
-          "where": "Forest Shelter at Pleasant Park · Apex",
-          "line": "Sat · Oct 17"
+          "title": "Cello Day at Meredith College with NCCS",
+          "where": "Wainwright Music Building · Raleigh",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Ashley Robinson",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Sat · Oct 17"
+          "title": "Fall Foliage in Stained Glass",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Autumn Art & Plant Festival",
-          "where": "Wake Forest Historical Museum · Wake Forest",
-          "line": "Sat · Oct 17"
+          "title": "Jazz’d Up Sundays: Kobie Watkins",
+          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Autumn Goat’s Milk Soap Workshop",
-          "where": "The Workshop · Cary",
-          "line": "Sat · Oct 17"
+          "title": "Spooky Pottery Painting",
+          "where": "Branches Coffee Co · Zebulon",
+          "line": "Sun · Oct 18"
         },
         {
-          "title": "Diwali Celebration Morrisville 2026",
-          "where": "Cedar Fork District Park · Morrisville",
-          "line": "Sat · Oct 17"
+          "title": "Spooky Pottery Painting with Cozy Panda",
+          "where": "Unhinged Coffee & Co · Knightdale",
+          "line": "Sun · Oct 18"
         }
       ]
     },
@@ -105,31 +105,6 @@
           "line": "Oct 30 – Nov 8"
         },
         {
-          "title": "Author Event: Karen Garloch",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Mon · Nov 16"
-        },
-        {
-          "title": "Candle Pouring Workshop with Intention Setting Tarot Card Reading",
-          "where": "Gather Goods Co. · Raleigh",
-          "line": "Mon · Nov 16"
-        },
-        {
-          "title": "Nic Stevens and R Snider",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Mon · Nov 16"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 16"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
           "title": "Massa Nera / Process//Sleep / Covenant Eye / Cyprian",
           "where": "KINGS · Raleigh",
           "line": "Tue · Nov 17"
@@ -143,6 +118,21 @@
           "title": "Toddler Tuesday - Falling for Fun",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Tue · Nov 17"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "2026 GIS Day",
+          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
+          "line": "Wed · Nov 18"
+        },
+        {
+          "title": "Art + Nature Story Time",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Wed · Nov 18"
         },
         {
           "title": "Build Your Own Lasagna Planter",
@@ -152,6 +142,11 @@
         {
           "title": "Learn about Senior Games",
           "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Nov 18"
+        },
+        {
+          "title": "Mosaic Coasters",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Wed · Nov 18"
         },
         {
