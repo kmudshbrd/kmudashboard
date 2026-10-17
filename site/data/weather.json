@@ -1,40 +1,40 @@
 {
-  "temp": 71.8,
-  "desc": "Clear sky, feels like 71°. Rain likely around 06:00.",
-  "aqi": 65,
+  "temp": 57.1,
+  "desc": "Drizzle, feels like 55°. Rain likely around 09:00.",
+  "aqi": 64,
   "aqiLabel": "Moderate",
   "sunrise": "07:23",
   "sunset": "18:36",
   "hours": [
     {
-      "h": "03h",
-      "icon": "☁︎",
-      "t": 68.8,
-      "p": 20
-    },
-    {
-      "h": "06h",
-      "icon": "☁︎",
-      "t": 63.5,
-      "p": 50
-    },
-    {
       "h": "09h",
       "icon": "🌦",
-      "t": 56.0,
-      "p": 83
+      "t": 56.2,
+      "p": 90
     },
     {
       "h": "12h",
       "icon": "🌦",
-      "t": 52.4,
-      "p": 61
+      "t": 54.4,
+      "p": 82
     },
     {
       "h": "15h",
-      "icon": "🌦",
-      "t": 50.2,
-      "p": 25
+      "icon": "☁︎",
+      "t": 53.0,
+      "p": 38
+    },
+    {
+      "h": "18h",
+      "icon": "⛅︎",
+      "t": 51.8,
+      "p": 4
+    },
+    {
+      "h": "21h",
+      "icon": "☀︎",
+      "t": 48.2,
+      "p": 1
     }
   ]
 }
