@@ -35,13 +35,13 @@
           "line": "Today"
         },
         {
-          "title": "Spooky Pottery Painting",
-          "where": "Branches Coffee Co · Zebulon",
+          "title": "Ponder Parade of Homes 2026",
+          "where": "Ponder · Wendell",
           "line": "Today"
         },
         {
-          "title": "Spooky Pottery Painting with Cozy Panda",
-          "where": "Unhinged Coffee & Co · Knightdale",
+          "title": "SAS Championship",
+          "where": "Cary",
           "line": "Today"
         }
       ]
@@ -98,6 +98,11 @@
           "title": "Durham FRINGE Festival",
           "where": "Durham",
           "line": "Oct 30 – Nov 8"
+        },
+        {
+          "title": "Duke vs. Boston College Football Game",
+          "where": "Durham",
+          "line": "Sat · Oct 31"
         },
         {
           "title": "2026 GIS Day",
