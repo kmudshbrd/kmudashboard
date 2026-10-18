@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Farmers' Market",
+          "title": "Trinty Park Home Tour",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Bull City Cocktails Tour",
+          "title": "The Chamber Orchestra of the Triangle: The Roxelanne Effekt",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "A/V Geeks presents Dismember the Alamo 2026",
-          "where": "Alamo Drafthouse Cinema · Raleigh",
+          "title": "2026 Costume Sale – Rain date 10/18!",
+          "where": "Raleigh Little Theatre, RLT’s Louise “Scottie” Stephenson Amphitheatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "An Evening with the Hoots",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "Ancient Nubia Community Day",
+          "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Arbor Day Celebration 2026",
-          "where": "Forest Shelter at Pleasant Park · Apex",
+          "title": "Fall Foliage in Stained Glass",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Ashley Robinson",
-          "where": "Crooked Hammock Brewery · Raleigh",
+          "title": "Jazz’d Up Sundays: Kobie Watkins",
+          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Autumn Art & Plant Festival",
-          "where": "Wake Forest Historical Museum · Wake Forest",
+          "title": "Spooky Pottery Painting",
+          "where": "Branches Coffee Co · Zebulon",
           "line": "Today"
         },
         {
-          "title": "Autumn Goat’s Milk Soap Workshop",
-          "where": "The Workshop · Cary",
+          "title": "Spooky Pottery Painting with Cozy Panda",
+          "where": "Unhinged Coffee & Co · Knightdale",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Trinty Park Home Tour",
-          "where": "Durham",
-          "line": "Sun · Oct 18"
+          "title": "2026 Raleigh Medal of Arts Award Ceremony",
+          "where": "Raleigh",
+          "line": "Mon · Oct 19"
         },
         {
-          "title": "The Chamber Orchestra of the Triangle: The Roxelanne Effekt",
-          "where": "Durham",
-          "line": "Sun · Oct 18"
+          "title": "Daisyhead, Sunday Morning, Suns & Blush",
+          "where": "KINGS · Raleigh",
+          "line": "Mon · Oct 19"
         },
         {
-          "title": "2026 Costume Sale – Rain date 10/18!",
-          "where": "Raleigh Little Theatre, RLT’s Louise “Scottie” Stephenson Amphitheatre · Raleigh",
-          "line": "Sun · Oct 18"
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
+          "line": "Mon · Oct 19"
         },
         {
-          "title": "Ancient Nubia Community Day",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Sun · Oct 18"
+          "title": "Seniors Without Walls Program - Strength Training",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Mon · Oct 19"
         },
         {
-          "title": "Fall Foliage in Stained Glass",
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Oct 19"
+        },
+        {
+          "title": "Musical Theatre 101 for Adults",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sun · Oct 18"
+          "line": "Oct 19 – Oct 26"
         },
         {
-          "title": "Jazz’d Up Sundays: Kobie Watkins",
-          "where": "Downtown Cary Park Great Lawn & Pavilion · Cary",
-          "line": "Sun · Oct 18"
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Oct 19 – Oct 26"
         },
         {
-          "title": "Spooky Pottery Painting",
-          "where": "Branches Coffee Co · Zebulon",
-          "line": "Sun · Oct 18"
-        },
-        {
-          "title": "Spooky Pottery Painting with Cozy Panda",
-          "where": "Unhinged Coffee & Co · Knightdale",
-          "line": "Sun · Oct 18"
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Oct 19 – Dec 21"
         }
       ]
     },
@@ -95,35 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
-          "where": "Durham",
-          "line": "Sun · Oct 25"
-        },
-        {
           "title": "Durham FRINGE Festival",
           "where": "Durham",
           "line": "Oct 30 – Nov 8"
         },
-        {
-          "title": "Massa Nera / Process//Sleep / Covenant Eye / Cyprian",
-          "where": "KINGS · Raleigh",
-          "line": "Tue · Nov 17"
-        },
-        {
-          "title": "North Carolina Awards - Honoring Our Heroes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Nov 17"
-        },
-        {
-          "title": "Toddler Tuesday - Falling for Fun",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Nov 17"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "2026 GIS Day",
           "where": "City of Raleigh Museum (COR Museum) · Raleigh",
@@ -148,10 +123,35 @@
           "title": "Mosaic Coasters",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Wed · Nov 18"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "A Puzzling Affair: Jigsaw Competition at the NCMA",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Thu · Nov 19"
         },
         {
           "title": "An Evening with the Gravy Boys",
           "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Nov 19"
+        },
+        {
+          "title": "Candlelight: The Best of Hans Zimmer",
+          "where": "Merrimon-Wynne House · Raleigh",
+          "line": "Thu · Nov 19"
+        },
+        {
+          "title": "Mahjong & Mingle",
+          "where": "The Backyard · Cary",
+          "line": "Thu · Nov 19"
+        },
+        {
+          "title": "Zumba",
+          "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Thu · Nov 19"
         },
         {
@@ -162,6 +162,11 @@
         {
           "title": "An Evening with Sugaree String Society",
           "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Nov 20"
+        },
+        {
+          "title": "Apex Love Local: Fall into Downtown Series",
+          "where": "Downtown Apex · Apex",
           "line": "Fri · Nov 20"
         }
       ]
