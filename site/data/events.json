@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "2026 Raleigh Medal of Arts Award Ceremony",
-          "where": "Raleigh",
+          "title": "CNC Router - Orientation",
+          "where": "ShopSpace · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Daisyhead, Sunday Morning, Suns & Blush",
-          "where": "KINGS · Raleigh",
+          "title": "Hamlet",
+          "where": "Sneaky Penguin Brewing · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
+          "title": "Mummy & Son Ball 2026",
+          "where": "Harold D. Ritter Park - Rotary Shelter · Cary",
           "line": "Today"
         },
         {
-          "title": "ITA Carolina Regional Tennis Championships",
-          "where": "Cary Tennis Park · Cary",
+          "title": "Planters Walk Bond Block Party",
+          "where": "Planter's Walk Recreation Center · Knightdale",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Strength Training",
+          "title": "Pumpkin Paint & Sip",
+          "where": "Vino & Tap · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Seniors Without Walls Program - Senior State Fair Trip",
           "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Today"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Today"
         },
         {
           "title": "Musical Theatre 101 for Adults",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Through Oct 26"
-        },
-        {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Through Oct 26"
-        },
-        {
-          "title": "Music Bingo Monday",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Through Dec 21"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "CNC Router - Orientation",
-          "where": "ShopSpace · Raleigh",
-          "line": "Tue · Oct 20"
+          "title": "No Carve Pumpkin Night",
+          "where": "Durham",
+          "line": "Wed · Oct 21"
         },
         {
-          "title": "Hamlet",
-          "where": "Sneaky Penguin Brewing · Raleigh",
-          "line": "Tue · Oct 20"
+          "title": "Acid Mother's Temple w/ Magick Potion",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Wed · Oct 21"
         },
         {
-          "title": "Mummy & Son Ball 2026",
-          "where": "Harold D. Ritter Park - Rotary Shelter · Cary",
-          "line": "Tue · Oct 20"
+          "title": "Apex Stands United Against Hate",
+          "where": "Apex Nature Park · Apex",
+          "line": "Wed · Oct 21"
         },
         {
-          "title": "Planters Walk Bond Block Party",
-          "where": "Planter's Walk Recreation Center · Knightdale",
-          "line": "Tue · Oct 20"
+          "title": "Artful Story Time",
+          "where": "North Carolina Museum of Art, West Building · Raleigh",
+          "line": "Wed · Oct 21"
         },
         {
-          "title": "Pumpkin Paint & Sip",
-          "where": "Vino & Tap · Cary",
-          "line": "Tue · Oct 20"
+          "title": "Girls Night Out: Pure Barre Pop-Up",
+          "where": "AVA Rooftop Bar · Cary",
+          "line": "Wed · Oct 21"
         },
         {
-          "title": "Seniors Without Walls Program - Senior State Fair Trip",
+          "title": "Live Jazz in the Study",
+          "where": "Peck & Plume · Cary",
+          "line": "Wed · Oct 21"
+        },
+        {
+          "title": "Seniors Without Walls Program - Bunco",
           "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Tue · Oct 20"
+          "line": "Wed · Oct 21"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Oct 20"
-        },
-        {
-          "title": "Line Dancing for All Levels",
+          "title": "Beginning Pottery",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 20 – Oct 27"
+          "line": "Oct 21 – Oct 28"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 31"
         },
-        {
-          "title": "A Puzzling Affair: Jigsaw Competition at the NCMA",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "An Evening with the Gravy Boys",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "Candlelight: The Best of Hans Zimmer",
-          "where": "Merrimon-Wynne House · Raleigh",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "Mahjong & Mingle",
-          "where": "The Backyard · Cary",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "Native American Tasting Experience",
-          "where": "Apex Senior Center · Apex",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "Zumba",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Thu · Nov 19"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "All The Right Heroes featuring Hassell & Harry and Cammie",
           "where": "Bond Brothers Eastside · Cary",
@@ -168,16 +133,51 @@
           "title": "Harvest Fest 2026",
           "where": "Morrisville Senior Center · Morrisville",
           "line": "Fri · Nov 20"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "31st Annual American Indian Heritage Celebration",
+          "where": "Raleigh",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "Jazz & Jive Night",
-          "where": "The Depot parking lot · Apex",
-          "line": "Fri · Nov 20"
+          "title": "31st Annual NC Latino Diamante Awards",
+          "where": "The Cary Arts Center · Cary",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "Myles Morgan",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Fri · Nov 20"
+          "title": "82nd Annual Raleigh Christmas Parade",
+          "where": "Raleigh",
+          "line": "Sat · Nov 21"
+        },
+        {
+          "title": "Candy Cane Lane 2026",
+          "where": "Downtown Zebulon · Zebulon",
+          "line": "Sat · Nov 21"
+        },
+        {
+          "title": "Espresso Reads - Reading Event with Coffee 2026",
+          "where": "Pugh House · Morrisville",
+          "line": "Sat · Nov 21"
+        },
+        {
+          "title": "Just Us",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Sat · Nov 21"
+        },
+        {
+          "title": "Light the Square 2026",
+          "where": "Fenton Square · Cary",
+          "line": "Sat · Nov 21"
+        },
+        {
+          "title": "Live Music: Kerry Long",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Nov 21"
         }
       ]
     }
