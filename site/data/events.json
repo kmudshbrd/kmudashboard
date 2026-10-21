@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "CNC Router - Orientation",
-          "where": "ShopSpace · Raleigh",
+          "title": "No Carve Pumpkin Night",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Hamlet",
-          "where": "Sneaky Penguin Brewing · Raleigh",
+          "title": "Acid Mother's Temple w/ Magick Potion",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Mummy & Son Ball 2026",
-          "where": "Harold D. Ritter Park - Rotary Shelter · Cary",
+          "title": "Apex Stands United Against Hate",
+          "where": "Apex Nature Park · Apex",
           "line": "Today"
         },
         {
-          "title": "Planters Walk Bond Block Party",
-          "where": "Planter's Walk Recreation Center · Knightdale",
+          "title": "Artful Story Time",
+          "where": "North Carolina Museum of Art, West Building · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Pumpkin Paint & Sip",
-          "where": "Vino & Tap · Cary",
+          "title": "Girls Night Out: Pure Barre Pop-Up",
+          "where": "AVA Rooftop Bar · Cary",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Senior State Fair Trip",
+          "title": "Live Jazz in the Study",
+          "where": "Peck & Plume · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Seniors Without Walls Program - Bunco",
           "where": "Rolesville Parks and Recreation Department · Rolesville",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Today"
-        },
-        {
-          "title": "Line Dancing for All Levels",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Through Oct 27"
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Through Oct 26"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "No Carve Pumpkin Night",
-          "where": "Durham",
-          "line": "Wed · Oct 21"
+          "title": "A/V Geeks At The Library",
+          "where": "D. H. Hill Jr. Library at NC State University · Raleigh",
+          "line": "Thu · Oct 22"
         },
         {
-          "title": "Acid Mother's Temple w/ Magick Potion",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Wed · Oct 21"
+          "title": "Amplify Health: Pharma Fun Night",
+          "where": "Amplify Health · Raleigh",
+          "line": "Thu · Oct 22"
         },
         {
-          "title": "Apex Stands United Against Hate",
+          "title": "An Evening with Hank, Pattie & the Current",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Oct 22"
+        },
+        {
+          "title": "Creek Critter Discovery with Haw River Assembly",
           "where": "Apex Nature Park · Apex",
-          "line": "Wed · Oct 21"
+          "line": "Thu · Oct 22"
         },
         {
-          "title": "Artful Story Time",
-          "where": "North Carolina Museum of Art, West Building · Raleigh",
-          "line": "Wed · Oct 21"
+          "title": "Damitas Histeria (En Español)",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Oct 22"
         },
         {
-          "title": "Girls Night Out: Pure Barre Pop-Up",
-          "where": "AVA Rooftop Bar · Cary",
-          "line": "Wed · Oct 21"
+          "title": "Icons of Jazz: Divine & Dexterous",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Thu · Oct 22"
         },
         {
-          "title": "Live Jazz in the Study",
-          "where": "Peck & Plume · Cary",
-          "line": "Wed · Oct 21"
+          "title": "Pumpkin Flotilla - Pumpkin Drop Off 2026",
+          "where": "Fred G. Bond Metro Park and Boathouse · Cary",
+          "line": "Thu · Oct 22"
         },
         {
-          "title": "Seniors Without Walls Program - Bunco",
+          "title": "Seniors Without Walls Program - Staying Safe Against Scammers",
           "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Wed · Oct 21"
-        },
-        {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Oct 21 – Oct 26"
+          "line": "Thu · Oct 22"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 31"
         },
-        {
-          "title": "All The Right Heroes featuring Hassell & Harry and Cammie",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Fri · Nov 20"
-        },
-        {
-          "title": "An Archaeologist’s Face to Feet with King Taharqa",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Fri · Nov 20"
-        },
-        {
-          "title": "An Evening with Sugaree String Society",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Nov 20"
-        },
-        {
-          "title": "Apex Love Local: Fall into Downtown Series",
-          "where": "Downtown Apex · Apex",
-          "line": "Fri · Nov 20"
-        },
-        {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
-          "line": "Fri · Nov 20"
-        },
-        {
-          "title": "Harvest Fest 2026",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Fri · Nov 20"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "31st Annual American Indian Heritage Celebration",
           "where": "Raleigh",
@@ -165,19 +130,54 @@
           "line": "Sat · Nov 21"
         },
         {
-          "title": "Just Us",
-          "where": "Fortnight Brewing Company · Wake Forest",
+          "title": "Harvest Fest 2026",
+          "where": "Good Hope Farm · Cary",
           "line": "Sat · Nov 21"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "10 Years of 6LACK Tour-CANCELLED",
+          "where": "The Ritz · Raleigh",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "Light the Square 2026",
-          "where": "Fenton Square · Cary",
-          "line": "Sat · Nov 21"
+          "title": "A Farewell To Kings - AF2K Rush Tribute",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "Live Music: Kerry Long",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Sat · Nov 21"
+          "title": "JazzLive with Lenore Raphael and Friends",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Nov 22"
+        },
+        {
+          "title": "Steven Rogers",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Nov 22"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Nov 23"
+        },
+        {
+          "title": "The Embers Holiday Show 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Wed · Nov 25"
+        },
+        {
+          "title": "Freedom Ride Rescue Turkey Day 5K",
+          "where": "White Deer Park/Lake Benson · Garner",
+          "line": "Thu · Nov 26"
+        },
+        {
+          "title": "Light Up Main (Small Business Saturday & Annual Tree Lighting)",
+          "where": "Downtown Garner · Garner",
+          "line": "Sat · Nov 28"
         }
       ]
     }
