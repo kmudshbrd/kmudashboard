@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "No Carve Pumpkin Night",
-          "where": "Durham",
+          "title": "A/V Geeks At The Library",
+          "where": "D. H. Hill Jr. Library at NC State University · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Acid Mother's Temple w/ Magick Potion",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "title": "Amplify Health: Pharma Fun Night",
+          "where": "Amplify Health · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Apex Stands United Against Hate",
+          "title": "An Evening with Hank, Pattie & the Current",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Creek Critter Discovery with Haw River Assembly",
           "where": "Apex Nature Park · Apex",
           "line": "Today"
         },
         {
-          "title": "Artful Story Time",
-          "where": "North Carolina Museum of Art, West Building · Raleigh",
+          "title": "Damitas Histeria (En Español)",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "Girls Night Out: Pure Barre Pop-Up",
-          "where": "AVA Rooftop Bar · Cary",
+          "title": "Icons of Jazz: Divine & Dexterous",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Today"
         },
         {
-          "title": "Live Jazz in the Study",
-          "where": "Peck & Plume · Cary",
+          "title": "Pumpkin Flotilla - Pumpkin Drop Off 2026",
+          "where": "Fred G. Bond Metro Park and Boathouse · Cary",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Bunco",
+          "title": "Seniors Without Walls Program - Staying Safe Against Scammers",
           "where": "Rolesville Parks and Recreation Department · Rolesville",
           "line": "Today"
-        },
-        {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Through Oct 26"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "A/V Geeks At The Library",
-          "where": "D. H. Hill Jr. Library at NC State University · Raleigh",
-          "line": "Thu · Oct 22"
+          "title": "North Durham Friday Evening Farmers' Market",
+          "where": "Durham",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "Amplify Health: Pharma Fun Night",
-          "where": "Amplify Health · Raleigh",
-          "line": "Thu · Oct 22"
+          "title": "Bull City Cocktails Tour",
+          "where": "Durham",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "An Evening with Hank, Pattie & the Current",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Thu · Oct 22"
+          "title": "11th Annual Zombiepalooza 2026",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "Creek Critter Discovery with Haw River Assembly",
-          "where": "Apex Nature Park · Apex",
-          "line": "Thu · Oct 22"
+          "title": "Adult Nights: Tales of Woe",
+          "where": "North Carolina Museum of Natural Sciences · Raleigh",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "Damitas Histeria (En Español)",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Oct 22"
+          "title": "Bad PR",
+          "where": "The Backyard Bar · Apex",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "Icons of Jazz: Divine & Dexterous",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Thu · Oct 22"
+          "title": "Bats, Bugs and Beasts",
+          "where": "DCP Guest Services · Cary",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "Pumpkin Flotilla - Pumpkin Drop Off 2026",
-          "where": "Fred G. Bond Metro Park and Boathouse · Cary",
-          "line": "Thu · Oct 22"
+          "title": "Breaking Benjamin, Chevelle & Starset",
+          "where": "Coastal Credit Union Music Park at Walnut Creek · Raleigh",
+          "line": "Fri · Oct 23"
         },
         {
-          "title": "Seniors Without Walls Program - Staying Safe Against Scammers",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Thu · Oct 22"
+          "title": "Devine & Dexterous featuring Camille Thurman & The Christian Tamburr Quintet",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Fri · Oct 23"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Sat · Oct 31"
         },
-        {
-          "title": "31st Annual American Indian Heritage Celebration",
-          "where": "Raleigh",
-          "line": "Sat · Nov 21"
-        },
-        {
-          "title": "31st Annual NC Latino Diamante Awards",
-          "where": "The Cary Arts Center · Cary",
-          "line": "Sat · Nov 21"
-        },
-        {
-          "title": "82nd Annual Raleigh Christmas Parade",
-          "where": "Raleigh",
-          "line": "Sat · Nov 21"
-        },
-        {
-          "title": "Candy Cane Lane 2026",
-          "where": "Downtown Zebulon · Zebulon",
-          "line": "Sat · Nov 21"
-        },
-        {
-          "title": "Espresso Reads - Reading Event with Coffee 2026",
-          "where": "Pugh House · Morrisville",
-          "line": "Sat · Nov 21"
-        },
-        {
-          "title": "Harvest Fest 2026",
-          "where": "Good Hope Farm · Cary",
-          "line": "Sat · Nov 21"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "10 Years of 6LACK Tour-CANCELLED",
           "where": "The Ritz · Raleigh",
@@ -158,6 +123,21 @@
           "title": "Steven Rogers",
           "where": "Raleigh Improv · Cary",
           "line": "Sun · Nov 22"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Sinfonietta Chamber Ensemble",
+          "where": "Carswell Concert Hall · Raleigh",
+          "line": "Mon · Nov 23"
+        },
+        {
+          "title": "TrebleFest Showcase Concert",
+          "where": "Jones Auditorium · Raleigh",
+          "line": "Mon · Nov 23"
         },
         {
           "title": "Stretch and Refresh",
@@ -170,6 +150,11 @@
           "line": "Wed · Nov 25"
         },
         {
+          "title": "Turkey Leg Day-Feast on Fitness 2026",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Nov 25 – Nov 29"
+        },
+        {
           "title": "Freedom Ride Rescue Turkey Day 5K",
           "where": "White Deer Park/Lake Benson · Garner",
           "line": "Thu · Nov 26"
@@ -177,6 +162,11 @@
         {
           "title": "A Taylor Swift Candlelight Experience in Knightdale",
           "where": "Haven Farm · Knightdale",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Light Up Main (Small Business Saturday & Annual Tree Lighting)",
+          "where": "Downtown Garner · Garner",
           "line": "Sat · Nov 28"
         }
       ]
