@@ -5,11 +5,6 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bull City Cocktails Tour",
-          "where": "Durham",
-          "line": "Today"
-        },
-        {
           "title": "11th Annual Zombiepalooza 2026",
           "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Today"
@@ -42,6 +37,11 @@
         {
           "title": "Fall & Winter Birds of Wake County",
           "where": "Morrisville Senior Center · Morrisville",
+          "line": "Today"
+        },
+        {
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
           "line": "Today"
         }
       ]
@@ -130,9 +130,9 @@
           "line": "Tue · Nov 24"
         },
         {
-          "title": "NC State Men's Basketball vs. Norfolk State",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Wed · Nov 25"
+          "title": "Crochet Level 1: Round Coaster",
+          "where": "Craft Habit · Raleigh",
+          "line": "Tue · Nov 24"
         },
         {
           "title": "The Embers Holiday Show 2026",
