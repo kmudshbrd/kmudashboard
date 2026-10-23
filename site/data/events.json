@@ -5,11 +5,6 @@
       "label": "Today",
       "items": [
         {
-          "title": "North Durham Friday Evening Farmers' Market",
-          "where": "Durham",
-          "line": "Today"
-        },
-        {
           "title": "Bull City Cocktails Tour",
           "where": "Durham",
           "line": "Today"
@@ -42,6 +37,11 @@
         {
           "title": "Devine & Dexterous featuring Camille Thurman & The Christian Tamburr Quintet",
           "where": "Garner Performing Arts Center · Garner",
+          "line": "Today"
+        },
+        {
+          "title": "Fall & Winter Birds of Wake County",
+          "where": "Morrisville Senior Center · Morrisville",
           "line": "Today"
         }
       ]
