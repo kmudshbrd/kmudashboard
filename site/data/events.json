@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "11th Annual Zombiepalooza 2026",
-          "where": "DCP Great Lawn Pavilion · Cary",
+          "title": "2nd Annual Diwali Fest",
+          "where": "Fuquay-Varina High School · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Adult Nights: Tales of Woe",
-          "where": "North Carolina Museum of Natural Sciences · Raleigh",
+          "title": "ASP Benefit Concert and Album Release",
+          "where": "Wakefield United Methodist Church · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bad PR",
-          "where": "The Backyard Bar · Apex",
+          "title": "Alt Rock Tribute Night: Make Yourself (Incubus) w/ Applied Science (311)",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Bats, Bugs and Beasts",
-          "where": "DCP Guest Services · Cary",
+          "title": "An Evening of French Music: Onyx Club Boys with Sophie Dal-Pra",
+          "where": "Bond Brothers Eastside · Cary",
           "line": "Today"
         },
         {
-          "title": "Bonezone Karaoke Masquerade",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Devine & Dexterous featuring Camille Thurman & The Christian Tamburr Quintet",
+          "title": "An Evening with Kathy Mattea",
           "where": "Garner Performing Arts Center · Garner",
           "line": "Today"
         },
         {
-          "title": "Fall & Winter Birds of Wake County",
-          "where": "Morrisville Senior Center · Morrisville",
+          "title": "Apex Half Marathon",
+          "where": "Sweetwater Town Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Fun-Sized Fridays",
-          "where": "Saving Grace · Wake Forest",
+          "title": "CarnEvil: A Live! Halloween Party 2026",
+          "where": "Sports & Social · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Goblin's Groove Family Dance",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "2nd Annual Diwali Fest",
-          "where": "Fuquay-Varina High School · Fuquay-Varina",
-          "line": "Sat · Oct 24"
+          "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
+          "where": "Durham",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "ASP Benefit Concert and Album Release",
-          "where": "Wakefield United Methodist Church · Raleigh",
-          "line": "Sat · Oct 24"
+          "title": "Author Event: The Art of Hospitality with Molly Irani, cofounder of Chai Pani",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "Alt Rock Tribute Night: Make Yourself (Incubus) w/ Applied Science (311)",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Sat · Oct 24"
+          "title": "BOOzy Halloween Brunch & Bubbles",
+          "where": "AVA Rooftop Bar · Cary",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "An Evening of French Music: Onyx Club Boys with Sophie Dal-Pra",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Oct 24"
+          "title": "Ballet for Beginners Part III - Choreography & Emotion",
+          "where": "Movement Studio · Raleigh",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "An Evening with Kathy Mattea",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Sat · Oct 24"
+          "title": "Brunch & Bubbles at AVA Rooftop Bar",
+          "where": "AVA Rooftop Bar · Cary",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "Apex Half Marathon",
-          "where": "Sweetwater Town Center · Apex",
-          "line": "Sat · Oct 24"
+          "title": "Spooky Pottery Painting with Cozy Panda",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "CarnEvil: A Live! Halloween Party 2026",
-          "where": "Sports & Social · Cary",
-          "line": "Sat · Oct 24"
+          "title": "Sunday Funday with Brian & Cheyenne — Americana + Pop Hits",
+          "where": "The Backyard Bar · Apex",
+          "line": "Sun · Oct 25"
         },
         {
-          "title": "Goblin's Groove Family Dance",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Sat · Oct 24"
+          "title": "Watercolor: Plein Air - Sundays",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Oct 25 – Nov 1"
         }
       ]
     },
@@ -95,35 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Duke vs. Boston College Football Game",
+          "title": "Freeman's Fall Festival",
           "where": "Durham",
-          "line": "Sat · Oct 31"
+          "line": "Sat · Nov 7"
         },
         {
-          "title": "Cattyrompus",
+          "title": "North Durham Farmers' Market",
           "where": "Durham",
-          "line": "Sat · Oct 31"
+          "line": "Sat · Nov 7"
         },
-        {
-          "title": "Sinfonietta Chamber Ensemble",
-          "where": "Carswell Concert Hall · Raleigh",
-          "line": "Mon · Nov 23"
-        },
-        {
-          "title": "TrebleFest Showcase Concert",
-          "where": "Jones Auditorium · Raleigh",
-          "line": "Mon · Nov 23"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 23"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Criminal Presents: Don't Worry with Phoebe Judge",
           "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
@@ -133,6 +113,21 @@
           "title": "Crochet Level 1: Round Coaster",
           "where": "Craft Habit · Raleigh",
           "line": "Tue · Nov 24"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "NC State Men's Basketball vs. Norfolk State",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Wed · Nov 25"
+        },
+        {
+          "title": "Pouya - The Foreverglades Tour",
+          "where": "The Ritz · Raleigh",
+          "line": "Wed · Nov 25"
         },
         {
           "title": "The Embers Holiday Show 2026",
