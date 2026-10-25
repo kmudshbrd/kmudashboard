@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "2nd Annual Diwali Fest",
-          "where": "Fuquay-Varina High School · Fuquay-Varina",
+          "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "ASP Benefit Concert and Album Release",
-          "where": "Wakefield United Methodist Church · Raleigh",
+          "title": "Author Event: The Art of Hospitality with Molly Irani, cofounder of Chai Pani",
+          "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Alt Rock Tribute Night: Make Yourself (Incubus) w/ Applied Science (311)",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "title": "BOOzy Halloween Brunch & Bubbles",
+          "where": "AVA Rooftop Bar · Cary",
           "line": "Today"
         },
         {
-          "title": "An Evening of French Music: Onyx Club Boys with Sophie Dal-Pra",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "Ballet for Beginners Part III - Choreography & Emotion",
+          "where": "Movement Studio · Raleigh",
           "line": "Today"
         },
         {
-          "title": "An Evening with Kathy Mattea",
-          "where": "Garner Performing Arts Center · Garner",
+          "title": "Brunch & Bubbles at AVA Rooftop Bar",
+          "where": "AVA Rooftop Bar · Cary",
           "line": "Today"
         },
         {
-          "title": "Apex Half Marathon",
-          "where": "Sweetwater Town Center · Apex",
+          "title": "Spooky Pottery Painting with Cozy Panda",
+          "where": "Southern Peak Brewery · Apex",
           "line": "Today"
         },
         {
-          "title": "CarnEvil: A Live! Halloween Party 2026",
-          "where": "Sports & Social · Cary",
+          "title": "Sunday Funday with Brian & Cheyenne — Americana + Pop Hits",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         },
         {
-          "title": "Fun-Sized Fridays",
-          "where": "Saving Grace · Wake Forest",
-          "line": "Today"
+          "title": "Watercolor: Plein Air - Sundays",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Through Nov 1"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
-          "where": "Durham",
-          "line": "Sun · Oct 25"
+          "title": "Bright Side's ACOTAR 6 Midnight Release Party",
+          "where": "Junction West · Raleigh",
+          "line": "Mon · Oct 26"
         },
         {
-          "title": "Author Event: The Art of Hospitality with Molly Irani, cofounder of Chai Pani",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Sun · Oct 25"
+          "title": "Downtown Cary Park Diwali Celebration",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Mon · Oct 26"
         },
         {
-          "title": "BOOzy Halloween Brunch & Bubbles",
-          "where": "AVA Rooftop Bar · Cary",
-          "line": "Sun · Oct 25"
+          "title": "Grieves w/ Mouse Powell",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Mon · Oct 26"
         },
         {
-          "title": "Ballet for Beginners Part III - Choreography & Emotion",
-          "where": "Movement Studio · Raleigh",
-          "line": "Sun · Oct 25"
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
+          "line": "Mon · Oct 26"
         },
         {
-          "title": "Brunch & Bubbles at AVA Rooftop Bar",
-          "where": "AVA Rooftop Bar · Cary",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Spooky Pottery Painting with Cozy Panda",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Sunday Funday with Brian & Cheyenne — Americana + Pop Hits",
-          "where": "The Backyard Bar · Apex",
-          "line": "Sun · Oct 25"
-        },
-        {
-          "title": "Watercolor: Plein Air - Sundays",
+          "title": "Musical Theatre 101 for Adults",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Oct 25 – Nov 1"
+          "line": "Mon · Oct 26"
+        },
+        {
+          "title": "Seniors Without Walls Program - Dance Aerobics",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Mon · Oct 26"
+        },
+        {
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Mon · Oct 26"
+        },
+        {
+          "title": "Author Event: Ellery Adams",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Tue · Oct 27"
         }
       ]
     },
@@ -104,21 +104,6 @@
           "where": "Durham",
           "line": "Fri · Nov 13"
         },
-        {
-          "title": "Criminal Presents: Don't Worry with Phoebe Judge",
-          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Tue · Nov 24"
-        },
-        {
-          "title": "Crochet Level 1: Round Coaster",
-          "where": "Craft Habit · Raleigh",
-          "line": "Tue · Nov 24"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "NC State Men's Basketball vs. Norfolk State",
           "where": "Lenovo Center · Raleigh",
@@ -138,10 +123,25 @@
           "title": "Turkey Leg Day-Feast on Fitness 2026",
           "where": "Downtown Cary Park · Cary",
           "line": "Nov 25 – Nov 29"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "Freedom Ride Rescue Turkey Day 5K",
           "where": "White Deer Park/Lake Benson · Garner",
+          "line": "Thu · Nov 26"
+        },
+        {
+          "title": "Raleigh’s Irregardless Thanksgiving Dinner",
+          "where": "Irregardless · Raleigh",
+          "line": "Thu · Nov 26"
+        },
+        {
+          "title": "Thanksgiving Morning Yoga",
+          "where": "Fred Fletcher Park · Raleigh",
           "line": "Thu · Nov 26"
         },
         {
@@ -157,6 +157,16 @@
         {
           "title": "A Taylor Swift Candlelight Experience in Knightdale",
           "where": "Haven Farm · Knightdale",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Art Cart",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Light Up Main (Small Business Saturday & Annual Tree Lighting)",
+          "where": "Downtown Garner · Garner",
           "line": "Sat · Nov 28"
         }
       ]
