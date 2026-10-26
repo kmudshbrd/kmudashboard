@@ -5,38 +5,38 @@
       "label": "Today",
       "items": [
         {
-          "title": "ZINE MACHINE PRINTED MATTER FESTIVAL",
-          "where": "Durham",
+          "title": "Bright Side's ACOTAR 6 Midnight Release Party",
+          "where": "Junction West · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 N.C. State Fair",
-          "where": "Raleigh",
+          "title": "Downtown Cary Park Diwali Celebration",
+          "where": "DCP Great Lawn Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Author Event: The Art of Hospitality with Molly Irani, cofounder of Chai Pani",
-          "where": "North Carolina Museum of Art · Raleigh",
+          "title": "Grieves w/ Mouse Powell",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "BOOzy Halloween Brunch & Bubbles",
-          "where": "AVA Rooftop Bar · Cary",
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
           "line": "Today"
         },
         {
-          "title": "Brunch & Bubbles at AVA Rooftop Bar",
-          "where": "AVA Rooftop Bar · Cary",
+          "title": "Musical Theatre 101 for Adults",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Spooky Pottery Painting with Cozy Panda",
-          "where": "Southern Peak Brewery · Apex",
+          "title": "Seniors Without Walls Program - Dance Aerobics",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
           "line": "Today"
         },
         {
-          "title": "Sunday Funday with Brian & Cheyenne — Americana + Pop Hits",
-          "where": "The Backyard Bar · Apex",
+          "title": "Seniors Without Walls Program - Mahjong",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
           "line": "Today"
         },
         {
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Bright Side's ACOTAR 6 Midnight Release Party",
-          "where": "Junction West · Raleigh",
-          "line": "Mon · Oct 26"
-        },
-        {
-          "title": "Downtown Cary Park Diwali Celebration",
-          "where": "DCP Great Lawn Pavilion · Cary",
-          "line": "Mon · Oct 26"
-        },
-        {
-          "title": "Grieves w/ Mouse Powell",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Mon · Oct 26"
-        },
-        {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Mon · Oct 26"
-        },
-        {
-          "title": "Musical Theatre 101 for Adults",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Mon · Oct 26"
-        },
-        {
-          "title": "Seniors Without Walls Program - Dance Aerobics",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Mon · Oct 26"
-        },
-        {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Mon · Oct 26"
-        },
-        {
           "title": "Author Event: Ellery Adams",
           "where": "Page 158 Books · Wake Forest",
           "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Beer & Belly Dancing",
+          "where": "Fortnight Brewing Company · Cary",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Blackbird Book Club",
+          "where": "Raleigh",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Boston Bruins vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "$5 Ticket Tuesdays",
+          "where": "Paragon Theaters Fenton · Cary",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Line Dancing for All Levels",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Oct 27"
+        },
+        {
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Oct 27 – Dec 29"
         }
       ]
     },
@@ -104,31 +104,6 @@
           "where": "Durham",
           "line": "Fri · Nov 13"
         },
-        {
-          "title": "NC State Men's Basketball vs. Norfolk State",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Wed · Nov 25"
-        },
-        {
-          "title": "Pouya - The Foreverglades Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Wed · Nov 25"
-        },
-        {
-          "title": "The Embers Holiday Show 2026",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Wed · Nov 25"
-        },
-        {
-          "title": "Turkey Leg Day-Feast on Fitness 2026",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Nov 25 – Nov 29"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Freedom Ride Rescue Turkey Day 5K",
           "where": "White Deer Park/Lake Benson · Garner",
@@ -148,6 +123,21 @@
           "title": "NCFST Mobile Market 2026 4th Thursday",
           "where": "Across from the Northern Regional Center · Wake Forest",
           "line": "Nov 26 – Dec 24"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Emo Night Brooklyn",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Fri · Nov 27"
+        },
+        {
+          "title": "Friendsgiving Featuring Duck & friends",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Fri · Nov 27"
         },
         {
           "title": "Marcus D. Wiley",
@@ -168,6 +158,16 @@
           "title": "Light Up Main (Small Business Saturday & Annual Tree Lighting)",
           "where": "Downtown Garner · Garner",
           "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Live Music: Maverick Rose",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Nov 28 – Dec 12"
+        },
+        {
+          "title": "5th Annual Kid's Holiday Craft Fair",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Nov 29"
         }
       ]
     }
