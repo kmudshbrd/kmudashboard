@@ -5,39 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Bright Side's ACOTAR 6 Midnight Release Party",
-          "where": "Junction West · Raleigh",
+          "title": "Author Event: Ellery Adams",
+          "where": "Page 158 Books · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Downtown Cary Park Diwali Celebration",
-          "where": "DCP Great Lawn Pavilion · Cary",
+          "title": "Beer & Belly Dancing",
+          "where": "Fortnight Brewing Company · Cary",
           "line": "Today"
         },
         {
-          "title": "Grieves w/ Mouse Powell",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "title": "Blackbird Book Club",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
+          "title": "Boston Bruins vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Musical Theatre 101 for Adults",
+          "title": "Solo Together Summit",
+          "where": "Chatham Station · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Line Dancing for All Levels",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Dance Aerobics",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Today"
         },
         {
-          "title": "Seniors Without Walls Program - Mahjong",
-          "where": "Rolesville Parks and Recreation Department · Rolesville",
-          "line": "Today"
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Through Dec 29"
         }
       ]
     },
@@ -45,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Author Event: Ellery Adams",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Tue · Oct 27"
+          "title": "Family Friendly Halloween Party",
+          "where": "Durham",
+          "line": "Wed · Oct 28"
         },
         {
-          "title": "Beer & Belly Dancing",
-          "where": "Fortnight Brewing Company · Cary",
-          "line": "Tue · Oct 27"
+          "title": "\"A Little Shiver\" Kid's Show: Ghost Stories with Donna Washington",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Wed · Oct 28"
         },
         {
-          "title": "Blackbird Book Club",
-          "where": "Raleigh",
-          "line": "Tue · Oct 27"
+          "title": "\"Of Blood and Bone\": Ghost Stories with Donna Washington",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Wed · Oct 28"
         },
         {
-          "title": "Boston Bruins vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Oct 27"
+          "title": "Art in the Park",
+          "where": "The Chapel at Dix Park · Raleigh",
+          "line": "Wed · Oct 28"
         },
         {
-          "title": "$5 Ticket Tuesdays",
-          "where": "Paragon Theaters Fenton · Cary",
-          "line": "Tue · Oct 27"
+          "title": "Eurocult Cinema Series",
+          "where": "The Cary Theater · Cary",
+          "line": "Wed · Oct 28"
         },
         {
-          "title": "Line Dancing for All Levels",
+          "title": "Forging II",
+          "where": "ShopSpace · Raleigh",
+          "line": "Wed · Oct 28"
+        },
+        {
+          "title": "Ghost Hunt in Downtown Cary at Vino & Tap",
+          "where": "Vino & Tap · Cary",
+          "line": "Wed · Oct 28"
+        },
+        {
+          "title": "Beginning Pottery",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Tue · Oct 27"
-        },
-        {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Oct 27"
-        },
-        {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Oct 27 – Dec 29"
+          "line": "Wed · Oct 28"
         }
       ]
     },
@@ -100,31 +105,6 @@
           "line": "Fri · Nov 13"
         },
         {
-          "title": "Freedom Ride Rescue Turkey Day 5K",
-          "where": "White Deer Park/Lake Benson · Garner",
-          "line": "Thu · Nov 26"
-        },
-        {
-          "title": "Raleigh’s Irregardless Thanksgiving Dinner",
-          "where": "Irregardless · Raleigh",
-          "line": "Thu · Nov 26"
-        },
-        {
-          "title": "Thanksgiving Morning Yoga",
-          "where": "Fred Fletcher Park · Raleigh",
-          "line": "Thu · Nov 26"
-        },
-        {
-          "title": "NCFST Mobile Market 2026 4th Thursday",
-          "where": "Across from the Northern Regional Center · Wake Forest",
-          "line": "Nov 26 – Dec 24"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
           "title": "Emo Night Brooklyn",
           "where": "Chapel of Bones · Raleigh",
           "line": "Fri · Nov 27"
@@ -138,7 +118,12 @@
           "title": "Marcus D. Wiley",
           "where": "Raleigh Improv · Cary",
           "line": "Nov 27 – Nov 29"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "A Taylor Swift Candlelight Experience in Knightdale",
           "where": "Haven Farm · Knightdale",
@@ -147,6 +132,21 @@
         {
           "title": "Art Cart",
           "where": "DCP Academy Pavilion · Cary",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Being Heumann",
+          "where": "The Cary Theater · Cary",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Crucial Fiya",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Jane & Tonic",
+          "where": "Tin Roof Raleigh · Raleigh",
           "line": "Sat · Nov 28"
         },
         {
