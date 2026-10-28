@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Author Event: Ellery Adams",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Family Friendly Halloween Party",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Beer & Belly Dancing",
-          "where": "Fortnight Brewing Company · Cary",
+          "title": "\"A Little Shiver\" Kid's Show: Ghost Stories with Donna Washington",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Blackbird Book Club",
-          "where": "Raleigh",
+          "title": "\"Of Blood and Bone\": Ghost Stories with Donna Washington",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Boston Bruins vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
+          "title": "Art in the Park",
+          "where": "The Chapel at Dix Park · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Solo Together Summit",
-          "where": "Chatham Station · Cary",
+          "title": "Eurocult Cinema Series",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Line Dancing for All Levels",
+          "title": "Forging II",
+          "where": "ShopSpace · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Ghost Hunt in Downtown Cary at Vino & Tap",
+          "where": "Vino & Tap · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Beginning Pottery",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
-        },
-        {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Today"
-        },
-        {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Through Dec 29"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Family Friendly Halloween Party",
-          "where": "Durham",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "\"A Little Shiver\" Kid's Show: Ghost Stories with Donna Washington",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "\"Of Blood and Bone\": Ghost Stories with Donna Washington",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Art in the Park",
+          "title": "Bike Commuting 101",
           "where": "The Chapel at Dix Park · Raleigh",
-          "line": "Wed · Oct 28"
+          "line": "Thu · Oct 29"
         },
         {
-          "title": "Eurocult Cinema Series",
+          "title": "Black Trivia & Karaoke Game Night",
+          "where": "101 Kitchen · Knightdale",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Boo Bash Morrisville 2026",
+          "where": "Morrisville Community Park · Morrisville",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Burlesque and Live Jazz",
+          "where": "Watts & Ward · Raleigh",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Cary Police Department Trunk or Treat 2026",
+          "where": "Park Street · Cary",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Seniors Without Walls Program - Sip-n-Paint w/ Humana",
+          "where": "Rolesville Parks and Recreation Department · Rolesville",
+          "line": "Thu · Oct 29"
+        },
+        {
+          "title": "Tucker and Dale vs. Evil",
           "where": "The Cary Theater · Cary",
-          "line": "Wed · Oct 28"
+          "line": "Thu · Oct 29"
         },
         {
-          "title": "Forging II",
-          "where": "ShopSpace · Raleigh",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Ghost Hunt in Downtown Cary at Vino & Tap",
-          "where": "Vino & Tap · Cary",
-          "line": "Wed · Oct 28"
-        },
-        {
-          "title": "Beginning Pottery",
+          "title": "Ballet for Adults",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Wed · Oct 28"
+          "line": "Thu · Oct 29"
         }
       ]
     },
@@ -104,26 +104,6 @@
           "where": "Durham",
           "line": "Fri · Nov 13"
         },
-        {
-          "title": "Emo Night Brooklyn",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Fri · Nov 27"
-        },
-        {
-          "title": "Friendsgiving Featuring Duck & friends",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Fri · Nov 27"
-        },
-        {
-          "title": "Marcus D. Wiley",
-          "where": "Raleigh Improv · Cary",
-          "line": "Nov 27 – Nov 29"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "A Taylor Swift Candlelight Experience in Knightdale",
           "where": "Haven Farm · Knightdale",
@@ -153,16 +133,51 @@
           "title": "Light Up Main (Small Business Saturday & Annual Tree Lighting)",
           "where": "Downtown Garner · Garner",
           "line": "Sat · Nov 28"
-        },
-        {
-          "title": "Live Music: Maverick Rose",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Nov 28 – Dec 12"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "5th Annual Kid's Holiday Craft Fair",
           "where": "The Halle Cultural Arts Center · Apex",
           "line": "Sun · Nov 29"
+        },
+        {
+          "title": "A Motown Christmas",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sun · Nov 29"
+        },
+        {
+          "title": "Handmade Holiday Gifts: Make & Take at Fenton’s Igloo",
+          "where": "The Igloo · Cary",
+          "line": "Sun · Nov 29"
+        },
+        {
+          "title": "North by North, Newspaper taxis, Kate Bopp & the Ghost Rattle",
+          "where": "Slim's Dive Bar · Raleigh",
+          "line": "Sun · Nov 29"
+        },
+        {
+          "title": "Pickleball DUPR Round Robin Day",
+          "where": "Morrisville Aquatics & Fitness Center · Morrisville",
+          "line": "Sun · Nov 29"
+        },
+        {
+          "title": "Tinsel Tavern: Holiday Mixology",
+          "where": "Cary",
+          "line": "Mon · Nov 30"
+        },
+        {
+          "title": "Intro to Cross Stitching",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Dec 1 – Dec 8"
+        },
+        {
+          "title": "The Hunger Games Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Dec 2"
         }
       ]
     }
