@@ -1,40 +1,40 @@
 {
-  "temp": 60.6,
-  "desc": "Partly cloudy, feels like 59°.",
-  "aqi": 49,
-  "aqiLabel": "Good",
+  "temp": 71.0,
+  "desc": "Overcast, feels like 70°.",
+  "aqi": 53,
+  "aqiLabel": "Moderate",
   "sunrise": "07:33",
   "sunset": "18:23",
   "hours": [
     {
-      "h": "12h",
-      "icon": "☀︎",
-      "t": 64.8,
-      "p": 0
-    },
-    {
-      "h": "15h",
-      "icon": "☁︎",
-      "t": 69.7,
-      "p": 0
-    },
-    {
       "h": "18h",
       "icon": "☁︎",
-      "t": 68.4,
+      "t": 67.7,
       "p": 0
     },
     {
       "h": "21h",
       "icon": "☁︎",
-      "t": 61.6,
+      "t": 60.0,
       "p": 0
     },
     {
       "h": "00h",
       "icon": "☁︎",
-      "t": 58.0,
+      "t": 57.3,
       "p": 0
+    },
+    {
+      "h": "03h",
+      "icon": "☀︎",
+      "t": 55.6,
+      "p": 0
+    },
+    {
+      "h": "06h",
+      "icon": "☀︎",
+      "t": 54.7,
+      "p": 1
     }
   ]
 }
