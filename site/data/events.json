@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Family Friendly Halloween Party",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Bike Commuting 101",
           "where": "The Chapel at Dix Park · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Tucker and Dale vs. Evil",
           "where": "The Cary Theater · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Ballet for Adults",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         }
       ]
