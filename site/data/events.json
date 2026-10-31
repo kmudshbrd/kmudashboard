@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Phantasmagoria",
+          "title": "Duke vs. Boston College Football Game",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Amplify Health: Monster Bash",
-          "where": "Poe Center for Health Education · Raleigh",
+          "title": "Cattyrompus",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "An Evening with Murry Attaway, Don Dixon & Peter Holsapple",
-          "where": "The Wake Forest Listening Room · Wake Forest",
+          "title": "17th Annual Raleigh Boogeyman Bar Crawl",
+          "where": "Alchemy · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Barks and Boos Open House & Supply Drive",
+          "title": "Art and Blooms at the JCRA",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Dave and Boo'ster's",
+          "where": "Dave & Buster's · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Fun-Sized Fridays",
           "where": "Saving Grace · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Bewitched at the Barnyard: A Fundraiser for Local Rescues",
-          "where": "Planet Peace Farm · Raleigh",
+          "title": "Fuquay-Varina Fire Department Annual Open House 2026",
+          "where": "Town of Fuquay-Varina · Fuquay-Varina",
           "line": "Today"
         },
         {
-          "title": "Blood on the Clock Tower",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Fall Fest featuring Epic Live 2026",
-          "where": "The Shepherd's Church · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Jeki Yoo Magician",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "title": "Halloween 2026",
+          "where": "Abbey Road Tavern & Grill - Cary · Cary",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Duke vs. Boston College Football Game",
-          "where": "Durham",
-          "line": "Sat · Oct 31"
+          "title": "404Blac: Back for Tha First Time",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Cattyrompus",
-          "where": "Durham",
-          "line": "Sat · Oct 31"
+          "title": "Collector's Preview Brunch",
+          "where": "Artspace · Raleigh",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "17th Annual Raleigh Boogeyman Bar Crawl",
-          "where": "Alchemy · Raleigh",
-          "line": "Sat · Oct 31"
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Art and Blooms at the JCRA",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
-          "line": "Sat · Oct 31"
+          "title": "NC Courage Pre-Match Party",
+          "where": "Sports & Social · Cary",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Dave and Boo'ster's",
-          "where": "Dave & Buster's · Cary",
-          "line": "Sat · Oct 31"
+          "title": "Pirates and Mermaids Holiday Market with Haven Farm",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Fuquay-Varina Fire Department Annual Open House 2026",
-          "where": "Town of Fuquay-Varina · Fuquay-Varina",
-          "line": "Sat · Oct 31"
+          "title": "Watercolor: Plein Air - Sundays",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Halloween 2026",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
-          "line": "Sat · Oct 31"
+          "title": "Open Mic Night in the Barn",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Sun · Nov 1"
         },
         {
-          "title": "Halloween Party with CRUSH — Triangle’s Premier Party Band",
-          "where": "The Backyard Bar · Apex",
-          "line": "Sat · Oct 31"
+          "title": "Trivia Night",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Nov 1 – Dec 27"
         }
       ]
     },
@@ -95,40 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Freeman's Fall Festival",
-          "where": "Durham",
-          "line": "Sat · Nov 7"
-        },
-        {
           "title": "North Durham Friday Evening Farmers' Market",
           "where": "Durham",
           "line": "Fri · Nov 13"
         },
-        {
-          "title": "Christmas Together",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Mon · Nov 30"
-        },
-        {
-          "title": "Member Monday: Ancient Nubia",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Mon · Nov 30"
-        },
-        {
-          "title": "Tinsel Tavern: Holiday Mixology",
-          "where": "Cary",
-          "line": "Mon · Nov 30"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 30"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Calligraphy Christmas Card",
           "where": "DCP Academy Pavilion · Cary",
@@ -153,6 +123,26 @@
           "title": "Santa Paws- Fenton 2026",
           "where": "The Backyard · Cary",
           "line": "Dec 1 – Dec 8"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Arthur Erickson: Beauty Between the Lines",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Wed · Dec 2"
+        },
+        {
+          "title": "Champagne & Friends",
+          "where": "The Loading Dock · Raleigh",
+          "line": "Wed · Dec 2"
+        },
+        {
+          "title": "Tai Chi: Downtown Cary Park",
+          "where": "DCP Gathering House · Cary",
+          "line": "Wed · Dec 2"
         },
         {
           "title": "The Hunger Games Trivia Night",
@@ -165,8 +155,18 @@
           "line": "Thu · Dec 3"
         },
         {
+          "title": "Legacy of Jazz: My Favorite Things",
+          "where": "The Cary Theater · Cary",
+          "line": "Thu · Dec 3"
+        },
+        {
           "title": "Town Tree Lighting 2026",
           "where": "Downtown Fuquay-Varina · Fuquay-Varina",
+          "line": "Thu · Dec 3"
+        },
+        {
+          "title": "Karaoke with Doug",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Thu · Dec 3"
         }
       ]
