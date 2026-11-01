@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Duke vs. Boston College Football Game",
+          "title": "404Blac: Back for Tha First Time",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Collector's Preview Brunch",
+          "where": "Artspace · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "NC Courage Pre-Match Party",
+          "where": "Sports & Social · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Pirates and Mermaids Holiday Market with Haven Farm",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Today"
+        },
+        {
+          "title": "Watercolor: Plein Air - Sundays",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Open Mic Night in the Barn",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Today"
+        },
+        {
+          "title": "Durham FRINGE Festival",
           "where": "Durham",
-          "line": "Today"
-        },
-        {
-          "title": "Cattyrompus",
-          "where": "Durham",
-          "line": "Today"
-        },
-        {
-          "title": "17th Annual Raleigh Boogeyman Bar Crawl",
-          "where": "Alchemy · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Art and Blooms at the JCRA",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Dave and Boo'ster's",
-          "where": "Dave & Buster's · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Fun-Sized Fridays",
-          "where": "Saving Grace · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Fuquay-Varina Fire Department Annual Open House 2026",
-          "where": "Town of Fuquay-Varina · Fuquay-Varina",
-          "line": "Today"
-        },
-        {
-          "title": "Halloween 2026",
-          "where": "Abbey Road Tavern & Grill - Cary · Cary",
-          "line": "Today"
+          "line": "Through Nov 8"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "404Blac: Back for Tha First Time",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Sun · Nov 1"
+          "title": "Author Event: Siera London",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Mon · Nov 2"
         },
         {
-          "title": "Collector's Preview Brunch",
-          "where": "Artspace · Raleigh",
-          "line": "Sun · Nov 1"
+          "title": "Drop-in Puzzling and Puzzle Swap Meet",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Mon · Nov 2"
         },
         {
-          "title": "Hoosiers - 40th Anniversay",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Nov 1"
+          "title": "Movements - Happier Now USA Tour",
+          "where": "The Ritz · Raleigh",
+          "line": "Mon · Nov 2"
         },
         {
-          "title": "NC Courage Pre-Match Party",
+          "title": "NC State Men's Basketball vs. Campbell",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Mon · Nov 2"
+        },
+        {
+          "title": "Fired Up Trivia",
           "where": "Sports & Social · Cary",
-          "line": "Sun · Nov 1"
+          "line": "Mon · Nov 2"
         },
         {
-          "title": "Pirates and Mermaids Holiday Market with Haven Farm",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Sun · Nov 1"
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Nov 2 – Dec 21"
         },
         {
-          "title": "Watercolor: Plein Air - Sundays",
+          "title": "Watercolor: Plein Air - Tuesdays",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sun · Nov 1"
+          "line": "Tue · Nov 3"
         },
         {
-          "title": "Open Mic Night in the Barn",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Sun · Nov 1"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Nov 1 – Dec 27"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Nov 3"
         }
       ]
     },
@@ -95,45 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Sustainable Clothing Swap @ DSSOLVR",
-          "where": "Durham",
-          "line": "Sun · Nov 8"
-        },
-        {
           "title": "Death Becomes Her",
           "where": "Durham",
           "line": "Tue · Nov 10"
         },
         {
-          "title": "Calligraphy Christmas Card",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Dec 1"
+          "title": "13th Annual Durham Pottery Tour",
+          "where": "Durham",
+          "line": "Nov 14 – Nov 15"
         },
-        {
-          "title": "Carl Banks",
-          "where": "Slim's Dive Bar · Raleigh",
-          "line": "Tue · Dec 1"
-        },
-        {
-          "title": "Cocktail Class at Boatman Spirits - Make It Sparkle",
-          "where": "Boatman Spirits Co. · Raleigh",
-          "line": "Tue · Dec 1"
-        },
-        {
-          "title": "Intro to Cross Stitching",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Dec 1 – Dec 8"
-        },
-        {
-          "title": "Santa Paws- Fenton 2026",
-          "where": "The Backyard · Cary",
-          "line": "Dec 1 – Dec 8"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Arthur Erickson: Beauty Between the Lines",
           "where": "The Rialto Theatre · Raleigh",
@@ -153,6 +123,21 @@
           "title": "The Hunger Games Trivia Night",
           "where": "Southern Peak Brewery · Apex",
           "line": "Wed · Dec 2"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Alex Gorge",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Thu · Dec 3"
+        },
+        {
+          "title": "Audio Description Tour of Ancient Nubia",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Thu · Dec 3"
         },
         {
           "title": "Fuquay-Varina Town Tree Lighting 2026",
@@ -165,6 +150,11 @@
           "line": "Thu · Dec 3"
         },
         {
+          "title": "Santi Espinosa: ME Time (English/Spanish Show)",
+          "where": "Raleigh Improv · Cary",
+          "line": "Thu · Dec 3"
+        },
+        {
           "title": "Town Tree Lighting 2026",
           "where": "Downtown Fuquay-Varina · Fuquay-Varina",
           "line": "Thu · Dec 3"
@@ -172,6 +162,11 @@
         {
           "title": "Karaoke with Doug",
           "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Thu · Dec 3"
+        },
+        {
+          "title": "The Gnome knows Trivia-Norse Brewing Company Wake Forest",
+          "where": "Norse Brewing Company · Wake Forest",
           "line": "Thu · Dec 3"
         }
       ]
