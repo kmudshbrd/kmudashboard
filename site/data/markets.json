@@ -1,5 +1,5 @@
 {
-  "meta": "2-year performance · quotes as of 01:49 ET",
+  "meta": "2-year performance · quotes as of 09:58 ET",
   "groups": [
     {
       "label": "Metals",
@@ -752,8 +752,8 @@
         {
           "name": "USD / INR",
           "sub": "Spot",
-          "price": 94.95,
-          "changePct": 12.912720974273274,
+          "price": 94.94,
+          "changePct": 12.900829165850492,
           "series": [
             84.09149932861328,
             84.47380065917969,
@@ -807,7 +807,7 @@
             95.9280014038086,
             96.31800079345703,
             94.95880126953125,
-            94.95
+            94.94
           ]
         }
       ]
