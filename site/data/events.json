@@ -5,44 +5,39 @@
       "label": "Today",
       "items": [
         {
-          "title": "404Blac: Back for Tha First Time",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Author Event: Siera London",
+          "where": "Page 158 Books · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Collector's Preview Brunch",
-          "where": "Artspace · Raleigh",
+          "title": "Drop-in Puzzling and Puzzle Swap Meet",
+          "where": "Downtown Cary Park · Cary",
           "line": "Today"
         },
         {
-          "title": "Hoosiers - 40th Anniversay",
-          "where": "The Cary Theater · Cary",
+          "title": "Movements - Happier Now USA Tour",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "NC Courage Pre-Match Party",
+          "title": "NC State Men's Basketball vs. Campbell",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Fired Up Trivia",
           "where": "Sports & Social · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Pirates and Mermaids Holiday Market with Haven Farm",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Today"
-        },
-        {
-          "title": "Watercolor: Plein Air - Sundays",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Open Mic Night in the Barn",
-          "where": "Haven of Knightdale · Knightdale",
           "line": "Today"
         },
         {
           "title": "Durham FRINGE Festival",
           "where": "Durham",
           "line": "Through Nov 8"
+        },
+        {
+          "title": "Music Bingo Monday",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Through Dec 21"
         }
       ]
     },
@@ -50,34 +45,19 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Author Event: Siera London",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Mon · Nov 2"
+          "title": "Beaded Bag Charm Workshop",
+          "where": "Gather Goods Co. · Raleigh",
+          "line": "Tue · Nov 3"
         },
         {
-          "title": "Drop-in Puzzling and Puzzle Swap Meet",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Mon · Nov 2"
+          "title": "Cocktail Class at Boatman Spirits - Punch Me",
+          "where": "Boatman Spirits Co. · Raleigh",
+          "line": "Tue · Nov 3"
         },
         {
-          "title": "Movements - Happier Now USA Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Mon · Nov 2"
-        },
-        {
-          "title": "NC State Men's Basketball vs. Campbell",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Mon · Nov 2"
-        },
-        {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Mon · Nov 2"
-        },
-        {
-          "title": "Music Bingo Monday",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Nov 2 – Dec 21"
+          "title": "Modern Calligraphy for Beginners",
+          "where": "Rosecomb Beer Garden · Cary",
+          "line": "Tue · Nov 3"
         },
         {
           "title": "Watercolor: Plein Air - Tuesdays",
@@ -85,9 +65,24 @@
           "line": "Tue · Nov 3"
         },
         {
+          "title": "$5 Ticket Tuesdays",
+          "where": "Paragon Theaters Fenton · Cary",
+          "line": "Tue · Nov 3"
+        },
+        {
           "title": "Run Club Farmhouse Cafe",
           "where": "Farmhouse Cafe · Wendell",
           "line": "Tue · Nov 3"
+        },
+        {
+          "title": "Media Explorations",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Nov 3 – Nov 24"
+        },
+        {
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Nov 3 – Dec 29"
         }
       ]
     },
@@ -104,31 +99,6 @@
           "where": "Durham",
           "line": "Nov 14 – Nov 15"
         },
-        {
-          "title": "Arthur Erickson: Beauty Between the Lines",
-          "where": "The Rialto Theatre · Raleigh",
-          "line": "Wed · Dec 2"
-        },
-        {
-          "title": "Champagne & Friends",
-          "where": "The Loading Dock · Raleigh",
-          "line": "Wed · Dec 2"
-        },
-        {
-          "title": "Tai Chi: Downtown Cary Park",
-          "where": "DCP Gathering House · Cary",
-          "line": "Wed · Dec 2"
-        },
-        {
-          "title": "The Hunger Games Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Wed · Dec 2"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Alex Gorge",
           "where": "Goodnights Comedy Club · Raleigh",
@@ -158,16 +128,51 @@
           "title": "Town Tree Lighting 2026",
           "where": "Downtown Fuquay-Varina · Fuquay-Varina",
           "line": "Thu · Dec 3"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "19th Annual St. Nicholas European Christmas Market",
+          "where": "Agri-Supply Exposition Center at North Carolina State Fairgrounds · Raleigh",
+          "line": "Fri · Dec 4"
         },
         {
-          "title": "Karaoke with Doug",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Thu · Dec 3"
+          "title": "A Night of Soul & Jazz: Winter Vibes",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Dec 4"
         },
         {
-          "title": "The Gnome knows Trivia-Norse Brewing Company Wake Forest",
-          "where": "Norse Brewing Company · Wake Forest",
-          "line": "Thu · Dec 3"
+          "title": "Christmas Tree Lighting Morrisville 2026",
+          "where": "Indian Creek Trailhead · Morrisville",
+          "line": "Fri · Dec 4"
+        },
+        {
+          "title": "Evening with Elves 2026",
+          "where": "Marbles Kids Museum · Raleigh",
+          "line": "Fri · Dec 4"
+        },
+        {
+          "title": "Lighting of Wake Forest 2026",
+          "where": "Centennial Plaza · Wake Forest",
+          "line": "Fri · Dec 4"
+        },
+        {
+          "title": "No Jive After Five",
+          "where": "Zebulon",
+          "line": "Fri · Dec 4"
+        },
+        {
+          "title": "Tree Lighting",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Fri · Dec 4"
+        },
+        {
+          "title": "Tree Lighting Ceremony",
+          "where": "Town of Apex · Apex",
+          "line": "Fri · Dec 4"
         }
       ]
     }
