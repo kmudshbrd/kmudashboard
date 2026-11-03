@@ -5,28 +5,33 @@
       "label": "Today",
       "items": [
         {
-          "title": "Author Event: Siera London",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Beaded Bag Charm Workshop",
+          "where": "Gather Goods Co. · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Drop-in Puzzling and Puzzle Swap Meet",
-          "where": "Downtown Cary Park · Cary",
+          "title": "Cocktail Class at Boatman Spirits - Punch Me",
+          "where": "Boatman Spirits Co. · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Movements - Happier Now USA Tour",
-          "where": "The Ritz · Raleigh",
+          "title": "Modern Calligraphy for Beginners",
+          "where": "Rosecomb Beer Garden · Cary",
           "line": "Today"
         },
         {
-          "title": "NC State Men's Basketball vs. Campbell",
-          "where": "Lenovo Center · Raleigh",
+          "title": "Watercolor: Plein Air - Tuesdays",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
+          "title": "$5 Ticket Tuesdays",
+          "where": "Paragon Theaters Fenton · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
           "line": "Today"
         },
         {
@@ -35,9 +40,9 @@
           "line": "Through Nov 8"
         },
         {
-          "title": "Music Bingo Monday",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Through Dec 21"
+          "title": "Media Explorations",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Through Nov 24"
         }
       ]
     },
@@ -45,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Beaded Bag Charm Workshop",
-          "where": "Gather Goods Co. · Raleigh",
-          "line": "Tue · Nov 3"
+          "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "Cocktail Class at Boatman Spirits - Punch Me",
-          "where": "Boatman Spirits Co. · Raleigh",
-          "line": "Tue · Nov 3"
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "Modern Calligraphy for Beginners",
-          "where": "Rosecomb Beer Garden · Cary",
-          "line": "Tue · Nov 3"
+          "title": "Caiola",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "Watercolor: Plein Air - Tuesdays",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Tue · Nov 3"
+          "title": "Estate Planning Made Easy",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "$5 Ticket Tuesdays",
-          "where": "Paragon Theaters Fenton · Cary",
-          "line": "Tue · Nov 3"
+          "title": "Friends Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Nov 3"
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "Media Explorations",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Nov 3 – Nov 24"
+          "title": "Short Story Workshop with Maureen Sherbondy",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Wed · Nov 4"
         },
         {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Nov 3 – Dec 29"
+          "title": "Veterans Day Celebration Zebulon 2026",
+          "where": "Zebulon Town Hall. Rain Site Zebulon Community Center · Zebulon",
+          "line": "Wed · Nov 4"
         }
       ]
     },
@@ -90,50 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Death Becomes Her",
-          "where": "Durham",
-          "line": "Tue · Nov 10"
-        },
-        {
           "title": "13th Annual Durham Pottery Tour",
           "where": "Durham",
           "line": "Nov 14 – Nov 15"
         },
         {
-          "title": "Alex Gorge",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Thu · Dec 3"
+          "title": "Skip the Small Talk Night at Atomic Clock Brewing",
+          "where": "Durham",
+          "line": "Mon · Nov 16"
         },
-        {
-          "title": "Audio Description Tour of Ancient Nubia",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Thu · Dec 3"
-        },
-        {
-          "title": "Fuquay-Varina Town Tree Lighting 2026",
-          "where": "Vance Street parking lot · Fuquay-Varina",
-          "line": "Thu · Dec 3"
-        },
-        {
-          "title": "Legacy of Jazz: My Favorite Things",
-          "where": "The Cary Theater · Cary",
-          "line": "Thu · Dec 3"
-        },
-        {
-          "title": "Santi Espinosa: ME Time (English/Spanish Show)",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Dec 3"
-        },
-        {
-          "title": "Town Tree Lighting 2026",
-          "where": "Downtown Fuquay-Varina · Fuquay-Varina",
-          "line": "Thu · Dec 3"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "19th Annual St. Nicholas European Christmas Market",
           "where": "Agri-Supply Exposition Center at North Carolina State Fairgrounds · Raleigh",
@@ -155,24 +125,59 @@
           "line": "Fri · Dec 4"
         },
         {
+          "title": "Legacy of Jazz: My Favorite Things",
+          "where": "The Cary Theater · Cary",
+          "line": "Fri · Dec 4"
+        },
+        {
           "title": "Lighting of Wake Forest 2026",
           "where": "Centennial Plaza · Wake Forest",
           "line": "Fri · Dec 4"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Scandinavian Christmas Fair 2026",
+          "where": "Kerr Scott Building at North Carolina State Fairgrounds · Raleigh",
+          "line": "Sat · Dec 5"
         },
         {
-          "title": "No Jive After Five",
-          "where": "Zebulon",
-          "line": "Fri · Dec 4"
+          "title": "13IRTHMARK",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Sat · Dec 5"
         },
         {
-          "title": "Tree Lighting",
-          "where": "Knightdale Station Park · Knightdale",
-          "line": "Fri · Dec 4"
+          "title": "2026 Jingle Bell Run",
+          "where": "The Backyard · Cary",
+          "line": "Sat · Dec 5"
         },
         {
-          "title": "Tree Lighting Ceremony",
-          "where": "Town of Apex · Apex",
-          "line": "Fri · Dec 4"
+          "title": "Afternoon with Santa",
+          "where": "Johnson Hall Rotunda · Raleigh",
+          "line": "Sat · Dec 5"
+        },
+        {
+          "title": "An Evening with Nixon, Williams & Gage",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Sat · Dec 5"
+        },
+        {
+          "title": "Bi-Monthly Litter Sweep",
+          "where": "Rolesville",
+          "line": "Sat · Dec 5"
+        },
+        {
+          "title": "Holiday Block Party",
+          "where": "Garner Recreation Center · Garner",
+          "line": "Sat · Dec 5"
+        },
+        {
+          "title": "Light the Springs 2026",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Sat · Dec 5"
         }
       ]
     }
