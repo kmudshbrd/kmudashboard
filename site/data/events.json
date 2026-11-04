@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Beaded Bag Charm Workshop",
-          "where": "Gather Goods Co. · Raleigh",
+          "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
+          "where": "Chapel of Bones · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Cocktail Class at Boatman Spirits - Punch Me",
-          "where": "Boatman Spirits Co. · Raleigh",
+          "title": "Box Making for Beginners",
+          "where": "ShopSpace · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Modern Calligraphy for Beginners",
-          "where": "Rosecomb Beer Garden · Cary",
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
           "line": "Today"
         },
         {
-          "title": "Watercolor: Plein Air - Tuesdays",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "title": "Estate Planning Made Easy",
+          "where": "Morrisville Senior Center · Morrisville",
           "line": "Today"
         },
         {
-          "title": "$5 Ticket Tuesdays",
-          "where": "Paragon Theaters Fenton · Cary",
+          "title": "Friends Trivia Night",
+          "where": "Southern Peak Brewery · Apex",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
+          "title": "Hoosiers - 40th Anniversay",
+          "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Durham FRINGE Festival",
-          "where": "Durham",
-          "line": "Through Nov 8"
+          "title": "Short Story Workshop with Maureen Sherbondy",
+          "where": "Page 158 Books · Wake Forest",
+          "line": "Today"
         },
         {
-          "title": "Media Explorations",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Through Nov 24"
+          "title": "Veterans Day Celebration Zebulon 2026",
+          "where": "Zebulon Town Hall. Rain Site Zebulon Community Center · Zebulon",
+          "line": "Today"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Wed · Nov 4"
+          "title": "\"Meet the Artist\" Reception with Michael Perry",
+          "where": "Songbird · Raleigh",
+          "line": "Thu · Nov 5"
         },
         {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
-          "line": "Wed · Nov 4"
+          "title": "Ashley Cooke: The Baby Blues Tour",
+          "where": "The Ritz · Raleigh",
+          "line": "Thu · Nov 5"
         },
         {
-          "title": "Caiola",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Wed · Nov 4"
+          "title": "Ask the Room: Real Dilemmas. Real Opinions. Real Conversations.",
+          "where": "101 Kitchen · Knightdale",
+          "line": "Thu · Nov 5"
         },
         {
-          "title": "Estate Planning Made Easy",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Friends Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
-          "line": "Wed · Nov 4"
-        },
-        {
-          "title": "Hoosiers - 40th Anniversay",
+          "title": "Fight Club",
           "where": "The Cary Theater · Cary",
-          "line": "Wed · Nov 4"
+          "line": "Thu · Nov 5"
         },
         {
-          "title": "Short Story Workshop with Maureen Sherbondy",
-          "where": "Page 158 Books · Wake Forest",
-          "line": "Wed · Nov 4"
+          "title": "Friendsgiving! Festive Dishes Demo",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Thu · Nov 5"
         },
         {
-          "title": "Veterans Day Celebration Zebulon 2026",
-          "where": "Zebulon Town Hall. Rain Site Zebulon Community Center · Zebulon",
-          "line": "Wed · Nov 4"
+          "title": "Mahjong & Shopping",
+          "where": "The Yellow Butterfly Boutique · Wake Forest",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "Karaoke with Doug",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Thu · Nov 5"
+        },
+        {
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Nov 5"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Nov 14 – Nov 15"
         },
-        {
-          "title": "19th Annual St. Nicholas European Christmas Market",
-          "where": "Agri-Supply Exposition Center at North Carolina State Fairgrounds · Raleigh",
-          "line": "Fri · Dec 4"
-        },
-        {
-          "title": "A Night of Soul & Jazz: Winter Vibes",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Fri · Dec 4"
-        },
-        {
-          "title": "Christmas Tree Lighting Morrisville 2026",
-          "where": "Indian Creek Trailhead · Morrisville",
-          "line": "Fri · Dec 4"
-        },
-        {
-          "title": "Evening with Elves 2026",
-          "where": "Marbles Kids Museum · Raleigh",
-          "line": "Fri · Dec 4"
-        },
-        {
-          "title": "Legacy of Jazz: My Favorite Things",
-          "where": "The Cary Theater · Cary",
-          "line": "Fri · Dec 4"
-        },
-        {
-          "title": "Lighting of Wake Forest 2026",
-          "where": "Centennial Plaza · Wake Forest",
-          "line": "Fri · Dec 4"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Scandinavian Christmas Fair 2026",
           "where": "Kerr Scott Building at North Carolina State Fairgrounds · Raleigh",
@@ -168,16 +133,46 @@
           "title": "Bi-Monthly Litter Sweep",
           "where": "Rolesville",
           "line": "Sat · Dec 5"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "An Evening with John Cusack and a Special Screening of Say Anything",
+          "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sun · Dec 6"
         },
         {
-          "title": "Holiday Block Party",
-          "where": "Garner Recreation Center · Garner",
-          "line": "Sat · Dec 5"
+          "title": "Art Walk at Rebus Works",
+          "where": "Rebus Works · Raleigh",
+          "line": "Sun · Dec 6"
         },
         {
-          "title": "Light the Springs 2026",
-          "where": "Holly Springs Cultural Center · Holly Springs",
-          "line": "Sat · Dec 5"
+          "title": "Fine Arts League of Cary Annual Member Show",
+          "where": "Page-Walker Arts and History Center · Cary",
+          "line": "Sun · Dec 6"
+        },
+        {
+          "title": "Jason Salmon",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Dec 6"
+        },
+        {
+          "title": "Stained Glass Moravian Star",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Sun · Dec 6"
+        },
+        {
+          "title": "Night Photography Workshop",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Mon · Dec 7"
+        },
+        {
+          "title": "Tree Lighting",
+          "where": "Redford Place Park · Rolesville",
+          "line": "Mon · Dec 7"
         }
       ]
     }
