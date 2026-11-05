@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "A Killer's Confession / Dizasterpiece / Dead Things / The Day We Confess",
-          "where": "Chapel of Bones · Raleigh",
+          "title": "\"Meet the Artist\" Reception with Michael Perry",
+          "where": "Songbird · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Box Making for Beginners",
-          "where": "ShopSpace · Raleigh",
+          "title": "Ashley Cooke: The Baby Blues Tour",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Friends Trivia Night",
-          "where": "Southern Peak Brewery · Apex",
+          "title": "Ask the Room: Real Dilemmas. Real Opinions. Real Conversations.",
+          "where": "101 Kitchen · Knightdale",
           "line": "Today"
         },
         {
-          "title": "Hoosiers 40th Anniversary Screening",
+          "title": "Fight Club",
           "where": "The Cary Theater · Cary",
           "line": "Today"
         },
         {
-          "title": "Short Story Workshop with Maureen Sherbondy",
-          "where": "Page 158 Books · Wake Forest",
+          "title": "Friendsgiving! Festive Dishes Demo",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Tai Chi at Downtown Cary Park",
-          "where": "DCP Gathering House · Cary",
+          "title": "Mahjong & Shopping",
+          "where": "The Yellow Butterfly Boutique · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Zebulon Veterans Day Celebration",
-          "where": "Zebulon Town Hall · Zebulon",
+          "title": "Karaoke with Doug",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Today"
         },
         {
-          "title": "Musical Theatre Workshop - Beginning/Intermediate",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "\"Meet the Artist\" Reception with Michael Perry",
-          "where": "Songbird · Raleigh",
-          "line": "Thu · Nov 5"
+          "title": "10th Annual Dia De Los Muertos",
+          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
+          "line": "Fri · Nov 6"
         },
         {
-          "title": "Ashley Cooke: The Baby Blues Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Thu · Nov 5"
+          "title": "21Marbles",
+          "where": "Marbles Kids Museum · Raleigh",
+          "line": "Fri · Nov 6"
         },
         {
-          "title": "Ask the Room: Real Dilemmas. Real Opinions. Real Conversations.",
-          "where": "101 Kitchen · Knightdale",
-          "line": "Thu · Nov 5"
+          "title": "An Evening with Carrie Welling",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Nov 6"
         },
         {
-          "title": "Fight Club",
-          "where": "The Cary Theater · Cary",
-          "line": "Thu · Nov 5"
+          "title": "Comedian John Floyd",
+          "where": "Holly Springs Cultural Center · Holly Springs",
+          "line": "Fri · Nov 6"
         },
         {
-          "title": "Friendsgiving! Festive Dishes Demo",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Thu · Nov 5"
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
+          "line": "Fri · Nov 6"
         },
         {
-          "title": "Mahjong & Shopping",
-          "where": "The Yellow Butterfly Boutique · Wake Forest",
-          "line": "Thu · Nov 5"
-        },
-        {
-          "title": "Karaoke with Doug",
+          "title": "Grassomatics",
           "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Thu · Nov 5"
+          "line": "Fri · Nov 6"
         },
         {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Nov 5"
+          "title": "Icons of Jazz: The Sister Moon Project",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Fri · Nov 6"
+        },
+        {
+          "title": "Julia Golden with Back 40 and Kaden Jones",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Nov 6"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Nov 14 – Nov 15"
         },
-        {
-          "title": "Scandinavian Christmas Fair 2026",
-          "where": "Kerr Scott Building at North Carolina State Fairgrounds · Raleigh",
-          "line": "Sat · Dec 5"
-        },
-        {
-          "title": "13IRTHMARK",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Dec 5"
-        },
-        {
-          "title": "2026 Jingle Bell Run",
-          "where": "The Backyard · Cary",
-          "line": "Sat · Dec 5"
-        },
-        {
-          "title": "Afternoon with Santa",
-          "where": "Johnson Hall Rotunda · Raleigh",
-          "line": "Sat · Dec 5"
-        },
-        {
-          "title": "An Evening with Nixon, Williams & Gage",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Sat · Dec 5"
-        },
-        {
-          "title": "Bi-Monthly Litter Sweep",
-          "where": "Rolesville",
-          "line": "Sat · Dec 5"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "An Evening with John Cusack and a Special Screening of Say Anything",
           "where": "Memorial Auditorium at Martin Marietta Center for the Performing Arts · Raleigh",
@@ -163,6 +128,21 @@
           "title": "Stained Glass Moravian Star",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Sun · Dec 6"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Downtown Cary Park Hanukkah Menorah Lighting 2026",
+          "where": "DCP Great Lawn Pavilion · Cary",
+          "line": "Mon · Dec 7"
+        },
+        {
+          "title": "Holiday Creations",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "line": "Mon · Dec 7"
         },
         {
           "title": "Night Photography Workshop",
@@ -170,9 +150,29 @@
           "line": "Mon · Dec 7"
         },
         {
+          "title": "Pentatonix",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Mon · Dec 7"
+        },
+        {
+          "title": "Tinsel Tavern: Holiday Paint & Sip",
+          "where": "Cary",
+          "line": "Mon · Dec 7"
+        },
+        {
           "title": "Tree Lighting",
           "where": "Redford Place Park · Rolesville",
           "line": "Mon · Dec 7"
+        },
+        {
+          "title": "Sensory-Friendly Winter Rides at New Hope Valley Railway",
+          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
+          "line": "Wed · Dec 9"
+        },
+        {
+          "title": "Understanding MyChart Patient Portal",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Dec 9"
         }
       ]
     }
