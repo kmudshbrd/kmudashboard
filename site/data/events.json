@@ -40,9 +40,9 @@
           "line": "Today"
         },
         {
-          "title": "Durham FRINGE Festival",
-          "where": "Durham",
-          "line": "Nov 7 – Nov 8"
+          "title": "Haven Harvest Days",
+          "where": "Haven of Knightdale · Knightdale",
+          "line": "Through Nov 14"
         }
       ]
     },
@@ -94,6 +94,11 @@
     {
       "label": "This Month",
       "items": [
+        {
+          "title": "Skip the Small Talk Night at Atomic Clock Brewing",
+          "where": "Durham",
+          "line": "Mon · Nov 16"
+        },
         {
           "title": "Artful Story Time: Happy Hanukkah!",
           "where": "North Carolina Museum of Art · Raleigh",
