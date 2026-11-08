@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Golden Belt Artists Winter Market 2026",
+          "title": "Sustainable Clothing Swap @ DSSOLVR",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Freeman's Fall Festival",
+          "title": "2026 AKC Agility League National Championship",
+          "where": "James B. Hunt Jr. Horse Complex at the North Carolina State Fairgrounds · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "America 250",
+          "where": "Meymandi Concert Hall · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Author Event: Mack Paul",
+          "where": "Wake Forest Historical Museum · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Brailled It",
+          "where": "The Cary Theater · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "DC Young Fly",
+          "where": "Raleigh Improv · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Veterans Day Tribute",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Today"
+        },
+        {
+          "title": "Durham FRINGE Festival",
           "where": "Durham",
-          "line": "Today"
-        },
-        {
-          "title": "2026 Old North State Story Telling Festival: Sensory Friendly Showcase",
-          "where": "The Cary Theater · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "2026 Old North State Story Telling Festival: Showcase 2",
-          "where": "The Cary Theater · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "30th Anniversary Screening: Set It Off",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "37th Capital Area Handbell Festival",
-          "where": "Kerr Scott Building at North Carolina State Fairgrounds · Raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "An Evening with Liz Longley",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Bleeding Disorders Foundation of North Carolina Family Festival & Walk",
-          "where": "Lake Crabtree County Park · Morrisville",
-          "line": "Today"
+          "line": "Nov 7 – Nov 8"
         }
       ]
     },
@@ -50,74 +50,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Sustainable Clothing Swap @ DSSOLVR",
+          "title": "Adult Beginner Bobbin Lace Class",
+          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Autumn Harvest - Wooden Hall Hanger Pint & Paint Class",
+          "where": "Norse Brewing Company · Wake Forest",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Drag Bingo Night",
+          "where": "The Longleaf Lounge · Raleigh",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Nov 9"
+        },
+        {
+          "title": "Mahjong Mondays - Open Play",
+          "where": "Apex Senior Center · Apex",
+          "line": "Nov 9 – Nov 23"
+        },
+        {
+          "title": "Death Becomes Her",
           "where": "Durham",
-          "line": "Sun · Nov 8"
+          "line": "Tue · Nov 10"
         },
         {
-          "title": "America 250",
-          "where": "Meymandi Concert Hall · Raleigh",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Author Event: Mack Paul",
-          "where": "Wake Forest Historical Museum · Wake Forest",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Bartending Skills Series: Foundations",
-          "where": "Songbird · Raleigh",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Brailled It",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Hoosiers - 40th Anniversay",
-          "where": "The Cary Theater · Cary",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Veterans Day Tribute",
-          "where": "Knightdale Station Park · Knightdale",
-          "line": "Sun · Nov 8"
-        },
-        {
-          "title": "Trivia Night",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Nov 8 – Dec 27"
+          "title": "Friendsgiving Bingo",
+          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
+          "line": "Tue · Nov 10"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "12th Annual Winter Concert",
-          "where": "Friendship Chapel Baptist Church · Wake Forest",
-          "line": "Tue · Dec 8"
-        },
-        {
-          "title": "Fenton Menorah Lighting",
-          "where": "Fenton Square · Cary",
-          "line": "Tue · Dec 8"
-        },
-        {
-          "title": "Joy of the Season",
-          "where": "Meymandi Concert Hall · Raleigh",
-          "line": "Tue · Dec 8"
-        },
-        {
-          "title": "New York Rangers vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Dec 8"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "Artful Story Time: Happy Hanukkah!",
@@ -148,6 +123,16 @@
           "title": "Understanding MyChart Patient Portal",
           "where": "Morrisville Senior Center · Morrisville",
           "line": "Wed · Dec 9"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Friends of the Arboretum Lecture",
+          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
+          "line": "Thu · Dec 10"
         },
         {
           "title": "Gingerbread Decorating Competition",
@@ -155,9 +140,34 @@
           "line": "Thu · Dec 10"
         },
         {
+          "title": "Holiday Party - Naturalist, Explorers, & Brimley Exclusive",
+          "where": "Nature Research Center · Raleigh",
+          "line": "Thu · Dec 10"
+        },
+        {
           "title": "Menorah Lighting Morrisville 2026",
           "where": "Indian Creek Trailhead · Morrisville",
           "line": "Thu · Dec 10"
+        },
+        {
+          "title": "NCAA Women's College Cup - Semifinals",
+          "where": "WakeMed Soccer Park · Cary",
+          "line": "Thu · Dec 10"
+        },
+        {
+          "title": "Skate the Square DJ Night: Y2K on Ice",
+          "where": "Fenton Square by Paragon Theaters · Cary",
+          "line": "Thu · Dec 10"
+        },
+        {
+          "title": "An Evening with Sarah Siskind",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Fri · Dec 11"
+        },
+        {
+          "title": "My Favorite Things featuing Shana Tucker and the Christian Tamburr Quintet",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Fri · Dec 11"
         }
       ]
     }
