@@ -5,44 +5,34 @@
       "label": "Today",
       "items": [
         {
-          "title": "Sustainable Clothing Swap @ DSSOLVR",
-          "where": "Durham",
+          "title": "Adult Beginner Bobbin Lace Class",
+          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 AKC Agility League National Championship",
-          "where": "James B. Hunt Jr. Horse Complex at the North Carolina State Fairgrounds · Raleigh",
+          "title": "Autumn Harvest - Wooden Hall Hanger Pint & Paint Class",
+          "where": "Norse Brewing Company · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "America 250",
-          "where": "Meymandi Concert Hall · Raleigh",
+          "title": "Drag Bingo Night",
+          "where": "The Longleaf Lounge · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Author Event: Mack Paul",
-          "where": "Wake Forest Historical Museum · Wake Forest",
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
           "line": "Today"
         },
         {
-          "title": "Brailled It",
-          "where": "The Cary Theater · Cary",
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "DC Young Fly",
-          "where": "Raleigh Improv · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Veterans Day Tribute",
-          "where": "Knightdale Station Park · Knightdale",
-          "line": "Today"
-        },
-        {
-          "title": "Haven Harvest Days",
-          "where": "Haven of Knightdale · Knightdale",
-          "line": "Through Nov 14"
+          "title": "Mahjong Mondays - Open Play",
+          "where": "Apex Senior Center · Apex",
+          "line": "Through Nov 23"
         }
       ]
     },
@@ -50,89 +40,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Adult Beginner Bobbin Lace Class",
-          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Autumn Harvest - Wooden Hall Hanger Pint & Paint Class",
-          "where": "Norse Brewing Company · Wake Forest",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Drag Bingo Night",
-          "where": "The Longleaf Lounge · Raleigh",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 9"
-        },
-        {
-          "title": "Mahjong Mondays - Open Play",
-          "where": "Apex Senior Center · Apex",
-          "line": "Nov 9 – Nov 23"
-        },
-        {
           "title": "Death Becomes Her",
           "where": "Durham",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Crochet Level 1: Square Coaster",
+          "where": "Craft Habit · Raleigh",
           "line": "Tue · Nov 10"
         },
         {
           "title": "Friendsgiving Bingo",
           "where": "Norse Brewing Longhouse Zebulon · Zebulon",
           "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Handmade in Clay for the Holidays",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Hunter Luke Edwards",
+          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Melodies & Thankfulness — Nurtune Music x KD Play Co.",
+          "where": "iAmplify Nutrition · Knightdale",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "$5 Ticket Tuesdays",
+          "where": "Paragon Theaters Fenton · Cary",
+          "line": "Tue · Nov 10"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Nov 10"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "Skip the Small Talk Night at Atomic Clock Brewing",
-          "where": "Durham",
-          "line": "Mon · Nov 16"
-        },
-        {
-          "title": "Artful Story Time: Happy Hanukkah!",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Wed · Dec 9"
-        },
-        {
-          "title": "Festive Winter Wreath Making",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Dec 9"
-        },
-        {
-          "title": "Holiday Tradition and Connections to the Holidays",
-          "where": "DCP Guest Services · Cary",
-          "line": "Wed · Dec 9"
-        },
-        {
-          "title": "Marbles Sensory Friendly Playtime",
-          "where": "Marbles Kids Museum · Raleigh",
-          "line": "Wed · Dec 9"
-        },
-        {
-          "title": "Sensory-Friendly Winter Rides at New Hope Valley Railway",
-          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
-          "line": "Wed · Dec 9"
-        },
-        {
-          "title": "Understanding MyChart Patient Portal",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Dec 9"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "Friends of the Arboretum Lecture",
@@ -163,6 +113,16 @@
           "title": "Skate the Square DJ Night: Y2K on Ice",
           "where": "Fenton Square by Paragon Theaters · Cary",
           "line": "Thu · Dec 10"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "A Very Burton X-Mas! Drag & Burlesque Show",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Fri · Dec 11"
         },
         {
           "title": "An Evening with Sarah Siskind",
@@ -170,9 +130,34 @@
           "line": "Fri · Dec 11"
         },
         {
+          "title": "Holiday Pops",
+          "where": "Meymandi Concert Hall at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Fri · Dec 11"
+        },
+        {
+          "title": "Mistletoe Sip n’ Stroll",
+          "where": "Fenton · Cary",
+          "line": "Fri · Dec 11"
+        },
+        {
           "title": "My Favorite Things featuing Shana Tucker and the Christian Tamburr Quintet",
           "where": "Garner Performing Arts Center · Garner",
           "line": "Fri · Dec 11"
+        },
+        {
+          "title": "NCAA Men's College Cup - Semifinals",
+          "where": "WakeMed Soccer Park · Cary",
+          "line": "Fri · Dec 11"
+        },
+        {
+          "title": "Tennessee Bluegrass Band",
+          "where": "Lorraine's Coffee House and Music · Garner",
+          "line": "Fri · Dec 11"
+        },
+        {
+          "title": "The Road to Bethlehem",
+          "where": "LifePoint Community Church · Willow Spring",
+          "line": "Dec 11 – Dec 12"
         }
       ]
     }
