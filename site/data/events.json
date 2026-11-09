@@ -70,8 +70,8 @@
           "line": "Tue · Nov 10"
         },
         {
-          "title": "$5 Ticket Tuesdays",
-          "where": "Paragon Theaters Fenton · Cary",
+          "title": "Music Bingo",
+          "where": "DCP Bark Bar · Cary",
           "line": "Tue · Nov 10"
         },
         {
@@ -84,6 +84,16 @@
     {
       "label": "This Month",
       "items": [
+        {
+          "title": "FestiBull of Lights",
+          "where": "Durham",
+          "line": "Thu · Nov 19"
+        },
+        {
+          "title": "Art Opening - Mike Benson",
+          "where": "Durham",
+          "line": "Fri · Nov 20"
+        },
         {
           "title": "Friends of the Arboretum Lecture",
           "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
