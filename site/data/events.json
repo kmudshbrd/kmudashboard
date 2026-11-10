@@ -5,34 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Autumn Harvest - Wooden Hall Hanger Pint & Paint Class",
-          "where": "Norse Brewing Company · Wake Forest",
+          "title": "Death Becomes Her",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Drag Bingo Night",
-          "where": "The Longleaf Lounge · Raleigh",
+          "title": "Crochet Level 1: Square Coaster",
+          "where": "Craft Habit · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Fall Elevated Wine Pairings",
-          "where": "Napa Bistro & Wine Bar · Raleigh",
+          "title": "Friendsgiving Bingo",
+          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
           "line": "Today"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Stretch and Refresh",
+          "title": "Handmade in Clay for the Holidays",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Mahjong Mondays - Open Play",
-          "where": "Apex Senior Center · Apex",
-          "line": "Through Nov 23"
+          "title": "Hunter Luke Edwards",
+          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Melodies & Thankfulness — Nurtune Music x KD Play Co.",
+          "where": "iAmplify Nutrition · Knightdale",
+          "line": "Today"
+        },
+        {
+          "title": "Music Bingo",
+          "where": "DCP Bark Bar · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Today"
         }
       ]
     },
@@ -40,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Death Becomes Her",
-          "where": "Durham",
-          "line": "Tue · Nov 10"
+          "title": "2026 SEA Change North Carolina Signature Cohort Showcase",
+          "where": "The Loading Dock - Beryl · Raleigh",
+          "line": "Wed · Nov 11"
         },
         {
-          "title": "Crochet Level 1: Square Coaster",
-          "where": "Craft Habit · Raleigh",
-          "line": "Tue · Nov 10"
+          "title": "Beer Pong Tournament at The Davie",
+          "where": "The Davie · Raleigh",
+          "line": "Wed · Nov 11"
         },
         {
-          "title": "Friendsgiving Bingo",
-          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
-          "line": "Tue · Nov 10"
-        },
-        {
-          "title": "Handmade in Clay for the Holidays",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Tue · Nov 10"
-        },
-        {
-          "title": "Hunter Luke Edwards",
-          "where": "Goodnights Comedy Club, Room 861 · Raleigh",
-          "line": "Tue · Nov 10"
-        },
-        {
-          "title": "Melodies & Thankfulness — Nurtune Music x KD Play Co.",
-          "where": "iAmplify Nutrition · Knightdale",
-          "line": "Tue · Nov 10"
-        },
-        {
-          "title": "Music Bingo",
+          "title": "Live at The Bark Bar: illoh",
           "where": "DCP Bark Bar · Cary",
-          "line": "Tue · Nov 10"
+          "line": "Wed · Nov 11"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Nov 10"
+          "title": "MC Hammersmith LIVE",
+          "where": "Raleigh Improv · Cary",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Rolesville Veterans Day Celebration",
+          "where": "Rolesville Community Center · Rolesville",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Veterans Day Ceremony 2026",
+          "where": "Veterans Memorial · Holly Springs",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Veterans Day Observance",
+          "where": "Aversboro Road Baptist Church · Garner",
+          "line": "Wed · Nov 11"
+        },
+        {
+          "title": "Veterans Day at New Hope Valley Railway",
+          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
+          "line": "Wed · Nov 11"
         }
       ]
     },
@@ -94,41 +104,6 @@
           "where": "Durham",
           "line": "Fri · Nov 20"
         },
-        {
-          "title": "Friends of the Arboretum Lecture",
-          "where": "JC Raulston Arboretum at North Carolina State University · Raleigh",
-          "line": "Thu · Dec 10"
-        },
-        {
-          "title": "Gingerbread Decorating Competition",
-          "where": "Apex Senior Center · Apex",
-          "line": "Thu · Dec 10"
-        },
-        {
-          "title": "Holiday Party - Naturalist, Explorers, & Brimley Exclusive",
-          "where": "Nature Research Center · Raleigh",
-          "line": "Thu · Dec 10"
-        },
-        {
-          "title": "Menorah Lighting Morrisville 2026",
-          "where": "Indian Creek Trailhead · Morrisville",
-          "line": "Thu · Dec 10"
-        },
-        {
-          "title": "NCAA Women's College Cup - Semifinals",
-          "where": "WakeMed Soccer Park · Cary",
-          "line": "Thu · Dec 10"
-        },
-        {
-          "title": "Skate the Square DJ Night: Y2K on Ice",
-          "where": "Fenton Square by Paragon Theaters · Cary",
-          "line": "Thu · Dec 10"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "A Very Burton X-Mas! Drag & Burlesque Show",
           "where": "Chapel of Bones · Raleigh",
@@ -158,16 +133,51 @@
           "title": "NCAA Men's College Cup - Semifinals",
           "where": "WakeMed Soccer Park · Cary",
           "line": "Fri · Dec 11"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "30th Anniversary Scholarship Gala - Pearls of Elegance 30 Years of Delta Distinction",
+          "where": "Wake County Shrine Club · Raleigh",
+          "line": "Sat · Dec 12"
         },
         {
-          "title": "Tennessee Bluegrass Band",
-          "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Fri · Dec 11"
+          "title": "6th Annual Holiday Market & Photos with Santa",
+          "where": "New Hill Community Center · New Hill",
+          "line": "Sat · Dec 12"
         },
         {
-          "title": "The Road to Bethlehem",
-          "where": "LifePoint Community Church · Willow Spring",
-          "line": "Dec 11 – Dec 12"
+          "title": "Arson Daily w/ Mellow Swells",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Sat · Dec 12"
+        },
+        {
+          "title": "Cary Jaycees Christmas Parade 2026",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Sat · Dec 12"
+        },
+        {
+          "title": "Christmas Parade",
+          "where": "Knightdale Station Park · Knightdale",
+          "line": "Sat · Dec 12"
+        },
+        {
+          "title": "Grinch Candy Cane Hunt 2026",
+          "where": "Fred G. Bond Metro Park and Boathouse · Cary",
+          "line": "Sat · Dec 12"
+        },
+        {
+          "title": "Happy Holly Days Parade 2026",
+          "where": "Downtown Holly Springs · Holly Springs",
+          "line": "Sat · Dec 12"
+        },
+        {
+          "title": "Live Music: Sofia Cafaro and Donny Sill",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Dec 12"
         }
       ]
     }
