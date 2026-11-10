@@ -5,11 +5,6 @@
       "label": "Today",
       "items": [
         {
-          "title": "Adult Beginner Bobbin Lace Class",
-          "where": "Kristin S. Conrad Lace Center & Raleigh Lace Museum · Raleigh",
-          "line": "Today"
-        },
-        {
           "title": "Autumn Harvest - Wooden Hall Hanger Pint & Paint Class",
           "where": "Norse Brewing Company · Wake Forest",
           "line": "Today"
@@ -17,6 +12,11 @@
         {
           "title": "Drag Bingo Night",
           "where": "The Longleaf Lounge · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "Fall Elevated Wine Pairings",
+          "where": "Napa Bistro & Wine Bar · Raleigh",
           "line": "Today"
         },
         {
