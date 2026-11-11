@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Death Becomes Her",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "2026 SEA Change North Carolina Signature Cohort Showcase",
           "where": "The Loading Dock - Beryl · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Veterans Day Observance",
           "where": "Aversboro Road Baptist Church · Garner",
-          "line": "Today"
-        },
-        {
-          "title": "Veterans Day at New Hope Valley Railway",
-          "where": "North Carolina Railway Museum & New Hope Valley Railway · New Hill",
           "line": "Today"
         }
       ]
