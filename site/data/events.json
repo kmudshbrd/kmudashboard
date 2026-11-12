@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Death Becomes Her",
-          "where": "Durham",
+          "title": "4th Annual Slimeball Awards",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
         },
         {
-          "title": "2026 SEA Change North Carolina Signature Cohort Showcase",
-          "where": "The Loading Dock - Beryl · Raleigh",
+          "title": "Accessible Nature Tour",
+          "where": "Gipson Play Plaza at Dix Park · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Beer Pong Tournament at The Davie",
-          "where": "The Davie · Raleigh",
+          "title": "An Evening with Darren Jessee",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Live at The Bark Bar: illoh",
-          "where": "DCP Bark Bar · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "MC Hammersmith LIVE",
+          "title": "Andy Gross",
           "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "Rolesville Veterans Day Celebration",
-          "where": "Rolesville Community Center · Rolesville",
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         },
         {
-          "title": "Veterans Day Ceremony 2026",
-          "where": "Veterans Memorial · Holly Springs",
+          "title": "Open Mic with Mike Neal",
+          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Today"
         },
         {
-          "title": "Veterans Day Observance",
-          "where": "Aversboro Road Baptist Church · Garner",
+          "title": "Throwback Thursdays at AVA",
+          "where": "AVA Rooftop Bar · Cary",
           "line": "Today"
+        },
+        {
+          "title": "Beginner Photography",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Through Nov 19"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "4th Annual Slimeball Awards",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Thu · Nov 12"
+          "title": "Fall Fest: A Celebration of Creative Entrepreneurs",
+          "where": "Durham",
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "Accessible Nature Tour",
-          "where": "Gipson Play Plaza at Dix Park · Raleigh",
-          "line": "Thu · Nov 12"
+          "title": "A Magical Cirque Christmas",
+          "where": "Raleigh",
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "An Evening with Darren Jessee",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Thu · Nov 12"
+          "title": "An Evening With: Shadowgrass",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "Andy Gross",
-          "where": "Raleigh Improv · Cary",
-          "line": "Thu · Nov 12"
+          "title": "Andy Kush Band",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "King Trivia Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Thu · Nov 12"
+          "title": "Broken Compass Bluegrass",
+          "where": "Garner Performing Arts Center · Garner",
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "Open Mic with Mike Neal",
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
+          "line": "Fri · Nov 13"
+        },
+        {
+          "title": "Garrett Newton Band",
           "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Thu · Nov 12"
+          "line": "Fri · Nov 13"
         },
         {
-          "title": "Throwback Thursdays at AVA",
-          "where": "AVA Rooftop Bar · Cary",
-          "line": "Thu · Nov 12"
-        },
-        {
-          "title": "Beginner Photography",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Nov 12 – Nov 19"
+          "title": "Pottery Painting with Cozy Panda",
+          "where": "Daughter’s Soft Serve · Wendell",
+          "line": "Fri · Nov 13"
         }
       ]
     },
@@ -95,50 +95,10 @@
       "label": "This Month",
       "items": [
         {
-          "title": "FestiBull of Lights",
-          "where": "Durham",
-          "line": "Thu · Nov 19"
-        },
-        {
           "title": "Art Opening - Mike Benson",
           "where": "Durham",
           "line": "Fri · Nov 20"
         },
-        {
-          "title": "30th Anniversary Scholarship Gala - Pearls of Elegance 30 Years of Delta Distinction",
-          "where": "Wake County Shrine Club · Raleigh",
-          "line": "Sat · Dec 12"
-        },
-        {
-          "title": "6th Annual Holiday Market & Photos with Santa",
-          "where": "New Hill Community Center · New Hill",
-          "line": "Sat · Dec 12"
-        },
-        {
-          "title": "Arson Daily w/ Mellow Swells",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Sat · Dec 12"
-        },
-        {
-          "title": "Cary Jaycees Christmas Parade 2026",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Sat · Dec 12"
-        },
-        {
-          "title": "Christmas Parade",
-          "where": "Knightdale Station Park · Knightdale",
-          "line": "Sat · Dec 12"
-        },
-        {
-          "title": "Grinch Candy Cane Hunt 2026",
-          "where": "Fred G. Bond Metro Park and Boathouse · Cary",
-          "line": "Sat · Dec 12"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "A Charlie Brown Christmas",
           "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
@@ -158,6 +118,51 @@
           "title": "The Snowman",
           "where": "Cary Arts Center · Cary",
           "line": "Sun · Dec 13"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Drop-in Puzzling and Puzzle Swap Meet",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Mon · Dec 14"
+        },
+        {
+          "title": "NCAA Men's College Cup - Championship",
+          "where": "WakeMed Soccer Park · Cary",
+          "line": "Mon · Dec 14"
+        },
+        {
+          "title": "SRIS Game Night",
+          "where": "Eastgate Park & Neighborhood Center · Raleigh",
+          "line": "Mon · Dec 14"
+        },
+        {
+          "title": "Ladies Laugh Lounge: Holiday Edition",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Tue · Dec 15"
+        },
+        {
+          "title": "Chunky Knit Blankets",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Dec 15 – Dec 22"
+        },
+        {
+          "title": "Holiday Lights 2026",
+          "where": "Saving Grace Supply Company · Wake Forest",
+          "line": "Wed · Dec 16"
+        },
+        {
+          "title": "Holiday Luncheon 2026",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Wed · Dec 16"
+        },
+        {
+          "title": "Jingle Bell BINGO",
+          "where": "Zebulon Community Center · Zebulon",
+          "line": "Wed · Dec 16"
         }
       ]
     }
