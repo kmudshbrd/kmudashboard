@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Death Becomes Her",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "4th Annual Slimeball Awards",
           "where": "The Pour House Music Hall & Record Shop · Raleigh",
           "line": "Today"
@@ -38,11 +43,6 @@
           "title": "Throwback Thursdays at AVA",
           "where": "AVA Rooftop Bar · Cary",
           "line": "Today"
-        },
-        {
-          "title": "Beginner Photography",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Through Nov 19"
         }
       ]
     },
@@ -94,11 +94,6 @@
     {
       "label": "This Month",
       "items": [
-        {
-          "title": "Art Opening - Mike Benson",
-          "where": "Durham",
-          "line": "Fri · Nov 20"
-        },
         {
           "title": "A Charlie Brown Christmas",
           "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
