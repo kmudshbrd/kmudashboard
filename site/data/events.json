@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Death Becomes Her",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Fall Fest: A Celebration of Creative Entrepreneurs",
           "where": "Durham",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Garrett Newton Band",
           "where": "Lorraine's Coffee House and Music · Garner",
-          "line": "Today"
-        },
-        {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Daughter’s Soft Serve · Wendell",
           "line": "Today"
         }
       ]
@@ -100,6 +100,11 @@
           "line": "Mon · Dec 14"
         },
         {
+          "title": "Merry Mahjong Mini Tournament",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Mon · Dec 14"
+        },
+        {
           "title": "NCAA Men's College Cup - Championship",
           "where": "WakeMed Soccer Park · Cary",
           "line": "Mon · Dec 14"
@@ -115,13 +120,13 @@
       "label": "This Year",
       "items": [
         {
-          "title": "Ladies Laugh Lounge: Holiday Edition",
-          "where": "Goodnights Comedy Club · Raleigh",
+          "title": "Dinner with Santa at Ruckus — Leesville",
+          "where": "Ruckus Pizza, Pasta, & Spirits - Leesville Towne Centre · Raleigh",
           "line": "Tue · Dec 15"
         },
         {
-          "title": "Sewing Level 1: Machine Sewing for Absolute Beginners",
-          "where": "Craft Habit · Raleigh",
+          "title": "Ladies Laugh Lounge: Holiday Edition",
+          "where": "Goodnights Comedy Club · Raleigh",
           "line": "Tue · Dec 15"
         },
         {
