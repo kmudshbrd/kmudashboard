@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "Death Becomes Her",
+          "title": "The 10th Annual Liberty Arts Iron Pour",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Fall Fest: A Celebration of Creative Entrepreneurs",
+          "title": "Pickle Party",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "A Magical Cirque Christmas",
-          "where": "Raleigh",
+          "title": "Adam Pascal: Broadway Unplugged",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "An Evening With: Shadowgrass",
-          "where": "Lincoln Theatre · Raleigh",
+          "title": "Art Bash 2026: Tomorrow, Imagined",
+          "where": "Artspace · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Andy Kush Band",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "Art of Science: Himmeli and Documenting Phenology",
+          "where": "Prairie Ridge Outdoor Classroom · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Broken Compass Bluegrass",
-          "where": "Garner Performing Arts Center · Garner",
+          "title": "Bryan Bielanski Live",
+          "where": "Lowes Foods of Cary Mills Park · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Fall FunFest",
+          "where": "Redford Place Park · Rolesville",
           "line": "Today"
         },
         {
           "title": "Fun-Sized Fridays",
           "where": "Saving Grace · Wake Forest",
-          "line": "Today"
-        },
-        {
-          "title": "Garrett Newton Band",
-          "where": "Lorraine's Coffee House and Music · Garner",
           "line": "Today"
         }
       ]
@@ -50,74 +50,49 @@
       "label": "This Week",
       "items": [
         {
-          "title": "The 10th Annual Liberty Arts Iron Pour",
-          "where": "Durham",
-          "line": "Sat · Nov 14"
+          "title": "\"ELVIS: in Person\" Starring Matt Stone and the TEC Band",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Sun · Nov 15"
         },
         {
-          "title": "Pickle Party",
-          "where": "Durham",
-          "line": "Sat · Nov 14"
+          "title": "Christian Johnson",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Sun · Nov 15"
         },
         {
-          "title": "Adam Pascal: Broadway Unplugged",
+          "title": "Christmas Shopping & Mahjong at Lily Mae's",
+          "where": "Lily Mae's · Wake Forest",
+          "line": "Sun · Nov 15"
+        },
+        {
+          "title": "Chunky Knit Scarves",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Sat · Nov 14"
+          "line": "Sun · Nov 15"
         },
         {
-          "title": "Art Bash 2026: Tomorrow, Imagined",
-          "where": "Artspace · Raleigh",
-          "line": "Sat · Nov 14"
+          "title": "Classical Concert Series - A World in Three Voices",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Nov 15"
         },
         {
-          "title": "Art of Science: Himmeli and Documenting Phenology",
-          "where": "Prairie Ridge Outdoor Classroom · Raleigh",
-          "line": "Sat · Nov 14"
+          "title": "Make A Gift: Open Clay Studio Session",
+          "where": "Carolina Clay Studio · Cary",
+          "line": "Sun · Nov 15"
         },
         {
-          "title": "Bryan Bielanski Live",
-          "where": "Lowes Foods of Cary Mills Park · Cary",
-          "line": "Sat · Nov 14"
+          "title": "Grateful for Good Dogs: Dog Obedience",
+          "where": "DCP Arena at Park Street Courts · Cary",
+          "line": "Nov 15 – Nov 29"
         },
         {
-          "title": "Fall FunFest",
-          "where": "Redford Place Park · Rolesville",
-          "line": "Sat · Nov 14"
-        },
-        {
-          "title": "Indie Film Producing: Understanding Film Logistics",
-          "where": "The Cary Theater · Cary",
-          "line": "Sat · Nov 14"
+          "title": "Sunday Chill Open Mic at Fainting Goat Taproom",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Nov 15 – Dec 27"
         }
       ]
     },
     {
       "label": "This Month",
-      "items": [
-        {
-          "title": "Drop-in Puzzling and Puzzle Swap Meet",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Mon · Dec 14"
-        },
-        {
-          "title": "Merry Mahjong Mini Tournament",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Mon · Dec 14"
-        },
-        {
-          "title": "NCAA Men's College Cup - Championship",
-          "where": "WakeMed Soccer Park · Cary",
-          "line": "Mon · Dec 14"
-        },
-        {
-          "title": "SRIS Game Night",
-          "where": "Eastgate Park & Neighborhood Center · Raleigh",
-          "line": "Mon · Dec 14"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
       "items": [
         {
           "title": "Dinner with Santa at Ruckus — Leesville",
@@ -143,6 +118,16 @@
           "title": "Chunky Knit Blankets",
           "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Dec 15 – Dec 22"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Away with Words",
+          "where": "KINGS · Raleigh",
+          "line": "Wed · Dec 16"
         },
         {
           "title": "Holiday Lights 2026",
@@ -155,9 +140,29 @@
           "line": "Wed · Dec 16"
         },
         {
+          "title": "Karen Morgan",
+          "where": "Raleigh Improv · Cary",
+          "line": "Wed · Dec 16"
+        },
+        {
+          "title": "Live at The Bark Bar: Sterling Scott",
+          "where": "DCP Bark Bar · Cary",
+          "line": "Wed · Dec 16"
+        },
+        {
+          "title": "Mindful Museum: Seasonal Restorative Art-Making Circles",
+          "where": "North Carolina Museum of Art · Raleigh",
+          "line": "Wed · Dec 16"
+        },
+        {
           "title": "Jingle Bell BINGO",
           "where": "Zebulon Community Center · Zebulon",
           "line": "Wed · Dec 16"
+        },
+        {
+          "title": "An Evening with David Childers & Abe Partridge",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Dec 17"
         }
       ]
     }
