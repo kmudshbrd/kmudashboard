@@ -140,6 +140,11 @@
           "line": "Wed · Dec 16"
         },
         {
+          "title": "Jingle & Mingle on Salem",
+          "where": "Downtown Apex · Apex",
+          "line": "Wed · Dec 16"
+        },
+        {
           "title": "Karen Morgan",
           "where": "Raleigh Improv · Cary",
           "line": "Wed · Dec 16"
@@ -158,11 +163,6 @@
           "title": "Jingle Bell BINGO",
           "where": "Zebulon Community Center · Zebulon",
           "line": "Wed · Dec 16"
-        },
-        {
-          "title": "An Evening with David Childers & Abe Partridge",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Thu · Dec 17"
         }
       ]
     }
