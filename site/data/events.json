@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "Death Becomes Her",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "\"ELVIS: in Person\" Starring Matt Stone and the TEC Band",
           "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Forest Park Art Walk 2026",
           "where": "Forest Park neighborhood · raleigh",
-          "line": "Today"
-        },
-        {
-          "title": "Make A Gift: Open Clay Studio Session",
-          "where": "Carolina Clay Studio · Cary",
           "line": "Today"
         }
       ]
