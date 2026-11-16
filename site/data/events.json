@@ -95,6 +95,16 @@
       "label": "This Month",
       "items": [
         {
+          "title": "90’s/Y2K SKATE PARTY",
+          "where": "Durham",
+          "line": "Dec 3 – Dec 10"
+        },
+        {
+          "title": "Sincerely Yours, Pauli Murray by Common Woman Chorus",
+          "where": "Durham",
+          "line": "Sat · Dec 5"
+        },
+        {
           "title": "After Hours",
           "where": "North Carolina Museum of Art · Raleigh",
           "line": "Thu · Dec 17"
@@ -123,11 +133,6 @@
           "title": "George Michael: The Faith Tour",
           "where": "The Cary Theater · Cary",
           "line": "Thu · Dec 17"
-        },
-        {
-          "title": "Shaun Johnson Big Band Experience: Run Run Rudolph",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Dec 17 – Dec 19"
         }
       ]
     },
