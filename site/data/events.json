@@ -95,14 +95,14 @@
       "label": "This Month",
       "items": [
         {
+          "title": "Golden Ticket Hunt: Shop Small Saturday in Durham!",
+          "where": "Durham",
+          "line": "Sat · Nov 28"
+        },
+        {
           "title": "90’s/Y2K SKATE PARTY",
           "where": "Durham",
           "line": "Dec 3 – Dec 10"
-        },
-        {
-          "title": "Skip the Small Talk Night at Atomic Clock Brewing",
-          "where": "Durham",
-          "line": "Mon · Dec 14"
         },
         {
           "title": "An Evening with Songs from the Road Band",
@@ -175,9 +175,9 @@
           "line": "Sat · Dec 19"
         },
         {
-          "title": "The Nutcracker",
-          "where": "Durham",
-          "line": "Wed · Dec 23"
+          "title": "Jared Place",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Sat · Dec 26"
         }
       ]
     }
