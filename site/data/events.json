@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Massa Nera / Process//Sleep / Covenant Eye / Cyprian",
-          "where": "KINGS · Raleigh",
+          "title": "2026 GIS Day",
+          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Matcha Making Workshop",
-          "where": "Rosecomb Beer Garden · Cary",
+          "title": "2026 Humble Heart Bazaar - Shopping for a Cause",
+          "where": "Hayes Barton United Methodist Church · Raleigh",
           "line": "Today"
         },
         {
-          "title": "North Carolina Awards - Honoring Our Heroes",
-          "where": "Lenovo Center · Raleigh",
+          "title": "Black Trivia & Karaoke Game Night",
+          "where": "101 Kitchen · Knightdale",
           "line": "Today"
         },
         {
-          "title": "Plant Bingo",
-          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
           "line": "Today"
         },
         {
-          "title": "Toddler Tuesday - Falling for Fun",
+          "title": "Learn about Senior Games",
+          "where": "Morrisville Senior Center · Morrisville",
+          "line": "Today"
+        },
+        {
+          "title": "Mosaic Coasters",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
+          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
+          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
           "line": "Today"
         },
         {
-          "title": "Media Explorations",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Through Nov 24"
-        },
-        {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Through Dec 29"
+          "title": "Free Wednesday Morning Movies",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Through Dec 16"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "2026 GIS Day",
-          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
-          "line": "Wed · Nov 18"
+          "title": "FestiBull of Lights",
+          "where": "Durham",
+          "line": "Thu · Nov 19"
         },
         {
-          "title": "Art + Nature Story Time",
+          "title": "A Puzzling Affair: Jigsaw Competition at the NCMA",
           "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Wed · Nov 18"
+          "line": "Thu · Nov 19"
         },
         {
-          "title": "Black Trivia & Karaoke Game Night",
-          "where": "101 Kitchen · Knightdale",
-          "line": "Wed · Nov 18"
+          "title": "An Evening with the Gravy Boys",
+          "where": "The Wake Forest Listening Room · Wake Forest",
+          "line": "Thu · Nov 19"
         },
         {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
-          "line": "Wed · Nov 18"
+          "title": "Ask Artists Anything",
+          "where": "Artspace · Raleigh",
+          "line": "Thu · Nov 19"
         },
         {
-          "title": "Learn about Senior Games",
-          "where": "Morrisville Senior Center · Morrisville",
-          "line": "Wed · Nov 18"
+          "title": "CommUniversity: An Evening of Neighbors, Conversation, and Connection",
+          "where": "Apex Senior Center · Apex",
+          "line": "Thu · Nov 19"
         },
         {
-          "title": "Mosaic Coasters",
+          "title": "Mahjong & Mingle",
+          "where": "The Backyard · Cary",
+          "line": "Thu · Nov 19"
+        },
+        {
+          "title": "Native American Tasting Experience",
+          "where": "Apex Senior Center · Apex",
+          "line": "Thu · Nov 19"
+        },
+        {
+          "title": "Art Cart 2026 - Thursdays",
           "where": "DCP Academy Pavilion · Cary",
-          "line": "Wed · Nov 18"
-        },
-        {
-          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
-          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
-          "line": "Wed · Nov 18"
-        },
-        {
-          "title": "Free Wednesday Morning Movies",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Nov 18 – Dec 16"
+          "line": "Thu · Nov 19"
         }
       ]
     },
@@ -104,41 +104,6 @@
           "where": "Durham",
           "line": "Dec 3 – Dec 10"
         },
-        {
-          "title": "An Evening with Songs from the Road Band",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Dec 18"
-        },
-        {
-          "title": "Candlelight: Christmas Special Featuring “The Nutcracker” & More",
-          "where": "Carswell Concert Hall · Raleigh",
-          "line": "Fri · Dec 18"
-        },
-        {
-          "title": "Cary Night Market",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Fri · Dec 18"
-        },
-        {
-          "title": "Daily Bread - Vanishing Point Tour",
-          "where": "The Ritz · Raleigh",
-          "line": "Fri · Dec 18"
-        },
-        {
-          "title": "Drive-In Movie at the Park",
-          "where": "Pleasant Park · Apex",
-          "line": "Fri · Dec 18"
-        },
-        {
-          "title": "PopUp Broadway: Holiday Show",
-          "where": "The Cary Theater · Cary",
-          "line": "Fri · Dec 18"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "An Unexpected Christmas",
           "where": "Garner Performing Arts Center · Garner",
@@ -168,11 +133,31 @@
           "title": "Rock On with You, Me, and Kyle",
           "where": "Bond Brothers Eastside · Cary",
           "line": "Sat · Dec 19"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Fifth Floor / Pilot Light / blankstate",
+          "where": "KINGS · Raleigh",
+          "line": "Sun · Dec 20"
         },
         {
-          "title": "The Nutcracker - A Campaneria Ballet Company Production",
-          "where": "Apex Friendship High School · Apex",
-          "line": "Sat · Dec 19"
+          "title": "Grinch Drag Brunch",
+          "where": "Goodnights Comedy Club · Raleigh",
+          "line": "Sun · Dec 20"
+        },
+        {
+          "title": "Handmade Holiday Gifts: Make & Take at Fenton’s Igloo",
+          "where": "The Igloo · Cary",
+          "line": "Sun · Dec 20"
+        },
+        {
+          "title": "Sunday Sound Bath",
+          "where": "DCP Gathering House · Cary",
+          "line": "Sun · Dec 20"
         },
         {
           "title": "Jared Place",
