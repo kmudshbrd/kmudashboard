@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "2026 GIS Day",
-          "where": "City of Raleigh Museum (COR Museum) · Raleigh",
+          "title": "FestiBull of Lights",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "2026 Humble Heart Bazaar - Shopping for a Cause",
-          "where": "Hayes Barton United Methodist Church · Raleigh",
+          "title": "A Puzzling Affair: Jigsaw Competition at the NCMA",
+          "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Black Trivia & Karaoke Game Night",
-          "where": "101 Kitchen · Knightdale",
+          "title": "An Evening with the Gravy Boys",
+          "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
+          "title": "Ask Artists Anything",
+          "where": "Artspace · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Learn about Senior Games",
-          "where": "Morrisville Senior Center · Morrisville",
+          "title": "CommUniversity: An Evening of Neighbors, Conversation, and Connection",
+          "where": "Apex Senior Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Mosaic Coasters",
+          "title": "Mahjong & Mingle",
+          "where": "The Backyard · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Native American Tasting Experience",
+          "where": "Apex Senior Center · Apex",
+          "line": "Today"
+        },
+        {
+          "title": "Art Cart 2026 - Thursdays",
           "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
-        },
-        {
-          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
-          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
-          "line": "Today"
-        },
-        {
-          "title": "Free Wednesday Morning Movies",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Through Dec 16"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "FestiBull of Lights",
+          "title": "Art Opening - Mike Benson",
           "where": "Durham",
-          "line": "Thu · Nov 19"
+          "line": "Fri · Nov 20"
         },
         {
-          "title": "A Puzzling Affair: Jigsaw Competition at the NCMA",
+          "title": "All The Right Heroes featuring Hassell & Harry and Cammie",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Nov 20"
+        },
+        {
+          "title": "American Indian Heritage Celebration Virtual Education Day",
+          "where": "Online · Raleigh",
+          "line": "Fri · Nov 20"
+        },
+        {
+          "title": "An Archaeologist’s Face to Feet with King Taharqa",
           "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Thu · Nov 19"
+          "line": "Fri · Nov 20"
         },
         {
-          "title": "An Evening with the Gravy Boys",
+          "title": "An Evening with Sugaree String Society",
           "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Thu · Nov 19"
+          "line": "Fri · Nov 20"
         },
         {
-          "title": "Ask Artists Anything",
-          "where": "Artspace · Raleigh",
-          "line": "Thu · Nov 19"
+          "title": "Apex Love Local: Fall into Downtown Series",
+          "where": "Downtown Apex · Apex",
+          "line": "Fri · Nov 20"
         },
         {
-          "title": "CommUniversity: An Evening of Neighbors, Conversation, and Connection",
-          "where": "Apex Senior Center · Apex",
-          "line": "Thu · Nov 19"
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
+          "line": "Fri · Nov 20"
         },
         {
-          "title": "Mahjong & Mingle",
-          "where": "The Backyard · Cary",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "Native American Tasting Experience",
-          "where": "Apex Senior Center · Apex",
-          "line": "Thu · Nov 19"
-        },
-        {
-          "title": "Art Cart 2026 - Thursdays",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Thu · Nov 19"
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
+          "line": "Fri · Nov 20"
         }
       ]
     },
@@ -102,43 +102,8 @@
         {
           "title": "90’s/Y2K SKATE PARTY",
           "where": "Durham",
-          "line": "Dec 3 – Dec 10"
+          "line": "Thu · Dec 3"
         },
-        {
-          "title": "An Unexpected Christmas",
-          "where": "Garner Performing Arts Center · Garner",
-          "line": "Sat · Dec 19"
-        },
-        {
-          "title": "Beauty Is Me: Winter Bloom",
-          "where": "Raleigh",
-          "line": "Sat · Dec 19"
-        },
-        {
-          "title": "Dylan Earl",
-          "where": "KINGS · Raleigh",
-          "line": "Sat · Dec 19"
-        },
-        {
-          "title": "Gerald Parker Jazz Orchestra Holiday Show",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Sat · Dec 19"
-        },
-        {
-          "title": "Kwanzaa Poetics",
-          "where": "Downtown Cary Park, Gathering House · Cary",
-          "line": "Sat · Dec 19"
-        },
-        {
-          "title": "Rock On with You, Me, and Kyle",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Sat · Dec 19"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Fifth Floor / Pilot Light / blankstate",
           "where": "KINGS · Raleigh",
@@ -158,6 +123,31 @@
           "title": "Sunday Sound Bath",
           "where": "DCP Gathering House · Cary",
           "line": "Sun · Dec 20"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "PineCone Beginners’ Bluegrass Jam",
+          "where": "Raleigh",
+          "line": "Mon · Dec 21"
+        },
+        {
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Dec 21"
+        },
+        {
+          "title": "Tinsel Tavern: Merry Mixing",
+          "where": "Cary",
+          "line": "Mon · Dec 21"
+        },
+        {
+          "title": "Intro To Leatherwork: Card Holder",
+          "where": "Craft Habit · Raleigh",
+          "line": "Tue · Dec 22"
         },
         {
           "title": "Jared Place",
