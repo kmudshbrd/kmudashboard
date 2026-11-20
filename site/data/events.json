@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "FestiBull of Lights",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Art Opening - Mike Benson",
           "where": "Durham",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Build Your Own Lasagna Planter",
           "where": "DCP Gathering Garden · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Fun-Sized Fridays",
-          "where": "Saving Grace · Wake Forest",
           "line": "Today"
         }
       ]
