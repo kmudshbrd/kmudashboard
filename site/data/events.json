@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "FestiBull of Lights",
+          "title": "Art Opening - Mike Benson",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "A Puzzling Affair: Jigsaw Competition at the NCMA",
+          "title": "All The Right Heroes featuring Hassell & Harry and Cammie",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "American Indian Heritage Celebration Virtual Education Day",
+          "where": "Online · Raleigh",
+          "line": "Today"
+        },
+        {
+          "title": "An Archaeologist’s Face to Feet with King Taharqa",
           "where": "North Carolina Museum of Art · Raleigh",
           "line": "Today"
         },
         {
-          "title": "An Evening with the Gravy Boys",
+          "title": "An Evening with Sugaree String Society",
           "where": "The Wake Forest Listening Room · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Ask Artists Anything",
-          "where": "Artspace · Raleigh",
+          "title": "Apex Love Local: Fall into Downtown Series",
+          "where": "Downtown Apex · Apex",
           "line": "Today"
         },
         {
-          "title": "CommUniversity: An Evening of Neighbors, Conversation, and Connection",
-          "where": "Apex Senior Center · Apex",
+          "title": "Build Your Own Lasagna Planter",
+          "where": "DCP Gathering Garden · Cary",
           "line": "Today"
         },
         {
-          "title": "Mahjong & Mingle",
-          "where": "The Backyard · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Native American Tasting Experience",
-          "where": "Apex Senior Center · Apex",
-          "line": "Today"
-        },
-        {
-          "title": "Art Cart 2026 - Thursdays",
-          "where": "DCP Academy Pavilion · Cary",
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Art Opening - Mike Benson",
+          "title": "Holiday Tree Lighting",
           "where": "Durham",
-          "line": "Fri · Nov 20"
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "All The Right Heroes featuring Hassell & Harry and Cammie",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Fri · Nov 20"
+          "title": "Tree Lighting Festivities in the Visitor Info Center",
+          "where": "Durham",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "American Indian Heritage Celebration Virtual Education Day",
-          "where": "Online · Raleigh",
-          "line": "Fri · Nov 20"
+          "title": "31st Annual American Indian Heritage Celebration",
+          "where": "Raleigh",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "An Archaeologist’s Face to Feet with King Taharqa",
-          "where": "North Carolina Museum of Art · Raleigh",
-          "line": "Fri · Nov 20"
+          "title": "31st Annual NC Latino Diamante Awards",
+          "where": "The Cary Arts Center · Cary",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "An Evening with Sugaree String Society",
-          "where": "The Wake Forest Listening Room · Wake Forest",
-          "line": "Fri · Nov 20"
+          "title": "82nd Annual Raleigh Christmas Parade",
+          "where": "Raleigh",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "Apex Love Local: Fall into Downtown Series",
-          "where": "Downtown Apex · Apex",
-          "line": "Fri · Nov 20"
+          "title": "Axé Rhythm and Dance Fest",
+          "where": "Ubuntu Farm · Knightdale",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
-          "line": "Fri · Nov 20"
+          "title": "Candy Cane Lane 2026",
+          "where": "Downtown Zebulon · Zebulon",
+          "line": "Sat · Nov 21"
         },
         {
-          "title": "Fun-Sized Fridays",
-          "where": "Saving Grace · Wake Forest",
-          "line": "Fri · Nov 20"
+          "title": "Espresso Reads - Reading Event with Coffee 2026",
+          "where": "Pugh House · Morrisville",
+          "line": "Sat · Nov 21"
         }
       ]
     },
@@ -105,31 +105,6 @@
           "line": "Thu · Dec 3"
         },
         {
-          "title": "Fifth Floor / Pilot Light / blankstate",
-          "where": "KINGS · Raleigh",
-          "line": "Sun · Dec 20"
-        },
-        {
-          "title": "Grinch Drag Brunch",
-          "where": "Goodnights Comedy Club · Raleigh",
-          "line": "Sun · Dec 20"
-        },
-        {
-          "title": "Handmade Holiday Gifts: Make & Take at Fenton’s Igloo",
-          "where": "The Igloo · Cary",
-          "line": "Sun · Dec 20"
-        },
-        {
-          "title": "Sunday Sound Bath",
-          "where": "DCP Gathering House · Cary",
-          "line": "Sun · Dec 20"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
           "title": "PineCone Beginners’ Bluegrass Jam",
           "where": "Raleigh",
           "line": "Mon · Dec 21"
@@ -143,16 +118,36 @@
           "title": "Tinsel Tavern: Merry Mixing",
           "where": "Cary",
           "line": "Mon · Dec 21"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "Intro To Leatherwork: Card Holder",
           "where": "Craft Habit · Raleigh",
           "line": "Tue · Dec 22"
         },
         {
+          "title": "NC State Men's Basketball vs. Alabama A&M",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Tue · Dec 22"
+        },
+        {
+          "title": "Motown & Soul Christmas",
+          "where": "Cary Arts Center · Cary",
+          "line": "Tue · Dec 22"
+        },
+        {
           "title": "Jared Place",
           "where": "Fortnight Brewing Company · Wake Forest",
           "line": "Sat · Dec 26"
+        },
+        {
+          "title": "Celebrating Kwanzaa",
+          "where": "Cary Arts Center · Cary",
+          "line": "Wed · Dec 30"
         }
       ]
     }
