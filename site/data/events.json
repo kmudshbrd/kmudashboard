@@ -5,43 +5,43 @@
       "label": "Today",
       "items": [
         {
-          "title": "FestiBull of Lights",
+          "title": "Holiday Tree Lighting",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Art Opening - Mike Benson",
+          "title": "Tree Lighting Festivities in the Visitor Info Center",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "All The Right Heroes featuring Hassell & Harry and Cammie",
-          "where": "Bond Brothers Eastside · Cary",
+          "title": "31st Annual American Indian Heritage Celebration",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "American Indian Heritage Celebration Virtual Education Day",
-          "where": "Online · Raleigh",
+          "title": "31st Annual NC Latino Diamante Awards",
+          "where": "The Cary Arts Center · Cary",
           "line": "Today"
         },
         {
-          "title": "An Archaeologist’s Face to Feet with King Taharqa",
-          "where": "North Carolina Museum of Art · Raleigh",
+          "title": "82nd Annual Raleigh Christmas Parade",
+          "where": "Raleigh",
           "line": "Today"
         },
         {
-          "title": "An Evening with Sugaree String Society",
-          "where": "The Wake Forest Listening Room · Wake Forest",
+          "title": "Axé Rhythm and Dance Fest",
+          "where": "Ubuntu Farm · Knightdale",
           "line": "Today"
         },
         {
-          "title": "Apex Love Local: Fall into Downtown Series",
-          "where": "Downtown Apex · Apex",
+          "title": "Candy Cane Lane 2026",
+          "where": "Downtown Zebulon · Zebulon",
           "line": "Today"
         },
         {
-          "title": "Build Your Own Lasagna Planter",
-          "where": "DCP Gathering Garden · Cary",
+          "title": "Espresso Reads - Reading Event with Coffee 2026",
+          "where": "Pugh House · Morrisville",
           "line": "Today"
         }
       ]
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Holiday Tree Lighting",
+          "title": "Jazz Social",
           "where": "Durham",
-          "line": "Sat · Nov 21"
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "Tree Lighting Festivities in the Visitor Info Center",
-          "where": "Durham",
-          "line": "Sat · Nov 21"
+          "title": "10 Years of 6LACK Tour-CANCELLED",
+          "where": "The Ritz · Raleigh",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "31st Annual American Indian Heritage Celebration",
-          "where": "Raleigh",
-          "line": "Sat · Nov 21"
+          "title": "A Farewell To Kings - AF2K Rush Tribute",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "31st Annual NC Latino Diamante Awards",
-          "where": "The Cary Arts Center · Cary",
-          "line": "Sat · Nov 21"
+          "title": "JazzLive with Lenore Raphael and Friends",
+          "where": "The Halle Cultural Arts Center · Apex",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "82nd Annual Raleigh Christmas Parade",
-          "where": "Raleigh",
-          "line": "Sat · Nov 21"
+          "title": "Lakeside Reflections - Paint & Sip Class",
+          "where": "Norse Brewing Company Wake Forest · Wake Forest",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "Axé Rhythm and Dance Fest",
-          "where": "Ubuntu Farm · Knightdale",
-          "line": "Sat · Nov 21"
+          "title": "Pottery Painting with Cozy Panda",
+          "where": "Unhinged Coffee & Co · Knightdale",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "Candy Cane Lane 2026",
-          "where": "Downtown Zebulon · Zebulon",
-          "line": "Sat · Nov 21"
+          "title": "Steven Rogers",
+          "where": "Raleigh Improv · Cary",
+          "line": "Sun · Nov 22"
         },
         {
-          "title": "Espresso Reads - Reading Event with Coffee 2026",
-          "where": "Pugh House · Morrisville",
-          "line": "Sat · Nov 21"
+          "title": "Grateful for Good Dogs: Dog Obedience",
+          "where": "DCP Arena at Park Street Courts · Cary",
+          "line": "Nov 22 – Nov 29"
         }
       ]
     },
@@ -95,35 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "Golden Ticket Hunt: Shop Small Saturday in Durham!",
-          "where": "Durham",
-          "line": "Sat · Nov 28"
-        },
-        {
           "title": "90’s/Y2K SKATE PARTY",
           "where": "Durham",
           "line": "Thu · Dec 3"
         },
         {
-          "title": "PineCone Beginners’ Bluegrass Jam",
-          "where": "Raleigh",
-          "line": "Mon · Dec 21"
+          "title": "Skip the Small Talk Night at Atomic Clock Brewing",
+          "where": "Durham",
+          "line": "Mon · Dec 14"
         },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Dec 21"
-        },
-        {
-          "title": "Tinsel Tavern: Merry Mixing",
-          "where": "Cary",
-          "line": "Mon · Dec 21"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "Intro To Leatherwork: Card Holder",
           "where": "Craft Habit · Raleigh",
@@ -138,6 +118,26 @@
           "title": "Motown & Soul Christmas",
           "where": "Cary Arts Center · Cary",
           "line": "Tue · Dec 22"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "The Nutcracker",
+          "where": "Durham",
+          "line": "Wed · Dec 23"
+        },
+        {
+          "title": "Christmas with The Embers featuring Craig Woolard",
+          "where": "The Rialto Theatre · Raleigh",
+          "line": "Wed · Dec 23"
+        },
+        {
+          "title": "Fabrication II",
+          "where": "ShopSpace · Raleigh",
+          "line": "Wed · Dec 23"
         },
         {
           "title": "Jared Place",
