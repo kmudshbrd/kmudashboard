@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Holiday Tree Lighting",
+          "title": "Jazz Social",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Tree Lighting Festivities in the Visitor Info Center",
-          "where": "Durham",
+          "title": "10 Years of 6LACK Tour-CANCELLED",
+          "where": "The Ritz · Raleigh",
           "line": "Today"
         },
         {
-          "title": "31st Annual American Indian Heritage Celebration",
-          "where": "Raleigh",
+          "title": "A Farewell To Kings - AF2K Rush Tribute",
+          "where": "Lincoln Theatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "31st Annual NC Latino Diamante Awards",
-          "where": "The Cary Arts Center · Cary",
+          "title": "JazzLive with Lenore Raphael and Friends",
+          "where": "The Halle Cultural Arts Center · Apex",
           "line": "Today"
         },
         {
-          "title": "82nd Annual Raleigh Christmas Parade",
-          "where": "Raleigh",
+          "title": "Lakeside Reflections - Paint & Sip Class",
+          "where": "Norse Brewing Company Wake Forest · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Axé Rhythm and Dance Fest",
-          "where": "Ubuntu Farm · Knightdale",
+          "title": "Pottery Painting with Cozy Panda",
+          "where": "Unhinged Coffee & Co · Knightdale",
           "line": "Today"
         },
         {
-          "title": "Candy Cane Lane 2026",
-          "where": "Downtown Zebulon · Zebulon",
+          "title": "Steven Rogers",
+          "where": "Raleigh Improv · Cary",
           "line": "Today"
         },
         {
-          "title": "Espresso Reads - Reading Event with Coffee 2026",
-          "where": "Pugh House · Morrisville",
-          "line": "Today"
+          "title": "Grateful for Good Dogs: Dog Obedience",
+          "where": "DCP Arena at Park Street Courts · Cary",
+          "line": "Through Nov 29"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Jazz Social",
-          "where": "Durham",
-          "line": "Sun · Nov 22"
+          "title": "Nature Play Day at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "line": "Mon · Nov 23"
         },
         {
-          "title": "10 Years of 6LACK Tour-CANCELLED",
-          "where": "The Ritz · Raleigh",
-          "line": "Sun · Nov 22"
+          "title": "RaleighNC.gov Live Tour - Carolina Pines Community Center",
+          "where": "Carolina Pines Park · Raleigh",
+          "line": "Mon · Nov 23"
         },
         {
-          "title": "A Farewell To Kings - AF2K Rush Tribute",
-          "where": "Lincoln Theatre · Raleigh",
-          "line": "Sun · Nov 22"
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
+          "line": "Mon · Nov 23"
         },
         {
-          "title": "JazzLive with Lenore Raphael and Friends",
-          "where": "The Halle Cultural Arts Center · Apex",
-          "line": "Sun · Nov 22"
+          "title": "Mahjong Mondays - Open Play",
+          "where": "Apex Senior Center · Apex",
+          "line": "Mon · Nov 23"
         },
         {
-          "title": "Lakeside Reflections - Paint & Sip Class",
-          "where": "Norse Brewing Company Wake Forest · Wake Forest",
-          "line": "Sun · Nov 22"
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Mon · Nov 23"
         },
         {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Unhinged Coffee & Co · Knightdale",
-          "line": "Sun · Nov 22"
+          "title": "Flower Design Class",
+          "where": "Local Time Brewing · Holly Springs",
+          "line": "Tue · Nov 24"
         },
         {
-          "title": "Steven Rogers",
-          "where": "Raleigh Improv · Cary",
-          "line": "Sun · Nov 22"
+          "title": "Media Explorations",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "line": "Tue · Nov 24"
         },
         {
-          "title": "Grateful for Good Dogs: Dog Obedience",
-          "where": "DCP Arena at Park Street Courts · Cary",
-          "line": "Nov 22 – Nov 29"
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Tue · Nov 24"
         }
       ]
     },
@@ -105,26 +105,6 @@
           "line": "Fri · Dec 4"
         },
         {
-          "title": "Intro To Leatherwork: Card Holder",
-          "where": "Craft Habit · Raleigh",
-          "line": "Tue · Dec 22"
-        },
-        {
-          "title": "NC State Men's Basketball vs. Alabama A&M",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Tue · Dec 22"
-        },
-        {
-          "title": "Motown & Soul Christmas",
-          "where": "Cary Arts Center · Cary",
-          "line": "Tue · Dec 22"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
           "title": "Christmas with The Embers featuring Craig Woolard",
           "where": "The Rialto Theatre · Raleigh",
           "line": "Wed · Dec 23"
@@ -135,8 +115,28 @@
           "line": "Wed · Dec 23"
         },
         {
+          "title": "Motown & Soul Christmas",
+          "where": "Cary Arts Center · Cary",
+          "line": "Wed · Dec 23"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "Holiday Hangover VII: Everything Yes w/ Sweet Dream, Liam Trawick",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Sat · Dec 26"
+        },
+        {
           "title": "Jared Place",
           "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Sat · Dec 26"
+        },
+        {
+          "title": "Pittsburgh Penguins vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
           "line": "Sat · Dec 26"
         },
         {
