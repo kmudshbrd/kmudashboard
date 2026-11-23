@@ -5,44 +5,39 @@
       "label": "Today",
       "items": [
         {
-          "title": "Jazz Social",
-          "where": "Durham",
-          "line": "Today"
-        },
-        {
           "title": "FestiBull of Lights",
           "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "10 Years of 6LACK Tour-CANCELLED",
-          "where": "The Ritz · Raleigh",
+          "title": "Nature Play Day at NCMA",
+          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
           "line": "Today"
         },
         {
-          "title": "A Farewell To Kings - AF2K Rush Tribute",
-          "where": "Lincoln Theatre · Raleigh",
+          "title": "RaleighNC.gov Live Tour - Carolina Pines Community Center",
+          "where": "Carolina Pines Park · Raleigh",
           "line": "Today"
         },
         {
-          "title": "JazzLive with Lenore Raphael and Friends",
-          "where": "The Halle Cultural Arts Center · Apex",
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
           "line": "Today"
         },
         {
-          "title": "Lakeside Reflections - Paint & Sip Class",
-          "where": "Norse Brewing Company Wake Forest · Wake Forest",
+          "title": "Mahjong Mondays - Open Play",
+          "where": "Apex Senior Center · Apex",
           "line": "Today"
         },
         {
-          "title": "Pottery Painting with Cozy Panda",
-          "where": "Unhinged Coffee & Co · Knightdale",
+          "title": "Stretch and Refresh",
+          "where": "DCP Academy Pavilion · Cary",
           "line": "Today"
         },
         {
-          "title": "Steven Rogers",
-          "where": "Raleigh Improv · Cary",
-          "line": "Today"
+          "title": "Fantasy Lake Christmas",
+          "where": "Fantasy Lake Adventure Park · Wake Forest",
+          "line": "Through Jan 1"
         }
       ]
     },
@@ -50,29 +45,14 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Nature Play Day at NCMA",
-          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
-          "line": "Mon · Nov 23"
+          "title": "Criminal Presents: Don't Worry with Phoebe Judge",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "line": "Tue · Nov 24"
         },
         {
-          "title": "RaleighNC.gov Live Tour - Carolina Pines Community Center",
-          "where": "Carolina Pines Park · Raleigh",
-          "line": "Mon · Nov 23"
-        },
-        {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Mon · Nov 23"
-        },
-        {
-          "title": "Mahjong Mondays - Open Play",
-          "where": "Apex Senior Center · Apex",
-          "line": "Mon · Nov 23"
-        },
-        {
-          "title": "Stretch and Refresh",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Mon · Nov 23"
+          "title": "Crochet Level 1: Round Coaster",
+          "where": "Craft Habit · Raleigh",
+          "line": "Tue · Nov 24"
         },
         {
           "title": "Flower Design Class",
@@ -88,6 +68,21 @@
           "title": "Run Club Farmhouse Cafe",
           "where": "Farmhouse Cafe · Wendell",
           "line": "Tue · Nov 24"
+        },
+        {
+          "title": "Art Cart 2026-Tuesday",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Nov 24 – Dec 29"
+        },
+        {
+          "title": "Backyard Comedy Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Nov 24 – Dec 29"
+        },
+        {
+          "title": "Live Irish Music",
+          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
+          "line": "Nov 24 – Dec 29"
         }
       ]
     },
@@ -103,21 +98,6 @@
           "title": "ATC Holiday Sip, Stroll, and Shop",
           "where": "Durham",
           "line": "Fri · Dec 4"
-        },
-        {
-          "title": "Christmas with The Embers featuring Craig Woolard",
-          "where": "The Rialto Theatre · Raleigh",
-          "line": "Wed · Dec 23"
-        },
-        {
-          "title": "Fabrication II",
-          "where": "ShopSpace · Raleigh",
-          "line": "Wed · Dec 23"
-        },
-        {
-          "title": "Motown & Soul Christmas",
-          "where": "Cary Arts Center · Cary",
-          "line": "Wed · Dec 23"
         }
       ]
     },
@@ -138,6 +118,11 @@
           "title": "Pittsburgh Penguins vs. Carolina Hurricanes",
           "where": "Lenovo Center · Raleigh",
           "line": "Sat · Dec 26"
+        },
+        {
+          "title": "The Hip Hop Nutcracker",
+          "where": "Durham",
+          "line": "Sun · Dec 27"
         },
         {
           "title": "Celebrating Kwanzaa",

@@ -6,40 +6,40 @@
       "color": "var(--dial-slate)",
       "stories": [
         {
-          "title": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race",
+          "title": "This proud dad of a lesbian just defeated a powerful GOP congresswoman",
+          "source": "The Washington Post",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjVpR05lSFlqWmRZbF84dGNnRVVXME42Y1dBT2VWU19IcF9VblRhOVhpQk9MMkRfOENneU80SHJ3aEhrLTlLc1ZabHFxaDdHZ3Z2Y1hOVkdIYWVtb183MWdheWgtSUpFQjlMMExCdTZJZzJpc0k4V3R1MGVQSlFaZWpnMW9ocm9memtXNHA2ZFVrVVRrR252NUdrMDBuSmQtaWpDV3Y3R3FQUkxFUEFLOG9DUEdyQQ?oc=5"
+        },
+        {
+          "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel",
+          "source": "NBC News",
+          "time": "0h ago",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY2pNUkN4LXZiQlIySy1sZ01UeXBHQmc1M0hxVWNRcVQycmY1UnRRQlFmdUpycURZbUNhNXY2RzJxREMwRW5Za2lucUt2blJneG5NcHFCSUFUamoyREhfblh4T1hzZXd2SGQ0NS1mTDhfc1hQTEpiS1hRS0VpcEUzSUFBX0NCNWhzcUNueWlFeTNTYnpnal9VbnBVVFJiZzBtSDBnblcyZFdwWWYtOVZ1dHlBQ3RHbHA0MUE?oc=5"
+        },
+        {
+          "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+          "source": "Al Jazeera",
+          "time": "11h ago",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWJmUFZCYnNmSkFJV1oydnQ0LWpoTGN0TnpRUU1mTnVIWjNvc0dBM2JjeV9oNEcyQlZjNEdVNU5xalozblNheWJVOEdZRmg0amdySG1VNmRkVF9CNDlqTnJKZlViTFo5ekdkUWJzRWs1bnl0MG1uWkpZbEFpZDBfUWw1dk5JRWQ4VkRKMzRfS3BidjlxX2g4Uk9pWmlTY2ZtM1pvWDlGNnHSAa4BQVVfeXFMTTNCT3BmMFJCbnB6NXh1ZkZfY1ZkVjNLMmlkWUh4bGdySTZ2bUJzT2FXQlVFM2t6anVQYlNOMzkzSDdCZGpad0FQMWVTbFB6U1Qxb2lqV0lIeVVSRk9lLXVRSkFZQnc2ZzEydDAzaEZkM1h5Z3hVMld1UG05bGVNaFhRXy1ZUm5uMDZvQXpVbzJ0X1JOMjJPZGpINTVObTl4SW42UGpYbHRFTGxxQWNn?oc=5"
+        },
+        {
+          "title": "ICE airport arrests: Attorney says detainees have pending asylum, no criminal record",
+          "source": "KOMO",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQNlNhZlkwU0x3a1o3TzhrLWJldFczb3l6WEdEZmxGWGdPWkNjODF1c2UxdHpRSllUMm5lcVhzWW1ON1pFd1NudmxIV2IyUm5MSmFQMk1YZnc2Wkl2Ql84ZDBRWGJ6U2hQSm92SEFLa3daaXFiZlBNSkR5b0pyY0RJX1Y5T19FVUdhdng1QU9mM19Ld1VhYXlweDQwMUtlY1NTVTJTcngyRElFSlNWd2ZiNmhRZGQxVkttVUhkOXQ1YVVVWGc0a2ZJaTRBUWNibmE4YkVXV2h4elRETWk3Mk9wVVBqVUdPSDNUVkh2U3Z2RlU0TXFheHduZlJZeklZdkxlbUFMc29SSXRicmJheTZoc2I3NXBacXhTTTNla2Y3emowTjVUVmNNZUFDZmxfN2ExcDVNTl9JaHp3N0UwUzk5eHJpdzQxU3E2cENFZVhCVWMyMFFkcjRHQURFNE1yMHI4LXc?oc=5"
+        },
+        {
+          "title": "The so-called ‘Bloc’ wants power. They’re still figuring out how to use it.",
+          "source": "Politico",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTlVM3A5a0RaMGsxVlJxZE5rVHJPRUNvQzh0NU1DS05pdWhSUUk4SVltczdxWjNDdm41Y2hFdGs1TVY4SnhtN0hsbzItNlVqS1RmTTRIaXpINGp4RC1CN1lhV0dCRk9fWUtTMG9GNEFWT2I5czJZeTVkM3VjWkJBRGZ0bFc?oc=5"
+        },
+        {
+          "title": "When disaster strikes, Medicaid work rules add barriers for potential enrollees",
           "source": "CBS News",
           "time": "4h ago",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVLVGtJMVRtaklNSHA5bVI5eW5jUkFTRUJhTXkwQ2xDTWdyVkNRR0p2c3VJdnRXSkRxaVRCSTVGMDZWeVI0cVJfR2NqbTBzcmNTckp4d0ptNndyYTd6ZlJWTzBqYzFjX1NpemtjdXBMeWRwZmo4WkJaX2N5S0QyMmVweWdyTnFVejdNcXdaSmNJVy1sTDd3d0k5UkJuUQ?oc=5"
-        },
-        {
-          "title": "Bay Area airports, coast under extreme flood threat; residents told to avoid travel",
-          "source": "Los Angeles Times",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aXd6M2NhQ0hUNzhvODNHejBqSVdGRF9abHRIakhrV0ZUMlZ0Zw?oc=5"
-        },
-        {
-          "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
-          "source": "The Guardian",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlAxVTVQRk5HQXVjWTBXcHdSYlQteFkzWjlkYWY1SUg3ZDZySW12ZHdpblE2REFmZWZnbndINlFuWElzODlpcVNqcFd6Q29vWkxaR2ROV0RvejRPZ21xaTNBNFVZbHFDQTJkWWJOWTVPcXB5VjhSc0hiZ2xpNVluTkJwQ0o4UWF2TDJqODRqRjg5bVRkMzNMM1VR?oc=5"
-        },
-        {
-          "title": "Reported pipeline explosion in Sumter County seen from miles away",
-          "source": "WBRC 6 News",
-          "time": "11h ago",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkhxSEdMVFlDRWlvYzNDWnJfaEh6OXpWTUlBb2RLaGRScGVFT3k3enk2Sjc1MXRYdl9SanVjTTBPYmlqQk1QU0RHZ2ZmVnFNM1hYNmhvUkUwb1NIUlByMGRwYW5uQmUwWXF2ZllyV3VBajhIZmVoSnQ2ZHlwaklFSGFrR2NjeDNVWTFFSnNBbE9mX3JL?oc=5"
-        },
-        {
-          "title": "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
-          "source": "The New York Times",
-          "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2NwVjlxOUYwd0F4QTVvSG16YzZ0cXYyR2p6MF9rWGdJeDlCcDZWZG1kMERsOFh4YzdYMlUzdzV0Y1F5bHUxOGFJWmktV3B3cnpfWC1WcWJfZ3NRaGlRZUpLY1pVdEViVnNwUXhsdUt2eDBORVVpeVFUYUozU3VNR3F0UFFCV00?oc=5"
-        },
-        {
-          "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
-          "source": "PBS",
-          "time": "4h ago",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nb0Q4RkI1cVpLVVNnWlhKN2ZVMVo2d0pZYTRaUkEyeGVjemFVckE3NVpqb0xmeXhMcmNZS3p2czExTFdId0NmbWZtRmE2aXZNQlJjWld6MkMwcUlHQzF6YkF5dkFJMURJcHNV?oc=5"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "color": "var(--dial-blush)",
       "stories": [
         {
-          "title": "Nepal PM Balendra Shah arrives in Delhi for first official visit to India",
+          "title": "Nepal’s rapper-turned-PM seals aid deal with India’s Narendra Modi",
+          "source": "Financial Times",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0cxNm9CRm5mb3VwOS1Qei03ekFYSjZBOThaV3NydUxsUm5ZX0MxcDBkTVpDNlQ2WEJlMVZFVHdZcHpoZTN5QU51TF9GdURYZFRuaVVNTERlMlJqcmplcUk5aFlpcW0wbUZmN09UWC1odWJXVjQyOTZWV3hxTDRKbm9PQ1U?oc=5"
+        },
+        {
+          "title": "Delhi court issues non-bailable warrant against Dhruv Rathee in 2018 defamation case",
           "source": "The Hindu",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1hCV2xwQ2otODdwZmd3MmVhNXZ5NnpuNkhPaDBSS184TjM1eHlmQ1BvS3VuTTQ2QmdidzZQVloyUHZ0WVM4VUZfQ0N4Ujdod1o4cUJ5WXFMN2dHZW1yV3g0MnY2OEFhVi1FWkUzWjBNcGdMR19kczNYVzVYQjBGcFRIWkFOWS1YdXVGWWtHNXpCS2xhWU9mUjlBMXhvb1dvOVVzVWRZMl9NelpQR0dVdGY3MzF0dWN3R3lxZWQ1SDdsWTRDVWc0LThIZkfSAdMBQVVfeXFMTXJ5MlFPcFNVcWZDUWlUSjZPS2hQZmxrRVk4MHJySGpHSmFKdjk2UDNITHVBZUpHSXVhcWtKZTRNR19fTnUtUXRjNVdmOUdvVDg3VGNUd2Nhbk91Y2FjMlNYVEZuQm1CUG10MjJVbDlSNFZ4b0tMODZxOTFNU3FFSldDaXVaUjRzaGdsbmRDMTNTVkJwdmZzdzdOQ0pObEtkSWp4eDd6dUNoR2ZhM3ZtWHhiQTVIQ3BjblU0eHM1SlV4SWlJbXBqQy05c000MlA3V2Vocw?oc=5"
+          "time": "5h ago",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVdPelpTd3R2VnlWZU9kREFXdnlDRmkwYlpZbXFEbVVnUl90TktRWVNlZFphWjUzNlR1V185ZzBvZU1WR1hnc1JVVzUzc0ZNczgtMjBRY0tsTEViZ0NOb01mODZFdjFEWEtLQ2R4bTdxN3EtS0Joell6V3hLSkRRUTg5Y3RUeVlpOUJYbUp3S0oxcXY4TGtzTExJVWZzZ284RktxcldDUTdEMVI3TDQ3RTlLbjg2YkUwTXcyMjBid1B2UzZYWEZWaEZuVmpvVUdlN0xLbzQxSXlWOFU?oc=5"
+        },
+        {
+          "title": "West Bengal SIR | Defer Appeals Against Inclusions, Prioritise Appeals Filed By Deleted Voters : Supreme...",
+          "source": "Live Law",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZTJubGIySmhKYnNzTVNmVUhZdVhNMjJHVzRpTDVSa3JlZlN2S2RPZ3hmNXJXallHenN2WXhjWU5PQ3Y3U2NhOUtDN0VjdDdFbE05a1c1bFFFVW9SdVp4ekRTRlNVZXQtaEZLSnhwT0lFNmVadEgtdUR2MjZkUHZpVFh5bk5IUTluNWJBS1Q1UmpxNUxMSHhrVGJyc05adE1wWTZsTzRyTl9GMElzSXJMNG1FWDBEWGNuNzlzdlgzSHhjQVJheVJJSGMtbUdMVTNhR2NrTGlFanFQOXd5LVVLYUNVV2JERTBOSXNfVU5qNVFMeFk1SVNsZlRUNmVLS1HSAYQCQVVfeXFMTzJzNnhiUjRReWM4eFhwelVrX2ZDS3NxaHoxNkd2ckIwMXdBeldyUS05TE1rY1ctOE8wcy1RSkxFVUt1RWd2RGM3YXIta2FxMFFvRTQxUmpBc1hFakpjU3ZBbnhvbGVrSXZoa21IU21ka3lsUVhJVXl3UUxpV05VWm1uZzJJeF8xcm1oMm53TGtRZ1otaWZweW5fN2ZRWkEyb1Rnc01QTzJ5NGlTb1B4MXRfV3NfTHExU2h2ZzVlRTJxVnJEX09iOG1Ga3dhNWs4bWpqNFY5SDBveFdnVjlyRVhIWFdQRVYtNGdPbDNxSmZpNWZKQ3JrNXRJek1Ic0h3YmFuaVY?oc=5"
+        },
+        {
+          "title": "India 3rd Biggest Asian Power, PM Modi 2nd Most Effective Leader: Report",
+          "source": "NDTV",
+          "time": "6h ago",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3l0RFo2RjRfaDgwX3QtVnR0el9BR1p1MjFrUmljd2EzY0RUdjZqWS16S3BBaU1uWGlPcWNTRy1sQU84ejUwS0dqM3ZqU0FvM0gzNzNmWE9uMHRZb2xIUzdkYzFUTzVWV0NPanJESGNrUlFUMVctU2g5dlRCMUg4NEFjYlRiNGJzQVJzeDNPMUY5dTR2N2ZrRUlHZVpTVnJOYzJPZHBWNGFXZzJVWG43QQ?oc=5"
+        },
+        {
+          "title": "BJP Corporator's Minor Son Rams SUV Into Bike, Maharashtra Couple Dies",
+          "source": "NDTV",
+          "time": "9h ago",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRjZzeGV4V1F5ejcxYzVBcDRCRU16U1pKcUtLU0F3czltN1pwd1BPZWlhUVNWQmFQd0N2SnRIcjJOM0hVcHBSc2pOa3BRU3pTeEs0RUtfcGo3Ui1rRW1KTVhaUlFGZWxSbUhOWTBiOXJrRTRZZlBJUW1feXFCWXluakF4U3FFYm5FN1N2NmFRSXZkSDkzSXU1UVZmcmtfYWNxUzQwdU5yc2REMDdXY1pkX3BldUFHS2o5SGg5SHlKT1M5Si13MVd5dmlISHdzakh1TkFnZXZLc1JBOXNSek1jU3lqa2xJVmphR25lekln0gH2AUFVX3lxTFBXMzFYQ3d2VWthOG4yT1A4TXVyaHh0M2taSkpvaWluUjk4NWVFNEc2QmZ5VVFzRXZhdThzWk82djRQc1c1Nm1ZRnE3eThNTl9vbEt1NGZaZng2RWVvZGg3Nm5TUC1fQ25iTUJsUF9YS0Y4MmMxQm5VTno1ZF93TDBJVHJiZ1VKckcxVTFXc21mcW1LQ3JQNlVPMThhQmRrVEtqSlMxbF80RFZaYlhQWUpwX2xWbFBzQnJvMlVsVzktektBWTBiN2QzNFlJZ0x2MjhjSzVWOVUycWxjZW1IcXhPY2FMRGcyVU0xaTV2WUNyTHpfMWpCQQ?oc=5"
         },
         {
           "title": "Hyderabad Police issue alert over terror threat email; security checks conducted at key locations",
           "source": "The Hindu",
-          "time": "8h ago",
+          "time": "22h ago",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZW5faGFWTTdoTl9jOTdQWUFmejdRQmh3YWhCOGJjc0RrX3RuTHpJM2U3QjJxNFROMXZPSVJoNTdKQUNBSWFlRThoajNWX1RLZmVqSTFuZGNyNTZLZXZDSks3blp0amcta1BxNlNpbDFvZGI4b3c0MXhsNEthcVdVTXZUTmNqNDNmRmh0S2VOMlJqTUN3Zk52ajl5T21oYWNuZmpPN1F4NGV4VUxZb0M5XzRFZ09UanJnQm5Zb0ZmYzNkd0d1enJVZ1Z5TlFMWXFoX1VYSHo3WGxIeFdpcDFCRkY3cWg2dDUya0NSSXRVUzlnLUxodGfSAfwBQVVfeXFMT2RLOGtEMWg0TU5CVGVIb1VtS3IwZzhMaGxmb0RZc2hhbzNFQzBJLTV4aW50X0pmZUd5bVY3U3VDWHNtZnRObXNQQTRocEVULU5wZmtaY18zT0pWVzMwWWhzNmVOY0xwRXViYy1pMENtTjVwb1BRRG9sTFdpUkZDQWl6OE52YkNhNWVNcDF5Y3MtV0Z5ZWV4RmU3UWo4TTVrTllBa1ZST3drYzFzb3B1VUtvWk1pZVBoTUxVZ29WbHZueENGalNaSW5uNkRuWEVVTEtjSm5XS2piSzNEQ3U5NzBfYVBscXJSbkdDUTZrMVk4ZTFHZUllZ0lWeG16?oc=5"
-        },
-        {
-          "title": "India's food regulator to take Bisleri to court over water quality finding",
-          "source": "Reuters",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVhZanItQzQtSUpybTFaaC1hd3JSdEhmSmtRRm9lNmUydjNfcktzWGhJaWd6UUxoYTY5aEZCdDF0OUZ5MU5iXzUwQkxZS2xrYTlVa3RTdjFzZUlTNzQzNTdtdUQ2VEdiSmJJYjdjeHNOckRRMnFmeVJFWW1fbmJQM2FYV0xZTDdOeUN5WmVqWlp4bVBWSzYtblktOXFtRXBqQzUzNFZhclowSWU0d0JGRVlFYVNVZHA1MUF0ZkR2V29JaDlkRWI0ZEY1c1dxXy1nN002dDJR?oc=5"
-        },
-        {
-          "title": "'90 seats, one crore votes': Revanth Reddy sets Congress' 2028 Telangana target",
-          "source": "The Times of India",
-          "time": "6h ago",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOejltSXFUYUVSeElSNnR6WUNCeDc5RUJib1BKak15WkdabjlXb0NVSld5ekN2U2xCVnFUaVhlUHVoU0VJMHJ2QjBHbUExc3huTVozQVphNjRObWFfbGNxZ3YtbkFkVldQNGJ5ek13OUhGa00yRE1jR2RYUVJIUGhLMTRlQWFoYjJncEVJUmEzUGpJZm9KNjQ0cWZWRHR5Tk1tN1c4RTBzZ3hQTERqMnlsenViTlpEMGFvQ2Y1QWRYLUFpMGU3UmtfY1ZJdjljU3o3bGE2R0kwZUVaUQ?oc=5"
-        },
-        {
-          "title": "BJP targets Congress after traders’ body thanks PM Modi for cautionary advice on buying gold",
-          "source": "The Hindu",
-          "time": "14h ago",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVmh0Qlc0b1FqVFhESVk2MVAzeHVFWmlNWVFhTy1WRUVEaEhmaERlNVNYSDR2cWNqU3NocTVjZ1UwRE12Q3E4V0ZPT2ZrOVZic043c3BDUUlOVjUyN01oVy1BaHNQSEdmTlN6NUtsSzdRQS11UkY3MHB2bW5PSGlEVElXQ002TE5NS2pjdWVNcTIteUYwTjBLbklEQzhhUzU2b0t3azFMTDRUQjU5WFNpcjNiNGJ3X1BzZW54S3NkVE1KNGlSRlhEYXhKX0l4ZWRQeGx1RU54Yy1aam55TkE2STBTdDJWd1lUUUZTNHpR?oc=5"
-        },
-        {
-          "title": "8 killed, 2 injured as car rams into tree in Tamil Nadu's Tiruchirappalli",
-          "source": "The Times of India",
-          "time": "10h ago",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1tdkduZF9lSEpUdUwwSzZGUGxNclVKeUk4a1JYU1JaajM3Mk5uOU82ZUVWT3QyczVldDllSFAxTEs2dUl2alROZzBOREJkeGlQeTFnaDdyYVVwTHg3cXNmTndJa1E2VEtWbVlsdS1vSXhhSC1fek0yREtrUThsZ1RWS09CLUozZlZWRUxsR2ZrYkNXN09OV0xDbmVxdUQ2eXRnR2Mxa3JQQllBOTBvZjZqNllDa0RVYWxxWVlkUEhYcmdzbWl3OS1TcFgtRDluVUNqQ0FNdWZDX1hyWFFZ0gHkAUFVX3lxTFA4TDZCMWNuZGFBdVZZcTFENDFRNDZKZERDT1NBU21tYkZEUFBjckV3ekh1amVuYzFiOXFmcnVHRGpPR09RanVPcktBUEEwcVJTVVp2d0wxMW8xOGtmdTYtZk8td1BORTkyT05uVGM0cUQ0WE1QZFBBazdHN09HS21IcU5GNVREckhhakpYSXZNQ0pxNEZWcWozajJTamNXdE9JS2xiMWVMZjY2YkVpVU04WmVkM1RxMmtGUkVDR3RxSGlLU0MyRjE5UWwtbk80X2hDMHFicXZIWW5JZWtVOGYxSVBVQg?oc=5"
         }
       ]
     },
@@ -90,40 +90,40 @@
       "color": "var(--dial-sky)",
       "stories": [
         {
-          "title": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31",
-          "source": "The Guardian",
-          "time": "5h ago",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5"
-        },
-        {
-          "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-          "source": "Al Jazeera",
-          "time": "2h ago",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5"
-        },
-        {
-          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-          "source": "NPR",
-          "time": "7h ago",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORll3ZkNWTTRuZ19vOTViOVlJZXlXczJUa0ZOWmN6M3JSVVlQbmhhZ0FsTTFrQUE4VDhDbjV6cGNyTVNOSnZxTUF2Z1p2NmE0MmhweGlLelliRnY2RkhUalpwWTgybUdsYWljc200MmFoWEFlbF9JWUJGZXBlREdJdTg3Q1Etdw?oc=5"
-        },
-        {
-          "title": "Europeans dare to believe Trump could deliver security for Ukraine",
-          "source": "POLITICO.eu",
-          "time": "17h ago",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVlHekZqV3NIMlZLQ05aYmxSV3ExLTVRTzdtM203TFhURWV0M2cxaWZmRF9VdFg2LVI0Q0swN3NsdmpjcVdTOUtKRXVNOVJiZDVFN2lvVXdIM0Y2WTcxdDBlQ053LTBJZmF1VHE0SkQ0M0dDLXVyZWV2RW45cE0weHNuR084aDdDaGRqM3dfVllwOERtWWNSWXlkZGlsLWRJ?oc=5"
-        },
-        {
-          "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-          "source": "BBC",
+          "title": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
+          "source": "NBC News",
           "time": "1h ago",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SSWluQ3ZBMFVrQ3RuZFQ5WmNORDZoTzRpN2dSbGJRYWpBQktmUHZsc1BKZVhIV3N0cGF0b25OODRSYUp5QjVrc0hwZmc0MkhBR1IyZlIwOHpCX0U?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm9XWW42TmhzTXZKWXdLUzRLd1VHZEdmUi1GRlFKUHg4MzMxN09VSGEtSzNJREY1MXVva2dKQXQ3X2ZxLUFGVEJqNHhkZlJrZTRIUnRnSmVJR25CbzJKUTBaNllyd1FSbFhveWY2RVJxOHNNZUJOYnJNVF9BMkdDMEFaTVEtVnVaeFJHZHZMOWQydkRjOElUalZsZlA2S3N2MG5yOHVQOGJ6cWdjMWc?oc=5"
         },
         {
-          "title": "Eisenkot Denounces West Bank Arson",
-          "source": "Newser",
-          "time": "8h ago",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1hHdS16b0NMaW1jbzc3WUdrQnduODNidm1yaUVrZmlXN1AwX3cxbndCb0E3eVNGRTcxSW5SMHlnVm9QTTZDWmtlM24zWnBpZ2Z2SGpMcjMxUkl2ZnNkSmF4Mmd0RkRuZDhPM0lPS1JhakFvSWxibDJyclh5UU9qQnA4QjhFR0lnNXVhcQ?oc=5"
+          "title": "Don Toliver Concert in Britain Is Evacuated Over ‘Unknown Substance’",
+          "source": "The New York Times",
+          "time": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWw3OVVjQ3BCLWo0U0VMdkYxYkRYRUxXVGhIeWJNUFdzMHkyNTRWLS1tVmxucWkzandGdUZYNG11LWZVQUZCTzBEY1dmRFB3VVVBOWxTSUduWVpLLW1pYVluX09XWUxwaFhzTlptdmRBUnhKRkZXeXc0YVQ1Ri05anRZV0sxajFJQWpVc2R5Q2lyT2JWeGdfSjFKVkdQQQ?oc=5"
+        },
+        {
+          "title": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike",
+          "source": "Reuters",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5"
+        },
+        {
+          "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+          "source": "The New York Times",
+          "time": "3h ago",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUm9wNkZqQnhLaVB4b3pfd0QyR202a2FDWFM2eTN6MnYteVQ1dTZvbURpYmNlNDBZMVhxUE5DUW0xX0xGcnNneS1HVnMwQ0ExR3ZDZTBDZnQySTdNRW5ta0d3RnZfanJYVUs3czFSQVlGbWkzYmdqTEFxeVNvQ1BHMA?oc=5"
+        },
+        {
+          "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+          "source": "The Guardian",
+          "time": "1h ago",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQy12LVpnTUFERk5qZVVBOHZ3UUpheWJST1o0UWxVaTdRaTJWVERPNVJhMGY0eE5iQy1tTlVKQVh3Z2JVTjF2ZFRpVlZ2RFQ4ODFzaHNFUTYzUTd0eFpjU3dicUVUUWtwTDhDVnJOZ2hQUk0xTFBVVHIxVldtaUZUbDJYckIzeEZ5VVUzajcyOGV0aTNRX25PZEZjaUFiSXA0OEpKM3VBcw?oc=5"
+        },
+        {
+          "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal",
+          "source": "NBC News",
+          "time": "1d ago",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2JGZWZ5YnBaN0tfT1hfRkpGTTVUNmxXYmttQUlaLXl4ZVMzeUlZcnBhTlExWXlkdXVuQ2FaMjVQa3pBdmhrMUllN2toZkc5WXEzX0lXMGhUNHJaQ1VNMjZJQU1NX0psWUR2bTJlY0dPTUVwZU9WVGpSMW9rUWpZTUdsMzlILUdwc3NIbWExS3BoUy1xVkZrb1VZcElVLTF3ZXVSQ2R0ZnVhbU1iSHpXbmNoZFh0dkFId1E?oc=5"
         }
       ]
     },
@@ -134,38 +134,38 @@
         {
           "title": "Pedestrian killed after being struck by 2 vehicles on South Saunders Street in Raleigh; driver sought",
           "source": "ABC11 News",
-          "time": "3h ago",
+          "time": "17h ago",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSE43UVg4NjBEZW0ybU0ycEN0d1EtcU9CSjFzMUMwNUhCakxLU3VnM0xCcUctUExNWHA1YTVkQXhoN25pT3FyeW5EclN2RWNWT0RoaTRHUjRIRjlFZ2x0UEJPcGZpcXdPc3FWZjR6Zl9MbXZoNnRobFVwM3JTMHU4ZmZrNExKS0k2dDJfWHpYRHBlbS14ejc3MVJQNFpBSXRTODY0LV9IU2pnaW9IZkF5a3VOLV91M0JLN0HSAb8BQVVfeXFMUG9ja1NsTjd6UkFRMjBNLWlpd1VheFp6NGNpQmExQzVES3hCX1EtbUFlMWJBTEdpdXE2THBicHk1UER0X3oweHByNXdwTDg0T1c1bEtuUzgyZ2tMdW9sU00xanVGTWVWZEpUOHZSZTktR1VhZG5rRmN4SUE5YVdMVDNpVGt4VmN3b3hGXy1sa3NJMTZaRWVXWkpOUmFxTnc5ZHVLeVNqZUY0aHUwVmpmYmhqOHFNd3ZkZVVITzJZSzQ?oc=5"
+        },
+        {
+          "title": "Pedestrian killed in hit-and-run on NC 98 in Durham County",
+          "source": "WRAL",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazZQLVZJeldWbWYzN2R0bUF1SC1rZGcyWXlXNUlQc253Z2M4ai1LZGhjZTVMRW1ubnh3dUN2dHRfSXhfTFNLRGktZzdxSzJDMFpybDdIcFRkdUlQOWlKSnNMVmNYWHBsX3FqRlU3aFRYdi1oaFlwOUNPMHc2alBiYnpZVGFQcE5vWW5pcA?oc=5"
+        },
+        {
+          "title": "‘A debt of gratitude.’ NC State rallies to upset FSU, bowl eligibility remains",
+          "source": "Raleigh News & Observer",
+          "time": "4h ago",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS24yc2l1bWVxUW9OWDFVcHV4R1ZneTA2eXFpa0J2aDVSM2NIWW50SE1PQ0Q4bVBjQjYtWE0tRDNaTjdJRTVEd04tTUR6T2FzdFU4YWdhOUdlSUx4V3JSTHNHNmtHc0hJNE1ESU52bEx5a0ZYdlhoc2FKcDBjSmlISnJLTUjSAYQBQVVfeXFMT05vU0pLek1TRnV3YkVLMDBqRHpPWVRZVEtIbFI1QllNWXlUdjl0UlB0NDBfQnB2TUVlc1h2c2l2TFVqZkhxS0tJR2g2ZU1seDgtWkdLWVEyaWx2TGNyUkJFWGxKWnBvUVk4ZnFObFBJbjM0ZnREU095RWNnV3ptUlJGRDFw?oc=5"
         },
         {
           "title": "No. 12 Men’s Soccer Advances To NCAA Third Round With 3-1 Win Over UNCW - University of North Carolina Athletics",
           "source": "University of North Carolina Athletics",
-          "time": "0h ago",
+          "time": "13h ago",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhKa1djWEJqcG5Wd2VNSEE2QVIzNGNnTHMyQUd2OGNpY0w4Vm9Md0pXVkdHbDNJaDgzbmI0OWxHLWNKV2M2dEVsRTlSdjBUMllRUmRqQ1E0XzJDajl6bXF1MThMdnNyZnMzZExpNHc5Nk5talJoN0pMWEU4dFRESENYWnhMWHBsYmdmMnhFek1wYmRVQmt4SUk4SFhDeTdLQlYtR09odmNVeURoeGFrajBORkowSHVs?oc=5"
         },
         {
-          "title": "Armed suspect triggers lockdown, emergency alert at NC Central University",
-          "source": "News & Observer",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0VkY1MER2RXQ4bWlaVmNOZHA2Q3luVDFMbHh4RGVFSENORDhlOWd3U001b2VlSGFoZWhEWkIta0sxUHN2Y296aGJPRnlzeWc3ZExtZmI3TjZnaXhmMFVnbk5MNHNMaWZPendJU1lJLXRMSVVIZ3fSAXZBVV95cUxNLUdvSGoxR3NrcEd1eWphZVBUczVOelhReG5JQ3p0UG92RG9HVzVEbTdodlZEaU9xYlJmcGFoOUtqT1R1Z19qMVVKNlpJM3NpWUxpb2FfNU5HQXpORlpwQklzNHMtM3g4M3ZNbFJzSXpIRExGSHVn?oc=5"
+          "title": "How many jobs were added in Durham, NC area last month?",
+          "source": "USAFacts",
+          "time": "4d ago",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlMwR0o2RHhRUlpZcTJiWDEyV2tva0Zfc1AtbExzcmRtckZXZUhBckRuczFkVC1qZ1Q2NkQ1YlI2UDV4b2ZBTzlIRjhiT0RvWlo5QUE5MHlmczdYQjdqZXRSemNjOGhocDRxWEwxZnRoVkZkU1Y2YVA5T201RWxPUEVkMzZCcmlfN0RnZW51UG0yXzRGUXlTcUZNMXE?oc=5"
         },
         {
-          "title": "NCCU sends out active shooter alert, police say incident was 'unfounded' amid search for suspect",
-          "source": "WRAL",
-          "time": "3h ago",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1dCdUxVeW4yd1dKZkpkRzhIZThCdHRzaC1iVHZyUEF1V2FPdXpvc0x1eVdSV2c4YXBTN3Bsb1JvM1dfdEFpS0F2MWxDU3JaSWU5S05YWDl5N095eFJESTNBUnBhanZBYWtHVjZKczVBbzQwbURHRS1FZ1d1cVdYLXhqeVduRV92RmN6ZmQyVQ?oc=5"
-        },
-        {
-          "title": "Community Survey for Nature Preserves and Programs",
+          "title": "City Will Host Budget Listening Sessions Dec. 7 through Dec. 12",
           "source": "RaleighNC.gov",
-          "time": "1d ago",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZF9HTGxCN0RwU3ZPRkNLSnZWU2JiOGxKQW93ZUVJa2wtQVU3R01HRFhTVFhmZkRjdkdJQVhTWEpTdHF0Mkt2d3JRSTc3amEta25RaVRWN3NxZVItSllEUW5TMzZiOEU2X05SNHFsb1VCZk1XUmFfaGdaTnhzYVdCMnpjT1lWQnB3NWo3QmRnRl9jMy1kSFEyQnpR?oc=5"
-        },
-        {
-          "title": "North Carolina Gas Tax Holiday Set to Expire Nov. 30, 2026",
-          "source": "WataugaOnline.com",
-          "time": "12h ago",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3lxZ2duTXh4MTNPV0lCVnlnZGJOODNWbFpCdGY2U1FBazNxRHlLZUpUYXBJN29GV20tallHeWU5WkNDeDR1U3dsUnNTSTl6d2VzU1ZUaWM3RlV4LUpvU19vcHRVSU5lZXJ0OFp1VllJT3dicHRVa0xnaE5FYUNoMGdyMkJTMENMX3hV?oc=5"
+          "time": "2d ago",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTi1PeTBQNmtFbmlOeWtxMnBibnFyMkpuZkh3YWU3cWNFSmhTbEtoemxlT0k1X2xmY3pIRjBvd255eHZFcFhGU3BxcjhhVXJLUXFtUnhaXzVpSTJNelBEYnVoaDBUWm05LXVDbTV4N1RpcjVRWldodUdHNW1INGs2bXZKZXhHTy1KOWJaZXJRcFBtUQ?oc=5"
         }
       ]
     }
