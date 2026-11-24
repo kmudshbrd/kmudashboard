@@ -10,34 +10,39 @@
           "line": "Today"
         },
         {
-          "title": "Nature Play Day at NCMA",
-          "where": "North Carolina Museum of Art Welcome Center · Raleigh",
+          "title": "Criminal Presents: Don't Worry with Phoebe Judge",
+          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
           "line": "Today"
         },
         {
-          "title": "RaleighNC.gov Live Tour - Carolina Pines Community Center",
-          "where": "Carolina Pines Park · Raleigh",
+          "title": "Crochet Level 1: Round Coaster",
+          "where": "Craft Habit · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
+          "title": "Flower Design Class",
+          "where": "Local Time Brewing · Holly Springs",
           "line": "Today"
         },
         {
-          "title": "Mahjong Mondays - Open Play",
-          "where": "Apex Senior Center · Apex",
+          "title": "Media Explorations",
+          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Stretch and Refresh",
+          "title": "Run Club Farmhouse Cafe",
+          "where": "Farmhouse Cafe · Wendell",
+          "line": "Today"
+        },
+        {
+          "title": "Tinsel Tavern at Sports & Social",
+          "where": "Cary",
+          "line": "Through Dec 27"
+        },
+        {
+          "title": "Art Cart 2026-Tuesday",
           "where": "DCP Academy Pavilion · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "Fantasy Lake Christmas",
-          "where": "Fantasy Lake Adventure Park · Wake Forest",
-          "line": "Through Jan 1"
+          "line": "Through Dec 29"
         }
       ]
     },
@@ -45,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Criminal Presents: Don't Worry with Phoebe Judge",
-          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
-          "line": "Tue · Nov 24"
+          "title": "Blackout Wednesday at Jessie's",
+          "where": "Uncle Jessie's Honkeytonk · Raleigh",
+          "line": "Wed · Nov 25"
         },
         {
-          "title": "Crochet Level 1: Round Coaster",
-          "where": "Craft Habit · Raleigh",
-          "line": "Tue · Nov 24"
+          "title": "Hammock Takeover: The Christmas Store",
+          "where": "Crooked Hammock Brewery · Raleigh",
+          "line": "Wed · Nov 25"
         },
         {
-          "title": "Flower Design Class",
-          "where": "Local Time Brewing · Holly Springs",
-          "line": "Tue · Nov 24"
+          "title": "The Embers Holiday Show 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "line": "Wed · Nov 25"
         },
         {
-          "title": "Media Explorations",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
-          "line": "Tue · Nov 24"
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
+          "line": "Wed · Nov 25"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Tue · Nov 24"
+          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
+          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
+          "line": "Wed · Nov 25"
         },
         {
-          "title": "Art Cart 2026-Tuesday",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Nov 24 – Dec 29"
+          "title": "Turkey Leg Day-Feast on Fitness 2026",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Nov 25 – Nov 29"
         },
         {
-          "title": "Backyard Comedy Night",
-          "where": "The Backyard Bar · Apex",
-          "line": "Nov 24 – Dec 29"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Nov 25 – Dec 30"
         },
         {
-          "title": "Live Irish Music",
-          "where": "Doherty's Irish Pub & Restaurant - Apex · Apex",
-          "line": "Nov 24 – Dec 29"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Nov 25 – Dec 30"
         }
       ]
     },
