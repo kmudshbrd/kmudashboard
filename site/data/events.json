@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "FestiBull of Lights",
-          "where": "Durham",
+          "title": "Blackout Wednesday at Jessie's",
+          "where": "Uncle Jessie's Honkeytonk · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Criminal Presents: Don't Worry with Phoebe Judge",
-          "where": "A.J. Fletcher Opera Theater at Martin Marietta Center for the Performing Arts · Raleigh",
+          "title": "Hammock Takeover: The Christmas Store",
+          "where": "Crooked Hammock Brewery · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Crochet Level 1: Round Coaster",
-          "where": "Craft Habit · Raleigh",
+          "title": "The Embers Holiday Show 2026",
+          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
           "line": "Today"
         },
         {
-          "title": "Flower Design Class",
-          "where": "Local Time Brewing · Holly Springs",
+          "title": "Fired Up Trivia",
+          "where": "Sports & Social · Cary",
           "line": "Today"
         },
         {
-          "title": "Media Explorations",
-          "where": "Wake Forest Renaissance Centre for the Arts · Wake Forest",
+          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
+          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
           "line": "Today"
         },
         {
-          "title": "Run Club Farmhouse Cafe",
-          "where": "Farmhouse Cafe · Wendell",
-          "line": "Today"
+          "title": "Turkey Leg Day-Feast on Fitness 2026",
+          "where": "Downtown Cary Park · Cary",
+          "line": "Through Nov 29"
         },
         {
-          "title": "Tinsel Tavern at Sports & Social",
-          "where": "Cary",
-          "line": "Through Dec 27"
+          "title": "Music Bingo",
+          "where": "Fortnight Brewing Company · Wake Forest",
+          "line": "Through Dec 30"
         },
         {
-          "title": "Art Cart 2026-Tuesday",
-          "where": "DCP Academy Pavilion · Cary",
-          "line": "Through Dec 29"
+          "title": "Fainting Goat Run Club",
+          "where": "Fainting Goat Taproom · Fuquay-Varina",
+          "line": "Through Dec 30"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Blackout Wednesday at Jessie's",
-          "where": "Uncle Jessie's Honkeytonk · Raleigh",
-          "line": "Wed · Nov 25"
+          "title": "Freedom Ride Rescue Turkey Day 5K",
+          "where": "White Deer Park/Lake Benson · Garner",
+          "line": "Thu · Nov 26"
         },
         {
-          "title": "Hammock Takeover: The Christmas Store",
-          "where": "Crooked Hammock Brewery · Raleigh",
-          "line": "Wed · Nov 25"
+          "title": "Raleigh’s Irregardless Thanksgiving Dinner",
+          "where": "Irregardless · Raleigh",
+          "line": "Thu · Nov 26"
         },
         {
-          "title": "The Embers Holiday Show 2026",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
-          "line": "Wed · Nov 25"
+          "title": "Thanksgiving Buffet Dinner",
+          "where": "Il Falò · Raleigh",
+          "line": "Thu · Nov 26"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Wed · Nov 25"
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
+          "line": "Thu · Nov 26"
         },
         {
-          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
-          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
-          "line": "Wed · Nov 25"
+          "title": "Music Bingo Night",
+          "where": "Local Time Brewing · Holly Springs",
+          "line": "Thu · Nov 26"
         },
         {
-          "title": "Turkey Leg Day-Feast on Fitness 2026",
-          "where": "Downtown Cary Park · Cary",
-          "line": "Nov 25 – Nov 29"
+          "title": "Line Dancing Boot Camp",
+          "where": "PBR Cowboy Bar Cary · Cary",
+          "line": "Nov 26 – Dec 24"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Nov 25 – Dec 30"
+          "title": "Music Bingo at The Backyard",
+          "where": "The Backyard Bar · Apex",
+          "line": "Nov 26 – Dec 24"
         },
         {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
-          "line": "Nov 25 – Dec 30"
+          "title": "NCFST Mobile Market 2026 4th Thursday",
+          "where": "Across from the Northern Regional Center · Wake Forest",
+          "line": "Nov 26 – Dec 24"
         }
       ]
     },
@@ -103,12 +103,7 @@
           "title": "ATC Holiday Sip, Stroll, and Shop",
           "where": "Durham",
           "line": "Fri · Dec 4"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
+        },
         {
           "title": "Holiday Hangover VII: Everything Yes w/ Sweet Dream, Liam Trawick",
           "where": "The Pour House Music Hall & Record Shop · Raleigh",
@@ -123,10 +118,25 @@
           "title": "Pittsburgh Penguins vs. Carolina Hurricanes",
           "where": "Lenovo Center · Raleigh",
           "line": "Sat · Dec 26"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "The Hip Hop Nutcracker",
           "where": "Durham",
+          "line": "Sun · Dec 27"
+        },
+        {
+          "title": "Candlelight: Tribute to Dolly Parton",
+          "where": "Merrimon-Wynne House · Raleigh",
+          "line": "Sun · Dec 27"
+        },
+        {
+          "title": "Candlelight: Tribute to Fleetwood Mac",
+          "where": "Merrimon-Wynne House · Raleigh",
           "line": "Sun · Dec 27"
         },
         {
