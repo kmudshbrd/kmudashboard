@@ -5,6 +5,11 @@
       "label": "Today",
       "items": [
         {
+          "title": "FestiBull of Lights",
+          "where": "Durham",
+          "line": "Today"
+        },
+        {
           "title": "Blackout Wednesday at Jessie's",
           "where": "Uncle Jessie's Honkeytonk · Raleigh",
           "line": "Today"
@@ -37,11 +42,6 @@
         {
           "title": "Music Bingo",
           "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Through Dec 30"
-        },
-        {
-          "title": "Fainting Goat Run Club",
-          "where": "Fainting Goat Taproom · Fuquay-Varina",
           "line": "Through Dec 30"
         }
       ]
