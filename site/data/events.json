@@ -5,33 +5,28 @@
       "label": "Today",
       "items": [
         {
-          "title": "FestiBull of Lights",
-          "where": "Durham",
+          "title": "Freedom Ride Rescue Turkey Day 5K",
+          "where": "White Deer Park/Lake Benson · Garner",
           "line": "Today"
         },
         {
-          "title": "Blackout Wednesday at Jessie's",
-          "where": "Uncle Jessie's Honkeytonk · Raleigh",
+          "title": "Raleigh’s Irregardless Thanksgiving Dinner",
+          "where": "Irregardless · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Hammock Takeover: The Christmas Store",
-          "where": "Crooked Hammock Brewery · Raleigh",
+          "title": "Thanksgiving Buffet Dinner",
+          "where": "Il Falò · Raleigh",
           "line": "Today"
         },
         {
-          "title": "The Embers Holiday Show 2026",
-          "where": "Fuquay-Varina Arts Center · Fuquay Varina",
+          "title": "King Trivia Night",
+          "where": "The Backyard Bar · Apex",
           "line": "Today"
         },
         {
-          "title": "Fired Up Trivia",
-          "where": "Sports & Social · Cary",
-          "line": "Today"
-        },
-        {
-          "title": "The Gnome Knows Trivia - Norse Brewing Longhouse Zebulon",
-          "where": "Norse Brewing Longhouse Zebulon · Zebulon",
+          "title": "Music Bingo Night",
+          "where": "Local Time Brewing · Holly Springs",
           "line": "Today"
         },
         {
@@ -40,9 +35,14 @@
           "line": "Through Nov 29"
         },
         {
-          "title": "Music Bingo",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Through Dec 30"
+          "title": "Line Dancing Boot Camp",
+          "where": "PBR Cowboy Bar Cary · Cary",
+          "line": "Through Dec 24"
+        },
+        {
+          "title": "Music Bingo at The Backyard",
+          "where": "The Backyard Bar · Apex",
+          "line": "Through Dec 24"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "Freedom Ride Rescue Turkey Day 5K",
-          "where": "White Deer Park/Lake Benson · Garner",
-          "line": "Thu · Nov 26"
+          "title": "FestiBull of Lights",
+          "where": "Durham",
+          "line": "Fri · Nov 27"
         },
         {
-          "title": "Raleigh’s Irregardless Thanksgiving Dinner",
-          "where": "Irregardless · Raleigh",
-          "line": "Thu · Nov 26"
+          "title": "Emo Night Brooklyn",
+          "where": "Chapel of Bones · Raleigh",
+          "line": "Fri · Nov 27"
         },
         {
-          "title": "Thanksgiving Buffet Dinner",
-          "where": "Il Falò · Raleigh",
-          "line": "Thu · Nov 26"
+          "title": "Friendsgiving Featuring Duck & friends",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Fri · Nov 27"
         },
         {
-          "title": "King Trivia Night",
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
+          "line": "Fri · Nov 27"
+        },
+        {
+          "title": "Mike Krause & The Third Expression",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Fri · Nov 27"
+        },
+        {
+          "title": "Friday Night Party with DJ Brian Joseph",
           "where": "The Backyard Bar · Apex",
-          "line": "Thu · Nov 26"
+          "line": "Fri · Nov 27"
         },
         {
-          "title": "Music Bingo Night",
-          "where": "Local Time Brewing · Holly Springs",
-          "line": "Thu · Nov 26"
+          "title": "Saving Grace Sleepover",
+          "where": "Saving Grace · Wake Forest",
+          "line": "Fri · Nov 27"
         },
         {
-          "title": "Line Dancing Boot Camp",
-          "where": "PBR Cowboy Bar Cary · Cary",
-          "line": "Nov 26 – Dec 24"
-        },
-        {
-          "title": "Music Bingo at The Backyard",
-          "where": "The Backyard Bar · Apex",
-          "line": "Nov 26 – Dec 24"
-        },
-        {
-          "title": "NCFST Mobile Market 2026 4th Thursday",
-          "where": "Across from the Northern Regional Center · Wake Forest",
-          "line": "Nov 26 – Dec 24"
+          "title": "Marcus D. Wiley",
+          "where": "Raleigh Improv · Cary",
+          "line": "Nov 27 – Nov 29"
         }
       ]
     },
@@ -95,39 +95,14 @@
       "label": "This Month",
       "items": [
         {
-          "title": "90’s/Y2K SKATE PARTY",
-          "where": "Durham",
-          "line": "Thu · Dec 3"
-        },
-        {
           "title": "ATC Holiday Sip, Stroll, and Shop",
           "where": "Durham",
           "line": "Fri · Dec 4"
         },
         {
-          "title": "Holiday Hangover VII: Everything Yes w/ Sweet Dream, Liam Trawick",
-          "where": "The Pour House Music Hall & Record Shop · Raleigh",
-          "line": "Sat · Dec 26"
-        },
-        {
-          "title": "Jared Place",
-          "where": "Fortnight Brewing Company · Wake Forest",
-          "line": "Sat · Dec 26"
-        },
-        {
-          "title": "Pittsburgh Penguins vs. Carolina Hurricanes",
-          "where": "Lenovo Center · Raleigh",
-          "line": "Sat · Dec 26"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
-        {
-          "title": "The Hip Hop Nutcracker",
+          "title": "Sincerely Yours, Pauli Murray by Common Woman Chorus",
           "where": "Durham",
-          "line": "Sun · Dec 27"
+          "line": "Sat · Dec 5"
         },
         {
           "title": "Candlelight: Tribute to Dolly Parton",
@@ -138,6 +113,21 @@
           "title": "Candlelight: Tribute to Fleetwood Mac",
           "where": "Merrimon-Wynne House · Raleigh",
           "line": "Sun · Dec 27"
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
+        {
+          "title": "PineCone Open Bluegrass Jam",
+          "where": "Raleigh",
+          "line": "Mon · Dec 28"
+        },
+        {
+          "title": "Tampa Bay Lightning vs. Carolina Hurricanes",
+          "where": "Lenovo Center · Raleigh",
+          "line": "Mon · Dec 28"
         },
         {
           "title": "Celebrating Kwanzaa",
