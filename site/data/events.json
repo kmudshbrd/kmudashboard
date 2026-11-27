@@ -5,44 +5,44 @@
       "label": "Today",
       "items": [
         {
-          "title": "Freedom Ride Rescue Turkey Day 5K",
-          "where": "White Deer Park/Lake Benson · Garner",
+          "title": "FestiBull of Lights",
+          "where": "Durham",
           "line": "Today"
         },
         {
-          "title": "Raleigh’s Irregardless Thanksgiving Dinner",
-          "where": "Irregardless · Raleigh",
+          "title": "Emo Night Brooklyn",
+          "where": "Chapel of Bones · Raleigh",
           "line": "Today"
         },
         {
-          "title": "Thanksgiving Buffet Dinner",
-          "where": "Il Falò · Raleigh",
+          "title": "Friendsgiving Featuring Duck & friends",
+          "where": "Lincoln Theatre · Raleigh",
           "line": "Today"
         },
         {
-          "title": "King Trivia Night",
+          "title": "Fun-Sized Fridays",
+          "where": "Saving Grace · Wake Forest",
+          "line": "Today"
+        },
+        {
+          "title": "Mike Krause & The Third Expression",
+          "where": "Bond Brothers Eastside · Cary",
+          "line": "Today"
+        },
+        {
+          "title": "Friday Night Party with DJ Brian Joseph",
           "where": "The Backyard Bar · Apex",
           "line": "Today"
         },
         {
-          "title": "Music Bingo Night",
-          "where": "Local Time Brewing · Holly Springs",
+          "title": "Saving Grace Sleepover",
+          "where": "Saving Grace · Wake Forest",
           "line": "Today"
         },
         {
-          "title": "Turkey Leg Day-Feast on Fitness 2026",
-          "where": "Downtown Cary Park · Cary",
+          "title": "Marcus D. Wiley",
+          "where": "Raleigh Improv · Cary",
           "line": "Through Nov 29"
-        },
-        {
-          "title": "Line Dancing Boot Camp",
-          "where": "PBR Cowboy Bar Cary · Cary",
-          "line": "Through Dec 24"
-        },
-        {
-          "title": "Music Bingo at The Backyard",
-          "where": "The Backyard Bar · Apex",
-          "line": "Through Dec 24"
         }
       ]
     },
@@ -50,44 +50,44 @@
       "label": "This Week",
       "items": [
         {
-          "title": "FestiBull of Lights",
+          "title": "Golden Ticket Hunt: Shop Small Saturday in Durham!",
           "where": "Durham",
-          "line": "Fri · Nov 27"
+          "line": "Sat · Nov 28"
         },
         {
-          "title": "Emo Night Brooklyn",
-          "where": "Chapel of Bones · Raleigh",
-          "line": "Fri · Nov 27"
+          "title": "A Taylor Swift Candlelight Experience in Knightdale",
+          "where": "Haven Farm · Knightdale",
+          "line": "Sat · Nov 28"
         },
         {
-          "title": "Friendsgiving Featuring Duck & friends",
+          "title": "Art Cart",
+          "where": "DCP Academy Pavilion · Cary",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Being Heumann",
+          "where": "The Cary Theater · Cary",
+          "line": "Sat · Nov 28"
+        },
+        {
+          "title": "Crucial Fiya",
           "where": "Lincoln Theatre · Raleigh",
-          "line": "Fri · Nov 27"
+          "line": "Sat · Nov 28"
         },
         {
-          "title": "Fun-Sized Fridays",
-          "where": "Saving Grace · Wake Forest",
-          "line": "Fri · Nov 27"
+          "title": "DUBSGIVING VI: DURTY DUB feat. Sonny Miles, DVNCANBLOOM, SUNSP.T",
+          "where": "The Pour House Music Hall & Record Shop · Raleigh",
+          "line": "Sat · Nov 28"
         },
         {
-          "title": "Mike Krause & The Third Expression",
-          "where": "Bond Brothers Eastside · Cary",
-          "line": "Fri · Nov 27"
+          "title": "Holiday Jazz Pop-up Concert",
+          "where": "Village Church Rolesville · Rolesville",
+          "line": "Sat · Nov 28"
         },
         {
-          "title": "Friday Night Party with DJ Brian Joseph",
-          "where": "The Backyard Bar · Apex",
-          "line": "Fri · Nov 27"
-        },
-        {
-          "title": "Saving Grace Sleepover",
-          "where": "Saving Grace · Wake Forest",
-          "line": "Fri · Nov 27"
-        },
-        {
-          "title": "Marcus D. Wiley",
-          "where": "Raleigh Improv · Cary",
-          "line": "Nov 27 – Nov 29"
+          "title": "Holiday Pottery Painting with Cozy Panda",
+          "where": "Southern Peak Brewery · Apex",
+          "line": "Sat · Nov 28"
         }
       ]
     },
@@ -95,30 +95,15 @@
       "label": "This Month",
       "items": [
         {
-          "title": "ATC Holiday Sip, Stroll, and Shop",
-          "where": "Durham",
-          "line": "Fri · Dec 4"
-        },
-        {
           "title": "Sincerely Yours, Pauli Murray by Common Woman Chorus",
           "where": "Durham",
           "line": "Sat · Dec 5"
         },
         {
-          "title": "Candlelight: Tribute to Dolly Parton",
-          "where": "Merrimon-Wynne House · Raleigh",
-          "line": "Sun · Dec 27"
+          "title": "Holiday Parade with the Visitor Info Center",
+          "where": "Durham",
+          "line": "Sat · Dec 12"
         },
-        {
-          "title": "Candlelight: Tribute to Fleetwood Mac",
-          "where": "Merrimon-Wynne House · Raleigh",
-          "line": "Sun · Dec 27"
-        }
-      ]
-    },
-    {
-      "label": "This Year",
-      "items": [
         {
           "title": "PineCone Open Bluegrass Jam",
           "where": "Raleigh",
@@ -128,11 +113,21 @@
           "title": "Tampa Bay Lightning vs. Carolina Hurricanes",
           "where": "Lenovo Center · Raleigh",
           "line": "Mon · Dec 28"
-        },
+        }
+      ]
+    },
+    {
+      "label": "This Year",
+      "items": [
         {
           "title": "Celebrating Kwanzaa",
           "where": "Cary Arts Center · Cary",
           "line": "Wed · Dec 30"
+        },
+        {
+          "title": "Big Something",
+          "where": "Lincoln Theatre · Raleigh",
+          "line": "Dec 30 – Jan 2"
         }
       ]
     }
